@@ -1,8 +1,5 @@
 Manual
--Fix StartLocation Item Removal
-  It tries to remove something thats already removed
 -Force Local Gem Option
--Test all yaml options
 
 Poptracker
 -Add item Tracking
