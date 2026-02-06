@@ -63,12 +63,12 @@ Manual_ShadowsofAlmia_LetsGoLilly:
     minimal: 0
 
   add_missions:
-    # Add the Ranger Net Missions to the itempool
+    # Add the Ranger Net Missions to the itempool.
     'false': 0
     'true': 50
 
   starting_location:
-    # Choose your starting locati.on
+    # Choose your starting location.
     random: 50
     chicole_path: 0
     ranger_school: 0
