@@ -10,8 +10,9 @@ For use with Manual Archipelago Client. (https://discord.gg/T5bcsVHByx)
 
 ### What do you need
 
-* A completed save file for Shadows of Almia (DLC optional)
 
+
+* A completed save file for Shadows of Almia (DLC optional)
 * Manual Archipelago Client
 
 
