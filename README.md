@@ -63,6 +63,7 @@ Every Pokemon capture is a Location.
 * 5 Boat Keys and Wailord: You need the key before you are allowed to use the corresponding boat.
 * 5 Gems: Required before you are allowed to capture Darkrai.
 * 6 Missions and Ranger Net: If you decide to include them in the options.
+* 2 Progressive Styler Charge: You'll need this before you are allowed to Charge you Styler in Battle.
 
 
 
