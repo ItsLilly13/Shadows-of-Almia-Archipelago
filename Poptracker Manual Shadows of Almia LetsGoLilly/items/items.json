@@ -1,0 +1,883 @@
+[
+  {
+    "name": "Agility",
+    "codes": "Agility",
+    "img": "images/Field Move/Agility.png",
+    "type": "toggle"
+  },
+    {
+    "name": "Airlift",
+    "codes": "Airlift",
+    "img": "images/Field Move/Airlift.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Elevate",
+    "codes": "Elevate",
+    "img": "images/Field Move/Elevate.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Dark Power",
+    "codes": "Dark Power",
+    "img": "images/Field Move/Dark Power.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Flash",
+    "codes": "Flash",
+    "img": "images/Field Move/Flash.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Magma Flow",
+    "codes": "Magma Flow",
+    "img": "images/Field Move/Magma Flow.png",
+    "type": "toggle"
+  },
+      {
+    "name": "River Flow 1",
+    "codes": "River Flow 1",
+    "img": "images/Field Move/River Flow 1.png",
+    "type": "toggle"
+  },
+      {
+    "name": "River Flow 2",
+    "codes": "River Flow 2",
+    "img": "images/Field Move/River Flow 2.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Swim",
+    "codes": "Swim",
+    "img": "images/Field Move/Swim.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Fly",
+    "codes": "Fly",
+    "img": "images/Field Move/Fly.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Burn",
+    "codes": "Burn",
+    "img": "images/Field Move/Burn.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Crush",
+    "codes": "Crush",
+    "img": "images/Field Move/Crush.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Cut",
+    "codes": "Cut",
+    "img": "images/Field Move/Cut.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Electrify",
+    "codes": "Electrify",
+    "img": "images/Field Move/Electrify.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Psy Power",
+    "codes": "Psy Power",
+    "img": "images/Field Move/Psy Power.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Recharge",
+    "codes": "Recharge",
+    "img": "images/Field Move/Recharge.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Soak",
+    "codes": "Soak",
+    "img": "images/Field Move/Soak.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Tackle",
+    "codes": "Tackle",
+    "img": "images/Field Move/Tackle.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Teleport",
+    "codes": "Teleport",
+    "img": "images/Field Move/Teleport.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Wailord",
+    "codes": "Wailord",
+    "img": "images/Boats/Wailord.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Dark Blue Boat Key",
+    "codes": "Dark Blue Boat Key",
+    "img": "images/Boats/Boat Key Dark Blue.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Light Blue Boat Key",
+    "codes": "Light Blue Boat Key",
+    "img": "images/Boats/Boat Key Light Blue.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Green Boat Key",
+    "codes": "Green Boat Key",
+    "img": "images/Boats/Boat Key Green.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Red Boat Key",
+    "codes": "Red Boat Key",
+    "img": "images/Boats/Boat Key Red.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Orange Boat Key",
+    "codes": "Orange Boat Key",
+    "img": "images/Boats/Boat Key Orange.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Almia Castle Fly Point",
+    "codes": "Almia Castle Fly Point",
+    "img": "images/Fly Point/Almia Castle Fly Point.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Altru Building Fly Point",
+    "codes": "Altru Building Fly Point",
+    "img": "images/Fly Point/Altru Building Fly Point.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Altru Tower Fly Point",
+    "codes": "Altru Tower Fly Point",
+    "img": "images/Fly Point/Altru Tower Fly Point.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Boyleland Fly Point",
+    "codes": "Boyleland Fly Point",
+    "img": "images/Fly Point/Boyleland Fly Point.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Capture Arena Fly Point",
+    "codes": "Capture Arena Fly Point",
+    "img": "images/Fly Point/Capture Arena Fly Point.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Chicole Village Fly Point",
+    "codes": "Chicole Village Fly Point",
+    "img": "images/Fly Point/Chicole Village Fly Point.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Chroma Highlands Fly Point",
+    "codes": "Chroma Highlands Fly Point",
+    "img": "images/Fly Point/Chroma Highlands Fly Point.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Chroma Ruins Fly Point",
+    "codes": "Chroma Ruins Fly Point",
+    "img": "images/Fly Point/Chroma Ruins Fly Point.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Haruba Village Fly Point",
+    "codes": "Haruba Village Fly Point",
+    "img": "images/Fly Point/Haruba Village Fly Point.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Hippowdon Temple Fly Point",
+    "codes": "Hippowdon Temple Fly Point",
+    "img": "images/Fly Point/Hippowdon Temple Fly Point.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Oil Field Hideout Fly Point",
+    "codes": "Oil Field Hideout Fly Point",
+    "img": "images/Fly Point/Oil Field Hideout Fly Point.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Pueltown Fly Point",
+    "codes": "Pueltown Fly Point",
+    "img": "images/Fly Point/Pueltown Fly Point.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Ranger School Fly Point",
+    "codes": "Ranger School Fly Point",
+    "img": "images/Fly Point/Ranger School Fly Point.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Ranger Union Fly Point",
+    "codes": "Ranger Union Fly Point",
+    "img": "images/Fly Point/Ranger Union Fly Point.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Shiver Camp Fly Point",
+    "codes": "Shiver Camp Fly Point",
+    "img": "images/Fly Point/Shiver Camp Fly Point.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Vientown Fly Point",
+    "codes": "Vientown Fly Point",
+    "img": "images/Fly Point/Vientown Fly Point.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Recover the Manaphy Egg!",
+    "codes": "ManaphyM",
+    "img": "images/Mission/Manaphy Mission.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Rescue Kidnapped Riolu!",
+    "codes": "RioluM",
+    "img": "images/Mission/Riolu Mission.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Liberate the Tower!",
+    "codes": "TowerM",
+    "img": "images/Mission/Tower Mission.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Dialga in Hia Valley!?",
+    "codes": "DialgaM",
+    "img": "images/Mission/Dialga Mission.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Palkia in Haruba Desert!?",
+    "codes": "PalkiaM",
+    "img": "images/Mission/Palkia Mission.png",
+    "type": "toggle"
+  },
+      {
+    "name": "For the Bride and Shaymin!",
+    "codes": "ShayminM",
+    "img": "images/Mission/Shaymin Mission.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Starly",
+    "codes": "Starly",
+    "img": "images/Partner Pokemon/Starly.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Chimchar",
+    "codes": "Chimchar",
+    "img": "images/Partner Pokemon/Chimchar.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Cranidos",
+    "codes": "Cranidos",
+    "img": "images/Partner Pokemon/Cranidos.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Croagunk",
+    "codes": "Croagunk",
+    "img": "images/Partner Pokemon/Croagunk.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Gible",
+    "codes": "Gible",
+    "img": "images/Partner Pokemon/Gible.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Hippopotas",
+    "codes": "Hippopotas",
+    "img": "images/Partner Pokemon/Hippopotas.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Kricketot",
+    "codes": "Kricketot",
+    "img": "images/Partner Pokemon/Kricketot.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Machop",
+    "codes": "Machop",
+    "img": "images/Partner Pokemon/Machop.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Mime Jr.",
+    "codes": "Mime Jr",
+    "img": "images/Partner Pokemon/Mime Jr.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Misdreavus",
+    "codes": "Misdreavus",
+    "img": "images/Partner Pokemon/Misdreavus.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Munchlax",
+    "codes": "Munchlax",
+    "img": "images/Partner Pokemon/Munchlax.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Pachirisu",
+    "codes": "Pachirisu",
+    "img": "images/Partner Pokemon/Pachirisu.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Piplup",
+    "codes": "Piplup",
+    "img": "images/Partner Pokemon/Piplup.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Shieldon",
+    "codes": "Shieldon",
+    "img": "images/Partner Pokemon/Shieldon.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Sneasel",
+    "codes": "Sneasel",
+    "img": "images/Partner Pokemon/Sneasel.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Snover",
+    "codes": "Snover",
+    "img": "images/Partner Pokemon/Snover.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Turtwig",
+    "codes": "Turtwig",
+    "img": "images/Partner Pokemon/Turtwig.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Blue Gem",
+    "codes": "Blue Gem",
+    "img": "images/Gem/Blue Gem.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Red Gem",
+    "codes": "Red Gem",
+    "img": "images/Gem/Red Gem.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Yellow Gem",
+    "codes": "Yellow Gem",
+    "img": "images/Gem/Yellow Gem.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Crystal",
+    "type": "progressive",
+    "stages": [
+      {
+        "img": "images/Gem/Shadow Crystal.png",
+        "codes": "Shadow Crystal",
+        "name": "Shadow Crystal"
+      },
+      {
+        "img": "images/Gem/Luminous Crystal.png",
+        "codes": "Luminous Crystal",
+        "name": "Luminous Crystal"
+      }
+    ]
+  },
+      {
+    "name": "Ranger Net",
+    "codes": "Ranger Net",
+    "img": "images/Misc/Ranger Net.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Styler Charge",
+    "type": "progressive",
+    "stages": [
+      {
+        "img": "images/Misc/Charge 1.png",
+        "codes": "Charge 1",
+        "name": "Styler Charge 1"
+      },
+      {
+        "img": "images/Misc/Charge 2.png",
+        "codes": "Charge 2",
+        "name": "Styler Charge 2"
+      }
+    ]
+  },
+      {
+    "name": "Almia Castle Permit",
+    "codes": "Almia Castle Permit",
+    "img": "images/Permit/Almia Castle Permit.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Altru Building Permit",
+    "codes": "Altru Building Permit",
+    "img": "images/Permit/Altru Building Permit.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Altru Park Permit",
+    "codes": "Altru Park Permit",
+    "img": "images/Permit/Altru Park Permit.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Altru Tower Permit",
+    "codes": "Altru Tower Permit",
+    "img": "images/Permit/Altru Tower Permit.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Boyleland Permit",
+    "codes": "Boyleland Permit",
+    "img": "images/Permit/Boyleland Permit.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Capture Arena Permit",
+    "type": "progressive",
+    "stages": [
+      {
+        "img": "images/Permit/Capture Arena Permit 1.png",
+        "codes": "Capture Arena Permit 1",
+        "name": "Capture Arena Permit 1"
+      },
+      {
+        "img": "images/Permit/Capture Arena Permit 2.png",
+        "codes": "Capture Arena Permit 2",
+        "name": "Capture Arena Permit 2"
+      },
+      {
+        "img": "images/Permit/Capture Arena Permit 3.png",
+        "codes": "Capture Arena Permit 3",
+        "name": "Capture Arena Permit 3"
+      }
+    ]
+  },
+      {
+    "name": "Cargo Ship Permit",
+    "codes": "Cargo Ship Permit",
+    "img": "images/Permit/Cargo Ship Permit.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Chicole Path Permit",
+    "codes": "Chicole Path Permit",
+    "img": "images/Permit/Chicole Path Permit.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Chroma Highlands Permit",
+    "codes": "Chroma Highlands Permit",
+    "img": "images/Permit/Chroma Highlands Permit.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Chroma Road Permit",
+    "codes": "Chroma Road Permit",
+    "img": "images/Permit/Chroma Road Permit.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Chroma Ruins Permit",
+    "codes": "Chroma Ruins Permit",
+    "img": "images/Permit/Chroma Ruins Permit.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Crysta Cave Permit",
+    "codes": "Crysta Cave Permit",
+    "img": "images/Permit/Crysta Cave Permit.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Haruba Desert Permit",
+    "codes": "Haruba Desert Permit",
+    "img": "images/Permit/Haruba Desert Permit.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Haruba Village Permit",
+    "codes": "Haruba Village Permit",
+    "img": "images/Permit/Haruba Village Permit.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Hia Valley Permit",
+    "codes": "Hia Valley Permit",
+    "img": "images/Permit/Hia Valley Permit.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Hippowdon Temple Permit",
+    "codes": "Hippowdon Temple Permit",
+    "img": "images/Permit/Hippowdon Temple Permit.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Ice Lake Permit",
+    "codes": "Ice Lake Permit",
+    "img": "images/Permit/Ice Lake Permit.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Marine Cave Permit",
+    "codes": "Marine Cave Permit",
+    "img": "images/Permit/Marine Cave Permit.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Oil Field Hideout Permit",
+    "codes": "Oil Field Hideout Permit",
+    "img": "images/Permit/Oil Field Hideout Permit.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Peril Cliffs Permit",
+    "codes": "Peril Cliffs Permit",
+    "img": "images/Permit/Peril Cliffs Permit.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Puel Sea Permit",
+    "codes": "Puel Sea Permit",
+    "img": "images/Permit/Puel Sea Permit.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Pueltown Permit",
+    "codes": "Pueltown Permit",
+    "img": "images/Permit/Pueltown Permit.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Ranger School Permit",
+    "codes": "Ranger School Permit",
+    "img": "images/Permit/Ranger School Permit.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Ranger Union Permit",
+    "codes": "Ranger Union Permit",
+    "img": "images/Permit/Ranger Union Permit.png",
+    "type": "toggle"
+  },
+      {
+    "name": "School Road Permit",
+    "codes": "School Road Permit",
+    "img": "images/Permit/School Road Permit.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Sea of Wailord Permit",
+    "codes": "Sea of Wailord Permit",
+    "img": "images/Permit/Sea of Wailord Permit.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Shiver Camp Permit",
+    "codes": "Shiver Camp Permit",
+    "img": "images/Permit/Shiver Camp Permit.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Union Road Permit",
+    "codes": "Union Road Permit",
+    "img": "images/Permit/Union Road Permit.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Vien Forest Permit",
+    "codes": "Vien Forest Permit",
+    "img": "images/Permit/Vien Forest Permit.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Vientown Permit",
+    "codes": "Vientown Permit",
+    "img": "images/Permit/Vientown Permit.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Volcano Cave Permit",
+    "codes": "Volcano Cave Permit",
+    "img": "images/Permit/Volcano Cave Permit.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Bug Assist",
+    "codes": "Bug",
+    "img": "images/Poke Assist/Bug.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Dark Assist",
+    "codes": "Dark",
+    "img": "images/Poke Assist/Dark.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Dragon Assist",
+    "codes": "Dragon",
+    "img": "images/Poke Assist/Dragon.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Electric Assist",
+    "codes": "Electric",
+    "img": "images/Poke Assist/Electric.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Fighting Assist",
+    "codes": "Fighting",
+    "img": "images/Poke Assist/Fighting.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Fire Assist",
+    "codes": "Fire",
+    "img": "images/Poke Assist/Fire.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Flying Assist",
+    "codes": "Flying",
+    "img": "images/Poke Assist/Flying.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Ghost Assist",
+    "codes": "Ghost",
+    "img": "images/Poke Assist/Ghost.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Grass Assist",
+    "codes": "Grass",
+    "img": "images/Poke Assist/Grass.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Ground Assist",
+    "codes": "Ground",
+    "img": "images/Poke Assist/Ground.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Ice Assist",
+    "codes": "Ice",
+    "img": "images/Poke Assist/Ice.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Normal Assist",
+    "codes": "Normal",
+    "img": "images/Poke Assist/Normal.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Poison Assist",
+    "codes": "Poison",
+    "img": "images/Poke Assist/Poison.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Psychic Assist",
+    "codes": "Psychic",
+    "img": "images/Poke Assist/Psychic.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Recharge Assist",
+    "codes": "Recharge Assist",
+    "img": "images/Poke Assist/Recharge.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Rock Assist",
+    "codes": "Rock",
+    "img": "images/Poke Assist/Rock.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Steel Assist",
+    "codes": "Steel",
+    "img": "images/Poke Assist/Steel.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Water Assist",
+    "codes": "Water",
+    "img": "images/Poke Assist/Water.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Gallade",
+    "codes": "Gallade",
+    "img": "images/Pokemon/160 Gallade.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Magmortar",
+    "codes": "Magmortar",
+    "img": "images/Pokemon/075 Magmortar.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Garchomp",
+    "codes": "Garchomp",
+    "img": "images/Pokemon/253 Garchomp.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Regirock",
+    "codes": "Regirock",
+    "img": "images/Pokemon/264 Regirock.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Regice",
+    "codes": "Regice",
+    "img": "images/Pokemon/265 Regice.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Registeel",
+    "codes": "Registeel",
+    "img": "images/Pokemon/266 Registeel.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Regigigas",
+    "codes": "Regigigas",
+    "img": "images/Pokemon/267 Regigigas.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Darkrai",
+    "codes": "Darkrai",
+    "img": "images/Pokemon/257 Darkrai.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Manaphy Egg",
+    "codes": "Manaphy Egg",
+    "img": "images/Pokemon/268 Manaphy.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Dialga",
+    "codes": "Dialga",
+    "img": "images/Pokemon/269 Dialga.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Palkia",
+    "codes": "Palkia",
+    "img": "images/Pokemon/270 Palkia.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Shaymin",
+    "codes": "Shaymin",
+    "img": "images/Pokemon/271 Shaymin.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Heatran",
+    "codes": "Heatran",
+    "img": "images/Pokemon/228 Heatran.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Cresselia",
+    "codes": "Cresselia",
+    "img": "images/Pokemon/254 Cresselia.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Staraptor",
+    "codes": "Staraptor",
+    "img": "images/Pokemon/025 Staraptor.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Doduo",
+    "codes": "Doduo",
+    "img": "images/Pokemon/134 Doduo.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Mantine",
+    "codes": "Mantine",
+    "img": "images/Pokemon/091 Mantine.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Floatzel",
+    "codes": "Floatzel",
+    "img": "images/Pokemon/056 Floatzel.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Empoleon",
+    "codes": "Empoleon",
+    "img": "images/Pokemon/208 Empoleon.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Drifloon",
+    "codes": "Drifloon",
+    "img": "images/Pokemon/142 Drifloon.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Drifblim",
+    "codes": "Drifblim",
+    "img": "images/Pokemon/143 Drifblim.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Torkoal",
+    "codes": "Torkoal",
+    "img": "images/Pokemon/224 Torkoal.png",
+    "type": "toggle"
+  }
+]

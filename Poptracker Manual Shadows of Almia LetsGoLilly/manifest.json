@@ -1,0 +1,19 @@
+{
+  "name": "Pokemon Ranger Shadows of Almia Manual",
+  "author": "LetsGoLilly",
+  "game_name": "manual_shadowsofalmia_letsgolilly",
+  "package_uid": "archipelago_manual_shadowsofalmia_letsgolilly",
+  "package_version": "1.0.0",
+  "platform": "NDS",
+  "variants": {
+    "standard": {
+      "display_name": "[AP] Map Tracker",
+      "flags": ["ap", "apmanual"]
+    },
+    "z_item_only": {
+      "display_name": "[AP] Items Only",
+      "flags": ["ap"]
+    }
+  },
+  "versions_url": ""
+}

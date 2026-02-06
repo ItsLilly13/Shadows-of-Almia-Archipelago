@@ -1,0 +1,13 @@
+Manual
+-Fix StartLocation Item Removal
+  It tries to remove something thats already removed
+-Force Local Gem Option
+-Test all yaml options
+
+Poptracker
+-Add item Tracking
+-Add Location Tracking
+-Add Locations to Almia Map
+-Make Ap manual work with Almia Map
+-Make Region Maps
+-Add Locations to Region Maps

@@ -1,0 +1,35 @@
+{
+  "items": {
+    "type": "itemgrid",
+    "item_margin": "4, 4",
+    "margin": "0, 0",
+    "h_alignment": "stretch",
+    "rows": [
+      [ "Chicole Path Permit", "Vientown Permit", "School Road Permit", "Ranger School Permit", "", "Chicole Village Fly Point", "Vientown Fly Point", "", "Green Boat Key", "", "ManaphyM", "RioluM", "", "Normal", "Munchlax", "Flying", "Starly", "Electric", "Pachirisu", "", "Agility", "Doduo", "Burn", "Psy Power", "", "Garchomp", "Magmortar", "Gallade", ""],
+      [ "Cargo Ship Permit", "Marine Cave Permit", "Vien Forest Permit", "Pueltown Permit", "", "Ranger School Fly Point", "Pueltown Fly Point", "", "Light Blue Boat Key", "", "TowerM", "DialgaM", "", "Grass", "Turtwig", "Fire", "Chimchar", "Recharge Assist", "", "", "Fly", "Staraptor", "Crush", "Soak", "", "Regirock", "Regice", "Registeel", "Regigigas"],
+      [ "Altru Park Permit", "Altru Building Permit", "Altru Tower Permit", "Chroma Road Permit", "", "Altru Building Fly Point", "Altru Tower Fly Point", "", "Dark Blue Boat Key", "", "PalkiaM", "ShayminM", "", "Water", "Piplup", "Dark", "Sneasel", "", "", "", "Airlift", "Drifloon", "Cut", "Tackle", "", "", "", "", ""],
+      [ "Chroma Highlands Permit", "Chroma Ruins Permit", "Union Road Permit", "Peril Cliffs Permit", "", "Chroma Highlands Fly Point", "Chroma Ruins Fly Point", "", "Red Boat Key", "", "", "", "", "Rock", "Cranidos", "Steel", "Shieldon", "", "", "", "Elevate", "Drifblim", "Electrify", "", "", "Blue Gem", "Red Gem", "Darkrai", ""],
+      [ "Ranger Union Permit", "Crysta Cave Permit", "Hia Valley Permit", "Shiver Camp Permit", "", "Ranger Union Fly Point", "Shiver Camp Fly Point", "", "Orange Boat Key", "", "Charge 1", "Ranger Net", "", "Fighting", "Machop", "Psychic", "Mime Jr", "", "", "", "Magma Flow", "Torkoal", "Dark Power", "", "", "Yellow Gem", "Shadow Crystal", "", ""],
+      [ "Ice Lake Permit", "Almia Castle Permit", "Puel Sea Permit", "Sea of Wailord Permit", "", "Almia Castle Fly Point", "Boyleland Fly Point", "", "Wailord", "", "", "", "", "Ground", "Hippopotas", "Dragon", "Gible", "", "", "", "River Flow 1", "Floatzel", "Flash", "", "", "", "", "", ""],
+      [ "Boyleland Permit", "Volcano Cave Permit", "Haruba Village Permit", "Haruba Desert Permit", "", "Haruba Village Fly Point", "Hippowdon Temple Fly Point", "", "", "", "", "", "", "Ghost", "Misdreavus", "Poison", "Croagunk", "", "", "", "River Flow 2", "Empoleon", "Teleport", "", "", "Cresselia", "Heatran", "", ""],
+      [ "Hippowdon Temple Permit", "Capture Arena Permit 1", "Oil Field Hideout Permit", "", "", "Capture Arena Fly Point", "Oil Field Hideout Fly Point", "", "", "", "", "", "", "Bug", "Kricketot", "Ice", "Snover", "", "", "", "Swim", "Mantine", "Recharge", "", "", "Manaphy Egg", "Dialga", "Palkia", "Shaymin"]
+    ]
+  },
+  "broadcast": {
+    "type": "itemgrid",
+    "background": "#303841",
+    "item_margin": "4, 4",
+    "margin": "0, 0",
+    "h_alignment": "stretch",
+    "rows": [
+      [ "Chicole Path Permit", "Vientown Permit", "School Road Permit", "Ranger School Permit", "", "Chicole Village Fly Point", "Vientown Fly Point", "", "Green Boat Key", "", "ManaphyM", "RioluM", "", "Normal", "Munchlax", "Flying", "Starly", "Electric", "Pachirisu", "", "Agility", "Doduo", "Burn", "Psy Power", "", "Garchomp", "Magmortar", "Gallade", ""],
+      [ "Cargo Ship Permit", "Marine Cave Permit", "Vien Forest Permit", "Pueltown Permit", "", "Ranger School Fly Point", "Pueltown Fly Point", "", "Light Blue Boat Key", "", "TowerM", "DialgaM", "", "Grass", "Turtwig", "Fire", "Chimchar", "Recharge Assist", "", "", "Fly", "Staraptor", "Crush", "Soak", "", "Regirock", "Regice", "Registeel", "Regigigas"],
+      [ "Altru Park Permit", "Altru Building Permit", "Altru Tower Permit", "Chroma Road Permit", "", "Altru Building Fly Point", "Altru Tower Fly Point", "", "Dark Blue Boat Key", "", "PalkiaM", "ShayminM", "", "Water", "Piplup", "Dark", "Sneasel", "", "", "", "Airlift", "Drifloon", "Cut", "Tackle", "", "", "", "", ""],
+      [ "Chroma Highlands Permit", "Chroma Ruins Permit", "Union Road Permit", "Peril Cliffs Permit", "", "Chroma Highlands Fly Point", "Chroma Ruins Fly Point", "", "Red Boat Key", "", "", "", "", "Rock", "Cranidos", "Steel", "Shieldon", "", "", "", "Elevate", "Drifblim", "Electrify", "", "", "Blue Gem", "Red Gem", "Darkrai", ""],
+      [ "Ranger Union Permit", "Crysta Cave Permit", "Hia Valley Permit", "Shiver Camp Permit", "", "Ranger Union Fly Point", "Shiver Camp Fly Point", "", "Orange Boat Key", "", "Charge 1", "Ranger Net", "", "Fighting", "Machop", "Psychic", "Mime Jr", "", "", "", "Magma Flow", "Torkoal", "Dark Power", "", "", "Yellow Gem", "Shadow Crystal", "", ""],
+      [ "Ice Lake Permit", "Almia Castle Permit", "Puel Sea Permit", "Sea of Wailord Permit", "", "Almia Castle Fly Point", "Boyleland Fly Point", "", "Wailord", "", "", "", "", "Ground", "Hippopotas", "Dragon", "Gible", "", "", "", "River Flow 1", "Floatzel", "Flash", "", "", "", "", "", ""],
+      [ "Boyleland Permit", "Volcano Cave Permit", "Haruba Village Permit", "Haruba Desert Permit", "", "Haruba Village Fly Point", "Hippowdon Temple Fly Point", "", "", "", "", "", "", "Ghost", "Misdreavus", "Poison", "Croagunk", "", "", "", "River Flow 2", "Empoleon", "Teleport", "", "", "Cresselia", "Heatran", "", ""],
+      [ "Hippowdon Temple Permit", "Capture Arena Permit 1", "Oil Field Hideout Permit", "", "", "Capture Arena Fly Point", "Oil Field Hideout Fly Point", "", "", "", "", "", "", "Bug", "Kricketot", "Ice", "Snover", "", "", "", "Swim", "Mantine", "Recharge", "", "", "Manaphy Egg", "Dialga", "Palkia", "Shaymin"]
+    ]
+  }
+}

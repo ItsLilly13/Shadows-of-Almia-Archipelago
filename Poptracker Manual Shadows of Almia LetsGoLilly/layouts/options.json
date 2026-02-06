@@ -1,0 +1,50 @@
+{
+  "settings_popup": {
+    "type": "container",
+    "background": "#303841",
+    "margin": "6, 6",
+    "content": {
+      "type": "array",
+      "orientation": "vertical",
+      "margin": "0, 0, 100, 0",
+      "content": [
+        {
+          "type": "array",
+          "orientation": "horizontal",
+          "content": [
+            {
+              "type": "item",
+              "item": "GemsLocal",
+              "max_height": 32,
+              "max_width": 32,
+              "margin": 4
+            },
+            {
+              "type": "text",
+              "text": "Force the Gems to be Local",
+              "v_alignment": "center"
+            }
+          ]
+        },
+        {
+          "type": "array",
+          "orientation": "horizontal",
+          "content": [
+            {
+              "type": "item",
+              "item": "DarkraiVictory",
+              "max_height": 32,
+              "max_width": 32,
+              "margin": 4
+            },
+            {
+              "type": "text",
+              "text": "Victory Condition",
+              "v_alignment": "center"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
