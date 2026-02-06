@@ -8,7 +8,7 @@ For use with Manual Archipelago Client. (https://discord.gg/T5bcsVHByx)
 
 
 
-##### What do you need
+#### What do you need
 
 * A completed save file for Shadows of Almia (DLC optional)
 
@@ -18,7 +18,7 @@ For use with Manual Archipelago Client. (https://discord.gg/T5bcsVHByx)
 
 
 
-##### Choose your Goal
+#### Choose your Goal
 
 
 
@@ -31,7 +31,7 @@ For use with Manual Archipelago Client. (https://discord.gg/T5bcsVHByx)
 
 
 
-#### Starting Location
+### Starting Location
 
 
 
@@ -41,7 +41,7 @@ Either Randomize your Starting Location or Choose between 11 different ones.
 
 
 
-#### What are the Locations
+### What are the Locations
 
 
 
@@ -51,7 +51,7 @@ Every Pokemon capture is a Location.
 
 
 
-#### What is Randomized
+### What is Randomized
 
 
 
@@ -68,7 +68,7 @@ Every Pokemon capture is a Location.
 
 
 
-#### Special Requirements
+### Special Requirements
 
 
 
