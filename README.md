@@ -59,7 +59,7 @@ Every Pokemon capture is a Location.
 * 16 Fly Points: You can't land anywhere without them.
 * 25 Field Moves: You need the item before you are allowed to use any Field Moves.
 * 17 Partner Pokemon: Which of the Partner Pokemon are allowed to accompany you. (You are always allowed to use your Partner's Assist in battle)
-* 18 Poke Assists: Required before you are allowed to use a captured Pokemons Assist in Battle.
+* 18 Poke Assists: Required before you are allowed to use a captured Pokemon's Assist in Battle.
 * 5 Boat Keys and Wailord: You need the key before you are allowed to use the corresponding boat.
 * 5 Gems: Required before you are allowed to capture Darkrai.
 * 6 Missions and Ranger Net: If you decide to include them in the options.
