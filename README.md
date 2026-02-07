@@ -82,5 +82,7 @@ Every Pokemon capture is a Location.
 * Regigigas requires Regirock, Regice and Registeel.
 * Darkrai requires Red Gem, Blue Gem, Yellow Gem and 2 Progressive Crystals.
 
+You are allowed to recapture any Pokemon you've caught during the Archipelago again, even if you don't have the Permit for that Area.
+
 
 
