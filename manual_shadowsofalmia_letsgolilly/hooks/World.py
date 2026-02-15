@@ -45,14 +45,23 @@ def after_create_regions(world: World, multiworld: MultiWorld, player: int):
     # Use this hook to remove locations from the world
     locationNamesToRemove: list[str] = [] # List of location names
 
-    
-    add_missions = get_option_value(multiworld, player, "add_missions") #Adds missions, ranger net and Locations for Manaphy ect.
-
     # Add your code here to calculate which locations to remove
 
+    add_missions = get_option_value(multiworld, player, "add_missions")
+    goal_name = world.victory_names[world.options.goal]
 
-    if not add_missions:
-        locationNamesToRemove += ["Obtain a Manaphy Egg (1)", "Obtain a Manaphy Egg (2)", "Capture Dialga (1)", "Capture Dialga (2)", "Capture Palkia (1)", "Capture Palkia (2)", "Capture Shaymin (1)", "Capture Shaymin (2)"]
+    if goal_name == "caught darkrai" or "caught regigigas" or "caught darkrai & regigigas":
+        locationNamesToRemove +=  world.location_name_groups["Catchem"]
+        locationNamesToRemove += ["Capture Heatran (2)", "Capture Cresselia (2)"]
+        if not add_missions:
+            locationNamesToRemove += ["Obtain a Manaphy Egg", "Obtain a Manaphy Egg (2)", "Capture Dialga", "Capture Dialga (2)", "Capture Palkia", "Capture Palkia (2)", "Capture Shaymin", "Capture Shaymin (2)"]
+    if goal_name == "caught all legendary pokemon":
+        locationNamesToRemove +=  world.location_name_groups["Catchem"]
+        if not add_missions:
+            locationNamesToRemove += ["Obtain a Manaphy Egg", "Obtain a Manaphy Egg (2)", "Capture Dialga", "Capture Dialga (2)", "Capture Palkia", "Capture Palkia (2)", "Capture Shaymin", "Capture Shaymin (2)"]
+    if goal_name == "caught 'em all":
+        if not add_missions:
+            locationNamesToRemove += ["Obtain a Manaphy Egg", "Obtain a Manaphy Egg (2)", "Capture Dialga", "Capture Dialga (2)", "Capture Palkia", "Capture Palkia (2)", "Capture Shaymin", "Capture Shaymin (2)"]
 
     for region in multiworld.regions:
         if region.player == player:
@@ -175,14 +184,53 @@ def before_create_items_filler(item_pool: list, world: World, multiworld: MultiW
     itemNamesToRemove: list[str] = [] # List of item names
 
     add_missions = get_option_value(multiworld, player, "add_missions")
+    add_celebi = get_option_value(multiworld,player, "add_celebi")
+    goal_name = world.victory_names[world.options.goal]
 
-    if not add_missions:
-        itemNamesToRemove += ["Ranger Net", "Recover the Manaphy Egg!", "Manaphy Egg", "Rescue Kidnapped Riolu!", "Liberate the Tower!", "Dialga in Hia Valley!?", "Dialga", "Palkia in Haruba Desert!?", "Palkia", "For the Bride and Shaymin!", "Shaymin"]
+    if goal_name == "caught darkrai" or "caught regigigas" or "caught darkrai & regigigas":
+        itemNamesToRemove += world.item_name_groups ["Pokemon2"]
+        itemNamesToRemove += ["Manaphy Egg", "Dialga", "Palkia", "Shaymin", "Heatran", "Cresselia"]
+        if world.item_name_groups == ["Partner Pokemon"]:
+            item.classification = ItemClassification.useful
+        if add_celebi:
+            if item.name == ["Celebi"]:
+                item.classification = ItemClassification.filler
+        if not add_celebi:
+            itemNamesToRemove += ["Celebi"]
+        if not add_missions:
+            itemNamesToRemove += ["Ranger Net", "Recover the Manaphy Egg!", "Rescue Kidnapped Riolu!", "Liberate the Tower!", "Dialga in Hia Valley!?", "Palkia in Haruba Desert!?", "For the Bride and Shaymin!"]
+            if world.category == ["Manaphhy Mission", "Riolu Mission", "Tower Mission", "Dialga Mission", "Palkia Mission", "Shaymin Mission"]:
+                hidden = True
+            if item.name == ["Psy Power", "Electrify", "Dark Power"]:
+                item.classification = ItemClassification.filler
+    if goal_name == "caught all legendary pokemon":
+        itemNamesToRemove += world.item_name_groups ["Pokemon2"]
+        if world.item_name_groups == ["Partner Pokemon"]:
+            item.classification = ItemClassification.useful
+        if not add_celebi:
+            itemNamesToRemove += ["Celebi"]
+            if not add_missions:
+                itemNamesToRemove += ["Ranger Net", "Recover the Manaphy Egg!", "Manaphy Egg", "Rescue Kidnapped Riolu!", "Liberate the Tower!", "Dialga in Hia Valley!?", "Dialga", "Palkia in Haruba Desert!?", "Palkia", "For the Bride and Shaymin!", "Shaymin"]
+                if world.category == ["Manaphhy Mission", "Riolu Mission", "Tower Mission", "Dialga Mission", "Palkia Mission", "Shaymin Mission"]:
+                    hidden = True
+                if item.name == ["Psy Power", "Electrify", "Dark Power"]:
+                    item.classification = ItemClassification.filler
+    if goal_name == "caught 'em all":
+        if not add_celebi:
+            itemNamesToRemove += ["Celebi"]
+            if not add_missions:
+                itemNamesToRemove += ["Ranger Net", "Recover the Manaphy Egg!", "Manaphy Egg", "Rescue Kidnapped Riolu!", "Liberate the Tower!", "Dialga in Hia Valley!?", "Dialga", "Palkia in Haruba Desert!?", "Palkia", "For the Bride and Shaymin!", "Shaymin"]
+                if world.category == ["Manaphhy Mission", "Riolu Mission", "Tower Mission", "Dialga Mission", "Palkia Mission", "Shaymin Mission"]:
+                    hidden = True
+                if item.name == ["Psy Power", "Electrify", "Dark Power"]:
+                    item.classification = ItemClassification.filler
 
-#    gems_local = get_option_value(multiworld, player, "gems_local")
+        #gems_local = get_option_value(multiworld, player, "gems_local")
     
-#    if gems_local:
+    #if gems_local:
+        #["Red Gem", "Blue Gem", "Yellow Gem", "Progressive Crystal" 2]
 
+    
     # Add your code here to calculate which items to remove.
     #
     # Because multiple copies of an item can exist, you need to add an item name

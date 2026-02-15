@@ -879,5 +879,11 @@
     "codes": "Torkoal",
     "img": "images/Pokemon/224 Torkoal.png",
     "type": "toggle"
+  },
+      {
+    "name": "Celebi",
+    "codes": "Celebi",
+    "img": "images/Pokemon/263 Celebi.png",
+    "type": "toggle"
   }
 ]

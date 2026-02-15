@@ -3,6 +3,228 @@
     "name": "Almia",
     "location_size": 16,
     "location_border_thickness": 4,
-    "img": "images/Almia Map.png"
+    "img": "images/Maps/Almia Map.png"
+  },
+  {
+    "name": "Almia Browser",
+    "location_size": 16,
+    "location_border_thickness": 4,
+    "img": "images/Maps/Almia Browser.png"
+  },
+  {
+    "name": "Chicole Path",
+    "location_size": 16,
+    "location_border_thickness": 4,
+    "img": "images/Maps/Chicole Path.png"
+  },
+  {
+    "name": "Vientown",
+    "location_size": 16,
+    "location_border_thickness": 4,
+    "img": "images/Maps/Vientown.png"
+  },
+  {
+    "name": "School Road",
+    "location_size": 16,
+    "location_border_thickness": 4,
+    "img": "images/Maps/School Road.png"
+  },
+  {
+    "name": "Ranger School",
+    "location_size": 16,
+    "location_border_thickness": 4,
+    "img": "images/Maps/Ranger School.png"
+  },
+  {
+    "name": "Cargo Ship",
+    "location_size": 16,
+    "location_border_thickness": 4,
+    "img": "images/Maps/Cargo Ship.png"
+  },
+  {
+    "name": "Marine Cave",
+    "location_size": 16,
+    "location_border_thickness": 4,
+    "img": "images/Maps/Marine Cave.png"
+  },
+  {
+    "name": "Vien Forest",
+    "location_size": 16,
+    "location_border_thickness": 4,
+    "img": "images/Maps/Vien Forest.png"
+  },
+  {
+    "name": "Pueltown",
+    "location_size": 16,
+    "location_border_thickness": 4,
+    "img": "images/Maps/Pueltown.png"
+  },
+  {
+    "name": "Altru Park",
+    "location_size": 16,
+    "location_border_thickness": 4,
+    "img": "images/Maps/Altru Park.png"
+  },
+  {
+    "name": "Altru Building",
+    "location_size": 16,
+    "location_border_thickness": 4,
+    "img": "images/Maps/Altru Building.png"
+  },
+  {
+    "name": "Altru Tower",
+    "location_size": 16,
+    "location_border_thickness": 4,
+    "img": "images/Maps/Altru Tower.png"
+  },
+  {
+    "name": "Chroma Road",
+    "location_size": 16,
+    "location_border_thickness": 4,
+    "img": "images/Maps/Chroma Road.png"
+  },
+  {
+    "name": "Chroma Highlands",
+    "location_size": 16,
+    "location_border_thickness": 4,
+    "img": "images/Maps/Chroma Highlands.png"
+  },
+  {
+    "name": "Chroma Ruins",
+    "location_size": 16,
+    "location_border_thickness": 4,
+    "img": "images/Maps/Chroma Ruins.png"
+  },
+  {
+    "name": "Union Road",
+    "location_size": 16,
+    "location_border_thickness": 4,
+    "img": "images/Maps/Union Road.png"
+  },
+  {
+    "name": "Ranger Union",
+    "location_size": 16,
+    "location_border_thickness": 4,
+    "img": "images/Maps/Ranger Union.png"
+  },
+  {
+    "name": "Crysta Cave",
+    "location_size": 16,
+    "location_border_thickness": 4,
+    "img": "images/Maps/Crysta Cave.png"
+  },
+  {
+    "name": "Hia Valley",
+    "location_size": 16,
+    "location_border_thickness": 4,
+    "img": "images/Maps/Hia Valley.png"
+  },
+  {
+    "name": "Shiver Camp",
+    "location_size": 16,
+    "location_border_thickness": 4,
+    "img": "images/Maps/Shiver Camp.png"
+  },
+  {
+    "name": "Ice Lake",
+    "location_size": 16,
+    "location_border_thickness": 4,
+    "img": "images/Maps/Ice Lake.png"
+  },
+  {
+    "name": "Almia Castle",
+    "location_size": 16,
+    "location_border_thickness": 4,
+    "img": "images/Maps/Almia Castle.png"
+  },
+  {
+    "name": "Puel Sea",
+    "location_size": 16,
+    "location_border_thickness": 4,
+    "img": "images/Maps/Puel Sea.png"
+  },
+  {
+    "name": "Sea of Wailord",
+    "location_size": 16,
+    "location_border_thickness": 4,
+    "img": "images/Maps/Sea of Wailord.png"
+  },
+  {
+    "name": "Boyleland",
+    "location_size": 16,
+    "location_border_thickness": 4,
+    "img": "images/Maps/Boyleland.png"
+  },
+  {
+    "name": "Volcano Cave",
+    "location_size": 16,
+    "location_border_thickness": 4,
+    "img": "images/Maps/Volcano Cave.png"
+  },
+  {
+    "name": "Haruba Village",
+    "location_size": 16,
+    "location_border_thickness": 4,
+    "img": "images/Maps/Haruba Village.png"
+  },
+  {
+    "name": "Haruba Desert",
+    "location_size": 16,
+    "location_border_thickness": 4,
+    "img": "images/Maps/Haruba Desert.png"
+  },
+  {
+    "name": "Hippowdon Temple",
+    "location_size": 16,
+    "location_border_thickness": 4,
+    "img": "images/Maps/Hippowdon Temple.png"
+  },
+  {
+    "name": "Capture Arena",
+    "location_size": 16,
+    "location_border_thickness": 4,
+    "img": "images/Maps/Capture Arena.png"
+  },
+  {
+    "name": "Oil Field Hideout",
+    "location_size": 16,
+    "location_border_thickness": 4,
+    "img": "images/Maps/Oil Field Hideout.png"
+  },
+  {
+    "name": "Manaphy Mission",
+    "location_size": 16,
+    "location_border_thickness": 4,
+    "img": "images/Maps/Manaphy Mission.png"
+  },
+  {
+    "name": "Riolu Mission",
+    "location_size": 16,
+    "location_border_thickness": 4,
+    "img": "images/Maps/Riolu Mission.png"
+  },
+  {
+    "name": "Tower Mission",
+    "location_size": 16,
+    "location_border_thickness": 4,
+    "img": "images/Maps/Tower Mission.png"
+  },
+  {
+    "name": "Dialga Mission",
+    "location_size": 16,
+    "location_border_thickness": 4,
+    "img": "images/Maps/Dialga Mission.png"
+  },
+  {
+    "name": "Palkia Mission",
+    "location_size": 16,
+    "location_border_thickness": 4,
+    "img": "images/Maps/Palkia Mission.png"
+  },
+  {
+    "name": "Shaymin Mission",
+    "location_size": 16,
+    "location_border_thickness": 4,
+    "img": "images/Maps/Shaymin Mission.png"
   }
 ]

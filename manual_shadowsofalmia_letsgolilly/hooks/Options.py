@@ -30,6 +30,11 @@ class AddMissions(Toggle):
     display_name = "Add Ranger Net Missions"
     default = True
 
+class AddCelebi (Toggle):
+    """Adds Celebi to the Item Pool. (If added needs to be collected to win the Legendary and Catch 'em All Goals)"""
+    display_name = "Add Celebi"
+    default = True
+
 #class GemsLocal(Toggle):
 #    """Force the Gems needed to beat Darkrai to be found in your game"""
 #    display_name = "Gems are Local"
@@ -56,6 +61,7 @@ class StartingLocation(Choice):
 # This is called before any manual options are defined, in case you want to define your own with a clean slate or let Manual define over them
 def before_options_defined(options: dict[str, Type[Option[Any]]]) -> dict[str, Type[Option[Any]]]:
     options["add_missions"] = AddMissions
+    options["add_celebi"] = AddCelebi
     #options["gems_local"] = GemsLocal
     options["starting_location"] = StartingLocation
     return options

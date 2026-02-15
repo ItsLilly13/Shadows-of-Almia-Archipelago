@@ -1,10 +1,44 @@
 Manual
+-Make a catchem work for goal instead of separate option
+-Make Catchem requirement dynamic
+-Make partner pokemon usefull if not catchem
+-Make Psy power, Dark Power ect filler if non mission
 -Force Local Gem Option
+
+    add_missions = get_option_value(multiworld, player, "add_missions") #Adds missions, ranger net and Locations for Manaphy ect.
+
+    enable_catchemall = get_option_value(multiworld, player, "enable_catch_em_all")
+
+        if not add_missions:
+        locationNamesToRemove += ["Obtain a Manaphy Egg", "Obtain a Manaphy Egg (2)", "Capture Dialga", "Capture Dialga (2)", "Capture Palkia", "Capture Palkia (2)", "Capture Shaymin", "Capture Shaymin (2)"]
+
+    if not enable_catchemall: 
+        locationNamesToRemove +=  world.location_name_groups["Catchem"]
+
+
+
+    
+    add_missions = get_option_value(multiworld, player, "add_missions")
+    add_celebi = get_option_value(multiworld,player, "add_celebi")
+    enable_catchemall = get_option_value(multiworld, player, "enable_catch_em_all")
+
+
+    if not add_missions:
+        itemNamesToRemove += ["Ranger Net", "Recover the Manaphy Egg!", "Manaphy Egg", "Rescue Kidnapped Riolu!", "Liberate the Tower!", "Dialga in Hia Valley!?", "Dialga", "Palkia in Haruba Desert!?", "Palkia", "For the Bride and Shaymin!", "Shaymin"]
+
+    if not enable_catchemall: 
+        itemNamesToRemove +=  world.item_name_groups["Pokemon2"]
+
+
+    if not add_celebi:
+        itemNamesToRemove += ["Celebi"]    
+    
+    
+
 
 Poptracker
 -Add item Tracking
 -Add Location Tracking
 -Add Locations to Almia Map
 -Make Ap manual work with Almia Map
--Make Region Maps
 -Add Locations to Region Maps
