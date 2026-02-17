@@ -4,5 +4,8 @@
     "Ride Pokemon": {"hidden": true},
     "Celebi": {"hidden": true},
     "Mission Pokemon": {"hidden": true},
-    "Extra Pokemon": {"hidden": true}
+    "Extra Pokemon": {"hidden": true},
+    "HeatCres": {"hidden":true},
+    "Mission1": {"hidden":true},
+    "Mission2": {"hidden":true}
 }

@@ -1,6 +1,6 @@
 # Object classes from AP core, to represent an entire MultiWorld and this individual World that's part of it
 from worlds.AutoWorld import World
-from BaseClasses import MultiWorld, CollectionState, Item
+from BaseClasses import MultiWorld, CollectionState, Item, ItemClassification
 
 # Object classes from Manual -- extending AP core -- representing items and locations that are used in generation
 from ..Items import ManualItem
@@ -48,20 +48,38 @@ def after_create_regions(world: World, multiworld: MultiWorld, player: int):
     # Add your code here to calculate which locations to remove
 
     add_missions = get_option_value(multiworld, player, "add_missions")
-    goal_name = world.victory_names[world.options.goal]
 
-    if goal_name == "caught darkrai" or "caught regigigas" or "caught darkrai & regigigas":
+    if world.options.goal == 0:
+        locationNamesToRemove +=  world.location_name_groups["Mission2"]
         locationNamesToRemove +=  world.location_name_groups["Catchem"]
-        locationNamesToRemove += ["Capture Heatran (2)", "Capture Cresselia (2)"]
+        locationNamesToRemove +=  world.location_name_groups["HeatCres"]
         if not add_missions:
-            locationNamesToRemove += ["Obtain a Manaphy Egg", "Obtain a Manaphy Egg (2)", "Capture Dialga", "Capture Dialga (2)", "Capture Palkia", "Capture Palkia (2)", "Capture Shaymin", "Capture Shaymin (2)"]
-    if goal_name == "caught all legendary pokemon":
+            locationNamesToRemove +=  world.location_name_groups["Mission1"]
+    
+    if world.options.goal == 1:
+        locationNamesToRemove +=  world.location_name_groups["Mission2"]
+        locationNamesToRemove +=  world.location_name_groups["Catchem"]
+        locationNamesToRemove +=  world.location_name_groups["HeatCres"]
+        if not add_missions:
+            locationNamesToRemove +=  world.location_name_groups["Mission1"]
+    
+    if world.options.goal == 2:
+        locationNamesToRemove +=  world.location_name_groups["Mission2"]
+        locationNamesToRemove +=  world.location_name_groups["Catchem"]
+        locationNamesToRemove +=  world.location_name_groups["HeatCres"]
+        if not add_missions:
+            locationNamesToRemove +=  world.location_name_groups["Mission1"]
+    
+    if world.options.goal == 3:
         locationNamesToRemove +=  world.location_name_groups["Catchem"]
         if not add_missions:
-            locationNamesToRemove += ["Obtain a Manaphy Egg", "Obtain a Manaphy Egg (2)", "Capture Dialga", "Capture Dialga (2)", "Capture Palkia", "Capture Palkia (2)", "Capture Shaymin", "Capture Shaymin (2)"]
-    if goal_name == "caught 'em all":
+            locationNamesToRemove +=  world.location_name_groups["Mission1"]
+            locationNamesToRemove +=  world.location_name_groups["Mission2"]
+    
+    if world.options.goal == 4:
         if not add_missions:
-            locationNamesToRemove += ["Obtain a Manaphy Egg", "Obtain a Manaphy Egg (2)", "Capture Dialga", "Capture Dialga (2)", "Capture Palkia", "Capture Palkia (2)", "Capture Shaymin", "Capture Shaymin (2)"]
+            locationNamesToRemove +=  world.location_name_groups["Mission1"]
+            locationNamesToRemove +=  world.location_name_groups["Mission2"]
 
     for region in multiworld.regions:
         if region.player == player:
@@ -185,45 +203,34 @@ def before_create_items_filler(item_pool: list, world: World, multiworld: MultiW
 
     add_missions = get_option_value(multiworld, player, "add_missions")
     add_celebi = get_option_value(multiworld,player, "add_celebi")
-    goal_name = world.victory_names[world.options.goal]
 
-    if goal_name == "caught darkrai" or "caught regigigas" or "caught darkrai & regigigas":
+    if world.options.goal == 0:
         itemNamesToRemove += world.item_name_groups ["Pokemon2"]
-        itemNamesToRemove += ["Manaphy Egg", "Dialga", "Palkia", "Shaymin", "Heatran", "Cresselia"]
-        if world.item_name_groups == ["Partner Pokemon"]:
-            item.classification = ItemClassification.useful
-        if add_celebi:
-            if item.name == ["Celebi"]:
-                item.classification = ItemClassification.filler
-        if not add_celebi:
-            itemNamesToRemove += ["Celebi"]
+        itemNamesToRemove += ["Heatran", "Cresselia", "Manaphy Egg", "Dialga", "Palkia", "Shaymin"]
+    
+    if world.options.goal == 1:
+        itemNamesToRemove += world.item_name_groups ["Pokemon2"]
+        itemNamesToRemove += ["Heatran", "Cresselia", "Manaphy Egg", "Dialga", "Palkia", "Shaymin"]
+    
+    if world.options.goal == 2:
+        itemNamesToRemove += world.item_name_groups ["Pokemon2"]
+        itemNamesToRemove += ["Heatran", "Cresselia", "Manaphy Egg", "Dialga", "Palkia", "Shaymin"]
+    
+    if world.options.goal == 3:
+        itemNamesToRemove += world.item_name_groups ["Pokemon2"] 
         if not add_missions:
-            itemNamesToRemove += ["Ranger Net", "Recover the Manaphy Egg!", "Rescue Kidnapped Riolu!", "Liberate the Tower!", "Dialga in Hia Valley!?", "Palkia in Haruba Desert!?", "For the Bride and Shaymin!"]
-            if world.category == ["Manaphhy Mission", "Riolu Mission", "Tower Mission", "Dialga Mission", "Palkia Mission", "Shaymin Mission"]:
-                hidden = True
-            if item.name == ["Psy Power", "Electrify", "Dark Power"]:
-                item.classification = ItemClassification.filler
-    if goal_name == "caught all legendary pokemon":
-        itemNamesToRemove += world.item_name_groups ["Pokemon2"]
-        if world.item_name_groups == ["Partner Pokemon"]:
-            item.classification = ItemClassification.useful
-        if not add_celebi:
-            itemNamesToRemove += ["Celebi"]
-            if not add_missions:
-                itemNamesToRemove += ["Ranger Net", "Recover the Manaphy Egg!", "Manaphy Egg", "Rescue Kidnapped Riolu!", "Liberate the Tower!", "Dialga in Hia Valley!?", "Dialga", "Palkia in Haruba Desert!?", "Palkia", "For the Bride and Shaymin!", "Shaymin"]
-                if world.category == ["Manaphhy Mission", "Riolu Mission", "Tower Mission", "Dialga Mission", "Palkia Mission", "Shaymin Mission"]:
-                    hidden = True
-                if item.name == ["Psy Power", "Electrify", "Dark Power"]:
-                    item.classification = ItemClassification.filler
-    if goal_name == "caught 'em all":
-        if not add_celebi:
-            itemNamesToRemove += ["Celebi"]
-            if not add_missions:
-                itemNamesToRemove += ["Ranger Net", "Recover the Manaphy Egg!", "Manaphy Egg", "Rescue Kidnapped Riolu!", "Liberate the Tower!", "Dialga in Hia Valley!?", "Dialga", "Palkia in Haruba Desert!?", "Palkia", "For the Bride and Shaymin!", "Shaymin"]
-                if world.category == ["Manaphhy Mission", "Riolu Mission", "Tower Mission", "Dialga Mission", "Palkia Mission", "Shaymin Mission"]:
-                    hidden = True
-                if item.name == ["Psy Power", "Electrify", "Dark Power"]:
-                    item.classification = ItemClassification.filler
+            itemNamesToRemove += ["Manaphy Egg", "Dialga", "Palkia", "Shaymin"]
+    
+    if world.options.goal == 4:
+        if not add_missions:
+            itemNamesToRemove += ["Manaphy Egg", "Dialga", "Palkia", "Shaymin"]
+            
+    if not add_celebi:
+        itemNamesToRemove += ["Celebi"]               
+    
+    if not add_missions:
+        itemNamesToRemove += ["Ranger Net", "Recover the Manaphy Egg!", "Rescue Kidnapped Riolu!", "Liberate the Tower!", "Dialga in Hia Valley!?", "Palkia in Haruba Desert!?", "For the Bride and Shaymin!"]
+
 
         #gems_local = get_option_value(multiworld, player, "gems_local")
     
@@ -252,6 +259,175 @@ def before_create_items_filler(item_pool: list, world: World, multiworld: MultiW
 
 # The complete item pool prior to being set for generation is provided here, in case you want to make changes to it
 def after_create_items(item_pool: list, world: World, multiworld: MultiWorld, player: int) -> list:
+
+    add_missions = get_option_value(multiworld, player, "add_missions")
+    add_celebi = get_option_value(multiworld,player, "add_celebi")
+    
+    for item in item_pool:
+        
+        if world.options.goal == 0:
+            if item.name == "Munchlax":
+                item.classification = ItemClassification.useful
+            if item.name == "Pachirisu":
+                item.classification = ItemClassification.useful
+            if item.name == "Starly":
+                item.classification = ItemClassification.useful
+            if item.name == "Gible":
+                item.classification = ItemClassification.useful
+            if item.name == "Mime Jr.":
+                item.classification = ItemClassification.useful
+            if item.name == "Machop":
+                item.classification = ItemClassification.useful
+            if item.name == "Sneasel":
+                item.classification = ItemClassification.useful
+            if item.name == "Snover":
+                item.classification = ItemClassification.useful
+            if item.name == "Misdreavus":
+                item.classification = ItemClassification.useful
+            if item.name == "Piplup":
+                item.classification = ItemClassification.useful
+            if item.name == "Chimchar":
+                item.classification = ItemClassification.useful
+            if item.name == "Turtwig":
+                item.classification = ItemClassification.useful
+            if item.name == "Kricketot":
+                item.classification = ItemClassification.useful
+            if item.name == "Croagunk":
+                item.classification = ItemClassification.useful
+            if item.name == "Hippopotas":
+                item.classification = ItemClassification.useful
+            if item.name == "Shieldon":
+                item.classification = ItemClassification.useful
+            if item.name == "Cranidos":
+                item.classification = ItemClassification.useful
+            if add_celebi:
+                if item.name == "Celebi":
+                    item.classification = ItemClassification.filler
+        
+        if world.options.goal == 1:
+            if item.name == "Munchlax":
+                item.classification = ItemClassification.useful
+            if item.name == "Pachirisu":
+                item.classification = ItemClassification.useful
+            if item.name == "Starly":
+                item.classification = ItemClassification.useful
+            if item.name == "Gible":
+                item.classification = ItemClassification.useful
+            if item.name == "Mime Jr.":
+                item.classification = ItemClassification.useful
+            if item.name == "Machop":
+                item.classification = ItemClassification.useful
+            if item.name == "Sneasel":
+                item.classification = ItemClassification.useful
+            if item.name == "Snover":
+                item.classification = ItemClassification.useful
+            if item.name == "Misdreavus":
+                item.classification = ItemClassification.useful
+            if item.name == "Piplup":
+                item.classification = ItemClassification.useful
+            if item.name == "Chimchar":
+                item.classification = ItemClassification.useful
+            if item.name == "Turtwig":
+                item.classification = ItemClassification.useful
+            if item.name == "Kricketot":
+                item.classification = ItemClassification.useful
+            if item.name == "Croagunk":
+                item.classification = ItemClassification.useful
+            if item.name == "Hippopotas":
+                item.classification = ItemClassification.useful
+            if item.name == "Shieldon":
+                item.classification = ItemClassification.useful
+            if item.name == "Cranidos":
+                item.classification = ItemClassification.useful
+            if add_celebi:
+                if item.name == "Celebi":
+                    item.classification = ItemClassification.filler
+
+        if world.options.goal == 2:
+            if item.name == "Munchlax":
+                item.classification = ItemClassification.useful
+            if item.name == "Pachirisu":
+                item.classification = ItemClassification.useful
+            if item.name == "Starly":
+                item.classification = ItemClassification.useful
+            if item.name == "Gible":
+                item.classification = ItemClassification.useful
+            if item.name == "Mime Jr.":
+                item.classification = ItemClassification.useful
+            if item.name == "Machop":
+                item.classification = ItemClassification.useful
+            if item.name == "Sneasel":
+                item.classification = ItemClassification.useful
+            if item.name == "Snover":
+                item.classification = ItemClassification.useful
+            if item.name == "Misdreavus":
+                item.classification = ItemClassification.useful
+            if item.name == "Piplup":
+                item.classification = ItemClassification.useful
+            if item.name == "Chimchar":
+                item.classification = ItemClassification.useful
+            if item.name == "Turtwig":
+                item.classification = ItemClassification.useful
+            if item.name == "Kricketot":
+                item.classification = ItemClassification.useful
+            if item.name == "Croagunk":
+                item.classification = ItemClassification.useful
+            if item.name == "Hippopotas":
+                item.classification = ItemClassification.useful
+            if item.name == "Shieldon":
+                item.classification = ItemClassification.useful
+            if item.name == "Cranidos":
+                item.classification = ItemClassification.useful
+            if add_celebi:
+                if item.name == "Celebi":
+                    item.classification = ItemClassification.filler
+
+
+        if world.options.goal == 3:
+            if item.name == "Munchlax":
+                item.classification = ItemClassification.useful
+            if item.name == "Pachirisu":
+                item.classification = ItemClassification.useful
+            if item.name == "Starly":
+                item.classification = ItemClassification.useful
+            if item.name == "Gible":
+                item.classification = ItemClassification.useful
+            if item.name == "Mime Jr.":
+                item.classification = ItemClassification.useful
+            if item.name == "Machop":
+                item.classification = ItemClassification.useful
+            if item.name == "Sneasel":
+                item.classification = ItemClassification.useful
+            if item.name == "Snover":
+                item.classification = ItemClassification.useful
+            if item.name == "Misdreavus":
+                item.classification = ItemClassification.useful
+            if item.name == "Piplup":
+                item.classification = ItemClassification.useful
+            if item.name == "Chimchar":
+                item.classification = ItemClassification.useful
+            if item.name == "Turtwig":
+                item.classification = ItemClassification.useful
+            if item.name == "Kricketot":
+                item.classification = ItemClassification.useful
+            if item.name == "Croagunk":
+                item.classification = ItemClassification.useful
+            if item.name == "Hippopotas":
+                item.classification = ItemClassification.useful
+            if item.name == "Shieldon":
+                item.classification = ItemClassification.useful
+            if item.name == "Cranidos":
+                item.classification = ItemClassification.useful
+
+
+        if not add_missions:
+            if item.name == "Psy Power":
+                item.classification = ItemClassification.filler
+            if item.name == "Electrify":
+                item.classification = ItemClassification.filler
+            if item.name == "Dark Power":
+                item.classification = ItemClassification.filler
+
     return item_pool
 
 # Called before rules for accessing regions and locations are created. Not clear why you'd want this, but it's here.

@@ -27,6 +27,7 @@ For use with Manual Archipelago Client. (https://discord.gg/T5bcsVHByx)
 * Capture the Regi-trio and Capture Regigigas in Hippowdon Temple
 * Capture both Darkrai \& Regigigas
 * Capture all the Legendary Pokemon hidden in the Almia Region
+* Capture every Pokemon in the Almia Pokedex
 
 
 

@@ -67,6 +67,11 @@ Manual_ShadowsofAlmia_LetsGoLilly:
     'false': 0
     'true': 50
 
+  add_celebi:
+    # Adds Celebi to the Item Pool. (If added needs to be collected to win the Legendary and Catch 'em All Goals)
+    'false': 0
+    'true': 50
+
   starting_location:
     # Choose your starting location.
     random: 50
