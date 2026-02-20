@@ -1,30 +1,38 @@
-DEBUG = true
 ENABLE_DEBUG_LOG = true
+-- get current variant
+local variant = Tracker.ActiveVariantUID
+-- check variant info
+IS_ITEMS_ONLY = variant:find("itemsonly")
 
-IS_ITEMS_ONLY = Tracker.ActiveVariantUID == "var_1_itemsonly"
+print("-- Manual Shadows of Almia Tracker --")
+print("Loaded variant: ", variant)
+if ENABLE_DEBUG_LOG then
+    print("Debug logging is enabled!")
+end
+-- Logic
+ScriptHost:LoadScript("scripts/logic.lua")
 
+-- Utility Script for helper functions etc.
 ScriptHost:LoadScript("scripts/utils.lua")
 
+
+-- Items
 Tracker:AddItems("items/items.json")
-if not IS_ITEMS_ONLY then
-    Tracker:AddItems("items/options.json")
+Tracker:AddItems("items/options.jsonc")
 
+if not IS_ITEMS_ONLY then -- <--- use variant info to optimize loading
     Tracker:AddMaps("maps/maps.json")
-
-    Tracker:AddLocations("locations/locations.json")
+    ScriptHost:LoadScript("scripts/locations.lua")
 end
 
-Tracker:AddLayouts("layouts/items.json")
+-- Layout
 Tracker:AddLayouts("layouts/broadcast.json")
-if not IS_ITEMS_ONLY then
-    Tracker:AddLayouts("layouts/maps.json")
-    Tracker:AddLayouts("layouts/tracker.json")
-    Tracker:AddLayouts("layouts/options.json")
+Tracker:AddLayouts("layouts/items.json")
+Tracker:AddLayouts("layouts/options.jsonc")
+Tracker:AddLayouts("layouts/tabs.jsonc")
+Tracker:AddLayouts("layouts/tracker.json")
 
-    ScriptHost:LoadScript("scripts/logic/logic.lua")
-    ScriptHost:LoadScript("scripts/goal.lua")
-end
-
+-- AutoTracking for Poptracker
 if PopVersion and PopVersion >= "0.18.0" then
     ScriptHost:LoadScript("scripts/autotracking.lua")
 end

@@ -360,7 +360,7 @@ if AUTOTRACKER_ENABLE_LOCATION_TRACKING then
         if AutoTracker:GetConnectionState("AP") ~= AUTOTRACKER_CONNECTED then return end
         if (section.AvailableChestCount > 0) then return end
 
-        if section.FullID == "Deepsea Metro/A00 - Central Station/Game Complete" then
+        if section.FullID == "???" then
             sendVictory(section)
         else
             sendLocation(section)

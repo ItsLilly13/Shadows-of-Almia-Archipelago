@@ -1,0 +1,486 @@
+{
+    "tabbed_maps_horizontal": {
+        "type": "tabbed",
+        "tabs": [
+            {
+                "title": "Almia Map",
+                "icon": "images/options/checked.png",
+                "content": {
+                    "type": "map",
+                    "maps": [
+                        "Almia"
+                    ]
+                }
+            },
+            {
+                "title": "Almia Browser",
+                "icon": "images/options/checked.png",
+                "content": {
+                    "type": "dock",
+                    "content": [
+                        {
+                            "type": "tabbed",
+                            "dock": "top",
+                                "content": {
+                                    "type": "layout",
+                                    "key": "almia_browser"
+                                }
+                            
+                        }
+                    ]
+                }
+            },
+            {
+                "title": "Vien Area",
+                "icon": "images/options/checked.png",
+                "content": {
+                    "type": "tabbed",
+                    "tabs": [
+                        {
+                            "title": "Chicole Path",
+                            "icon": "images/pokemon/033 Seedot.png",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Chicole Path"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Vientown",
+                            "icon": "images/pokemon/037 Shellos.png",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Vientown"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Marine Cave",
+                            "icon": "images/pokemon/044 Nosepass.png",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Marine Cave"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Vien Forest",
+                            "icon": "images/pokemon/053 Grotle.png",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Vien Forest"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "title": "School Area",
+                "icon": "images/options/checked.png",
+                "content": {
+                    "type": "tabbed",
+                    "tabs": [
+                        {
+                            "title": "School Road",
+                            "icon": "images/pokemon/020 Buneary.png",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "School Road"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Ranger School",
+                            "icon": "images/pokemon/036 Tangrowth.png",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Ranger School"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Cargo Ship",
+                            "icon": "images/pokemon/175 Lickilicky.png",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Cargo Ship"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "title": "Altru Area",
+                "icon": "images/options/checked.png",
+                "content": {
+                    "type": "tabbed",
+                    "tabs": [
+                        {
+                            "title": "Pueltown",
+                            "icon": "images/pokemon/061 Tyrouge.png",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Pueltown"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Altru Park",
+                            "icon": "images/pokemon/025 Staraptor.png",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Altru Park"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Altru Building",
+                            "icon": "images/pokemon/256 Absol.png",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Altru Building"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Altru Tower",
+                            "icon": "images/pokemon/261 Togekiss.png",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Altru Tower"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "title": "Ranger Area",
+                "icon": "images/options/checked.png",
+                "content": {
+                    "type": "tabbed",
+                    "tabs": [
+                        {
+                            "title": "Union Road",
+                            "icon": "images/pokemon/108 Aipom.png",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Union Road"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Peril Cliffs",
+                            "icon": "images/pokemon/085 Rampardos.png",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Peril Cliffs"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Ranger Union",
+                            "icon": "images/pokemon/134 Doduo.png",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Ranger Union"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "title": "Chroma Area",
+                "icon": "images/options/checked.png",
+                "content": {
+                    "type": "tabbed",
+                    "tabs": [
+                        {
+                            "title": "Chroma Road",
+                            "icon": "images/pokemon/179 Tauros.png",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Chroma Road"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Chroma Highlands",
+                            "icon": "images/pokemon/177 Rapidash.png",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Chroma Highlands"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Chroma Ruins",
+                            "icon": "images/pokemon/193 Sableye.png",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Chroma Ruins"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "title": "Hia Area",
+                "icon": "images/options/checked.png",
+                "content": {
+                    "type": "tabbed",
+                    "tabs": [
+                        {
+                            "title": "Crysta Cave",
+                            "icon": "images/pokemon/197 Spheal.png",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Crysta Cave"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Hia Valley",
+                            "icon": "images/pokemon/209 Delibird.png",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Hia Valley"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Shiver Camp",
+                            "icon": "images/pokemon/025 Staraptor.png",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Shiver Camp"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Ice Lake",
+                            "icon": "images/pokemon/208 Empoleon.png",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Ice Lake"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Almia Castle",
+                            "icon": "images/pokemon/215 Froslass.png",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Almia Castle"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "title": "Seas and Islands",
+                "icon": "images/options/checked.png",
+                "content": {
+                    "type": "tabbed",
+                    "tabs": [
+                        {
+                            "title": "Puel Sea",
+                            "icon": "images/pokemon/087 Lumineon.png",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Puel Sea"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Sea of Wailord",
+                            "icon": "images/pokemon/237 Wailmer.png",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Sea of Wailord"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Oil Field Hideout",
+                            "icon": "images/pokemon/262 Porygon-Z.png",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Oil Field Hideout"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Capture Arena",
+                            "icon": "images/pokemon/254 Cresselia.png",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Capture Arena"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "title": "Boyleland & Haruba Area",
+                "icon": "images/options/checked.png",
+                "content": {
+                    "type": "tabbed",
+                    "tabs": [
+                        {
+                            "title": "Boyleland",
+                            "icon": "images/pokemon/078 Wingull.png",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Boyleland"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Volcano Cave",
+                            "icon": "images/pokemon/224 Torkoal.png",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Volcano Cave"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Haruba Village",
+                            "icon": "images/pokemon/031 Sudowoodo.png",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Haruba Village"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Haruba Desert",
+                            "icon": "images/pokemon/247 Hippowdon.png",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Haruba Desert"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Hippowdon Temple",
+                            "icon": "images/pokemon/192 Dusknoir.png",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Hippowdon Temple"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "title": "Missions",
+                "icon": "images/options/checked.png",
+                "content": {
+                    "type": "tabbed",
+                    "tabs": [
+                        {
+                            "title": "Recover the Manaphy Egg!",
+                            "icon": "images/pokemon/268 Manaphy.png",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Manaphy Mission"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Rescue Kidnapped Riolu!",
+                            "icon": "images/pokemon/222 Riolu.png",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Riolu Mission"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Liberate the Tower!",
+                            "icon": "images/pokemon/257 Darkrai.png",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Tower Mission"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Dialga in Hia Valley!?",
+                            "icon": "images/pokemon/269 Dialga.png",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Dialga Mission"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Palkia in Haruba Desert!?",
+                            "icon": "images/pokemon/270 Palkia.png",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Palkia Mission"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "For the Bride and Shaymin!",
+                            "icon": "images/pokemon/271 Shaymin.png",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Shaymin Mission"
+                                ]
+                            }
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+}

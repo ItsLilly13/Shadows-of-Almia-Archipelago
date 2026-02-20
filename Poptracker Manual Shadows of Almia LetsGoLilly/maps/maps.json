@@ -1,230 +1,230 @@
 [
   {
     "name": "Almia",
-    "location_size": 16,
-    "location_border_thickness": 4,
+    "location_size": 10,
+    "location_border_thickness": 1,
     "img": "images/Maps/Almia Map.png"
   },
   {
-    "name": "Almia Browser",
-    "location_size": 16,
-    "location_border_thickness": 4,
-    "img": "images/Maps/Almia Browser.png"
-  },
-  {
     "name": "Chicole Path",
-    "location_size": 16,
-    "location_border_thickness": 4,
-    "img": "images/Maps/Chicole Path.png"
+    "location_size": 10,
+    "location_border_thickness": 1,
+    "img": "images/Maps/With Pokemon/Chicole Path.png"
   },
   {
     "name": "Vientown",
-    "location_size": 16,
-    "location_border_thickness": 4,
-    "img": "images/Maps/Vientown.png"
+    "location_size": 10,
+    "location_border_thickness": 1,
+    "img": "images/Maps/With Pokemon/Vientown.png"
   },
   {
     "name": "School Road",
-    "location_size": 16,
-    "location_border_thickness": 4,
-    "img": "images/Maps/School Road.png"
+    "location_size": 10,
+    "location_border_thickness": 1,
+    "img": "images/Maps/With Pokemon/School Road.png"
   },
   {
     "name": "Ranger School",
-    "location_size": 16,
-    "location_border_thickness": 4,
-    "img": "images/Maps/Ranger School.png"
+    "location_size": 10,
+    "location_border_thickness": 1,
+    "img": "images/Maps/With Pokemon/Ranger School.png"
   },
   {
     "name": "Cargo Ship",
-    "location_size": 16,
-    "location_border_thickness": 4,
-    "img": "images/Maps/Cargo Ship.png"
+    "location_size": 10,
+    "location_border_thickness": 1,
+    "img": "images/Maps/With Pokemon/Cargo Ship.png"
   },
   {
     "name": "Marine Cave",
-    "location_size": 16,
-    "location_border_thickness": 4,
-    "img": "images/Maps/Marine Cave.png"
+    "location_size": 10,
+    "location_border_thickness": 1,
+    "img": "images/Maps/With Pokemon/Marine Cave.png"
   },
   {
     "name": "Vien Forest",
-    "location_size": 16,
-    "location_border_thickness": 4,
-    "img": "images/Maps/Vien Forest.png"
+    "location_size": 10,
+    "location_border_thickness": 1,
+    "img": "images/Maps/With Pokemon/Vien Forest.png"
   },
   {
     "name": "Pueltown",
-    "location_size": 16,
-    "location_border_thickness": 4,
-    "img": "images/Maps/Pueltown.png"
+    "location_size": 10,
+    "location_border_thickness": 1,
+    "img": "images/Maps/With Pokemon/Pueltown.png"
   },
   {
     "name": "Altru Park",
-    "location_size": 16,
-    "location_border_thickness": 4,
-    "img": "images/Maps/Altru Park.png"
+    "location_size": 10,
+    "location_border_thickness": 1,
+    "img": "images/Maps/With Pokemon/Altru Park.png"
   },
   {
     "name": "Altru Building",
-    "location_size": 16,
-    "location_border_thickness": 4,
-    "img": "images/Maps/Altru Building.png"
+    "location_size": 10,
+    "location_border_thickness": 1,
+    "img": "images/Maps/With Pokemon/Altru Building.png"
   },
   {
     "name": "Altru Tower",
-    "location_size": 16,
-    "location_border_thickness": 4,
-    "img": "images/Maps/Altru Tower.png"
+    "location_size": 10,
+    "location_border_thickness": 1,
+    "img": "images/Maps/With Pokemon/Altru Tower.png"
   },
   {
     "name": "Chroma Road",
-    "location_size": 16,
-    "location_border_thickness": 4,
-    "img": "images/Maps/Chroma Road.png"
+    "location_size": 10,
+    "location_border_thickness": 1,
+    "img": "images/Maps/With Pokemon/Chroma Road.png"
   },
   {
     "name": "Chroma Highlands",
-    "location_size": 16,
-    "location_border_thickness": 4,
-    "img": "images/Maps/Chroma Highlands.png"
+    "location_size": 10,
+    "location_border_thickness": 1,
+    "img": "images/Maps/With Pokemon/Chroma Highlands.png"
   },
   {
     "name": "Chroma Ruins",
-    "location_size": 16,
-    "location_border_thickness": 4,
-    "img": "images/Maps/Chroma Ruins.png"
+    "location_size": 10,
+    "location_border_thickness": 1,
+    "img": "images/Maps/With Pokemon/Chroma Ruins.png"
   },
   {
     "name": "Union Road",
-    "location_size": 16,
-    "location_border_thickness": 4,
-    "img": "images/Maps/Union Road.png"
+    "location_size": 10,
+    "location_border_thickness": 1,
+    "img": "images/Maps/With Pokemon/Union Road.png"
+  },
+  {
+    "name": "Peril Cliffs",
+    "location_size": 10,
+    "location_border_thickness": 1,
+    "img": "images/Maps/With Pokemon/Peril Cliffs.png"
   },
   {
     "name": "Ranger Union",
-    "location_size": 16,
-    "location_border_thickness": 4,
-    "img": "images/Maps/Ranger Union.png"
+    "location_size": 10,
+    "location_border_thickness": 1,
+    "img": "images/Maps/With Pokemon/Ranger Union.png"
   },
   {
     "name": "Crysta Cave",
-    "location_size": 16,
-    "location_border_thickness": 4,
-    "img": "images/Maps/Crysta Cave.png"
+    "location_size": 10,
+    "location_border_thickness": 1,
+    "img": "images/Maps/With Pokemon/Crysta Cave.png"
   },
   {
     "name": "Hia Valley",
-    "location_size": 16,
-    "location_border_thickness": 4,
-    "img": "images/Maps/Hia Valley.png"
+    "location_size": 10,
+    "location_border_thickness": 1,
+    "img": "images/Maps/With Pokemon/Hia Valley.png"
   },
   {
     "name": "Shiver Camp",
-    "location_size": 16,
-    "location_border_thickness": 4,
-    "img": "images/Maps/Shiver Camp.png"
+    "location_size": 10,
+    "location_border_thickness": 1,
+    "img": "images/Maps/With Pokemon/Shiver Camp.png"
   },
   {
     "name": "Ice Lake",
-    "location_size": 16,
-    "location_border_thickness": 4,
-    "img": "images/Maps/Ice Lake.png"
+    "location_size": 10,
+    "location_border_thickness": 1,
+    "img": "images/Maps/With Pokemon/Ice Lake.png"
   },
   {
     "name": "Almia Castle",
-    "location_size": 16,
-    "location_border_thickness": 4,
-    "img": "images/Maps/Almia Castle.png"
+    "location_size": 10,
+    "location_border_thickness": 1,
+    "img": "images/Maps/With Pokemon/Almia Castle.png"
   },
   {
     "name": "Puel Sea",
-    "location_size": 16,
-    "location_border_thickness": 4,
-    "img": "images/Maps/Puel Sea.png"
+    "location_size": 10,
+    "location_border_thickness": 1,
+    "img": "images/Maps/With Pokemon/Puel Sea.png"
   },
   {
     "name": "Sea of Wailord",
-    "location_size": 16,
-    "location_border_thickness": 4,
-    "img": "images/Maps/Sea of Wailord.png"
+    "location_size": 10,
+    "location_border_thickness": 1,
+    "img": "images/Maps/With Pokemon/Sea of Wailord.png"
   },
   {
     "name": "Boyleland",
-    "location_size": 16,
-    "location_border_thickness": 4,
-    "img": "images/Maps/Boyleland.png"
+    "location_size": 10,
+    "location_border_thickness": 1,
+    "img": "images/Maps/With Pokemon/Boyleland.png"
   },
   {
     "name": "Volcano Cave",
-    "location_size": 16,
-    "location_border_thickness": 4,
-    "img": "images/Maps/Volcano Cave.png"
+    "location_size": 10,
+    "location_border_thickness": 1,
+    "img": "images/Maps/With Pokemon/Volcano Cave.png"
   },
   {
     "name": "Haruba Village",
-    "location_size": 16,
-    "location_border_thickness": 4,
-    "img": "images/Maps/Haruba Village.png"
+    "location_size": 10,
+    "location_border_thickness": 1,
+    "img": "images/Maps/With Pokemon/Haruba Village.png"
   },
   {
     "name": "Haruba Desert",
-    "location_size": 16,
-    "location_border_thickness": 4,
-    "img": "images/Maps/Haruba Desert.png"
+    "location_size": 10,
+    "location_border_thickness": 1,
+    "img": "images/Maps/With Pokemon/Haruba Desert.png"
   },
   {
     "name": "Hippowdon Temple",
-    "location_size": 16,
-    "location_border_thickness": 4,
-    "img": "images/Maps/Hippowdon Temple.png"
+    "location_size": 10,
+    "location_border_thickness": 1,
+    "img": "images/Maps/With Pokemon/Hippowdon Temple.png"
   },
   {
     "name": "Capture Arena",
-    "location_size": 16,
-    "location_border_thickness": 4,
-    "img": "images/Maps/Capture Arena.png"
+    "location_size": 10,
+    "location_border_thickness": 1,
+    "img": "images/Maps/With Pokemon/Capture Arena.png"
   },
   {
     "name": "Oil Field Hideout",
-    "location_size": 16,
-    "location_border_thickness": 4,
-    "img": "images/Maps/Oil Field Hideout.png"
+    "location_size": 10,
+    "location_border_thickness": 1,
+    "img": "images/Maps/With Pokemon/Oil Field Hideout.png"
   },
   {
     "name": "Manaphy Mission",
-    "location_size": 16,
-    "location_border_thickness": 4,
-    "img": "images/Maps/Manaphy Mission.png"
+    "location_size": 10,
+    "location_border_thickness": 1,
+    "img": "images/Maps/With Pokemon/Manaphy Mission.png"
   },
   {
     "name": "Riolu Mission",
-    "location_size": 16,
-    "location_border_thickness": 4,
-    "img": "images/Maps/Riolu Mission.png"
+    "location_size": 10,
+    "location_border_thickness": 1,
+    "img": "images/Maps/With Pokemon/Riolu Mission.png"
   },
   {
     "name": "Tower Mission",
-    "location_size": 16,
-    "location_border_thickness": 4,
-    "img": "images/Maps/Tower Mission.png"
+    "location_size": 10,
+    "location_border_thickness": 1,
+    "img": "images/Maps/With Pokemon/Tower Mission.png"
   },
   {
     "name": "Dialga Mission",
-    "location_size": 16,
-    "location_border_thickness": 4,
-    "img": "images/Maps/Dialga Mission.png"
+    "location_size": 10,
+    "location_border_thickness": 1,
+    "img": "images/Maps/With Pokemon/Dialga Mission.png"
   },
   {
     "name": "Palkia Mission",
-    "location_size": 16,
-    "location_border_thickness": 4,
-    "img": "images/Maps/Palkia Mission.png"
+    "location_size": 10,
+    "location_border_thickness": 1,
+    "img": "images/Maps/With Pokemon/Palkia Mission.png"
   },
   {
     "name": "Shaymin Mission",
-    "location_size": 16,
-    "location_border_thickness": 4,
-    "img": "images/Maps/Shaymin Mission.png"
+    "location_size": 10,
+    "location_border_thickness": 1,
+    "img": "images/Maps/With Pokemon/Shaymin Mission.png"
   }
 ]

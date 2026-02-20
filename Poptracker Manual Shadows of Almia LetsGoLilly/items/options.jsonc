@@ -1,0 +1,92 @@
+[
+    {
+    "name": "Force Gems Local",
+    "codes": "GemsLocal",
+    "img": "images/Options/Gems Local.png",
+    "type": "toggle"
+  },
+    {
+    "name": "Goal",
+    "type": "progressive",
+    "loop": true,
+    "initial_stage_idx": 0,
+    "allow_disabled": false,
+    "stages": [
+      {
+        "img": "images/Options/Darkrai Victory.png",
+        "codes": "DarkraiVictory",
+        "name": "Darkrai Goal",
+        "inherit_codes": false
+      },
+      {
+        "img": "images/Options/Regigigas Victory.png",
+        "codes": "RegigigasVictory",
+        "name": "Regigigas Goal",
+        "inherit_codes": false
+      },
+      {
+        "img": "images/Options/Darkrai And Regigigas Victory.png",
+        "codes": "DarkraiRegigigasVictory",
+        "name": "Darkrai & Regigigas Goal",
+        "inherit_codes": false
+      },
+      {
+        "img": "images/Options/Legendary Victory.png",
+        "codes": "LegendaryVictory",
+        "name": "All Legendarys Goal",
+        "inherit_codes": false
+      },
+            {
+        "img": "images/Options/Catch em All Victory.png",
+        "codes": "CatchemVictory",
+        "name": "Catch 'em All Goal",
+        "inherit_codes": false
+      }
+    ],
+    "codes": "victory_condition"
+  },
+  {
+    "name": "Goal",
+    "type": "progressive",
+    "loop": true,
+    "initial_stage_idx": 0,
+    "allow_disabled": false,
+    "stages": [
+      {
+        "img": "images/Options/Missions.png",
+        "codes": "MissionsYes",
+        "name": "Enable Missions",
+        "inherit_codes": false
+      },
+      {
+        "img": "images/Options/Missions No.png",
+        "codes": "MissionsNo",
+        "name": "Disable Missions",
+        "inherit_codes": false
+      }
+    ],
+    "codes": "mission_toggle"
+  },
+  {
+    "name": "Goal",
+    "type": "progressive",
+    "loop": true,
+    "initial_stage_idx": 0,
+    "allow_disabled": false,
+    "stages": [
+      {
+        "img": "images/Options/Celebi.png",
+        "codes": "CelebiYes",
+        "name": "Enable Celebi",
+        "inherit_codes": false
+      },
+      {
+        "img": "images/Options/Celebi No.png",
+        "codes": "CelebiNo",
+        "name": "Disable Celebi",
+        "inherit_codes": false
+      }
+    ],
+    "codes": "celebi_toggle"
+  }
+]

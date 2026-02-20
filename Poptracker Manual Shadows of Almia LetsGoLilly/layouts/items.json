@@ -1,35 +1,748 @@
 {
-  "items": {
-    "type": "itemgrid",
-    "item_margin": "4, 4",
-    "margin": "0, 0",
-    "h_alignment": "stretch",
-    "rows": [
-      [ "Chicole Path Permit", "Vientown Permit", "School Road Permit", "Ranger School Permit", "", "Chicole Village Fly Point", "Vientown Fly Point", "", "Green Boat Key", "", "ManaphyM", "RioluM", "", "Normal", "Munchlax", "Flying", "Starly", "Electric", "Pachirisu", "", "Agility", "Doduo", "Burn", "Psy Power", "", "Garchomp", "Magmortar", "Gallade", ""],
-      [ "Cargo Ship Permit", "Marine Cave Permit", "Vien Forest Permit", "Pueltown Permit", "", "Ranger School Fly Point", "Pueltown Fly Point", "", "Light Blue Boat Key", "", "TowerM", "DialgaM", "", "Grass", "Turtwig", "Fire", "Chimchar", "Recharge Assist", "", "", "Fly", "Staraptor", "Crush", "Soak", "", "Regirock", "Regice", "Registeel", "Regigigas"],
-      [ "Altru Park Permit", "Altru Building Permit", "Altru Tower Permit", "Chroma Road Permit", "", "Altru Building Fly Point", "Altru Tower Fly Point", "", "Dark Blue Boat Key", "", "PalkiaM", "ShayminM", "", "Water", "Piplup", "Dark", "Sneasel", "", "", "", "Airlift", "Drifloon", "Cut", "Tackle", "", "", "", "", ""],
-      [ "Chroma Highlands Permit", "Chroma Ruins Permit", "Union Road Permit", "Peril Cliffs Permit", "", "Chroma Highlands Fly Point", "Chroma Ruins Fly Point", "", "Red Boat Key", "", "", "", "", "Rock", "Cranidos", "Steel", "Shieldon", "", "", "", "Elevate", "Drifblim", "Electrify", "", "", "Blue Gem", "Red Gem", "Darkrai", ""],
-      [ "Ranger Union Permit", "Crysta Cave Permit", "Hia Valley Permit", "Shiver Camp Permit", "", "Ranger Union Fly Point", "Shiver Camp Fly Point", "", "Orange Boat Key", "", "Charge 1", "Ranger Net", "", "Fighting", "Machop", "Psychic", "Mime Jr", "", "", "", "Magma Flow", "Torkoal", "Dark Power", "", "", "Yellow Gem", "Shadow Crystal", "", ""],
-      [ "Ice Lake Permit", "Almia Castle Permit", "Puel Sea Permit", "Sea of Wailord Permit", "", "Almia Castle Fly Point", "Boyleland Fly Point", "", "Wailord", "", "", "", "", "Ground", "Hippopotas", "Dragon", "Gible", "", "", "", "River Flow 1", "Floatzel", "Flash", "", "", "", "", "", ""],
-      [ "Boyleland Permit", "Volcano Cave Permit", "Haruba Village Permit", "Haruba Desert Permit", "", "Haruba Village Fly Point", "Hippowdon Temple Fly Point", "", "", "", "", "", "", "Ghost", "Misdreavus", "Poison", "Croagunk", "", "", "", "River Flow 2", "Empoleon", "Teleport", "", "", "Cresselia", "Heatran", "", "Celebi"],
-      [ "Hippowdon Temple Permit", "Capture Arena Permit 1", "Oil Field Hideout Permit", "", "", "Capture Arena Fly Point", "Oil Field Hideout Fly Point", "", "", "", "", "", "", "Bug", "Kricketot", "Ice", "Snover", "", "", "", "Swim", "Mantine", "Recharge", "", "", "Manaphy Egg", "Dialga", "Palkia", "Shaymin"]
-    ]
-  },
-  "broadcast": {
-    "type": "itemgrid",
-    "background": "#303841",
-    "item_margin": "4, 4",
-    "margin": "0, 0",
-    "h_alignment": "stretch",
-    "rows": [
-      [ "Chicole Path Permit", "Vientown Permit", "School Road Permit", "Ranger School Permit", "", "Chicole Village Fly Point", "Vientown Fly Point", "", "Green Boat Key", "", "ManaphyM", "RioluM", "", "Normal", "Munchlax", "Flying", "Starly", "Electric", "Pachirisu", "", "Agility", "Doduo", "Burn", "Psy Power", "", "Garchomp", "Magmortar", "Gallade", ""],
-      [ "Cargo Ship Permit", "Marine Cave Permit", "Vien Forest Permit", "Pueltown Permit", "", "Ranger School Fly Point", "Pueltown Fly Point", "", "Light Blue Boat Key", "", "TowerM", "DialgaM", "", "Grass", "Turtwig", "Fire", "Chimchar", "Recharge Assist", "", "", "Fly", "Staraptor", "Crush", "Soak", "", "Regirock", "Regice", "Registeel", "Regigigas"],
-      [ "Altru Park Permit", "Altru Building Permit", "Altru Tower Permit", "Chroma Road Permit", "", "Altru Building Fly Point", "Altru Tower Fly Point", "", "Dark Blue Boat Key", "", "PalkiaM", "ShayminM", "", "Water", "Piplup", "Dark", "Sneasel", "", "", "", "Airlift", "Drifloon", "Cut", "Tackle", "", "", "", "", ""],
-      [ "Chroma Highlands Permit", "Chroma Ruins Permit", "Union Road Permit", "Peril Cliffs Permit", "", "Chroma Highlands Fly Point", "Chroma Ruins Fly Point", "", "Red Boat Key", "", "", "", "", "Rock", "Cranidos", "Steel", "Shieldon", "", "", "", "Elevate", "Drifblim", "Electrify", "", "", "Blue Gem", "Red Gem", "Darkrai", ""],
-      [ "Ranger Union Permit", "Crysta Cave Permit", "Hia Valley Permit", "Shiver Camp Permit", "", "Ranger Union Fly Point", "Shiver Camp Fly Point", "", "Orange Boat Key", "", "Charge 1", "Ranger Net", "", "Fighting", "Machop", "Psychic", "Mime Jr", "", "", "", "Magma Flow", "Torkoal", "Dark Power", "", "", "Yellow Gem", "Shadow Crystal", "", ""],
-      [ "Ice Lake Permit", "Almia Castle Permit", "Puel Sea Permit", "Sea of Wailord Permit", "", "Almia Castle Fly Point", "Boyleland Fly Point", "", "Wailord", "", "", "", "", "Ground", "Hippopotas", "Dragon", "Gible", "", "", "", "River Flow 1", "Floatzel", "Flash", "", "", "", "", "", ""],
-      [ "Boyleland Permit", "Volcano Cave Permit", "Haruba Village Permit", "Haruba Desert Permit", "", "Haruba Village Fly Point", "Hippowdon Temple Fly Point", "", "", "", "", "", "", "Ghost", "Misdreavus", "Poison", "Croagunk", "", "", "", "River Flow 2", "Empoleon", "Teleport", "", "", "Cresselia", "Heatran", "", "Celebi"],
-      [ "Hippowdon Temple Permit", "Capture Arena Permit 1", "Oil Field Hideout Permit", "", "", "Capture Arena Fly Point", "Oil Field Hideout Fly Point", "", "", "", "", "", "", "Bug", "Kricketot", "Ice", "Snover", "", "", "", "Swim", "Mantine", "Recharge", "", "", "Manaphy Egg", "Dialga", "Palkia", "Shaymin"]
-    ]
-  }
+  "permit_grid": {
+      "type": "array",
+      "orientation": "vertical",
+      "margin": "0,0",
+      "content": [
+        {
+          "type": "array",
+          "orientation": "horizontal",
+          "margin": "5,0",
+          "content": [
+            {
+              "type": "itemgrid",
+              "item_margin": "5,0",
+              "h_alignment": "left",
+              "rows": [
+                [
+                  "Chicole Path Permit", 
+                  "Vientown Permit", 
+                  "School Road Permit", 
+                  "Ranger School Permit"
+                ],
+                [ 
+                  "Cargo Ship Permit", 
+                  "Marine Cave Permit", 
+                  "Vien Forest Permit", 
+                  "Pueltown Permit"
+                ],
+                [ 
+                  "Altru Park Permit", 
+                  "Altru Building Permit", 
+                  "Altru Tower Permit", 
+                  "Chroma Road Permit"
+                ],
+                [
+                 "Chroma Highlands Permit", 
+                 "Chroma Ruins Permit", 
+                 "Union Road Permit", 
+                 "Peril Cliffs Permit" 
+                ],
+                [
+                  "Ranger Union Permit", 
+                  "Crysta Cave Permit", 
+                  "Hia Valley Permit", 
+                  "Shiver Camp Permit"
+                ],
+                [
+                  "Ice Lake Permit", 
+                  "Almia Castle Permit", 
+                  "Puel Sea Permit", 
+                  "Sea of Wailord Permit"
+                ],
+                [
+                  "Boyleland Permit", 
+                  "Volcano Cave Permit", 
+                  "Haruba Village Permit", 
+                  "Haruba Desert Permit"
+                ],
+                [
+                  "Hippowdon Temple Permit", 
+                  "Capture Arena Permit 1", 
+                  "Oil Field Hideout Permit"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "fly_point_grid": {
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "0,0",
+        "content": [
+            {
+                "type": "array",
+                "orientation": "horizontal",
+                "margin": "5,0",
+                "content": [
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "5, 0",
+                        "h_alignment": "left",
+                        "rows": [
+                            [
+                              "Chicole Village Fly Point", 
+                              "Vientown Fly Point"
+                            ],
+                            [
+                              "Ranger School Fly Point", 
+                              "Pueltown Fly Point"
+                            ],
+                            [
+                              "Altru Building Fly Point", 
+                              "Altru Tower Fly Point"
+                            ],
+                            [
+                              "Chroma Highlands Fly Point", 
+                              "Chroma Ruins Fly Point"
+                            ],
+                            [
+                              "Ranger Union Fly Point", 
+                              "Shiver Camp Fly Point"
+                            ],
+                            [
+                              "Almia Castle Fly Point", 
+                              "Boyleland Fly Point"
+                            ],
+                            [
+                              "Haruba Village Fly Point", 
+                              "Hippowdon Temple Fly Point"
+                            ],
+                            [
+                              "Capture Arena Fly Point", 
+                              "Oil Field Hideout Fly Point"
+                            ]
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+        "boat_grid": {
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "0,0",
+        "content": [
+            {
+                "type": "array",
+                "orientation": "horizontal",
+                "margin": "5,0",
+                "content": [
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "5, 0",
+                        "h_alignment": "left",
+                        "rows": [
+                            [
+                                "Green Boat Key"
+                            ],
+                            [
+                                "Light Blue Boat Key"
+                            ],
+                            [
+                                "Dark Blue Boat Key"
+                            ],
+                            [
+                                "Red Boat Key"
+                            ],
+                            [
+                                "Orange Boat Key"
+                            ],
+                            [
+                                "Wailord"
+                            ]
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+        "mission_grid": {
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "0,0",
+        "content": [
+            {
+                "type": "array",
+                "orientation": "horizontal",
+                "margin": "5,0",
+                "content": [
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "5, 0",
+                        "h_alignment": "left",
+                        "rows": [
+                            [
+                                "ManaphyM",
+                                "RioluM"
+                            ],
+                            [
+                                "TowerM",
+                                "DialgaM"
+                            ],
+                            [
+                                "PalkiaM",
+                                "ShayminM"
+                            ],
+                            [
+                                "",
+                                ""
+                            ],
+                            [
+                                "Charge 1",
+                                "Ranger Net"
+                            ]
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+        "partner_grid": {
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "0,0",
+        "content": [
+            {
+                "type": "array",
+                "orientation": "horizontal",
+                "margin": "5,0",
+                "content": [
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "5, 0",
+                        "h_alignment": "left",
+                        "rows": [
+                            [
+                                "Normal",
+                                "Munchlax",
+                                "Flying",
+                                "Starly",
+                                "Electric",
+                                "Pachirisu"
+                            ],
+                            [
+                                "Grass",
+                                "Turtwig",
+                                "Fire",
+                                "Chimchar",
+                                "Recharge Assist"
+                            ],
+                            [
+                                "Water",
+                                "Piplup",
+                                "Dark",
+                                "Sneasel"
+                            ],
+                            [
+                                "Rock",
+                                "Cranidos",
+                                "Steel",
+                                "Shieldon"
+                            ],
+                            [
+                                "Fighting",
+                                "Machop",
+                                "Psychic",
+                                "Mime Jr."
+                            ],
+                            [
+                                "Ground",
+                                "Hippopotas",
+                                "Dragon",
+                                "Gible"
+                            ],
+                            [
+                                "Ghost",
+                                "Misdreavus",
+                                "Poison",
+                                "Croagunk"
+                            ],
+                            [
+                                "Bug",
+                                "Kricketot",
+                                "Ice",
+                                "Snover"
+                            ]
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+        "fieldmove_grid": {
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "0,0",
+        "content": [
+            {
+                "type": "array",
+                "orientation": "horizontal",
+                "margin": "5,0",
+                "content": [
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "5, 0",
+                        "h_alignment": "left",
+                        "rows": [
+                            [
+                                "Agility", 
+                                "Doduo", 
+                                "Burn", 
+                                "Psy Power"
+                            ],
+                            [
+                                "Fly", 
+                                "Staraptor", 
+                                "Crush", 
+                                "Soak"
+                            ],
+                            [
+                                "Airlift", 
+                                "Drifloon", 
+                                "Cut", 
+                                "Tackle"
+                            ],
+                            [
+                                "Elevate", 
+                                "Drifblim", 
+                                "Electrify"
+                            ],
+                            [
+                                "Magma Flow", 
+                                "Torkoal", 
+                                "Dark Power"
+                            ],
+                            [
+                                "River Flow 1", 
+                                "Floatzel", 
+                                "Flash"
+                            ],
+                            [
+                                "River Flow 2", 
+                                "Empoleon", 
+                                "Teleport"
+                            ],
+                            [
+                                "Swim", 
+                                "Mantine", 
+                                "Recharge"
+                            ]
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+        "legendary_grid": {
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "0,0",
+        "content": [
+            {
+                "type": "array",
+                "orientation": "horizontal",
+                "margin": "5,0",
+                "content": [
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "5, 0",
+                        "h_alignment": "left",
+                        "rows": [
+                            [
+                                "Garchomp", 
+                                "Magmortar", 
+                                "Gallade"
+                            ],
+                            [
+                                "Regirock", 
+                                "Regice", 
+                                "Registeel", 
+                                "Regigigas"
+                            ],
+                            [
+                                ""
+                            ],
+                            [
+                                "Blue Gem", 
+                                "Red Gem", 
+                                "Darkrai"
+                            ],
+                            [
+                                "Yellow Gem", 
+                                "Shadow Crystal"
+                            ],
+                            [
+                                ""
+                            ],
+                            [
+                                "Cresselia", 
+                                "Heatran", 
+                                "", 
+                                "Celebi"
+                            ],
+                            [
+                                "Manaphy Egg", 
+                                "Dialga", 
+                                "Palkia", 
+                                "Shaymin"
+                            ]
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "almia_browser": {
+        "type": "group",
+        "orientation": "horizontal",
+        "h_alignment": "center",
+        "v_alignment": "center",
+        "margin": "0,0",
+        "content": [
+            {
+                "type": "itemgrid",
+                "item_margin": "5, 0",
+                "item_size": "40,40",
+                "h_alignment": "center",
+                "rows": [
+                    [
+                        "Pichu",
+                        "Pikachu",
+                        "Raichu",
+                        "Bidoof",
+                        "Bibarel",
+                        "Taillow",
+                        "Swellow",
+                        "Budew",
+                        "Roselia",
+                        "Roserade",
+                        "Squirtle",
+                        "Wartortle",
+                        "Blastoise",
+                        "Zubat",
+                        "Golbat",
+                        "Crobat",
+                        "Gastly"
+                    ],
+                    [
+                        "Haunter",
+                        "Gengar",
+                        "Buneary",
+                        "Lopunny",
+                        "Happiny",
+                        "Starly",
+                        "Staravia",
+                        "Staraptor",
+                        "Pachirisu",
+                        "Munchlax",
+                        "Makuhita",
+                        "Hariyama",
+                        "Bonsly",
+                        "Sudowoodo",
+                        "Slakoth",
+                        "Seedot",
+                        "Nuzleaf"
+                    ],
+                    [
+                        "Shiftry",
+                        "Tangrowth",
+                        "Shellos",
+                        "Gastrodon",
+                        "Glameow",
+                        "Purugly",
+                        "Geodude",
+                        "Graveler",
+                        "Golem",
+                        "Nosepass",
+                        "Probopass",
+                        "Miltank",
+                        "Cherubi",
+                        "Cherrim",
+                        "Shinx",
+                        "Luxio",
+                        "Luxray"
+                    ],
+                    [
+                        "Turtwig",
+                        "Grotle",
+                        "Torterra",
+                        "Buizel",
+                        "Floatzel",
+                        "Weedle",
+                        "Beedrill",
+                        "Combee",
+                        "Vespiquen",
+                        "Tyrogue",
+                        "Magnemite",
+                        "Magneton",
+                        "Magnezone",
+                        "Growlithe",
+                        "Arcanine",
+                        "Rattata",
+                        "Raticate"
+                    ],
+                    [
+                        "Chatot",
+                        "Elekid",
+                        "Electabuzz",
+                        "Electivire",
+                        "Magby",
+                        "Magmar",
+                        "Magmortar",
+                        "Voltorb",
+                        "Electrode",
+                        "Wingull",
+                        "Pelipper",
+                        "Croagunk",
+                        "Toxicroak",
+                        "Kricketot",
+                        "Kricketune",
+                        "Cranidos",
+                        "Rampardos"
+                    ],
+                    [
+                        "Finneon",
+                        "Lumineon",
+                        "Chinchou",
+                        "Lanturn",
+                        "Mantyke",
+                        "Mantine",
+                        "Qwilfish",
+                        "Corsola",
+                        "Staryu",
+                        "Starmie",
+                        "Sharpedo",
+                        "Eevee",
+                        "Vaporeon",
+                        "Jolteon",
+                        "Flareon",
+                        "Espeon",
+                        "Umbreon"
+                    ],
+                    [
+                        "Leafeon",
+                        "Glaceon",
+                        "Mareep",
+                        "Flaaffy",
+                        "Ampharos",
+                        "Aipom",
+                        "Ambipom",
+                        "Pineco",
+                        "Forretress",
+                        "Spearow",
+                        "Fearow",
+                        "Oddish",
+                        "Gloom",
+                        "Vileplume",
+                        "Bellossom",
+                        "Yanma",
+                        "Yanmega"
+                    ],
+                    [
+                        "Larvitar",
+                        "Pupitar",
+                        "Tyranitar",
+                        "Pinsir",
+                        "Numel",
+                        "Camerupt",
+                        "Mankey",
+                        "Primeape",
+                        "Gligar",
+                        "Gliscor",
+                        "Mawile",
+                        "Aron",
+                        "Lairon",
+                        "Aggron",
+                        "Doduo",
+                        "Dodrio",
+                        "Carnivine"
+                    ],
+                    [
+                        "Charmander",
+                        "Charmeleon",
+                        "Charizard",
+                        "Slugma",
+                        "Magcargo",
+                        "Drifloon",
+                        "Drifblim",
+                        "Stunky",
+                        "Skuntank",
+                        "Kangaskhan",
+                        "Shuppet",
+                        "Banette",
+                        "Rhyhorn",
+                        "Rhydon",
+                        "Rhyperior",
+                        "Muk",
+                        "Houndour"
+                    ],
+                    [
+                        "Houndoom",
+                        "Spinarak",
+                        "Ariados",
+                        "Ralts",
+                        "Kirlia",
+                        "Gardevoir",
+                        "Gallade",
+                        "Machop",
+                        "Machoke",
+                        "Machamp",
+                        "Mime Jr.",
+                        "Mr. Mime",
+                        "Drowzee",
+                        "Hypno",
+                        "Chimchar",
+                        "Monferno",
+                        "Infernape"
+                    ],
+                    [
+                        "Vulpix",
+                        "Ninetales",
+                        "Skorupi",
+                        "Drapion",
+                        "Lickilicky",
+                        "Ponyta",
+                        "Rapidash",
+                        "Girafarig",
+                        "Tauros",
+                        "Ninjask",
+                        "Shieldon",
+                        "Bastiodon",
+                        "Abra",
+                        "Alakazam",
+                        "Murkrow",
+                        "Honchkrow",
+                        "Koffing"
+                    ],
+                    [
+                        "Weezing",
+                        "Skarmory",
+                        "Duskull",
+                        "Dusclops",
+                        "Dusknoir",
+                        "Sableye",
+                        "Sandshrew",
+                        "Sandslash",
+                        "Spiritomb",
+                        "Spheal",
+                        "Sealeo",
+                        "Walrein",
+                        "Swinub",
+                        "Piloswine",
+                        "Mamoswine",
+                        "Jigglypuff",
+                        "Wigglytuff"
+                    ],
+                    [
+                        "Chingling",
+                        "Piplup",
+                        "Prinplup",
+                        "Empoleon",
+                        "Delibird",
+                        "Jynx",
+                        "Snover",
+                        "Abomasnow",
+                        "Snorunt",
+                        "Glalie",
+                        "Froslass",
+                        "Scyther",
+                        "Scizor",
+                        "Dratini",
+                        "Dragonair",
+                        "Misdreavus",
+                        "Mismagius"
+                    ],
+                    [
+                        "Riolu",
+                        "Lucario",
+                        "Torkoal",
+                        "Bagon",
+                        "Shelgon",
+                        "Salamence",
+                        "Heatran",
+                        "Horsea",
+                        "Seadra",
+                        "Kingdra",
+                        "Huntail",
+                        "Gorebyss",
+                        "Tentacruel",
+                        "Omanyte",
+                        "Omastar",
+                        "Wailmer",
+                        "Wailord"
+                    ],
+                    [
+                        "Cacnea",
+                        "Cacturne",
+                        "Mothim",
+                        "Victreebel",
+                        "Sceptile",
+                        "Sneasel",
+                        "Weavile",
+                        "Hippopotas",
+                        "Hippowdon",
+                        "Bronzor",
+                        "Bronzong",
+                        "Claydol",
+                        "Gible",
+                        "Gabite",
+                        "Garchomp",
+                        "Cresselia",
+                        "Blaziken"
+                    ],
+                    [
+                        "Absol",
+                        "Darkrai",
+                        "Aerodactyl",
+                        "Flygon",
+                        "Altaria",
+                        "Togekiss",
+                        "Porygon-Z",
+                        "Celebi",
+                        "Regirock",
+                        "Regice",
+                        "Registeel",
+                        "Regigigas",
+                        "Manaphy Egg",
+                        "Dialga",
+                        "Palkia",
+                        "Shaymin",
+                        ""
+                    ]
+                ]
+            }
+        ]
+    },
+        "broadcast": {
+        "type": "array",
+        "orientation": "vertical",
+        "margin": "0,0",
+        "content": [
+            {
+                "type": "array",
+                "orientation": "horizontal",
+                "margin": "5,0",
+                "content": [
+                    {
+                        "type": "itemgrid",
+                        "item_margin": "5, 0",
+                        "h_alignment": "left",
+                        "rows": [
+                            [ "Chicole Path Permit", "Vientown Permit", "School Road Permit", "Ranger School Permit", "", "Green Boat Key", "", "ManaphyM", "RioluM", "", "Agility", "Burn"],
+                            [ "Cargo Ship Permit", "Marine Cave Permit", "Vien Forest Permit", "Pueltown Permit", "", "Light Blue Boat Key", "", "TowerM", "DialgaM", "", "Fly", "Crush"],
+                            [ "Altru Park Permit", "Altru Building Permit", "Altru Tower Permit", "Chroma Road Permit", "", "Dark Blue Boat Key", "", "PalkiaM", "ShayminM", "", "Airlift", "Cut"],
+                            [ "Chroma Highlands Permit", "Chroma Ruins Permit", "Union Road Permit", "Peril Cliffs Permit", "", "Red Boat Key", "", "", "", "", "Elevate", "Electrify"],
+                            [ "Ranger Union Permit", "Crysta Cave Permit", "Hia Valley Permit", "Shiver Camp Permit", "", "Orange Boat Key", "", "Charge 1", "Ranger Net", "", "Magma Flow", "Soak"],
+                            [ "Ice Lake Permit", "Almia Castle Permit", "Puel Sea Permit", "Sea of Wailord Permit", "", "Wailord", "", "", "", "", "River Flow 1", "Tackle"],
+                            [ "Boyleland Permit", "Volcano Cave Permit", "Haruba Village Permit", "Haruba Desert Permit", "", "", "", "", "", "", "River Flow 2", "Psy Power"],
+                            [ "Hippowdon Temple Permit", "Capture Arena Permit 1", "Oil Field Hideout Permit", "", "", "Blue Gem", "Red Gem", "Yellow Gem", "Shadow Crystal", "", "Swim", "Dark Power"]
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
 }

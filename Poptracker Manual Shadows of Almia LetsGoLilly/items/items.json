@@ -331,7 +331,7 @@
   },
       {
     "name": "Mime Jr.",
-    "codes": "Mime Jr",
+    "codes": "Mime Jr.",
     "img": "images/Partner Pokemon/Mime Jr.png",
     "type": "toggle"
   },
@@ -884,6 +884,600 @@
     "name": "Celebi",
     "codes": "Celebi",
     "img": "images/Pokemon/263 Celebi.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Pichu",
+    "codes": "Pichu",
+    "img": "images/Pokemon/001 Pichu.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Pikachu",
+    "codes": "Pikachu",
+    "img": "images/Pokemon/002 Pikachu.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Raichu",
+    "codes": "Raichu",
+    "img": "images/Pokemon/003 Raichu.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Bidoof",
+    "codes": "Bidoof",
+    "img": "images/Pokemon/004 Bidoof.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Bibarel",
+    "codes": "Bibarel",
+    "img": "images/Pokemon/005 Bibarel.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Taillow",
+    "codes": "Taillow",
+    "img": "images/Pokemon/006 Taillow.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Swellow",
+    "codes": "Swellow",
+    "img": "images/Pokemon/007 Swellow.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Budew",
+    "codes": "Budew",
+    "img": "images/Pokemon/008 Budew.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Roselia",
+    "codes": "Roselia",
+    "img": "images/Pokemon/009 Roselia.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Roserade",
+    "codes": "Roserade",
+    "img": "images/Pokemon/010 Roserade.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Squirtle",
+    "codes": "Squirtle",
+    "img": "images/Pokemon/011 Squirtle.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Wartortle",
+    "codes": "Wartortle",
+    "img": "images/Pokemon/012 Wartortle.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Blastoise",
+    "codes": "Blastoise",
+    "img": "images/Pokemon/013 Blastoise.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Zubat",
+    "codes": "Zubat",
+    "img": "images/Pokemon/014 Zubat.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Golbat",
+    "codes": "Golbat",
+    "img": "images/Pokemon/015 Golbat.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Crobat",
+    "codes": "Crobat",
+    "img": "images/Pokemon/016 Crobat.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Gastly",
+    "codes": "Gastly",
+    "img": "images/Pokemon/017 Gastly.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Haunter",
+    "codes": "Haunter",
+    "img": "images/Pokemon/018 Haunter.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Gengar",
+    "codes": "Gengar",
+    "img": "images/Pokemon/019 Gengar.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Buneary",
+    "codes": "Buneary",
+    "img": "images/Pokemon/020 Buneary.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Lopunny",
+    "codes": "Lopunny",
+    "img": "images/Pokemon/021 Lopunny.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Happiny",
+    "codes": "Happiny",
+    "img": "images/Pokemon/022 Happiny.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Staravia",
+    "codes": "Staravia",
+    "img": "images/Pokemon/024 Staravia.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Makuhita",
+    "codes": "Makuhita",
+    "img": "images/Pokemon/028 Makuhita.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Hariyama",
+    "codes": "Hariyama",
+    "img": "images/Pokemon/029 Hariyama.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Bonsly",
+    "codes": "Bonsly",
+    "img": "images/Pokemon/030 Bonsly.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Sudowoodo",
+    "codes": "Sudowoodo",
+    "img": "images/Pokemon/031 Sudowoodo.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Slakoth",
+    "codes": "Slakoth",
+    "img": "images/Pokemon/032 Slakoth.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Seedot",
+    "codes": "Seedot",
+    "img": "images/Pokemon/033 Seedot.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Nuzleaf",
+    "codes": "Nuzleaf",
+    "img": "images/Pokemon/034 Nuzleaf.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Shiftry",
+    "codes": "Shiftry",
+    "img": "images/Pokemon/035 Shiftry.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Tangrowth",
+    "codes": "Tangrowth",
+    "img": "images/Pokemon/036 Tangrowth.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Shellos",
+    "codes": "Shellos",
+    "img": "images/Pokemon/037 Shellos.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Gastrodon",
+    "codes": "Gastrodon",
+    "img": "images/Pokemon/038 Gastrodon.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Glameow",
+    "codes": "Glameow",
+    "img": "images/Pokemon/039 Glameow.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Purugly",
+    "codes": "Purugly",
+    "img": "images/Pokemon/040 Purugly.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Geodude",
+    "codes": "Geodude",
+    "img": "images/Pokemon/041 Geodude.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Graveler",
+    "codes": "Graveler",
+    "img": "images/Pokemon/042 Graveler.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Golem",
+    "codes": "Golem",
+    "img": "images/Pokemon/043 Golem.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Nosepass",
+    "codes": "Nosepass",
+    "img": "images/Pokemon/044 Nosepass.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Probopass",
+    "codes": "Probopass",
+    "img": "images/Pokemon/045 Probopass.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Miltank",
+    "codes": "Miltank",
+    "img": "images/Pokemon/046 Miltank.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Cherubi",
+    "codes": "Cherubi",
+    "img": "images/Pokemon/047 Cherubi.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Cherrim",
+    "codes": "Cherrim",
+    "img": "images/Pokemon/048 Cherrim.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Shinx",
+    "codes": "Shinx",
+    "img": "images/Pokemon/049 Shinx.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Luxio",
+    "codes": "Luxio",
+    "img": "images/Pokemon/050 Luxio.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Luxray",
+    "codes": "Luxray",
+    "img": "images/Pokemon/051 Luxray.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Grotle",
+    "codes": "Grotle",
+    "img": "images/Pokemon/053 Grotle.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Torterra",
+    "codes": "Torterra",
+    "img": "images/Pokemon/054 Torterra.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Buizel",
+    "codes": "Buizel",
+    "img": "images/Pokemon/055 Buizel.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Weedle",
+    "codes": "Weedle",
+    "img": "images/Pokemon/057 Weedle.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Beedrill",
+    "codes": "Beedrill",
+    "img": "images/Pokemon/058 Beedrill.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Combee",
+    "codes": "Combee",
+    "img": "images/Pokemon/059 Combee.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Vespiquen",
+    "codes": "Vespiquen",
+    "img": "images/Pokemon/060 Vespiquen.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Tyrogue",
+    "codes": "Tyrogue",
+    "img": "images/Pokemon/061 Tyrogue.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Magnemite",
+    "codes": "Magnemite",
+    "img": "images/Pokemon/062 Magnemite.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Magneton",
+    "codes": "Magneton",
+    "img": "images/Pokemon/063 Magneton.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Magnezone",
+    "codes": "Magnezone",
+    "img": "images/Pokemon/064 Magnezone.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Growlithe",
+    "codes": "Growlithe",
+    "img": "images/Pokemon/065 Growlithe.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Arcanine",
+    "codes": "Arcanine",
+    "img": "images/Pokemon/066 Arcanine.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Rattata",
+    "codes": "Rattata",
+    "img": "images/Pokemon/067 Rattata.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Raticate",
+    "codes": "Raticate",
+    "img": "images/Pokemon/068 Raticate.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Chatot",
+    "codes": "Chatot",
+    "img": "images/Pokemon/069 Chatot.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Elekid",
+    "codes": "Elekid",
+    "img": "images/Pokemon/070 Elekid.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Electabuzz",
+    "codes": "Electabuzz",
+    "img": "images/Pokemon/071 Electabuzz.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Electivire",
+    "codes": "Electivire",
+    "img": "images/Pokemon/072 Electivire.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Magby",
+    "codes": "Magby",
+    "img": "images/Pokemon/073 Magby.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Magmar",
+    "codes": "Magmar",
+    "img": "images/Pokemon/074 Magmar.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Voltorb",
+    "codes": "Voltorb",
+    "img": "images/Pokemon/076 Voltorb.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Electrode",
+    "codes": "Electrode",
+    "img": "images/Pokemon/077 Electrode.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Wingull",
+    "codes": "Wingull",
+    "img": "images/Pokemon/078 Wingull.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Pelipper",
+    "codes": "Pelipper",
+    "img": "images/Pokemon/079 Pelipper.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Toxicroak",
+    "codes": "Toxicroak",
+    "img": "images/Pokemon/081 Toxicroak.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Kricketune",
+    "codes": "Kricketune",
+    "img": "images/Pokemon/083 Kricketune.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Rampardos",
+    "codes": "Rampardos",
+    "img": "images/Pokemon/085 Rampardos.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Finneon",
+    "codes": "Finneon",
+    "img": "images/Pokemon/086 Finneon.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Lumineon",
+    "codes": "Lumineon",
+    "img": "images/Pokemon/087 Lumineon.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Chinchou",
+    "codes": "Chinchou",
+    "img": "images/Pokemon/088 Chinchou.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Lanturn",
+    "codes": "Lanturn",
+    "img": "images/Pokemon/089 Lanturn.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Mantyke",
+    "codes": "Mantyke",
+    "img": "images/Pokemon/090 Mantyke.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Qwilfish",
+    "codes": "Qwilfish",
+    "img": "images/Pokemon/092 Qwilfish.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Corsola",
+    "codes": "Corsola",
+    "img": "images/Pokemon/093 Corsola.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Staryu",
+    "codes": "Staryu",
+    "img": "images/Pokemon/094 Staryu.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Starmie",
+    "codes": "Starmie",
+    "img": "images/Pokemon/095 Starmie.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Sharpedo",
+    "codes": "Sharpedo",
+    "img": "images/Pokemon/096 Sharpedo.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Eevee",
+    "codes": "Eevee",
+    "img": "images/Pokemon/097 Eevee.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Vaporeon",
+    "codes": "Vaporeon",
+    "img": "images/Pokemon/098 Vaporeon.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Jolteon",
+    "codes": "Jolteon",
+    "img": "images/Pokemon/099 Jolteon.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Flareon",
+    "codes": "Flareon",
+    "img": "images/Pokemon/100 Flareon.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Espeon",
+    "codes": "Espeon",
+    "img": "images/Pokemon/101 Espeon.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Umbreon",
+    "codes": "Umbreon",
+    "img": "images/Pokemon/102 Umbreon.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Leafeon",
+    "codes": "Leafeon",
+    "img": "images/Pokemon/103 Leafeon.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Glaceon",
+    "codes": "Glaceon",
+    "img": "images/Pokemon/104 Glaceon.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Mareep",
+    "codes": "Mareep",
+    "img": "images/Pokemon/105 Mareep.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Flaaffy",
+    "codes": "Flaaffy",
+    "img": "images/Pokemon/106 Flaaffy.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Ampharos",
+    "codes": "Ampharos",
+    "img": "images/Pokemon/107 Ampharos.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Aipom",
+    "codes": "Aipom",
+    "img": "images/Pokemon/108 Aipom.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Ambipom",
+    "codes": "Ambipom",
+    "img": "images/Pokemon/109 Ambipom.png",
+    "type": "toggle"
+  },
+      {
+    "name": "@",
+    "codes": "@",
+    "img": "images/Pokemon/110 @.png",
     "type": "toggle"
   }
 ]
