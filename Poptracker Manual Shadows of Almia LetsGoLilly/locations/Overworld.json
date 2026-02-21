@@ -1,0 +1,4367 @@
+[
+    {
+        "name": "Overworld",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            " "
+        ],
+        "children": [
+            {
+                "name": "AlBu_",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Capture Gallade - Gallade",
+                        "ref": "AlBu_/Capture Gallade/Gallade"
+                    },
+                    {
+                        "name": "Capture Gallade - Gallade (Pokemon)",
+                        "ref": "AlBu_/Capture Gallade/Gallade (Pokemon)"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 980,
+                        "y": 840,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "AlBu_AlCa_",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Capture Scyther - Scyther",
+                        "ref": "AlBu_AlCa_/Capture Scyther/Scyther"
+                    },
+                    {
+                        "name": "Capture Scyther - Scyther (Pokemon)",
+                        "ref": "AlBu_AlCa_/Capture Scyther/Scyther (Pokemon)"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 1798,
+                        "y": 2373,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "AlBu_AlTo_CaAr_ToMi_ShMi_",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Capture Absol - Absol",
+                        "ref": "AlBu_AlTo_CaAr_ToMi_ShMi_/Capture Absol/Absol"
+                    },
+                    {
+                        "name": "Capture Absol - Absol (Pokemon)",
+                        "ref": "AlBu_AlTo_CaAr_ToMi_ShMi_/Capture Absol/Absol (Pokemon)"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 1776,
+                        "y": 295,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "AlBu_AlTo_HaDe_HiTe_OiHi_RiMi_ToMi_PaMi_",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Capture Magneton - Magneton",
+                        "ref": "AlBu_AlTo_HaDe_HiTe_OiHi_RiMi_ToMi_PaMi_/Capture Magneton/Magneton"
+                    },
+                    {
+                        "name": "Capture Magneton - Magneton (Pokemon)",
+                        "ref": "AlBu_AlTo_HaDe_HiTe_OiHi_RiMi_ToMi_PaMi_/Capture Magneton/Magneton (Pokemon)"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 1165,
+                        "y": 537,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "AlBu_AlTo_HiTe_CaAr_ToMi_",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Capture Gengar - Gengar",
+                        "ref": "AlBu_AlTo_HiTe_CaAr_ToMi_/Capture Gengar/Gengar"
+                    },
+                    {
+                        "name": "Capture Gengar - Gengar (Pokemon)",
+                        "ref": "AlBu_AlTo_HiTe_CaAr_ToMi_/Capture Gengar/Gengar (Pokemon)"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 2479,
+                        "y": 2074,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "AlBu_AlTo_ToMi_",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Capture Ampharos - Ampharos",
+                        "ref": "AlBu_AlTo_ToMi_/Capture Ampharos/Ampharos"
+                    },
+                    {
+                        "name": "Capture Ampharos - Ampharos (Pokemon)",
+                        "ref": "AlBu_AlTo_ToMi_/Capture Ampharos/Ampharos (Pokemon)"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 454,
+                        "y": 1970,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "AlBu_AlTo_ToMi_PaMi_",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Capture Primeape - Primeape",
+                        "ref": "AlBu_AlTo_ToMi_PaMi_/Capture Primeape/Primeape"
+                    },
+                    {
+                        "name": "Capture Primeape - Primeape (Pokemon)",
+                        "ref": "AlBu_AlTo_ToMi_PaMi_/Capture Primeape/Primeape (Pokemon)"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 2299,
+                        "y": 1552,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "AlBu_CaAr_",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Capture Crobat - Crobat",
+                        "ref": "AlBu_CaAr_/Capture Crobat/Crobat"
+                    },
+                    {
+                        "name": "Capture Crobat - Crobat (Pokemon)",
+                        "ref": "AlBu_CaAr_/Capture Crobat/Crobat (Pokemon)"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 1663,
+                        "y": 1367,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "AlBu_CaAr_ToMi_",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Capture Blaziken - Blaziken",
+                        "ref": "AlBu_CaAr_ToMi_/Capture Blaziken/Blaziken"
+                    },
+                    {
+                        "name": "Capture Blaziken - Blaziken (Pokemon)",
+                        "ref": "AlBu_CaAr_ToMi_/Capture Blaziken/Blaziken (Pokemon)"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 2295,
+                        "y": 2107,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "AlBu_HiTe_CaAr_ToMi_",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Capture Ariados - Ariados",
+                        "ref": "AlBu_HiTe_CaAr_ToMi_/Capture Ariados/Ariados"
+                    },
+                    {
+                        "name": "Capture Ariados - Ariados (Pokemon)",
+                        "ref": "AlBu_HiTe_CaAr_ToMi_/Capture Ariados/Ariados (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Gabite - Gabite",
+                        "ref": "AlBu_HiTe_CaAr_ToMi_/Capture Gabite/Gabite"
+                    },
+                    {
+                        "name": "Capture Gabite - Gabite (Pokemon)",
+                        "ref": "AlBu_HiTe_CaAr_ToMi_/Capture Gabite/Gabite (Pokemon)"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 625,
+                        "y": 1814,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "AlBu_ToMi_",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Capture Electrode - Electrode",
+                        "ref": "AlBu_ToMi_/Capture Electrode/Electrode"
+                    },
+                    {
+                        "name": "Capture Electrode - Electrode (Pokemon)",
+                        "ref": "AlBu_ToMi_/Capture Electrode/Electrode (Pokemon)"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 2055,
+                        "y": 1778,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "AlBu_ToMi_PaMi_",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Capture Scizor - Scizor",
+                        "ref": "AlBu_ToMi_PaMi_/Capture Scizor/Scizor"
+                    },
+                    {
+                        "name": "Capture Scizor - Scizor (Pokemon)",
+                        "ref": "AlBu_ToMi_PaMi_/Capture Scizor/Scizor (Pokemon)"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 148,
+                        "y": 2039,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "AlCa_",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Capture Weezing - Weezing",
+                        "ref": "AlCa_/Capture Weezing/Weezing"
+                    },
+                    {
+                        "name": "Capture Weezing - Weezing (Pokemon)",
+                        "ref": "AlCa_/Capture Weezing/Weezing (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Snorunt - Snorunt",
+                        "ref": "AlCa_/Capture Snorunt/Snorunt"
+                    },
+                    {
+                        "name": "Capture Snorunt - Snorunt (Pokemon)",
+                        "ref": "AlCa_/Capture Snorunt/Snorunt (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Froslass - Froslass",
+                        "ref": "AlCa_/Capture Froslass/Froslass"
+                    },
+                    {
+                        "name": "Capture Froslass - Froslass (Pokemon)",
+                        "ref": "AlCa_/Capture Froslass/Froslass (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Dratini - Dratini",
+                        "ref": "AlCa_/Capture Dratini/Dratini"
+                    },
+                    {
+                        "name": "Capture Dratini - Dratini (Pokemon)",
+                        "ref": "AlCa_/Capture Dratini/Dratini (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Dragonair - Dragonair",
+                        "ref": "AlCa_/Capture Dragonair/Dragonair"
+                    },
+                    {
+                        "name": "Capture Dragonair - Dragonair (Pokemon)",
+                        "ref": "AlCa_/Capture Dragonair/Dragonair (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Regice - Regice",
+                        "ref": "AlCa_/Capture Regice/Regice"
+                    },
+                    {
+                        "name": "Capture Regice - Regice (Pokemon)",
+                        "ref": "AlCa_/Capture Regice/Regice (Pokemon)"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 1152,
+                        "y": 2040,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "AlCa_CaAr_DiMi_",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Capture Weavile - Weavile",
+                        "ref": "AlCa_CaAr_DiMi_/Capture Weavile/Weavile"
+                    },
+                    {
+                        "name": "Capture Weavile - Weavile (Pokemon)",
+                        "ref": "AlCa_CaAr_DiMi_/Capture Weavile/Weavile (Pokemon)"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 938,
+                        "y": 2167,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "AlCa_CaAr_ToMi_AlTo_",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Capture Vaporeon - Vaporeon",
+                        "ref": "AlCa_CaAr_ToMi_AlTo_/Capture Vaporeon/Vaporeon"
+                    },
+                    {
+                        "name": "Capture Vaporeon - Vaporeon (Pokemon)",
+                        "ref": "AlCa_CaAr_ToMi_AlTo_/Capture Vaporeon/Vaporeon (Pokemon)"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 2201,
+                        "y": 2150,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "AlCa_DiMi_",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Capture Ninetales - Ninetales",
+                        "ref": "AlCa_DiMi_/Capture Ninetales/Ninetales"
+                    },
+                    {
+                        "name": "Capture Ninetales - Ninetales (Pokemon)",
+                        "ref": "AlCa_DiMi_/Capture Ninetales/Ninetales (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Wigglytuff - Wigglytuff",
+                        "ref": "AlCa_DiMi_/Capture Wigglytuff/Wigglytuff"
+                    },
+                    {
+                        "name": "Capture Wigglytuff - Wigglytuff (Pokemon)",
+                        "ref": "AlCa_DiMi_/Capture Wigglytuff/Wigglytuff (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Mismagius - Mismagius",
+                        "ref": "AlCa_DiMi_/Capture Mismagius/Mismagius"
+                    },
+                    {
+                        "name": "Capture Mismagius - Mismagius (Pokemon)",
+                        "ref": "AlCa_DiMi_/Capture Mismagius/Mismagius (Pokemon)"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 1354,
+                        "y": 308,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "AlCa_DiMi_PaMi_",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Capture Walrein - Walrein",
+                        "ref": "AlCa_DiMi_PaMi_/Capture Walrein/Walrein"
+                    },
+                    {
+                        "name": "Capture Walrein - Walrein (Pokemon)",
+                        "ref": "AlCa_DiMi_PaMi_/Capture Walrein/Walrein (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Swinub - Swinub",
+                        "ref": "AlCa_DiMi_PaMi_/Capture Swinub/Swinub"
+                    },
+                    {
+                        "name": "Capture Swinub - Swinub (Pokemon)",
+                        "ref": "AlCa_DiMi_PaMi_/Capture Swinub/Swinub (Pokemon)"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 1173,
+                        "y": 1473,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "AlCa_OiHi_RiMi_ToMi_DiMi_PaMi_",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Capture Haunter - Haunter",
+                        "ref": "AlCa_OiHi_RiMi_ToMi_DiMi_PaMi_/Capture Haunter/Haunter"
+                    },
+                    {
+                        "name": "Capture Haunter - Haunter (Pokemon)",
+                        "ref": "AlCa_OiHi_RiMi_ToMi_DiMi_PaMi_/Capture Haunter/Haunter (Pokemon)"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 591,
+                        "y": 1602,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "AlCa_RiMi_DiMi_",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Capture Riolu - Riolu",
+                        "ref": "AlCa_RiMi_DiMi_/Capture Riolu/Riolu"
+                    },
+                    {
+                        "name": "Capture Riolu - Riolu (Pokemon)",
+                        "ref": "AlCa_RiMi_DiMi_/Capture Riolu/Riolu (Pokemon)"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 94,
+                        "y": 2491,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "AlCa_ToMi_DiMi_",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Capture Glalie - Glalie",
+                        "ref": "AlCa_ToMi_DiMi_/Capture Glalie/Glalie"
+                    },
+                    {
+                        "name": "Capture Glalie - Glalie (Pokemon)",
+                        "ref": "AlCa_ToMi_DiMi_/Capture Glalie/Glalie (Pokemon)"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 331,
+                        "y": 2226,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "AlTo_",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Capture Darkrai - Darkrai",
+                        "ref": "AlTo_/Capture Darkrai/Darkrai"
+                    },
+                    {
+                        "name": "Capture Darkrai - Darkrai (Pokemon)",
+                        "ref": "AlTo_/Capture Darkrai/Darkrai (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Togekiss - Togekiss",
+                        "ref": "AlTo_/Capture Togekiss/Togekiss"
+                    },
+                    {
+                        "name": "Capture Togekiss - Togekiss (Pokemon)",
+                        "ref": "AlTo_/Capture Togekiss/Togekiss (Pokemon)"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 610,
+                        "y": 1872,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "AlTo_CaAr_",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Capture Alakazam - Alakazam",
+                        "ref": "AlTo_CaAr_/Capture Alakazam/Alakazam"
+                    },
+                    {
+                        "name": "Capture Alakazam - Alakazam (Pokemon)",
+                        "ref": "AlTo_CaAr_/Capture Alakazam/Alakazam (Pokemon)"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 1906,
+                        "y": 1056,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "AlTo_CaAr_ToMi_",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Capture Gardevoir - Gardevoir",
+                        "ref": "AlTo_CaAr_ToMi_/Capture Gardevoir/Gardevoir"
+                    },
+                    {
+                        "name": "Capture Gardevoir - Gardevoir (Pokemon)",
+                        "ref": "AlTo_CaAr_ToMi_/Capture Gardevoir/Gardevoir (Pokemon)"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 550,
+                        "y": 2332,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "AlTo_HiTe_RiMi_ToMi_",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Capture Golem - Golem",
+                        "ref": "AlTo_HiTe_RiMi_ToMi_/Capture Golem/Golem"
+                    },
+                    {
+                        "name": "Capture Golem - Golem (Pokemon)",
+                        "ref": "AlTo_HiTe_RiMi_ToMi_/Capture Golem/Golem (Pokemon)"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 28,
+                        "y": 577,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "AlTo_OiHi_RiMi_ToMi_PaMi_",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Capture Arcanine - Arcanine",
+                        "ref": "AlTo_OiHi_RiMi_ToMi_PaMi_/Capture Arcanine/Arcanine"
+                    },
+                    {
+                        "name": "Capture Arcanine - Arcanine (Pokemon)",
+                        "ref": "AlTo_OiHi_RiMi_ToMi_PaMi_/Capture Arcanine/Arcanine (Pokemon)"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 437,
+                        "y": 420,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "AlTo_VoCa_HaDe_ToMi_",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Capture Rhydon - Rhydon",
+                        "ref": "AlTo_VoCa_HaDe_ToMi_/Capture Rhydon/Rhydon"
+                    },
+                    {
+                        "name": "Capture Rhydon - Rhydon (Pokemon)",
+                        "ref": "AlTo_VoCa_HaDe_ToMi_/Capture Rhydon/Rhydon (Pokemon)"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 493,
+                        "y": 1782,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "CaAr_",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Capture Toxicroak - Toxicroak",
+                        "ref": "CaAr_/Capture Toxicroak/Toxicroak"
+                    },
+                    {
+                        "name": "Capture Toxicroak - Toxicroak (Pokemon)",
+                        "ref": "CaAr_/Capture Toxicroak/Toxicroak (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Yanmega - Yanmega",
+                        "ref": "CaAr_/Capture Yanmega/Yanmega"
+                    },
+                    {
+                        "name": "Capture Yanmega - Yanmega (Pokemon)",
+                        "ref": "CaAr_/Capture Yanmega/Yanmega (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Kangaskhan - Kangaskhan",
+                        "ref": "CaAr_/Capture Kangaskhan/Kangaskhan"
+                    },
+                    {
+                        "name": "Capture Kangaskhan - Kangaskhan (Pokemon)",
+                        "ref": "CaAr_/Capture Kangaskhan/Kangaskhan (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Rhyperior - Rhyperior",
+                        "ref": "CaAr_/Capture Rhyperior/Rhyperior"
+                    },
+                    {
+                        "name": "Capture Rhyperior - Rhyperior (Pokemon)",
+                        "ref": "CaAr_/Capture Rhyperior/Rhyperior (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Spiritomb - Spiritomb",
+                        "ref": "CaAr_/Capture Spiritomb/Spiritomb"
+                    },
+                    {
+                        "name": "Capture Spiritomb - Spiritomb (Pokemon)",
+                        "ref": "CaAr_/Capture Spiritomb/Spiritomb (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Mamoswine - Mamoswine",
+                        "ref": "CaAr_/Capture Mamoswine/Mamoswine"
+                    },
+                    {
+                        "name": "Capture Mamoswine - Mamoswine (Pokemon)",
+                        "ref": "CaAr_/Capture Mamoswine/Mamoswine (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Lucario - Lucario",
+                        "ref": "CaAr_/Capture Lucario/Lucario"
+                    },
+                    {
+                        "name": "Capture Lucario - Lucario (Pokemon)",
+                        "ref": "CaAr_/Capture Lucario/Lucario (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Heatran - Heatran",
+                        "ref": "CaAr_/Capture Heatran/Heatran"
+                    },
+                    {
+                        "name": "Capture Heatran - Heatran (Pokemon)",
+                        "ref": "CaAr_/Capture Heatran/Heatran (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Cresselia - Cresselia",
+                        "ref": "CaAr_/Capture Cresselia/Cresselia"
+                    },
+                    {
+                        "name": "Capture Cresselia - Cresselia (Pokemon)",
+                        "ref": "CaAr_/Capture Cresselia/Cresselia (Pokemon)"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 2479,
+                        "y": 1591,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "CaAr_OiHi_",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Capture Electivire - Electivire",
+                        "ref": "CaAr_OiHi_/Capture Electivire/Electivire"
+                    },
+                    {
+                        "name": "Capture Electivire - Electivire (Pokemon)",
+                        "ref": "CaAr_OiHi_/Capture Electivire/Electivire (Pokemon)"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 1659,
+                        "y": 2421,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "CaAr_OiHi_RiMi_",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Capture Honchkrow - Honchkrow",
+                        "ref": "CaAr_OiHi_RiMi_/Capture Honchkrow/Honchkrow"
+                    },
+                    {
+                        "name": "Capture Honchkrow - Honchkrow (Pokemon)",
+                        "ref": "CaAr_OiHi_RiMi_/Capture Honchkrow/Honchkrow (Pokemon)"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 1195,
+                        "y": 1896,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "CaAr_OiHi_RiMi_DiMi_",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Capture Houndoom - Houndoom",
+                        "ref": "CaAr_OiHi_RiMi_DiMi_/Capture Houndoom/Houndoom"
+                    },
+                    {
+                        "name": "Capture Houndoom - Houndoom (Pokemon)",
+                        "ref": "CaAr_OiHi_RiMi_DiMi_/Capture Houndoom/Houndoom (Pokemon)"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 2142,
+                        "y": 1928,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "CaAr_ToMi_",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Capture Gliscor - Gliscor",
+                        "ref": "CaAr_ToMi_/Capture Gliscor/Gliscor"
+                    },
+                    {
+                        "name": "Capture Gliscor - Gliscor (Pokemon)",
+                        "ref": "CaAr_ToMi_/Capture Gliscor/Gliscor (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Drapion - Drapion",
+                        "ref": "CaAr_ToMi_/Capture Drapion/Drapion"
+                    },
+                    {
+                        "name": "Capture Drapion - Drapion (Pokemon)",
+                        "ref": "CaAr_ToMi_/Capture Drapion/Drapion (Pokemon)"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 331,
+                        "y": 1460,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "CaSh_",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Capture Makuhita - Makuhita",
+                        "ref": "CaSh_/Capture Makuhita/Makuhita"
+                    },
+                    {
+                        "name": "Capture Makuhita - Makuhita (Pokemon)",
+                        "ref": "CaSh_/Capture Makuhita/Makuhita (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Purugly - Purugly",
+                        "ref": "CaSh_/Capture Purugly/Purugly"
+                    },
+                    {
+                        "name": "Capture Purugly - Purugly (Pokemon)",
+                        "ref": "CaSh_/Capture Purugly/Purugly (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Magnezone - Magnezone",
+                        "ref": "CaSh_/Capture Magnezone/Magnezone"
+                    },
+                    {
+                        "name": "Capture Magnezone - Magnezone (Pokemon)",
+                        "ref": "CaSh_/Capture Magnezone/Magnezone (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Spinarak - Spinarak",
+                        "ref": "CaSh_/Capture Spinarak/Spinarak"
+                    },
+                    {
+                        "name": "Capture Spinarak - Spinarak (Pokemon)",
+                        "ref": "CaSh_/Capture Spinarak/Spinarak (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Ralts - Ralts",
+                        "ref": "CaSh_/Capture Ralts/Ralts"
+                    },
+                    {
+                        "name": "Capture Ralts - Ralts (Pokemon)",
+                        "ref": "CaSh_/Capture Ralts/Ralts (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Machoke - Machoke",
+                        "ref": "CaSh_/Capture Machoke/Machoke"
+                    },
+                    {
+                        "name": "Capture Machoke - Machoke (Pokemon)",
+                        "ref": "CaSh_/Capture Machoke/Machoke (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Drowzee - Drowzee",
+                        "ref": "CaSh_/Capture Drowzee/Drowzee"
+                    },
+                    {
+                        "name": "Capture Drowzee - Drowzee (Pokemon)",
+                        "ref": "CaSh_/Capture Drowzee/Drowzee (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Monferno - Monferno",
+                        "ref": "CaSh_/Capture Monferno/Monferno"
+                    },
+                    {
+                        "name": "Capture Monferno - Monferno (Pokemon)",
+                        "ref": "CaSh_/Capture Monferno/Monferno (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Lickilicky - Lickilicky",
+                        "ref": "CaSh_/Capture Lickilicky/Lickilicky"
+                    },
+                    {
+                        "name": "Capture Lickilicky - Lickilicky (Pokemon)",
+                        "ref": "CaSh_/Capture Lickilicky/Lickilicky (Pokemon)"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 480,
+                        "y": 1082,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "CaSh_ChRu_AlBu_",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Capture Electabuzz - Electabuzz",
+                        "ref": "CaSh_ChRu_AlBu_/Capture Electabuzz/Electabuzz"
+                    },
+                    {
+                        "name": "Capture Electabuzz - Electabuzz (Pokemon)",
+                        "ref": "CaSh_ChRu_AlBu_/Capture Electabuzz/Electabuzz (Pokemon)"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 937,
+                        "y": 371,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "CaSh_HiVa_IcLa_AlCa_DiMi_",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Capture Vulpix - Vulpix",
+                        "ref": "CaSh_HiVa_IcLa_AlCa_DiMi_/Capture Vulpix/Vulpix"
+                    },
+                    {
+                        "name": "Capture Vulpix - Vulpix (Pokemon)",
+                        "ref": "CaSh_HiVa_IcLa_AlCa_DiMi_/Capture Vulpix/Vulpix (Pokemon)"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 2289,
+                        "y": 230,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "CaSh_OiHi_RiMi_",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Capture Houndour - Houndour",
+                        "ref": "CaSh_OiHi_RiMi_/Capture Houndour/Houndour"
+                    },
+                    {
+                        "name": "Capture Houndour - Houndour (Pokemon)",
+                        "ref": "CaSh_OiHi_RiMi_/Capture Houndour/Houndour (Pokemon)"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 64,
+                        "y": 2314,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "CaSh_PuTo_",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Capture Raticate - Raticate",
+                        "ref": "CaSh_PuTo_/Capture Raticate/Raticate"
+                    },
+                    {
+                        "name": "Capture Raticate - Raticate (Pokemon)",
+                        "ref": "CaSh_PuTo_/Capture Raticate/Raticate (Pokemon)"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 1409,
+                        "y": 856,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "CaSh_PuTo_ShMi_",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Capture Voltorb - Voltorb",
+                        "ref": "CaSh_PuTo_ShMi_/Capture Voltorb/Voltorb"
+                    },
+                    {
+                        "name": "Capture Voltorb - Voltorb (Pokemon)",
+                        "ref": "CaSh_PuTo_ShMi_/Capture Voltorb/Voltorb (Pokemon)"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 538,
+                        "y": 2282,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "CaSh_ViFo_ChRo_ChHi_ChRu_CrCa_VoCa_",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Capture Pikachu - Pikachu",
+                        "ref": "CaSh_ViFo_ChRo_ChHi_ChRu_CrCa_VoCa_/Capture Pikachu/Pikachu"
+                    },
+                    {
+                        "name": "Capture Pikachu - Pikachu (Pokemon)",
+                        "ref": "CaSh_ViFo_ChRo_ChHi_ChRu_CrCa_VoCa_/Capture Pikachu/Pikachu (Pokemon)"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 788,
+                        "y": 2282,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "CaSh_VoCa_",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Capture Magmar - Magmar",
+                        "ref": "CaSh_VoCa_/Capture Magmar/Magmar"
+                    },
+                    {
+                        "name": "Capture Magmar - Magmar (Pokemon)",
+                        "ref": "CaSh_VoCa_/Capture Magmar/Magmar (Pokemon)"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 1263,
+                        "y": 805,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "ChHi_",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Capture Gloom - Gloom",
+                        "ref": "ChHi_/Capture Gloom/Gloom"
+                    },
+                    {
+                        "name": "Capture Gloom - Gloom (Pokemon)",
+                        "ref": "ChHi_/Capture Gloom/Gloom (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Abra - Abra",
+                        "ref": "ChHi_/Capture Abra/Abra"
+                    },
+                    {
+                        "name": "Capture Abra - Abra (Pokemon)",
+                        "ref": "ChHi_/Capture Abra/Abra (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Skarmory - Skarmory",
+                        "ref": "ChHi_/Capture Skarmory/Skarmory"
+                    },
+                    {
+                        "name": "Capture Skarmory - Skarmory (Pokemon)",
+                        "ref": "ChHi_/Capture Skarmory/Skarmory (Pokemon)"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 1702,
+                        "y": 211,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "ChHi_ChRu_",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Capture Bastiodon - Bastiodon",
+                        "ref": "ChHi_ChRu_/Capture Bastiodon/Bastiodon"
+                    },
+                    {
+                        "name": "Capture Bastiodon - Bastiodon (Pokemon)",
+                        "ref": "ChHi_ChRu_/Capture Bastiodon/Bastiodon (Pokemon)"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 1480,
+                        "y": 2395,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "ChHi_PaMi_",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Capture Vileplume - Vileplume",
+                        "ref": "ChHi_PaMi_/Capture Vileplume/Vileplume"
+                    },
+                    {
+                        "name": "Capture Vileplume - Vileplume (Pokemon)",
+                        "ref": "ChHi_PaMi_/Capture Vileplume/Vileplume (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Carnivine - Carnivine",
+                        "ref": "ChHi_PaMi_/Capture Carnivine/Carnivine"
+                    },
+                    {
+                        "name": "Capture Carnivine - Carnivine (Pokemon)",
+                        "ref": "ChHi_PaMi_/Capture Carnivine/Carnivine (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Rapidash - Rapidash",
+                        "ref": "ChHi_PaMi_/Capture Rapidash/Rapidash"
+                    },
+                    {
+                        "name": "Capture Rapidash - Rapidash (Pokemon)",
+                        "ref": "ChHi_PaMi_/Capture Rapidash/Rapidash (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Altaria - Altaria",
+                        "ref": "ChHi_PaMi_/Capture Altaria/Altaria"
+                    },
+                    {
+                        "name": "Capture Altaria - Altaria (Pokemon)",
+                        "ref": "ChHi_PaMi_/Capture Altaria/Altaria (Pokemon)"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 2456,
+                        "y": 1017,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "ChPa_",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Capture Seedot - Seedot",
+                        "ref": "ChPa_/Capture Seedot/Seedot"
+                    },
+                    {
+                        "name": "Capture Seedot - Seedot (Pokemon)",
+                        "ref": "ChPa_/Capture Seedot/Seedot (Pokemon)"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 1591,
+                        "y": 1266,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "ChRo_",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Capture Nuzleaf - Nuzleaf",
+                        "ref": "ChRo_/Capture Nuzleaf/Nuzleaf"
+                    },
+                    {
+                        "name": "Capture Nuzleaf - Nuzleaf (Pokemon)",
+                        "ref": "ChRo_/Capture Nuzleaf/Nuzleaf (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Miltank - Miltank",
+                        "ref": "ChRo_/Capture Miltank/Miltank"
+                    },
+                    {
+                        "name": "Capture Miltank - Miltank (Pokemon)",
+                        "ref": "ChRo_/Capture Miltank/Miltank (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Vespiquen - Vespiquen",
+                        "ref": "ChRo_/Capture Vespiquen/Vespiquen"
+                    },
+                    {
+                        "name": "Capture Vespiquen - Vespiquen (Pokemon)",
+                        "ref": "ChRo_/Capture Vespiquen/Vespiquen (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Flaaffy - Flaaffy",
+                        "ref": "ChRo_/Capture Flaaffy/Flaaffy"
+                    },
+                    {
+                        "name": "Capture Flaaffy - Flaaffy (Pokemon)",
+                        "ref": "ChRo_/Capture Flaaffy/Flaaffy (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Dodrio - Dodrio",
+                        "ref": "ChRo_/Capture Dodrio/Dodrio"
+                    },
+                    {
+                        "name": "Capture Dodrio - Dodrio (Pokemon)",
+                        "ref": "ChRo_/Capture Dodrio/Dodrio (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Ponyta - Ponyta",
+                        "ref": "ChRo_/Capture Ponyta/Ponyta"
+                    },
+                    {
+                        "name": "Capture Ponyta - Ponyta (Pokemon)",
+                        "ref": "ChRo_/Capture Ponyta/Ponyta (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Girafarig - Girafarig",
+                        "ref": "ChRo_/Capture Girafarig/Girafarig"
+                    },
+                    {
+                        "name": "Capture Girafarig - Girafarig (Pokemon)",
+                        "ref": "ChRo_/Capture Girafarig/Girafarig (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Tauros - Tauros",
+                        "ref": "ChRo_/Capture Tauros/Tauros"
+                    },
+                    {
+                        "name": "Capture Tauros - Tauros (Pokemon)",
+                        "ref": "ChRo_/Capture Tauros/Tauros (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Ninjask - Ninjask",
+                        "ref": "ChRo_/Capture Ninjask/Ninjask"
+                    },
+                    {
+                        "name": "Capture Ninjask - Ninjask (Pokemon)",
+                        "ref": "ChRo_/Capture Ninjask/Ninjask (Pokemon)"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 389,
+                        "y": 2332,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "ChRo_HaVi_",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Capture Sudowoodo - Sudowoodo",
+                        "ref": "ChRo_HaVi_/Capture Sudowoodo/Sudowoodo"
+                    },
+                    {
+                        "name": "Capture Sudowoodo - Sudowoodo (Pokemon)",
+                        "ref": "ChRo_HaVi_/Capture Sudowoodo/Sudowoodo (Pokemon)"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 1404,
+                        "y": 1182,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "ChRu_",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Capture Probopass - Probopass",
+                        "ref": "ChRu_/Capture Probopass/Probopass"
+                    },
+                    {
+                        "name": "Capture Probopass - Probopass (Pokemon)",
+                        "ref": "ChRu_/Capture Probopass/Probopass (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Pupitar - Pupitar",
+                        "ref": "ChRu_/Capture Pupitar/Pupitar"
+                    },
+                    {
+                        "name": "Capture Pupitar - Pupitar (Pokemon)",
+                        "ref": "ChRu_/Capture Pupitar/Pupitar (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Kirlia - Kirlia",
+                        "ref": "ChRu_/Capture Kirlia/Kirlia"
+                    },
+                    {
+                        "name": "Capture Kirlia - Kirlia (Pokemon)",
+                        "ref": "ChRu_/Capture Kirlia/Kirlia (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Koffing - Koffing",
+                        "ref": "ChRu_/Capture Koffing/Koffing"
+                    },
+                    {
+                        "name": "Capture Koffing - Koffing (Pokemon)",
+                        "ref": "ChRu_/Capture Koffing/Koffing (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Duskull - Duskull",
+                        "ref": "ChRu_/Capture Duskull/Duskull"
+                    },
+                    {
+                        "name": "Capture Duskull - Duskull (Pokemon)",
+                        "ref": "ChRu_/Capture Duskull/Duskull (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Registeel - Registeel",
+                        "ref": "ChRu_/Capture Registeel/Registeel"
+                    },
+                    {
+                        "name": "Capture Registeel - Registeel (Pokemon)",
+                        "ref": "ChRu_/Capture Registeel/Registeel (Pokemon)"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 483,
+                        "y": 1691,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "ChRu_AlBu_PaMi_",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Capture Hypno - Hypno",
+                        "ref": "ChRu_AlBu_PaMi_/Capture Hypno/Hypno"
+                    },
+                    {
+                        "name": "Capture Hypno - Hypno (Pokemon)",
+                        "ref": "ChRu_AlBu_PaMi_/Capture Hypno/Hypno (Pokemon)"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 128,
+                        "y": 2408,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "ChRu_CaAr_ShMi_",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Capture Umbreon - Umbreon",
+                        "ref": "ChRu_CaAr_ShMi_/Capture Umbreon/Umbreon"
+                    },
+                    {
+                        "name": "Capture Umbreon - Umbreon (Pokemon)",
+                        "ref": "ChRu_CaAr_ShMi_/Capture Umbreon/Umbreon (Pokemon)"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 162,
+                        "y": 1699,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "ChRu_HiTe_PaMi_",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Capture Sableye - Sableye",
+                        "ref": "ChRu_HiTe_PaMi_/Capture Sableye/Sableye"
+                    },
+                    {
+                        "name": "Capture Sableye - Sableye (Pokemon)",
+                        "ref": "ChRu_HiTe_PaMi_/Capture Sableye/Sableye (Pokemon)"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 284,
+                        "y": 497,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "ChRu_PaMi_",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Capture Sandshrew - Sandshrew",
+                        "ref": "ChRu_PaMi_/Capture Sandshrew/Sandshrew"
+                    },
+                    {
+                        "name": "Capture Sandshrew - Sandshrew (Pokemon)",
+                        "ref": "ChRu_PaMi_/Capture Sandshrew/Sandshrew (Pokemon)"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 1704,
+                        "y": 145,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "ChRu_VoCa_HiTe_CaAr_",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Capture Drifblim - Drifblim",
+                        "ref": "ChRu_VoCa_HiTe_CaAr_/Capture Drifblim/Drifblim"
+                    },
+                    {
+                        "name": "Capture Drifblim - Drifblim (Pokemon)",
+                        "ref": "ChRu_VoCa_HiTe_CaAr_/Capture Drifblim/Drifblim (Pokemon)"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 235,
+                        "y": 1997,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "CrCa_",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Capture Golbat - Golbat",
+                        "ref": "CrCa_/Capture Golbat/Golbat"
+                    },
+                    {
+                        "name": "Capture Golbat - Golbat (Pokemon)",
+                        "ref": "CrCa_/Capture Golbat/Golbat (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Camerupt - Camerupt",
+                        "ref": "CrCa_/Capture Camerupt/Camerupt"
+                    },
+                    {
+                        "name": "Capture Camerupt - Camerupt (Pokemon)",
+                        "ref": "CrCa_/Capture Camerupt/Camerupt (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Chingling - Chingling",
+                        "ref": "CrCa_/Capture Chingling/Chingling"
+                    },
+                    {
+                        "name": "Capture Chingling - Chingling (Pokemon)",
+                        "ref": "CrCa_/Capture Chingling/Chingling (Pokemon)"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 1724,
+                        "y": 354,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "CrCa_HiVa_",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Capture Spheal - Spheal",
+                        "ref": "CrCa_HiVa_/Capture Spheal/Spheal"
+                    },
+                    {
+                        "name": "Capture Spheal - Spheal (Pokemon)",
+                        "ref": "CrCa_HiVa_/Capture Spheal/Spheal (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Sealeo - Sealeo",
+                        "ref": "CrCa_HiVa_/Capture Sealeo/Sealeo"
+                    },
+                    {
+                        "name": "Capture Sealeo - Sealeo (Pokemon)",
+                        "ref": "CrCa_HiVa_/Capture Sealeo/Sealeo (Pokemon)"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 889,
+                        "y": 873,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "CrCa_HiVa_PaMi_DiMi_",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Capture Piloswine - Piloswine",
+                        "ref": "CrCa_HiVa_PaMi_DiMi_/Capture Piloswine/Piloswine"
+                    },
+                    {
+                        "name": "Capture Piloswine - Piloswine (Pokemon)",
+                        "ref": "CrCa_HiVa_PaMi_DiMi_/Capture Piloswine/Piloswine (Pokemon)"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 122,
+                        "y": 1428,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "CrCa_PaMi_",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Capture Jigglypuff - Jigglypuff",
+                        "ref": "CrCa_PaMi_/Capture Jigglypuff/Jigglypuff"
+                    },
+                    {
+                        "name": "Capture Jigglypuff - Jigglypuff (Pokemon)",
+                        "ref": "CrCa_PaMi_/Capture Jigglypuff/Jigglypuff (Pokemon)"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 1166,
+                        "y": 1330,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "DiMi_",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Capture Dialga - Dialga",
+                        "ref": "DiMi_/Capture Dialga/Dialga"
+                    },
+                    {
+                        "name": "Capture Dialga - Dialga (Pokemon)",
+                        "ref": "DiMi_/Capture Dialga/Dialga (Pokemon)"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 1493,
+                        "y": 1260,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "HaDe_",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Capture Cacnea - Cacnea",
+                        "ref": "HaDe_/Capture Cacnea/Cacnea"
+                    },
+                    {
+                        "name": "Capture Cacnea - Cacnea (Pokemon)",
+                        "ref": "HaDe_/Capture Cacnea/Cacnea (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Hippowdon - Hippowdon",
+                        "ref": "HaDe_/Capture Hippowdon/Hippowdon"
+                    },
+                    {
+                        "name": "Capture Hippowdon - Hippowdon (Pokemon)",
+                        "ref": "HaDe_/Capture Hippowdon/Hippowdon (Pokemon)"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 1386,
+                        "y": 21,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "HaDe_CaAr_",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Capture Flygon - Flygon",
+                        "ref": "HaDe_CaAr_/Capture Flygon/Flygon"
+                    },
+                    {
+                        "name": "Capture Flygon - Flygon (Pokemon)",
+                        "ref": "HaDe_CaAr_/Capture Flygon/Flygon (Pokemon)"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 427,
+                        "y": 1643,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "HaDe_CaAr_PaMi_",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Capture Fearow - Fearow",
+                        "ref": "HaDe_CaAr_PaMi_/Capture Fearow/Fearow"
+                    },
+                    {
+                        "name": "Capture Fearow - Fearow (Pokemon)",
+                        "ref": "HaDe_CaAr_PaMi_/Capture Fearow/Fearow (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Cacturne - Cacturne",
+                        "ref": "HaDe_CaAr_PaMi_/Capture Cacturne/Cacturne"
+                    },
+                    {
+                        "name": "Capture Cacturne - Cacturne (Pokemon)",
+                        "ref": "HaDe_CaAr_PaMi_/Capture Cacturne/Cacturne (Pokemon)"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 2029,
+                        "y": 560,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "HaDe_CaAr_RiMi_",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Capture Jolteon - Jolteon",
+                        "ref": "HaDe_CaAr_RiMi_/Capture Jolteon/Jolteon"
+                    },
+                    {
+                        "name": "Capture Jolteon - Jolteon (Pokemon)",
+                        "ref": "HaDe_CaAr_RiMi_/Capture Jolteon/Jolteon (Pokemon)"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 2409,
+                        "y": 2080,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "HaDe_HiTe_",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Capture Skorupi - Skorupi",
+                        "ref": "HaDe_HiTe_/Capture Skorupi/Skorupi"
+                    },
+                    {
+                        "name": "Capture Skorupi - Skorupi (Pokemon)",
+                        "ref": "HaDe_HiTe_/Capture Skorupi/Skorupi (Pokemon)"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 2355,
+                        "y": 1729,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "HiTe_",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Capture Dusknoir - Dusknoir",
+                        "ref": "HiTe_/Capture Dusknoir/Dusknoir"
+                    },
+                    {
+                        "name": "Capture Dusknoir - Dusknoir (Pokemon)",
+                        "ref": "HiTe_/Capture Dusknoir/Dusknoir (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Sandslash - Sandslash",
+                        "ref": "HiTe_/Capture Sandslash/Sandslash"
+                    },
+                    {
+                        "name": "Capture Sandslash - Sandslash (Pokemon)",
+                        "ref": "HiTe_/Capture Sandslash/Sandslash (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Victreebel - Victreebel",
+                        "ref": "HiTe_/Capture Victreebel/Victreebel"
+                    },
+                    {
+                        "name": "Capture Victreebel - Victreebel (Pokemon)",
+                        "ref": "HiTe_/Capture Victreebel/Victreebel (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Bronzor - Bronzor",
+                        "ref": "HiTe_/Capture Bronzor/Bronzor"
+                    },
+                    {
+                        "name": "Capture Bronzor - Bronzor (Pokemon)",
+                        "ref": "HiTe_/Capture Bronzor/Bronzor (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Bronzong - Bronzong",
+                        "ref": "HiTe_/Capture Bronzong/Bronzong"
+                    },
+                    {
+                        "name": "Capture Bronzong - Bronzong (Pokemon)",
+                        "ref": "HiTe_/Capture Bronzong/Bronzong (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Claydol - Claydol",
+                        "ref": "HiTe_/Capture Claydol/Claydol"
+                    },
+                    {
+                        "name": "Capture Claydol - Claydol (Pokemon)",
+                        "ref": "HiTe_/Capture Claydol/Claydol (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Regigigas - Regigigas",
+                        "ref": "HiTe_/Capture Regigigas/Regigigas"
+                    },
+                    {
+                        "name": "Capture Regigigas - Regigigas (Pokemon)",
+                        "ref": "HiTe_/Capture Regigigas/Regigigas (Pokemon)"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 2337,
+                        "y": 623,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "HiTe_CaAr_",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Capture Espeon - Espeon",
+                        "ref": "HiTe_CaAr_/Capture Espeon/Espeon"
+                    },
+                    {
+                        "name": "Capture Espeon - Espeon (Pokemon)",
+                        "ref": "HiTe_CaAr_/Capture Espeon/Espeon (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Tyranitar - Tyranitar",
+                        "ref": "HiTe_CaAr_/Capture Tyranitar/Tyranitar"
+                    },
+                    {
+                        "name": "Capture Tyranitar - Tyranitar (Pokemon)",
+                        "ref": "HiTe_CaAr_/Capture Tyranitar/Tyranitar (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Banette - Banette",
+                        "ref": "HiTe_CaAr_/Capture Banette/Banette"
+                    },
+                    {
+                        "name": "Capture Banette - Banette (Pokemon)",
+                        "ref": "HiTe_CaAr_/Capture Banette/Banette (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Garchomp - Garchomp",
+                        "ref": "HiTe_CaAr_/Capture Garchomp/Garchomp"
+                    },
+                    {
+                        "name": "Capture Garchomp - Garchomp (Pokemon)",
+                        "ref": "HiTe_CaAr_/Capture Garchomp/Garchomp (Pokemon)"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 716,
+                        "y": 2331,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "HiTe_CaAr_PaMi_ShMi_",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Capture Bellossom - Bellossom",
+                        "ref": "HiTe_CaAr_PaMi_ShMi_/Capture Bellossom/Bellossom"
+                    },
+                    {
+                        "name": "Capture Bellossom - Bellossom (Pokemon)",
+                        "ref": "HiTe_CaAr_PaMi_ShMi_/Capture Bellossom/Bellossom (Pokemon)"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 2264,
+                        "y": 2438,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "HiVa_",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Capture Prinplup - Prinplup",
+                        "ref": "HiVa_/Capture Prinplup/Prinplup"
+                    },
+                    {
+                        "name": "Capture Prinplup - Prinplup (Pokemon)",
+                        "ref": "HiVa_/Capture Prinplup/Prinplup (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Delibird - Delibird",
+                        "ref": "HiVa_/Capture Delibird/Delibird"
+                    },
+                    {
+                        "name": "Capture Delibird - Delibird (Pokemon)",
+                        "ref": "HiVa_/Capture Delibird/Delibird (Pokemon)"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 1022,
+                        "y": 2029,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "IcLa_AlCa_",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Capture Jynx - Jynx",
+                        "ref": "IcLa_AlCa_/Capture Jynx/Jynx"
+                    },
+                    {
+                        "name": "Capture Jynx - Jynx (Pokemon)",
+                        "ref": "IcLa_AlCa_/Capture Jynx/Jynx (Pokemon)"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 2050,
+                        "y": 404,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "IcLa_AlCa_VoCa_DiMi_PaMi_",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Capture Raichu - Raichu",
+                        "ref": "IcLa_AlCa_VoCa_DiMi_PaMi_/Capture Raichu/Raichu"
+                    },
+                    {
+                        "name": "Capture Raichu - Raichu (Pokemon)",
+                        "ref": "IcLa_AlCa_VoCa_DiMi_PaMi_/Capture Raichu/Raichu (Pokemon)"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 564,
+                        "y": 2452,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "IcLa_CaAr_",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Capture Glaceon - Glaceon",
+                        "ref": "IcLa_CaAr_/Capture Glaceon/Glaceon"
+                    },
+                    {
+                        "name": "Capture Glaceon - Glaceon (Pokemon)",
+                        "ref": "IcLa_CaAr_/Capture Glaceon/Glaceon (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Empoleon - Empoleon",
+                        "ref": "IcLa_CaAr_/Capture Empoleon/Empoleon"
+                    },
+                    {
+                        "name": "Capture Empoleon - Empoleon (Pokemon)",
+                        "ref": "IcLa_CaAr_/Capture Empoleon/Empoleon (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Abomasnow - Abomasnow",
+                        "ref": "IcLa_CaAr_/Capture Abomasnow/Abomasnow"
+                    },
+                    {
+                        "name": "Capture Abomasnow - Abomasnow (Pokemon)",
+                        "ref": "IcLa_CaAr_/Capture Abomasnow/Abomasnow (Pokemon)"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 36,
+                        "y": 82,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "MaCa_",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Capture Nosepass - Nosepass",
+                        "ref": "MaCa_/Capture Nosepass/Nosepass"
+                    },
+                    {
+                        "name": "Capture Nosepass - Nosepass (Pokemon)",
+                        "ref": "MaCa_/Capture Nosepass/Nosepass (Pokemon)"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 953,
+                        "y": 2353,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "MaCa_PeCl_",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Capture Geodude - Geodude",
+                        "ref": "MaCa_PeCl_/Capture Geodude/Geodude"
+                    },
+                    {
+                        "name": "Capture Geodude - Geodude (Pokemon)",
+                        "ref": "MaCa_PeCl_/Capture Geodude/Geodude (Pokemon)"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 809,
+                        "y": 1142,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "MaCa_PeCl_VoCa_",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Capture Graveler - Graveler",
+                        "ref": "MaCa_PeCl_VoCa_/Capture Graveler/Graveler"
+                    },
+                    {
+                        "name": "Capture Graveler - Graveler (Pokemon)",
+                        "ref": "MaCa_PeCl_VoCa_/Capture Graveler/Graveler (Pokemon)"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 582,
+                        "y": 476,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "MaCa_VoCa_",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Capture Gastrodon - Gastrodon",
+                        "ref": "MaCa_VoCa_/Capture Gastrodon/Gastrodon"
+                    },
+                    {
+                        "name": "Capture Gastrodon - Gastrodon (Pokemon)",
+                        "ref": "MaCa_VoCa_/Capture Gastrodon/Gastrodon (Pokemon)"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 733,
+                        "y": 2173,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "MaMi_",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Capture Manaphy - Manaphy",
+                        "ref": "MaMi_/Capture Manaphy/Manaphy"
+                    },
+                    {
+                        "name": "Capture Manaphy - Manaphy (Pokemon)",
+                        "ref": "MaMi_/Capture Manaphy/Manaphy (Pokemon)"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 1838,
+                        "y": 2196,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "OiHi_",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Capture Skuntank - Skuntank",
+                        "ref": "OiHi_/Capture Skuntank/Skuntank"
+                    },
+                    {
+                        "name": "Capture Skuntank - Skuntank (Pokemon)",
+                        "ref": "OiHi_/Capture Skuntank/Skuntank (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Machamp - Machamp",
+                        "ref": "OiHi_/Capture Machamp/Machamp"
+                    },
+                    {
+                        "name": "Capture Machamp - Machamp (Pokemon)",
+                        "ref": "OiHi_/Capture Machamp/Machamp (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Mr. Mime - Mr. Mime",
+                        "ref": "OiHi_/Capture Mr. Mime/Mr. Mime"
+                    },
+                    {
+                        "name": "Capture Mr. Mime - Mr. Mime (Pokemon)",
+                        "ref": "OiHi_/Capture Mr. Mime/Mr. Mime (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Mothim - Mothim",
+                        "ref": "OiHi_/Capture Mothim/Mothim"
+                    },
+                    {
+                        "name": "Capture Mothim - Mothim (Pokemon)",
+                        "ref": "OiHi_/Capture Mothim/Mothim (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Porygon-Z - Porygon-Z",
+                        "ref": "OiHi_/Capture Porygon-Z/Porygon-Z"
+                    },
+                    {
+                        "name": "Capture Porygon-Z - Porygon-Z (Pokemon)",
+                        "ref": "OiHi_/Capture Porygon-Z/Porygon-Z (Pokemon)"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 2430,
+                        "y": 634,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "OiHi_RiMi_",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Capture Dusclops - Dusclops",
+                        "ref": "OiHi_RiMi_/Capture Dusclops/Dusclops"
+                    },
+                    {
+                        "name": "Capture Dusclops - Dusclops (Pokemon)",
+                        "ref": "OiHi_RiMi_/Capture Dusclops/Dusclops (Pokemon)"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 2279,
+                        "y": 1134,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "OiHi_RiMi_PaMi_",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Capture Sceptile - Sceptile",
+                        "ref": "OiHi_RiMi_PaMi_/Capture Sceptile/Sceptile"
+                    },
+                    {
+                        "name": "Capture Sceptile - Sceptile (Pokemon)",
+                        "ref": "OiHi_RiMi_PaMi_/Capture Sceptile/Sceptile (Pokemon)"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 1742,
+                        "y": 954,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "OiHi_RiMi_ToMi_",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Capture Luxray - Luxray",
+                        "ref": "OiHi_RiMi_ToMi_/Capture Luxray/Luxray"
+                    },
+                    {
+                        "name": "Capture Luxray - Luxray (Pokemon)",
+                        "ref": "OiHi_RiMi_ToMi_/Capture Luxray/Luxray (Pokemon)"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 2432,
+                        "y": 343,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "PaMi_",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Capture Palkia - Palkia",
+                        "ref": "PaMi_/Capture Palkia/Palkia"
+                    },
+                    {
+                        "name": "Capture Palkia - Palkia (Pokemon)",
+                        "ref": "PaMi_/Capture Palkia/Palkia (Pokemon)"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 874,
+                        "y": 1496,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "PeCl_",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Capture Staravia - Staravia",
+                        "ref": "PeCl_/Capture Staravia/Staravia"
+                    },
+                    {
+                        "name": "Capture Staravia - Staravia (Pokemon)",
+                        "ref": "PeCl_/Capture Staravia/Staravia (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Cherrim - Cherrim",
+                        "ref": "PeCl_/Capture Cherrim/Cherrim"
+                    },
+                    {
+                        "name": "Capture Cherrim - Cherrim (Pokemon)",
+                        "ref": "PeCl_/Capture Cherrim/Cherrim (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Rampardos - Rampardos",
+                        "ref": "PeCl_/Capture Rampardos/Rampardos"
+                    },
+                    {
+                        "name": "Capture Rampardos - Rampardos (Pokemon)",
+                        "ref": "PeCl_/Capture Rampardos/Rampardos (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Spearow - Spearow",
+                        "ref": "PeCl_/Capture Spearow/Spearow"
+                    },
+                    {
+                        "name": "Capture Spearow - Spearow (Pokemon)",
+                        "ref": "PeCl_/Capture Spearow/Spearow (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Larvitar - Larvitar",
+                        "ref": "PeCl_/Capture Larvitar/Larvitar"
+                    },
+                    {
+                        "name": "Capture Larvitar - Larvitar (Pokemon)",
+                        "ref": "PeCl_/Capture Larvitar/Larvitar (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Pinsir - Pinsir",
+                        "ref": "PeCl_/Capture Pinsir/Pinsir"
+                    },
+                    {
+                        "name": "Capture Pinsir - Pinsir (Pokemon)",
+                        "ref": "PeCl_/Capture Pinsir/Pinsir (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Numel - Numel",
+                        "ref": "PeCl_/Capture Numel/Numel"
+                    },
+                    {
+                        "name": "Capture Numel - Numel (Pokemon)",
+                        "ref": "PeCl_/Capture Numel/Numel (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Mankey - Mankey",
+                        "ref": "PeCl_/Capture Mankey/Mankey"
+                    },
+                    {
+                        "name": "Capture Mankey - Mankey (Pokemon)",
+                        "ref": "PeCl_/Capture Mankey/Mankey (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Gligar - Gligar",
+                        "ref": "PeCl_/Capture Gligar/Gligar"
+                    },
+                    {
+                        "name": "Capture Gligar - Gligar (Pokemon)",
+                        "ref": "PeCl_/Capture Gligar/Gligar (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Mawile - Mawile",
+                        "ref": "PeCl_/Capture Mawile/Mawile"
+                    },
+                    {
+                        "name": "Capture Mawile - Mawile (Pokemon)",
+                        "ref": "PeCl_/Capture Mawile/Mawile (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Aron - Aron",
+                        "ref": "PeCl_/Capture Aron/Aron"
+                    },
+                    {
+                        "name": "Capture Aron - Aron (Pokemon)",
+                        "ref": "PeCl_/Capture Aron/Aron (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Aerodactyl - Aerodactyl",
+                        "ref": "PeCl_/Capture Aerodactyl/Aerodactyl"
+                    },
+                    {
+                        "name": "Capture Aerodactyl - Aerodactyl (Pokemon)",
+                        "ref": "PeCl_/Capture Aerodactyl/Aerodactyl (Pokemon)"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 443,
+                        "y": 466,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "PuSe_",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Capture Finneon - Finneon",
+                        "ref": "PuSe_/Capture Finneon/Finneon"
+                    },
+                    {
+                        "name": "Capture Finneon - Finneon (Pokemon)",
+                        "ref": "PuSe_/Capture Finneon/Finneon (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Lumineon - Lumineon",
+                        "ref": "PuSe_/Capture Lumineon/Lumineon"
+                    },
+                    {
+                        "name": "Capture Lumineon - Lumineon (Pokemon)",
+                        "ref": "PuSe_/Capture Lumineon/Lumineon (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Chinchou - Chinchou",
+                        "ref": "PuSe_/Capture Chinchou/Chinchou"
+                    },
+                    {
+                        "name": "Capture Chinchou - Chinchou (Pokemon)",
+                        "ref": "PuSe_/Capture Chinchou/Chinchou (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Mantyke - Mantyke",
+                        "ref": "PuSe_/Capture Mantyke/Mantyke"
+                    },
+                    {
+                        "name": "Capture Mantyke - Mantyke (Pokemon)",
+                        "ref": "PuSe_/Capture Mantyke/Mantyke (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Qwilfish - Qwilfish",
+                        "ref": "PuSe_/Capture Qwilfish/Qwilfish"
+                    },
+                    {
+                        "name": "Capture Qwilfish - Qwilfish (Pokemon)",
+                        "ref": "PuSe_/Capture Qwilfish/Qwilfish (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Corsola - Corsola",
+                        "ref": "PuSe_/Capture Corsola/Corsola"
+                    },
+                    {
+                        "name": "Capture Corsola - Corsola (Pokemon)",
+                        "ref": "PuSe_/Capture Corsola/Corsola (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Staryu - Staryu",
+                        "ref": "PuSe_/Capture Staryu/Staryu"
+                    },
+                    {
+                        "name": "Capture Staryu - Staryu (Pokemon)",
+                        "ref": "PuSe_/Capture Staryu/Staryu (Pokemon)"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 1667,
+                        "y": 1307,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "PuSe_SeWa_",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Capture Mantine - Mantine",
+                        "ref": "PuSe_SeWa_/Capture Mantine/Mantine"
+                    },
+                    {
+                        "name": "Capture Mantine - Mantine (Pokemon)",
+                        "ref": "PuSe_SeWa_/Capture Mantine/Mantine (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Sharpedo - Sharpedo",
+                        "ref": "PuSe_SeWa_/Capture Sharpedo/Sharpedo"
+                    },
+                    {
+                        "name": "Capture Sharpedo - Sharpedo (Pokemon)",
+                        "ref": "PuSe_SeWa_/Capture Sharpedo/Sharpedo (Pokemon)"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 716,
+                        "y": 1884,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "PuTo_",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Capture Murkrow - Murkrow",
+                        "ref": "PuTo_/Capture Murkrow/Murkrow"
+                    },
+                    {
+                        "name": "Capture Murkrow - Murkrow (Pokemon)",
+                        "ref": "PuTo_/Capture Murkrow/Murkrow (Pokemon)"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 1664,
+                        "y": 2162,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "PuTo_BoLa_",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Capture Wingull - Wingull",
+                        "ref": "PuTo_BoLa_/Capture Wingull/Wingull"
+                    },
+                    {
+                        "name": "Capture Wingull - Wingull (Pokemon)",
+                        "ref": "PuTo_BoLa_/Capture Wingull/Wingull (Pokemon)"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 2208,
+                        "y": 1905,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "PuTo_CaAr_",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Capture Eevee - Eevee",
+                        "ref": "PuTo_CaAr_/Capture Eevee/Eevee"
+                    },
+                    {
+                        "name": "Capture Eevee - Eevee (Pokemon)",
+                        "ref": "PuTo_CaAr_/Capture Eevee/Eevee (Pokemon)"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 1569,
+                        "y": 405,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "PuTo_ShMi_",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Capture Tyrogue - Tyrogue",
+                        "ref": "PuTo_ShMi_/Capture Tyrogue/Tyrogue"
+                    },
+                    {
+                        "name": "Capture Tyrogue - Tyrogue (Pokemon)",
+                        "ref": "PuTo_ShMi_/Capture Tyrogue/Tyrogue (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Rattata - Rattata",
+                        "ref": "PuTo_ShMi_/Capture Rattata/Rattata"
+                    },
+                    {
+                        "name": "Capture Rattata - Rattata (Pokemon)",
+                        "ref": "PuTo_ShMi_/Capture Rattata/Rattata (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Chatot - Chatot",
+                        "ref": "PuTo_ShMi_/Capture Chatot/Chatot"
+                    },
+                    {
+                        "name": "Capture Chatot - Chatot (Pokemon)",
+                        "ref": "PuTo_ShMi_/Capture Chatot/Chatot (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Elekid - Elekid",
+                        "ref": "PuTo_ShMi_/Capture Elekid/Elekid"
+                    },
+                    {
+                        "name": "Capture Elekid - Elekid (Pokemon)",
+                        "ref": "PuTo_ShMi_/Capture Elekid/Elekid (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Magby - Magby",
+                        "ref": "PuTo_ShMi_/Capture Magby/Magby"
+                    },
+                    {
+                        "name": "Capture Magby - Magby (Pokemon)",
+                        "ref": "PuTo_ShMi_/Capture Magby/Magby (Pokemon)"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 413,
+                        "y": 1381,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "PuTo_UnRo_PeCl_VoCa_ShMi_",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Capture Magnemite - Magnemite",
+                        "ref": "PuTo_UnRo_PeCl_VoCa_ShMi_/Capture Magnemite/Magnemite"
+                    },
+                    {
+                        "name": "Capture Magnemite - Magnemite (Pokemon)",
+                        "ref": "PuTo_UnRo_PeCl_VoCa_ShMi_/Capture Magnemite/Magnemite (Pokemon)"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 1492,
+                        "y": 980,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "PuTo_UnRo_ToMi_ShMi_",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Capture Growlithe - Growlithe",
+                        "ref": "PuTo_UnRo_ToMi_ShMi_/Capture Growlithe/Growlithe"
+                    },
+                    {
+                        "name": "Capture Growlithe - Growlithe (Pokemon)",
+                        "ref": "PuTo_UnRo_ToMi_ShMi_/Capture Growlithe/Growlithe (Pokemon)"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 436,
+                        "y": 830,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "RaSc_",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Capture Gastly - Gastly",
+                        "ref": "RaSc_/Capture Gastly/Gastly"
+                    },
+                    {
+                        "name": "Capture Gastly - Gastly (Pokemon)",
+                        "ref": "RaSc_/Capture Gastly/Gastly (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Slakoth - Slakoth",
+                        "ref": "RaSc_/Capture Slakoth/Slakoth"
+                    },
+                    {
+                        "name": "Capture Slakoth - Slakoth (Pokemon)",
+                        "ref": "RaSc_/Capture Slakoth/Slakoth (Pokemon)"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 1828,
+                        "y": 1046,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "RaSc_CaAr_RiMi_",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Capture Tangrowth - Tangrowth",
+                        "ref": "RaSc_CaAr_RiMi_/Capture Tangrowth/Tangrowth"
+                    },
+                    {
+                        "name": "Capture Tangrowth - Tangrowth (Pokemon)",
+                        "ref": "RaSc_CaAr_RiMi_/Capture Tangrowth/Tangrowth (Pokemon)"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 656,
+                        "y": 874,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "RaSc_ChPa_ViFo_",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Capture Budew - Budew",
+                        "ref": "RaSc_ChPa_ViFo_/Capture Budew/Budew"
+                    },
+                    {
+                        "name": "Capture Budew - Budew (Pokemon)",
+                        "ref": "RaSc_ChPa_ViFo_/Capture Budew/Budew (Pokemon)"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 2066,
+                        "y": 1027,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "RaSc_MaCa_",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Capture Squirtle - Squirtle",
+                        "ref": "RaSc_MaCa_/Capture Squirtle/Squirtle"
+                    },
+                    {
+                        "name": "Capture Squirtle - Squirtle (Pokemon)",
+                        "ref": "RaSc_MaCa_/Capture Squirtle/Squirtle (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Zubat - Zubat",
+                        "ref": "RaSc_MaCa_/Capture Zubat/Zubat"
+                    },
+                    {
+                        "name": "Capture Zubat - Zubat (Pokemon)",
+                        "ref": "RaSc_MaCa_/Capture Zubat/Zubat (Pokemon)"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 634,
+                        "y": 774,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "RaSc_ScRo_ViTo_ViFo_",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Capture Taillow - Taillow",
+                        "ref": "RaSc_ScRo_ViTo_ViFo_/Capture Taillow/Taillow"
+                    },
+                    {
+                        "name": "Capture Taillow - Taillow (Pokemon)",
+                        "ref": "RaSc_ScRo_ViTo_ViFo_/Capture Taillow/Taillow (Pokemon)"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 1812,
+                        "y": 1196,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "RaSc_ViFo_",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Capture Bonsly - Bonsly",
+                        "ref": "RaSc_ViFo_/Capture Bonsly/Bonsly"
+                    },
+                    {
+                        "name": "Capture Bonsly - Bonsly (Pokemon)",
+                        "ref": "RaSc_ViFo_/Capture Bonsly/Bonsly (Pokemon)"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 1032,
+                        "y": 1137,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "RaSc_ViTo_",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Capture Bidoof - Bidoof",
+                        "ref": "RaSc_ViTo_/Capture Bidoof/Bidoof"
+                    },
+                    {
+                        "name": "Capture Bidoof - Bidoof (Pokemon)",
+                        "ref": "RaSc_ViTo_/Capture Bidoof/Bidoof (Pokemon)"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 949,
+                        "y": 70,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "RaSc_ViTo_ViFo_MaCa_PuTo_MaMi_ShMi_",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Capture Pichu - Pichu",
+                        "ref": "RaSc_ViTo_ViFo_MaCa_PuTo_MaMi_ShMi_/Capture Pichu/Pichu"
+                    },
+                    {
+                        "name": "Capture Pichu - Pichu (Pokemon)",
+                        "ref": "RaSc_ViTo_ViFo_MaCa_PuTo_MaMi_ShMi_/Capture Pichu/Pichu (Pokemon)"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 1234,
+                        "y": 1750,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "RaSc_VoCa_",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Capture Charmander - Charmander",
+                        "ref": "RaSc_VoCa_/Capture Charmander/Charmander"
+                    },
+                    {
+                        "name": "Capture Charmander - Charmander (Pokemon)",
+                        "ref": "RaSc_VoCa_/Capture Charmander/Charmander (Pokemon)"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 835,
+                        "y": 2427,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "ScRo_ChPa_RaSc_ViFo_PuTo_ChRo_UnRo_RaUn_HaDe_",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Capture Doduo - Doduo",
+                        "ref": "ScRo_ChPa_RaSc_ViFo_PuTo_ChRo_UnRo_RaUn_HaDe_/Capture Doduo/Doduo"
+                    },
+                    {
+                        "name": "Capture Doduo - Doduo (Pokemon)",
+                        "ref": "ScRo_ChPa_RaSc_ViFo_PuTo_ChRo_UnRo_RaUn_HaDe_/Capture Doduo/Doduo (Pokemon)"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 1840,
+                        "y": 379,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "ScRo_ChPa_ViFo_AlPa_ChRo_ChHi_RaUn_ShCa_IcLa_BoLa_HaDe_CaAr_OiHi_",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Capture Staraptor - Staraptor",
+                        "ref": "ScRo_ChPa_ViFo_AlPa_ChRo_ChHi_RaUn_ShCa_IcLa_BoLa_HaDe_CaAr_OiHi_/Capture Staraptor/Staraptor"
+                    },
+                    {
+                        "name": "Capture Staraptor - Staraptor (Pokemon)",
+                        "ref": "ScRo_ChPa_ViFo_AlPa_ChRo_ChHi_RaUn_ShCa_IcLa_BoLa_HaDe_CaAr_OiHi_/Capture Staraptor/Staraptor (Pokemon)"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 132,
+                        "y": 950,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "ScRo_ViFo_MaMi_",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Capture Buneary - Buneary",
+                        "ref": "ScRo_ViFo_MaMi_/Capture Buneary/Buneary"
+                    },
+                    {
+                        "name": "Capture Buneary - Buneary (Pokemon)",
+                        "ref": "ScRo_ViFo_MaMi_/Capture Buneary/Buneary (Pokemon)"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 1632,
+                        "y": 427,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "SeWa_",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Capture Lanturn - Lanturn",
+                        "ref": "SeWa_/Capture Lanturn/Lanturn"
+                    },
+                    {
+                        "name": "Capture Lanturn - Lanturn (Pokemon)",
+                        "ref": "SeWa_/Capture Lanturn/Lanturn (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Starmie - Starmie",
+                        "ref": "SeWa_/Capture Starmie/Starmie"
+                    },
+                    {
+                        "name": "Capture Starmie - Starmie (Pokemon)",
+                        "ref": "SeWa_/Capture Starmie/Starmie (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Horsea - Horsea",
+                        "ref": "SeWa_/Capture Horsea/Horsea"
+                    },
+                    {
+                        "name": "Capture Horsea - Horsea (Pokemon)",
+                        "ref": "SeWa_/Capture Horsea/Horsea (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Seadra - Seadra",
+                        "ref": "SeWa_/Capture Seadra/Seadra"
+                    },
+                    {
+                        "name": "Capture Seadra - Seadra (Pokemon)",
+                        "ref": "SeWa_/Capture Seadra/Seadra (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Kingdra - Kingdra",
+                        "ref": "SeWa_/Capture Kingdra/Kingdra"
+                    },
+                    {
+                        "name": "Capture Kingdra - Kingdra (Pokemon)",
+                        "ref": "SeWa_/Capture Kingdra/Kingdra (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Huntail - Huntail",
+                        "ref": "SeWa_/Capture Huntail/Huntail"
+                    },
+                    {
+                        "name": "Capture Huntail - Huntail (Pokemon)",
+                        "ref": "SeWa_/Capture Huntail/Huntail (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Gorebyss - Gorebyss",
+                        "ref": "SeWa_/Capture Gorebyss/Gorebyss"
+                    },
+                    {
+                        "name": "Capture Gorebyss - Gorebyss (Pokemon)",
+                        "ref": "SeWa_/Capture Gorebyss/Gorebyss (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Tentacruel - Tentacruel",
+                        "ref": "SeWa_/Capture Tentacruel/Tentacruel"
+                    },
+                    {
+                        "name": "Capture Tentacruel - Tentacruel (Pokemon)",
+                        "ref": "SeWa_/Capture Tentacruel/Tentacruel (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Omanyte - Omanyte",
+                        "ref": "SeWa_/Capture Omanyte/Omanyte"
+                    },
+                    {
+                        "name": "Capture Omanyte - Omanyte (Pokemon)",
+                        "ref": "SeWa_/Capture Omanyte/Omanyte (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Omastar - Omastar",
+                        "ref": "SeWa_/Capture Omastar/Omastar"
+                    },
+                    {
+                        "name": "Capture Omastar - Omastar (Pokemon)",
+                        "ref": "SeWa_/Capture Omastar/Omastar (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Wailmer - Wailmer",
+                        "ref": "SeWa_/Capture Wailmer/Wailmer"
+                    },
+                    {
+                        "name": "Capture Wailmer - Wailmer (Pokemon)",
+                        "ref": "SeWa_/Capture Wailmer/Wailmer (Pokemon)"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 1993,
+                        "y": 769,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "ShMi_",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Capture Shaymin - Shaymin",
+                        "ref": "ShMi_/Capture Shaymin/Shaymin"
+                    },
+                    {
+                        "name": "Capture Shaymin - Shaymin (Pokemon)",
+                        "ref": "ShMi_/Capture Shaymin/Shaymin (Pokemon)"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 265,
+                        "y": 1714,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "UnRo_",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Capture Mareep - Mareep",
+                        "ref": "UnRo_/Capture Mareep/Mareep"
+                    },
+                    {
+                        "name": "Capture Mareep - Mareep (Pokemon)",
+                        "ref": "UnRo_/Capture Mareep/Mareep (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Aipom - Aipom",
+                        "ref": "UnRo_/Capture Aipom/Aipom"
+                    },
+                    {
+                        "name": "Capture Aipom - Aipom (Pokemon)",
+                        "ref": "UnRo_/Capture Aipom/Aipom (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Oddish - Oddish",
+                        "ref": "UnRo_/Capture Oddish/Oddish"
+                    },
+                    {
+                        "name": "Capture Oddish - Oddish (Pokemon)",
+                        "ref": "UnRo_/Capture Oddish/Oddish (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Yanma - Yanma",
+                        "ref": "UnRo_/Capture Yanma/Yanma"
+                    },
+                    {
+                        "name": "Capture Yanma - Yanma (Pokemon)",
+                        "ref": "UnRo_/Capture Yanma/Yanma (Pokemon)"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 1562,
+                        "y": 2106,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "UnRo_CaAr_ToMi_",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Capture Swellow - Swellow",
+                        "ref": "UnRo_CaAr_ToMi_/Capture Swellow/Swellow"
+                    },
+                    {
+                        "name": "Capture Swellow - Swellow (Pokemon)",
+                        "ref": "UnRo_CaAr_ToMi_/Capture Swellow/Swellow (Pokemon)"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 1645,
+                        "y": 69,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "UnRo_PeCl_",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Capture Pineco - Pineco",
+                        "ref": "UnRo_PeCl_/Capture Pineco/Pineco"
+                    },
+                    {
+                        "name": "Capture Pineco - Pineco (Pokemon)",
+                        "ref": "UnRo_PeCl_/Capture Pineco/Pineco (Pokemon)"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 2108,
+                        "y": 2358,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "ViFo_",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Capture Roselia - Roselia",
+                        "ref": "ViFo_/Capture Roselia/Roselia"
+                    },
+                    {
+                        "name": "Capture Roselia - Roselia (Pokemon)",
+                        "ref": "ViFo_/Capture Roselia/Roselia (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Wartortle - Wartortle",
+                        "ref": "ViFo_/Capture Wartortle/Wartortle"
+                    },
+                    {
+                        "name": "Capture Wartortle - Wartortle (Pokemon)",
+                        "ref": "ViFo_/Capture Wartortle/Wartortle (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Blastoise - Blastoise",
+                        "ref": "ViFo_/Capture Blastoise/Blastoise"
+                    },
+                    {
+                        "name": "Capture Blastoise - Blastoise (Pokemon)",
+                        "ref": "ViFo_/Capture Blastoise/Blastoise (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Happiny - Happiny",
+                        "ref": "ViFo_/Capture Happiny/Happiny"
+                    },
+                    {
+                        "name": "Capture Happiny - Happiny (Pokemon)",
+                        "ref": "ViFo_/Capture Happiny/Happiny (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Cherubi - Cherubi",
+                        "ref": "ViFo_/Capture Cherubi/Cherubi"
+                    },
+                    {
+                        "name": "Capture Cherubi - Cherubi (Pokemon)",
+                        "ref": "ViFo_/Capture Cherubi/Cherubi (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Shinx - Shinx",
+                        "ref": "ViFo_/Capture Shinx/Shinx"
+                    },
+                    {
+                        "name": "Capture Shinx - Shinx (Pokemon)",
+                        "ref": "ViFo_/Capture Shinx/Shinx (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Grotle - Grotle",
+                        "ref": "ViFo_/Capture Grotle/Grotle"
+                    },
+                    {
+                        "name": "Capture Grotle - Grotle (Pokemon)",
+                        "ref": "ViFo_/Capture Grotle/Grotle (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Buizel - Buizel",
+                        "ref": "ViFo_/Capture Buizel/Buizel"
+                    },
+                    {
+                        "name": "Capture Buizel - Buizel (Pokemon)",
+                        "ref": "ViFo_/Capture Buizel/Buizel (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Weedle - Weedle",
+                        "ref": "ViFo_/Capture Weedle/Weedle"
+                    },
+                    {
+                        "name": "Capture Weedle - Weedle (Pokemon)",
+                        "ref": "ViFo_/Capture Weedle/Weedle (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Kricketune - Kricketune",
+                        "ref": "ViFo_/Capture Kricketune/Kricketune"
+                    },
+                    {
+                        "name": "Capture Kricketune - Kricketune (Pokemon)",
+                        "ref": "ViFo_/Capture Kricketune/Kricketune (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Ambipom - Ambipom",
+                        "ref": "ViFo_/Capture Ambipom/Ambipom"
+                    },
+                    {
+                        "name": "Capture Ambipom - Ambipom (Pokemon)",
+                        "ref": "ViFo_/Capture Ambipom/Ambipom (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Forretress - Forretress",
+                        "ref": "ViFo_/Capture Forretress/Forretress"
+                    },
+                    {
+                        "name": "Capture Forretress - Forretress (Pokemon)",
+                        "ref": "ViFo_/Capture Forretress/Forretress (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Regirock - Regirock",
+                        "ref": "ViFo_/Capture Regirock/Regirock"
+                    },
+                    {
+                        "name": "Capture Regirock - Regirock (Pokemon)",
+                        "ref": "ViFo_/Capture Regirock/Regirock (Pokemon)"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 774,
+                        "y": 71,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "ViFo_CaAr_",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Capture Shiftry - Shiftry",
+                        "ref": "ViFo_CaAr_/Capture Shiftry/Shiftry"
+                    },
+                    {
+                        "name": "Capture Shiftry - Shiftry (Pokemon)",
+                        "ref": "ViFo_CaAr_/Capture Shiftry/Shiftry (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Leafeon - Leafeon",
+                        "ref": "ViFo_CaAr_/Capture Leafeon/Leafeon"
+                    },
+                    {
+                        "name": "Capture Leafeon - Leafeon (Pokemon)",
+                        "ref": "ViFo_CaAr_/Capture Leafeon/Leafeon (Pokemon)"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 1609,
+                        "y": 934,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "ViFo_CaAr_PaMi_",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Capture Torterra - Torterra",
+                        "ref": "ViFo_CaAr_PaMi_/Capture Torterra/Torterra"
+                    },
+                    {
+                        "name": "Capture Torterra - Torterra (Pokemon)",
+                        "ref": "ViFo_CaAr_PaMi_/Capture Torterra/Torterra (Pokemon)"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 533,
+                        "y": 1810,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "ViFo_ChHi_",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Capture Beedrill - Beedrill",
+                        "ref": "ViFo_ChHi_/Capture Beedrill/Beedrill"
+                    },
+                    {
+                        "name": "Capture Beedrill - Beedrill (Pokemon)",
+                        "ref": "ViFo_ChHi_/Capture Beedrill/Beedrill (Pokemon)"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 2234,
+                        "y": 1954,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "ViFo_ChRo_",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Capture Combee - Combee",
+                        "ref": "ViFo_ChRo_/Capture Combee/Combee"
+                    },
+                    {
+                        "name": "Capture Combee - Combee (Pokemon)",
+                        "ref": "ViFo_ChRo_/Capture Combee/Combee (Pokemon)"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 1454,
+                        "y": 707,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "ViFo_CrCa_CaAr_",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Capture Salamence - Salamence",
+                        "ref": "ViFo_CrCa_CaAr_/Capture Salamence/Salamence"
+                    },
+                    {
+                        "name": "Capture Salamence - Salamence (Pokemon)",
+                        "ref": "ViFo_CrCa_CaAr_/Capture Salamence/Salamence (Pokemon)"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 893,
+                        "y": 47,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "ViFo_OiHi_",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Capture Luxio - Luxio",
+                        "ref": "ViFo_OiHi_/Capture Luxio/Luxio"
+                    },
+                    {
+                        "name": "Capture Luxio - Luxio (Pokemon)",
+                        "ref": "ViFo_OiHi_/Capture Luxio/Luxio (Pokemon)"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 1223,
+                        "y": 758,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "ViFo_PaMi_",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Capture Lopunny - Lopunny",
+                        "ref": "ViFo_PaMi_/Capture Lopunny/Lopunny"
+                    },
+                    {
+                        "name": "Capture Lopunny - Lopunny (Pokemon)",
+                        "ref": "ViFo_PaMi_/Capture Lopunny/Lopunny (Pokemon)"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 2349,
+                        "y": 1412,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "ViFo_ShMi_",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Capture Roserade - Roserade",
+                        "ref": "ViFo_ShMi_/Capture Roserade/Roserade"
+                    },
+                    {
+                        "name": "Capture Roserade - Roserade (Pokemon)",
+                        "ref": "ViFo_ShMi_/Capture Roserade/Roserade (Pokemon)"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 1042,
+                        "y": 408,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "ViFo_UnRo_CrCa_PaMi_",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Capture Floatzel - Floatzel",
+                        "ref": "ViFo_UnRo_CrCa_PaMi_/Capture Floatzel/Floatzel"
+                    },
+                    {
+                        "name": "Capture Floatzel - Floatzel (Pokemon)",
+                        "ref": "ViFo_UnRo_CrCa_PaMi_/Capture Floatzel/Floatzel (Pokemon)"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 1061,
+                        "y": 2066,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "ViFo_UnRo_ShMi_PuTo_",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Capture Bibarel - Bibarel",
+                        "ref": "ViFo_UnRo_ShMi_PuTo_/Capture Bibarel/Bibarel"
+                    },
+                    {
+                        "name": "Capture Bibarel - Bibarel (Pokemon)",
+                        "ref": "ViFo_UnRo_ShMi_PuTo_/Capture Bibarel/Bibarel (Pokemon)"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 37,
+                        "y": 722,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "ViTo_MaCa_",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Capture Shellos - Shellos",
+                        "ref": "ViTo_MaCa_/Capture Shellos/Shellos"
+                    },
+                    {
+                        "name": "Capture Shellos - Shellos (Pokemon)",
+                        "ref": "ViTo_MaCa_/Capture Shellos/Shellos (Pokemon)"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 137,
+                        "y": 943,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "ViTo_MaMi_",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Capture Glameow - Glameow",
+                        "ref": "ViTo_MaMi_/Capture Glameow/Glameow"
+                    },
+                    {
+                        "name": "Capture Glameow - Glameow (Pokemon)",
+                        "ref": "ViTo_MaMi_/Capture Glameow/Glameow (Pokemon)"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 1327,
+                        "y": 1633,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "Victory",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Victory - Caught Darkrai",
+                        "ref": "Victory/Caught Darkrai"
+                    },
+                    {
+                        "name": "Victory - Caught Regigigas",
+                        "ref": "Victory/Caught Regigigas"
+                    },
+                    {
+                        "name": "Victory - Caught Darkrai & Regigigas",
+                        "ref": "Victory/Caught Darkrai & Regigigas"
+                    },
+                    {
+                        "name": "Victory - Caught All Legendary Pokemon",
+                        "ref": "Victory/Caught All Legendary Pokemon"
+                    },
+                    {
+                        "name": "Victory - Caught 'em All",
+                        "ref": "Victory/Caught 'em All"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 1740,
+                        "y": 768,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "VoCa_",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Capture Hariyama - Hariyama",
+                        "ref": "VoCa_/Capture Hariyama/Hariyama"
+                    },
+                    {
+                        "name": "Capture Hariyama - Hariyama (Pokemon)",
+                        "ref": "VoCa_/Capture Hariyama/Hariyama (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Lairon - Lairon",
+                        "ref": "VoCa_/Capture Lairon/Lairon"
+                    },
+                    {
+                        "name": "Capture Lairon - Lairon (Pokemon)",
+                        "ref": "VoCa_/Capture Lairon/Lairon (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Charmeleon - Charmeleon",
+                        "ref": "VoCa_/Capture Charmeleon/Charmeleon"
+                    },
+                    {
+                        "name": "Capture Charmeleon - Charmeleon (Pokemon)",
+                        "ref": "VoCa_/Capture Charmeleon/Charmeleon (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Slugma - Slugma",
+                        "ref": "VoCa_/Capture Slugma/Slugma"
+                    },
+                    {
+                        "name": "Capture Slugma - Slugma (Pokemon)",
+                        "ref": "VoCa_/Capture Slugma/Slugma (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Magcargo - Magcargo",
+                        "ref": "VoCa_/Capture Magcargo/Magcargo"
+                    },
+                    {
+                        "name": "Capture Magcargo - Magcargo (Pokemon)",
+                        "ref": "VoCa_/Capture Magcargo/Magcargo (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Drifloon - Drifloon",
+                        "ref": "VoCa_/Capture Drifloon/Drifloon"
+                    },
+                    {
+                        "name": "Capture Drifloon - Drifloon (Pokemon)",
+                        "ref": "VoCa_/Capture Drifloon/Drifloon (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Stunky - Stunky",
+                        "ref": "VoCa_/Capture Stunky/Stunky"
+                    },
+                    {
+                        "name": "Capture Stunky - Stunky (Pokemon)",
+                        "ref": "VoCa_/Capture Stunky/Stunky (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Shuppet - Shuppet",
+                        "ref": "VoCa_/Capture Shuppet/Shuppet"
+                    },
+                    {
+                        "name": "Capture Shuppet - Shuppet (Pokemon)",
+                        "ref": "VoCa_/Capture Shuppet/Shuppet (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Rhyhorn - Rhyhorn",
+                        "ref": "VoCa_/Capture Rhyhorn/Rhyhorn"
+                    },
+                    {
+                        "name": "Capture Rhyhorn - Rhyhorn (Pokemon)",
+                        "ref": "VoCa_/Capture Rhyhorn/Rhyhorn (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Muk - Muk",
+                        "ref": "VoCa_/Capture Muk/Muk"
+                    },
+                    {
+                        "name": "Capture Muk - Muk (Pokemon)",
+                        "ref": "VoCa_/Capture Muk/Muk (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Torkoal - Torkoal",
+                        "ref": "VoCa_/Capture Torkoal/Torkoal"
+                    },
+                    {
+                        "name": "Capture Torkoal - Torkoal (Pokemon)",
+                        "ref": "VoCa_/Capture Torkoal/Torkoal (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Bagon - Bagon",
+                        "ref": "VoCa_/Capture Bagon/Bagon"
+                    },
+                    {
+                        "name": "Capture Bagon - Bagon (Pokemon)",
+                        "ref": "VoCa_/Capture Bagon/Bagon (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Shelgon - Shelgon",
+                        "ref": "VoCa_/Capture Shelgon/Shelgon"
+                    },
+                    {
+                        "name": "Capture Shelgon - Shelgon (Pokemon)",
+                        "ref": "VoCa_/Capture Shelgon/Shelgon (Pokemon)"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 790,
+                        "y": 2309,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "VoCa_CaAr_",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Capture Magmortar - Magmortar",
+                        "ref": "VoCa_CaAr_/Capture Magmortar/Magmortar"
+                    },
+                    {
+                        "name": "Capture Magmortar - Magmortar (Pokemon)",
+                        "ref": "VoCa_CaAr_/Capture Magmortar/Magmortar (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Flareon - Flareon",
+                        "ref": "VoCa_CaAr_/Capture Flareon/Flareon"
+                    },
+                    {
+                        "name": "Capture Flareon - Flareon (Pokemon)",
+                        "ref": "VoCa_CaAr_/Capture Flareon/Flareon (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Charizard - Charizard",
+                        "ref": "VoCa_CaAr_/Capture Charizard/Charizard"
+                    },
+                    {
+                        "name": "Capture Charizard - Charizard (Pokemon)",
+                        "ref": "VoCa_CaAr_/Capture Charizard/Charizard (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Infernape - Infernape",
+                        "ref": "VoCa_CaAr_/Capture Infernape/Infernape"
+                    },
+                    {
+                        "name": "Capture Infernape - Infernape (Pokemon)",
+                        "ref": "VoCa_CaAr_/Capture Infernape/Infernape (Pokemon)"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 1399,
+                        "y": 714,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "VoCa_CaAr_PaMi_",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Capture Aggron - Aggron",
+                        "ref": "VoCa_CaAr_PaMi_/Capture Aggron/Aggron"
+                    },
+                    {
+                        "name": "Capture Aggron - Aggron (Pokemon)",
+                        "ref": "VoCa_CaAr_PaMi_/Capture Aggron/Aggron (Pokemon)"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 879,
+                        "y": 2389,
+                        "size": 6
+                    }
+                ]
+            },
+            {
+                "name": "VoCa_HaVi_",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Capture Pelipper - Pelipper",
+                        "ref": "VoCa_HaVi_/Capture Pelipper/Pelipper"
+                    },
+                    {
+                        "name": "Capture Pelipper - Pelipper (Pokemon)",
+                        "ref": "VoCa_HaVi_/Capture Pelipper/Pelipper (Pokemon)"
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Overworld",
+                        "x": 1561,
+                        "y": 2089,
+                        "size": 6
+                    }
+                ]
+            }
+        ]
+    }
+]

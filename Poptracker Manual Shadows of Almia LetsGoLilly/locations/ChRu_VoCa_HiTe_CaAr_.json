@@ -1,0 +1,44 @@
+[
+    {
+        "name": "ChRu_VoCa_HiTe_CaAr_",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            " "
+        ],
+        "children": [
+            {
+                "name": "Capture Drifblim",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Drifblim",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Drifblim (Pokemon)",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "ChRu_VoCa_HiTe_CaAr_",
+                        "x": 2452,
+                        "y": 789,
+                        "size": 6
+                    }
+                ]
+            }
+        ]
+    }
+]

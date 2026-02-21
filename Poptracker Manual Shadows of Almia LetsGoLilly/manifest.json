@@ -1,8 +1,8 @@
 {
   "name": "Pokemon Ranger Shadows of Almia Manual",
   "author": "LetsGoLilly",
-  "game_name": "manual_shadowsofalmia_letsgolilly",
-  "package_uid": "archipelago_manual_shadowsofalmia_letsgolilly",
+  "game_name": "Manual_ShadowsofAlmia_LetsGoLilly",
+  "package_uid": "manual_shadowsofalmia_letsgolilly_ap",
   "package_version": "1.0.0",
   "platform": "NDS",
   "variants": {
@@ -15,5 +15,5 @@
       "flags": ["ap"]
     }
   },
-  "versions_url": ""
+    "min_poptracker_version": "0.31.0"
 }

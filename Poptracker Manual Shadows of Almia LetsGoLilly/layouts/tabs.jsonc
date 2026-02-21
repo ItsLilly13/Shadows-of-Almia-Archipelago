@@ -126,7 +126,7 @@
                     "tabs": [
                         {
                             "title": "Pueltown",
-                            "icon": "images/pokemon/061 Tyrouge.png",
+                            "icon": "images/pokemon/061 Tyrogue.png",
                             "content": {
                                 "type": "map",
                                 "maps": [
@@ -354,7 +354,7 @@
                 }
             },
             {
-                "title": "Boyleland & Haruba Area",
+                "title": "Boyle & Haruba Area",
                 "icon": "images/options/checked.png",
                 "content": {
                     "type": "tabbed",

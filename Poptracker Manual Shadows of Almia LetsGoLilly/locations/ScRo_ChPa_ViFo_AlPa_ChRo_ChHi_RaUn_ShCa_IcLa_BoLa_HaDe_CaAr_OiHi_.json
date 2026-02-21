@@ -1,0 +1,44 @@
+[
+    {
+        "name": "ScRo_ChPa_ViFo_AlPa_ChRo_ChHi_RaUn_ShCa_IcLa_BoLa_HaDe_CaAr_OiHi_",
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000",
+        "access_rules": [
+            " "
+        ],
+        "children": [
+            {
+                "name": "Capture Staraptor",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "Staraptor",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Staraptor (Pokemon)",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "ScRo_ChPa_ViFo_AlPa_ChRo_ChHi_RaUn_ShCa_IcLa_BoLa_HaDe_CaAr_OiHi_",
+                        "x": 765,
+                        "y": 1281,
+                        "size": 6
+                    }
+                ]
+            }
+        ]
+    }
+]

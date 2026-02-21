@@ -1,14 +1,6 @@
-ENABLE_DEBUG_LOG = true
--- get current variant
-local variant = Tracker.ActiveVariantUID
--- check variant info
-IS_ITEMS_ONLY = variant:find("itemsonly")
 
-print("-- Manual Shadows of Almia Tracker --")
-print("Loaded variant: ", variant)
-if ENABLE_DEBUG_LOG then
-    print("Debug logging is enabled!")
-end
+local variant = Tracker.ActiveVariantUID
+
 -- Logic
 ScriptHost:LoadScript("scripts/logic.lua")
 
@@ -33,6 +25,18 @@ Tracker:AddLayouts("layouts/tabs.jsonc")
 Tracker:AddLayouts("layouts/tracker.json")
 
 -- AutoTracking for Poptracker
-if PopVersion and PopVersion >= "0.18.0" then
-    ScriptHost:LoadScript("scripts/autotracking.lua")
+if PopVersion and PopVersion >= "0.26.0" then
+    require("scripts/autotracking")
 end
+
+function OnFrameHandler()
+    ScriptHost:RemoveOnFrameHandler("load handler")
+    -- stuff
+    ScriptHost:AddWatchForCode("StateChanged", "*", StateChanged)
+    ScriptHost:AddOnLocationSectionChangedHandler("location_section_change_handler", LocationHandler)
+    CreateLuaManualStorageItem("manual_location_storage")
+    ForceUpdate()
+end
+require("scripts/luaitems")
+require("scripts/watches")
+ScriptHost:AddOnFrameHandler("load handler", OnFrameHandler)

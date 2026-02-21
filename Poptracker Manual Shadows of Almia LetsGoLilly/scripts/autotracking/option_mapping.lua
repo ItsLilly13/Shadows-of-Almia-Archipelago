@@ -1,2 +1,0 @@
-SLOT_DATA_MAPPING = {
-}

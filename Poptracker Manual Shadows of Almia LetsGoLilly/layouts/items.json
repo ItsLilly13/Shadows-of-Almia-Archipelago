@@ -216,54 +216,54 @@
                         "h_alignment": "left",
                         "rows": [
                             [
-                                "Normal",
+                                "Normal Assist",
                                 "Munchlax",
-                                "Flying",
+                                "Flying Assist",
                                 "Starly",
-                                "Electric",
+                                "Electric Assist",
                                 "Pachirisu"
                             ],
                             [
-                                "Grass",
+                                "Grass Assist",
                                 "Turtwig",
-                                "Fire",
+                                "Fire Assist",
                                 "Chimchar",
                                 "Recharge Assist"
                             ],
                             [
-                                "Water",
+                                "Water Assist",
                                 "Piplup",
-                                "Dark",
+                                "Dark Assist",
                                 "Sneasel"
                             ],
                             [
-                                "Rock",
+                                "Rock Assist",
                                 "Cranidos",
-                                "Steel",
+                                "Steel Assist",
                                 "Shieldon"
                             ],
                             [
-                                "Fighting",
+                                "Fighting Assist",
                                 "Machop",
-                                "Psychic",
+                                "Psychic Assist",
                                 "Mime Jr."
                             ],
                             [
-                                "Ground",
+                                "Ground Assist",
                                 "Hippopotas",
-                                "Dragon",
+                                "Dragon Assist",
                                 "Gible"
                             ],
                             [
-                                "Ghost",
+                                "Ghost Assist",
                                 "Misdreavus",
-                                "Poison",
+                                "Poison Assist",
                                 "Croagunk"
                             ],
                             [
-                                "Bug",
+                                "Bug Assist",
                                 "Kricketot",
-                                "Ice",
+                                "Ice Assist",
                                 "Snover"
                             ]
                         ]
