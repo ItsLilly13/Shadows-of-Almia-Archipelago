@@ -159,11 +159,11 @@ def before_create_items_starting(item_pool: list, world: World, multiworld: Mult
         DeleteList = ["Chicole Path Start", "Ranger School Start", "Pueltown Start", "Chroma Highlands Start", "Union Road Start", "Puel Sea Start", "Sea of Wailord Start", "Volcano Cave Start", "Haruba Desert Start", "Oil Field Hideout Start"]
 
     if "Puel Sea Start" in start_inventory_items:
-        start_inventory_items += ["Puel Sea Permit", "Pueltown Fly Point"]
+        start_inventory_items += ["Puel Sea Permit", "Pueltown Fly Point", "Green Boat Key"]
         DeleteList = ["Chicole Path Start", "Ranger School Start", "Pueltown Start", "Chroma Highlands Start", "Union Road Start", "Hia Valley Start", "Sea of Wailord Start", "Volcano Cave Start", "Haruba Desert Start", "Oil Field Hideout Start"]
 
     if "Sea of Wailord Start" in start_inventory_items:
-        start_inventory_items += ["Sea of Wailord Permit", "Pueltown Fly Point"]
+        start_inventory_items += ["Sea of Wailord Permit", "Pueltown Fly Point", "Green Boat Key"]
         DeleteList = ["Chicole Path Start", "Ranger School Start", "Pueltown Start", "Chroma Highlands Start", "Union Road Start", "Hia Valley Start", "Puel Sea Start", "Volcano Cave Start", "Haruba Desert Start", "Oil Field Hideout Start"]
 
     if "Volcano Cave Start" in start_inventory_items:

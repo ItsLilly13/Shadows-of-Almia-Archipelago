@@ -4,7 +4,7 @@
         "tabs": [
             {
                 "title": "Almia Map",
-                "icon": "images/options/checked.png",
+                "icon": "images/options/blue.png",
                 "content": {
                     "type": "map",
                     "maps": [
@@ -14,7 +14,7 @@
             },
             {
                 "title": "Almia Browser",
-                "icon": "images/options/checked.png",
+                "icon": "images/options/red.png",
                 "content": {
                     "type": "dock",
                     "content": [
@@ -32,7 +32,7 @@
             },
             {
                 "title": "Vien Area",
-                "icon": "images/options/checked.png",
+                "icon": "images/options/blue.png",
                 "content": {
                     "type": "tabbed",
                     "tabs": [
@@ -68,11 +68,41 @@
                         },
                         {
                             "title": "Vien Forest",
-                            "icon": "images/pokemon/053 Grotle.png",
+                            "icon": "images/pokemon/013 Blastoise.png",
                             "content": {
-                                "type": "map",
-                                "maps": [
-                                    "Vien Forest"
+                                "type": "tabbed",
+                                "tabs": [
+                        
+                                    {
+                                        "title": "Lower Vien Forest",
+                                        "icon": "images/pokemon/013 Blastoise.png",
+                                        "content": {
+                                            "type": "map",
+                                            "maps": [
+                                                "Lower Vien Forest"
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "title": "Upper Vien Forest",
+                                        "icon": "images/pokemon/227 Salamence.png",
+                                        "content": {
+                                            "type": "map",
+                                            "maps": [
+                                                "Upper Vien Forest"
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "title": "Vien Forest River",
+                                        "icon": "images/pokemon/010 Roserade.png",
+                                        "content": {
+                                            "type": "map",
+                                            "maps": [
+                                                "Vien Forest River"
+                                            ]
+                                        }
+                                    }
                                 ]
                             }
                         }
@@ -81,7 +111,7 @@
             },
             {
                 "title": "School Area",
-                "icon": "images/options/checked.png",
+                "icon": "images/options/red.png",
                 "content": {
                     "type": "tabbed",
                     "tabs": [
@@ -120,7 +150,7 @@
             },
             {
                 "title": "Altru Area",
-                "icon": "images/options/checked.png",
+                "icon": "images/options/blue.png",
                 "content": {
                     "type": "tabbed",
                     "tabs": [
@@ -169,7 +199,7 @@
             },
             {
                 "title": "Ranger Area",
-                "icon": "images/options/checked.png",
+                "icon": "images/options/red.png",
                 "content": {
                     "type": "tabbed",
                     "tabs": [
@@ -187,9 +217,29 @@
                             "title": "Peril Cliffs",
                             "icon": "images/pokemon/085 Rampardos.png",
                             "content": {
-                                "type": "map",
-                                "maps": [
-                                    "Peril Cliffs"
+                                "type": "tabbed",
+                                "tabs": [
+                        
+                                    {
+                                        "title": "Lower Peril Cliffs",
+                                        "icon": "images/pokemon/085 Rampardos.png",
+                                        "content": {
+                                            "type": "map",
+                                            "maps": [
+                                                "Lower Peril Cliffs"
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "title": "Upper Peril Cliffs",
+                                        "icon": "images/pokemon/048 Cherrim.png",
+                                        "content": {
+                                            "type": "map",
+                                            "maps": [
+                                                "Upper Peril Cliffs"
+                                            ]
+                                        }
+                                    }
                                 ]
                             }
                         },
@@ -208,7 +258,7 @@
             },
             {
                 "title": "Chroma Area",
-                "icon": "images/options/checked.png",
+                "icon": "images/options/blue.png",
                 "content": {
                     "type": "tabbed",
                     "tabs": [
@@ -233,12 +283,42 @@
                             }
                         },
                         {
-                            "title": "Chroma Ruins",
-                            "icon": "images/pokemon/193 Sableye.png",
+                            "title": "Croma Ruins",
+                            "icon": "images/pokemon/045 Probopass.png",
                             "content": {
-                                "type": "map",
-                                "maps": [
-                                    "Chroma Ruins"
+                                "type": "tabbed",
+                                "tabs": [
+                        
+                                    {
+                                        "title": "Upper Chroma Ruins",
+                                        "icon": "images/pokemon/193 Sableye.png",
+                                        "content": {
+                                            "type": "map",
+                                            "maps": [
+                                                "Upper Chroma Ruins"
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "title": "Middle Chroma Ruins",
+                                        "icon": "images/pokemon/045 Probopass.png",
+                                        "content": {
+                                            "type": "map",
+                                            "maps": [
+                                                "Middle Chroma Ruins"
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "title": "Lower Chroma Ruins",
+                                        "icon": "images/pokemon/187 Koffing.png",
+                                        "content": {
+                                            "type": "map",
+                                            "maps": [
+                                                "Lower Chroma Ruins"
+                                            ]
+                                        }
+                                    }
                                 ]
                             }
                         }
@@ -247,7 +327,7 @@
             },
             {
                 "title": "Hia Area",
-                "icon": "images/options/checked.png",
+                "icon": "images/options/red.png",
                 "content": {
                     "type": "tabbed",
                     "tabs": [
@@ -295,9 +375,39 @@
                             "title": "Almia Castle",
                             "icon": "images/pokemon/215 Froslass.png",
                             "content": {
-                                "type": "map",
-                                "maps": [
-                                    "Almia Castle"
+                                "type": "tabbed",
+                                "tabs": [
+                        
+                                    {
+                                        "title": "Almia Castle F1",
+                                        "icon": "images/pokemon/213 Snorunt.png",
+                                        "content": {
+                                            "type": "map",
+                                            "maps": [
+                                                "Almia Castle F1"
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "title": "Almia Castle F2",
+                                        "icon": "images/pokemon/214 Glalie.png",
+                                        "content": {
+                                            "type": "map",
+                                            "maps": [
+                                                "Almia Castle F2"
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "title": "Almia Castle F3",
+                                        "icon": "images/pokemon/215 Froslass.png",
+                                        "content": {
+                                            "type": "map",
+                                            "maps": [
+                                                "Almia Castle F3"
+                                            ]
+                                        }
+                                    }
                                 ]
                             }
                         }
@@ -306,7 +416,7 @@
             },
             {
                 "title": "Seas and Islands",
-                "icon": "images/options/checked.png",
+                "icon": "images/options/blue.png",
                 "content": {
                     "type": "tabbed",
                     "tabs": [
@@ -314,9 +424,29 @@
                             "title": "Puel Sea",
                             "icon": "images/pokemon/087 Lumineon.png",
                             "content": {
-                                "type": "map",
-                                "maps": [
-                                    "Puel Sea"
+                                "type": "tabbed",
+                                "tabs": [
+                        
+                                    {
+                                        "title": "Upper Puel Sea",
+                                        "icon": "images/pokemon/086 Finneon.png",
+                                        "content": {
+                                            "type": "map",
+                                            "maps": [
+                                                "Upper Puel Sea"
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "title": "Lower Puel Sea",
+                                        "icon": "images/pokemon/087 Lumineon.png",
+                                        "content": {
+                                            "type": "map",
+                                            "maps": [
+                                                "Lower Puel Sea"
+                                            ]
+                                        }
+                                    }
                                 ]
                             }
                         },
@@ -324,9 +454,29 @@
                             "title": "Sea of Wailord",
                             "icon": "images/pokemon/237 Wailmer.png",
                             "content": {
-                                "type": "map",
-                                "maps": [
-                                    "Sea of Wailord"
+                                "type": "tabbed",
+                                "tabs": [
+                        
+                                    {
+                                        "title": "Lower Sea of Wailord",
+                                        "icon": "images/pokemon/231 Kingdra.png",
+                                        "content": {
+                                            "type": "map",
+                                            "maps": [
+                                                "Lower Sea of Wailord"
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "title": "Upper Sea of Wailord",
+                                        "icon": "images/pokemon/237 Wailmer.png",
+                                        "content": {
+                                            "type": "map",
+                                            "maps": [
+                                                "Upper Sea of Wailord"
+                                            ]
+                                        }
+                                    }
                                 ]
                             }
                         },
@@ -334,9 +484,29 @@
                             "title": "Oil Field Hideout",
                             "icon": "images/pokemon/262 Porygon-Z.png",
                             "content": {
-                                "type": "map",
-                                "maps": [
-                                    "Oil Field Hideout"
+                                "type": "tabbed",
+                                "tabs": [
+                        
+                                    {
+                                        "title": "Oil Field Hideout F1",
+                                        "icon": "images/pokemon/262 Porygon-Z.png",
+                                        "content": {
+                                            "type": "map",
+                                            "maps": [
+                                                "Oil Field Hideout F1"
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "title": "Oil Field Hideout F2",
+                                        "icon": "images/pokemon/072 Electivire.png",
+                                        "content": {
+                                            "type": "map",
+                                            "maps": [
+                                                "Oil Field Hideout F2"
+                                            ]
+                                        }
+                                    }
                                 ]
                             }
                         },
@@ -355,7 +525,7 @@
             },
             {
                 "title": "Boyle & Haruba Area",
-                "icon": "images/options/checked.png",
+                "icon": "images/options/red.png",
                 "content": {
                     "type": "tabbed",
                     "tabs": [
@@ -371,11 +541,41 @@
                         },
                         {
                             "title": "Volcano Cave",
-                            "icon": "images/pokemon/224 Torkoal.png",
+                            "icon": "images/pokemon/142 Drifloon.png",
                             "content": {
-                                "type": "map",
-                                "maps": [
-                                    "Volcano Cave"
+                                "type": "tabbed",
+                                "tabs": [
+                        
+                                    {
+                                        "title": "Volcano Cave F1",
+                                        "icon": "images/pokemon/142 Drifloon.png",
+                                        "content": {
+                                            "type": "map",
+                                            "maps": [
+                                                "Volcano Cave F1"
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "title": "Volcano Cave F2",
+                                        "icon": "images/pokemon/170 Infernape.png",
+                                        "content": {
+                                            "type": "map",
+                                            "maps": [
+                                                "Volcano Cave F2"
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "title": "Volcano Cave F3",
+                                        "icon": "images/pokemon/139 Charizard.png",
+                                        "content": {
+                                            "type": "map",
+                                            "maps": [
+                                                "Volcano Cave F3"
+                                            ]
+                                        }
+                                    }
                                 ]
                             }
                         },
@@ -414,7 +614,7 @@
             },
             {
                 "title": "Missions",
-                "icon": "images/options/checked.png",
+                "icon": "images/options/blue.png",
                 "content": {
                     "type": "tabbed",
                     "tabs": [

@@ -7,11 +7,11 @@
   "platform": "NDS",
   "variants": {
     "standard": {
-      "display_name": "[AP] Map Tracker",
+      "display_name": "Map Tracker",
       "flags": ["ap", "apmanual"]
     },
     "z_item_only": {
-      "display_name": "[AP] Items Only",
+      "display_name": "Items Only",
       "flags": ["ap"]
     }
   },
