@@ -923,72 +923,6 @@
     "type": "toggle"
   },
       {
-    "name": "Chicole Path Start",
-    "codes": "Chicole Path Start",
-    "img": "images/Start/Chicole Path Start.png",
-    "type": "toggle"
-  },
-      {
-    "name": "Ranger School Start",
-    "codes": "Ranger School Start",
-    "img": "images/Start/Ranger School Start.png",
-    "type": "toggle"
-  },
-      {
-    "name": "Pueltown Start",
-    "codes": "Pueltown Start",
-    "img": "images/Start/Pueltown Start.png",
-    "type": "toggle"
-  },
-      {
-    "name": "Chroma Highlands Start",
-    "codes": "Chroma Highlands Start",
-    "img": "images/Start/Chroma Highlands Start.png",
-    "type": "toggle"
-  },
-      {
-    "name": "Union Road Start",
-    "codes": "Union Road Start",
-    "img": "images/Start/Union Road Start.png",
-    "type": "toggle"
-  },
-      {
-    "name": "Hia Valley Start",
-    "codes": "Hia Valley Start",
-    "img": "images/Start/Hia Valley Start.png",
-    "type": "toggle"
-  },
-      {
-    "name": "Puel Sea Start",
-    "codes": "Puel Sea Start",
-    "img": "images/Start/Puel Sea Start.png",
-    "type": "toggle"
-  },
-      {
-    "name": "Sea of Wailord Start",
-    "codes": "Sea of Wailord Start",
-    "img": "images/Start/Sea of Wailord Start.png",
-    "type": "toggle"
-  },
-      {
-    "name": "Volcano Cave Start",
-    "codes": "Volcano Cave Start",
-    "img": "images/Start/Volcano Cave Start.png",
-    "type": "toggle"
-  },
-      {
-    "name": "Haruba Desert Start",
-    "codes": "Haruba Desert Start",
-    "img": "images/Start/Haruba Desert Start.png",
-    "type": "toggle"
-  },
-      {
-    "name": "Oil Field Hideout Start",
-    "codes": "Oil Field Hideout Start",
-    "img": "images/Start/Oil Field Hideout Start.png",
-    "type": "toggle"
-  },
-      {
     "name": "Pichu",
     "codes": "Pichu",
     "img": "images/Pokemon/001 Pichu.png",
@@ -2387,5 +2321,71 @@
     "overlay_font_size": 6,
     "overlay_background": "#000000",
     "codes": "Gigaremo"
+  },
+      {
+    "name": "Chicole Path Start",
+    "codes": "Chicole Path Start",
+    "img": "images/Start/Chicole Path Start.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Ranger School Start",
+    "codes": "Ranger School Start",
+    "img": "images/Start/Ranger School Start.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Pueltown Start",
+    "codes": "Pueltown Start",
+    "img": "images/Start/Pueltown Start.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Chroma Highlands Start",
+    "codes": "Chroma Highlands Start",
+    "img": "images/Start/Chroma Highlands Start.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Union Road Start",
+    "codes": "Union Road Start",
+    "img": "images/Start/Union Road Start.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Hia Valley Start",
+    "codes": "Hia Valley Start",
+    "img": "images/Start/Hia Valley Start.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Puel Sea Start",
+    "codes": "Puel Sea Start",
+    "img": "images/Start/Puel Sea Start.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Sea of Wailord Start",
+    "codes": "Sea of Wailord Start",
+    "img": "images/Start/Sea of Wailord Start.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Volcano Cave Start",
+    "codes": "Volcano Cave Start",
+    "img": "images/Start/Volcano Cave Start.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Haruba Desert Start",
+    "codes": "Haruba Desert Start",
+    "img": "images/Start/Haruba Desert Start.png",
+    "type": "toggle"
+  },
+      {
+    "name": "Oil Field Hideout Start",
+    "codes": "Oil Field Hideout Start",
+    "img": "images/Start/Oil Field Hideout Start.png",
+    "type": "toggle"
   }
 ]

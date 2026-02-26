@@ -1,0 +1,3255 @@
+[
+{
+        "name": "Chicole Village",
+        "access_rules": [
+        "@Chicole Path",
+        "@Chicole Village Fly Point",
+        "@Sky",
+        "@Ranger Net"
+    ]
+    },
+{
+        "name": "Chicole Village Fly Point",
+        "access_rules": [
+        "@Chicole Village,Fly,Staraptor,Chocole Village Fly Point",
+        "@Sky,Fly,Staraptor,Chocole Village Fly Point"
+    ]
+    },
+{
+        "name": "Chicole Path",
+        "access_rules": [
+        "@Chicole Village",
+        "@Vientown","@Sky",
+        "@Ranger Net",
+        "@Chicole Path Capture"
+    ]
+    },
+{
+        "name": "Vientown",
+        "access_rules": [
+        "@Chicole Path",
+        "@School Road",
+        "@Marine Cave",
+        "@Vien Forest",
+        "@Vientown Fly Point",
+        "@Sky",
+        "@Ranger Net",
+        "@Vientown Capture"
+    ]
+    },
+{
+        "name": "Vientown Fly Point",
+        "access_rules": [
+        "@Vientown,Fly,Staraptor,Vientown Fly Point",
+        "@Sky,Fly,Staraptor,Vientown Fly Point"
+    ]
+    },
+{
+        "name": "School Road",
+        "access_rules": [
+        "@Vientown",
+        "@Ranger School",
+        "@Sky",
+        "@Ranger Net",
+        "@School Road Capture"
+    ]
+    },
+{
+        "name": "Ranger School",
+        "access_rules": [
+        "@School Road",
+        "@Cargo Ship",
+        "@Ranger School Fly Point",
+        "@Sky",
+        "@Ranger Net",
+        "@Ranger School Capture"
+    ]
+    },
+{
+        "name": "Ranger School Fly Point",
+        "access_rules": [
+        "@Ranger School,Fly,Staraptor,Ranger School Fly Point",
+        "@Sky,Fly,Staraptor,Ranger School Fly Point"
+    ]
+    },
+{
+        "name": "Cargo Ship",
+        "access_rules": [
+        "@Ranger School",
+        "@Ranger Net",
+        "@Cargo Ship Capture"
+    ]
+    },
+{
+        "name": "Marine Cave",
+        "access_rules": [
+        "@Vientown",
+        "@Ranger Net",
+        "@Marine Cave Capture"
+    ]
+    },
+{
+        "name": "Vien Forest",
+        "access_rules": [
+        "@Vientown",
+        "@Vien Forest River",
+        "@Pueltown",
+        "@Sky",
+        "@Ranger Net",
+        "@Vien Forest Capture"
+    ]
+    },
+{
+        "name": "Vien Forest River",
+        "access_rules": [
+        "@Vien Forest,River Flow 1,Floatzel",
+        "@Vien Forest North Island,River Flow 1,Floatzel",
+        "@Vien Forest South Island,River Flow 1,Floatzel",
+        "@Ranger Net,River Flow 1,Floatzel"
+    ]
+    },
+{
+        "name": "Vien Forest North Island",
+        "access_rules": [
+        "@Vien Forest River",
+        "@Sky",
+        "@Ranger Net",
+        "@Vien Forest North Island Capture"
+    ]
+    },
+{
+        "name": "Vien Forest South Island",
+        "access_rules": [
+        "@Vien Forest River",
+        "@Sky",
+        "@Ranger Net",
+        "@Vien Forest South Island Capture"
+    ]
+    },
+{
+        "name": "Pueltown",
+        "access_rules": [
+        "@Vien Forest",
+        "@Altru Park",
+        "@Pueltown Fly Point",
+        "@Boat to Puel Sea",
+        "@Boat to Sea of Wailord",
+        "@Boat to Boyleland",
+        "@Boat to Haruba Village",
+        "@Sky",
+        "@Ranger Net",
+        "@Pueltown Capture"
+    ]
+    },
+{
+        "name": "Pueltown Fly Point",
+        "access_rules": [
+        "@Pueltown,Fly,Staraptor,Pueltown Fly Point",
+        "@Sky,Fly,Staraptor,Pueltown Fly Point"
+    ]
+    },
+{
+        "name": "Boat to Pueltown",
+        "access_rules": [
+        "@Pueltown,Green Boat Key"
+    ]
+    },
+{
+        "name": "Altru Park",
+        "access_rules": [
+        "@Pueltown",
+        "@Altru Building",
+        "@Chroma Road",
+        "@Union Road",
+        "@Sky",
+        "@Ranger Net",
+        "@Altru Park Capture"
+    ]
+    },
+{
+        "name": "Altru Building",
+        "access_rules": [
+        "@Altru Park",
+        "@Altru Tower",
+        "@Altru Building Fly Point",
+        "@Ranger Net",
+        "@Altru Building Capture"
+    ]
+    },
+{
+        "name": "Altru Building Fly Point",
+        "access_rules": [
+        "@Altru Building,Fly,Staraptor,Altru Building Fly Point",
+        "@Sky,Fly,Staraptor,Altru Building Fly Point"
+    ]
+    },
+{
+        "name": "Altru Tower",
+        "access_rules": [
+        "@Altru Building",
+        "@Altru Tower Fly Point",
+        "@Sky",
+        "@Ranger Net",
+        "@Altru Tower Capture"
+    ]
+    },
+{
+        "name": "Altru Tower Fly Point",
+        "access_rules": [
+        "@Altru Tower,Fly,Staraptor,Altru Tower Fly Point",
+        "@Sky,Fly,Staraptor,Altru Tower Fly Point"
+    ]
+    },
+{
+        "name": "Chroma Road",
+        "access_rules": [
+        "@Altru Park",
+        "@Chroma Highlands",
+        "@Sky",
+        "@Ranger Net",
+        "@Chroma Road Capture"
+    ]
+    },
+{
+        "name": "Chroma Highlands",
+        "access_rules": [
+        "@Chroma Road",
+        "@Chroma Ruins",
+        "@Chroma Highlands Fly Point",
+        "@Sky",
+        "@Ranger Net",
+        "@Chroma Highlands Capture"
+    ]
+    },
+{
+        "name": "Chroma Highlands Fly Point",
+        "access_rules": [
+        "@Chroma Highlands,Fly,Staraptor,Chroma Highlands Fly Point",
+        "@Sky,Fly,Staraptor,Chroma Highlands Fly Point"
+    ]
+    },
+{
+        "name": "Chroma Ruins",
+        "access_rules": [
+        "@Chroma Highlands",
+        "@Chroma Ruins Light",
+        "@Chroma Ruins Fly Point",
+        "@Ranger Net",
+        "@Chroma Ruins Capture"
+    ]
+    },
+{
+        "name": "Chroma Ruins Fly Point",
+        "access_rules": [
+        "@Chroma Ruins,Fly,Staraptor,Chroma Ruins Fly Point",
+        "@Sky,Fly,Staraptor,Chroma Ruins Fly Point"
+    ]
+    },
+{
+        "name": "Chroma Ruins Light",
+        "access_rules": [
+        "@Chroma Ruins,Elevate,Drifblim",
+        "@Chroma Ruins Probopass,Elevate,Drifblim"
+    ]
+    },
+{
+        "name": "Chroma Ruins Probopass",
+        "access_rules": [
+        "@Chroma Ruins",
+        "@Chroma Ruins Probopass Capture"
+    ]
+    },
+{
+        "name": "Union Road",
+        "access_rules": [
+        "@Altru Park",
+        "@Union Road River",
+        "@Peril Cliffs",
+        "@Ranger Union",
+        "@Sky",
+        "@Ranger Net",
+        "@Union Road Capture"
+    ]
+    },
+{
+        "name": "Union Road River",
+        "access_rules": [
+        "@Vien Forest River",
+        "@Union Road",
+        "@Crysta Cave River",
+        "@Ranger Net"
+    ]
+    },
+{
+        "name": "Peril Cliffs",
+        "access_rules": [
+        "@Union Road",
+        "@Sky",
+        "@Ranger Net",
+        "@Peril Cliffs Capture"
+    ]
+    },
+{
+        "name": "Ranger Union",
+        "access_rules": [
+        "@Union Road",
+        "@Ranger Union Fly Point",
+        "@Sky",
+        "@Ranger Net",
+        "@Ranger Union Capture"
+    ]
+    },
+{
+        "name": "Ranger Union Fly Point",
+        "access_rules": [
+        "@Ranger Union,Fly,Staraptor,Ranger Union Fly Point",
+        "@Sky,Fly,Staraptor,Ranger Union Fly Point"
+    ]
+    },
+{
+        "name": "Crysta Cave River",
+        "access_rules": [
+        "@Union Road River,River Flow 1,Floatzel",
+        "@Crysta Cave Island,River Flow 1,Floatzel",
+        "@Crysta Cave,River Flow 1,Floatzel",
+        "@Ranger Net,River Flow 1,Floatzel"
+    ]
+    },
+{
+        "name": "Crysta Cave Island",
+        "access_rules": [
+        "@Crysta Cave River",
+        "@Ranger Net",
+        "@Crysta Cave Island Capture"
+    ]
+    },
+{
+        "name": "Crysta Cave",
+        "access_rules": [
+        "@Crysta Cave River",
+        "@Crysta Cave Chingling River",
+        "@Hia Valley",
+        "@Ranger Net",
+        "@Crysta Cave Capture"
+    ]
+    },
+{
+        "name": "Crysta Cave Chingling River",
+        "access_rules": [
+        "@Crysta Cave,River Flow 1,Floatzel",
+        "@Crysta Cave Chingling Island,River Flow 1,Floatzel",
+        "@Ranger Net,River Flow 1,Floatzel"
+    ]
+    },
+{
+        "name": "Crysta Cave Chingling Island",
+        "access_rules": [
+        "@Crysta Cave Chingling River",
+        "@Ranger Net",
+        "@Crysta Cave Chingling Island Capture"
+    ]
+    },
+{
+        "name": "Hia Valley",
+        "access_rules": [
+        "@Crysta Cave",
+        "@Shiver Camp",
+        "@Ice Lake South",
+        "@Sky",
+        "@Ranger Net",
+        "@Hia Valley Capture"
+    ]
+    },
+{
+        "name": "Shiver Camp",
+        "access_rules": [
+        "@Hia Valley",
+        "@Shiver Camp Fly Point",
+        "@Sky",
+        "@Ranger Net",
+        "@Shiver Camp Capture"
+    ]
+    },
+{
+        "name": "Shiver Camp Fly Point",
+        "access_rules": [
+        "@Shiver Camp,Fly,Staraptor,Shiver Camp Fly Point",
+        "@Sky,Fly,Staraptor,Shiver Camp Fly Point"
+    ]
+    },
+{
+        "name": "Ice Lake South",
+        "access_rules": [
+        "@Hia Valley",
+        "@Ice Lake Water",
+        "@Sky",
+        "@Ranger Net",
+        "@Ice Lake South Capture"
+    ]
+    },
+{
+        "name": "Ice Lake Water",
+        "access_rules": [
+        "@Ice Lake South,River Flow 2,Empoleon",
+        "@Ice Lake North,River Flow 2,Empoleon",
+        "@Ice Lake Abomasnow Island,River Flow 2,Empoleon",
+        "@Ranger Net,River Flow 2,Empoleon"
+    ]
+    },
+{
+        "name": "Ice Lake Abomasnow Island",
+        "access_rules": [
+        "@Ice Lake Water",
+        "@Sky",
+        "@Ranger Net",
+        "@Ice Lake Abomasnow Island Capture"
+    ]
+    },
+{
+        "name": "Ice Lake North",
+        "access_rules": [
+        "@Ice Lake Water",
+        "@Almia Castle",
+        "@Ice Lake Glaceon Water",
+        "@Sky",
+        "@Ranger Net",
+        "@Ice Lake North Capture"
+    ]
+    },
+{
+        "name": "Ice Lake Glaceon Water",
+        "access_rules": [
+        "@Ice Lake Water,River Flow 2,Empoleon",
+        "@Ice Lake Glaceon Island,River Flow 2,Empoleon",
+        "@Ranger Net,River Flow 2,Empoleon"
+    ]
+    },
+{
+        "name": "Ice Lake Glaceon Island",
+        "access_rules": [
+        "@Ice Lake Glaceon Water",
+        "@Sky",
+        "@Ranger Net",
+        "@Ice Lake Glaceon Island Capture"
+    ]
+    },
+{
+        "name": "Almia Castle",
+        "access_rules": [
+        "@Ice Lake North",
+        "@Almia Castle Fly Point",
+        "@Sky",
+        "@Ranger Net",
+        "@Almia Castle Capture"
+    ]
+    },
+{
+        "name": "Almia Castle Fly Point",
+        "access_rules": [
+        "@Almia Castle,Fly,Staraptor,Almia Castle Fly Point",
+        "@Sky,Fly,Staraptor,Almia Castle Fly Point"
+    ]
+    },
+{
+        "name": "Boat to Puel Sea",
+        "access_rules": [
+        "@Pueltown,Light Blue Boat Key",
+        "@Puel Sea,Light Blue Boat Key"
+    ]
+    },
+{
+        "name": "Puel Sea",
+        "access_rules": [
+        "@Puel Sea Deep Water",
+        "@Boat to Puel Sea",
+        "@Ranger Net",
+        "@Puel Sea Capture"
+    ]
+    },
+{
+        "name": "Puel Sea Deep Water",
+        "access_rules": [
+        "@Puel Sea,Swim,Mantine",
+        "@Puel Sea Island,Swim,Mantine"
+    ]
+    },
+{
+        "name": "Puel Sea Island",
+        "access_rules": [
+        "@Puel Sea Deep Water",
+        "@Puel Sea Island Capture"
+    ]
+    },
+{
+        "name": "Boat to Sea of Wailord",
+        "access_rules": [
+        "@Pueltown,Dark Blue Boat Key",
+        "@Sea of Wailord,Dark Blue Boat Key"
+    ]
+    },
+{
+        "name": "Sea of Wailord",
+        "access_rules": [
+        "@Sea of Wailord Deep Water",
+        "@Boat to Sea of Wailord",
+        "@Ranger Net",
+        "@Sea of Wailord Capture"
+    ]
+    },
+{
+        "name": "Sea of Wailord Deep Water",
+        "access_rules": [
+        "@Sea of Wailord,Swim,Mantine",
+        "@Sea of Wailord Island,Swim,Mantine"
+    ]
+    },
+{
+        "name": "Sea of Wailord Island",
+        "access_rules": [
+        "@Sea of Wailord",
+        "@Sea of Wailord Deep Water",
+        "@Sea of Wailord Island Capture"
+    ]
+    },
+{
+        "name": "Boat to Boyleland",
+        "access_rules": [
+        "@Boyleland,Red Boat Key"
+    ]
+    },
+{
+        "name": "Boyleland",
+        "access_rules": [
+        "@Volcano Cave",
+        "@Boyleland Fly Point",
+        "@Boat to Pueltown",
+        "@Boat to Haruba Village",
+        "@Sky",
+        "@Ranger Net",
+        "@Boyleland Capture"
+    ]
+    },
+{
+        "name": "Boyleland Fly Point",
+        "access_rules": [
+        "@Boyleland,Fly,Staraptor,Boyleland Fly Point",
+        "@Sky,Fly,Staraptor,Boyleland Fly Point"
+    ]
+    },
+{
+        "name": "Volcano Cave",
+        "access_rules": [
+        "@Boyleland",
+        "@Volcano Cave Air Current",
+        "@Volcano Cave Lava F1",
+        "@Ranger Net",
+        "@Volcano Cave Capture"
+    ]
+    },
+{
+        "name": "Volcano Cave Air Current",
+        "access_rules": [
+        "@Volcano Cave,Airlift,Drifloon",
+        "@Volcano Cave Deep,Airlift,Drifloon"
+    ]
+    },
+{
+        "name": "Volcano Cave Deep",
+        "access_rules": [
+        "@Volcano Cave Air Current",
+        "@Volcano Cave",
+        "@Volcano Cave Deep Capture"
+    ]
+    },
+{
+        "name": "Volcano Cave Lava F1",
+        "access_rules": [
+        "@Volcano Cave,Magma Flow,Torkoal",
+        "@Volcano Cave Flareon,Magma Flow,Torkoal",
+        "@Volcano Cave Drifblim,Magma Flow,Torkoal",
+        "@Volcano Cave Island,Magma Flow,Torkoal"
+    ]
+    },
+{
+        "name": "Volcano Cave Flareon",
+        "access_rules": [
+        "@Volcano Cave Lava F1",
+        "@Volcano Cave Flareon Capture"
+    ]
+    },
+{
+        "name": "Volcano Cave Drifblim",
+        "access_rules": [
+        "@Volcano Cave Lava F1",
+        "@Volcano Cave",
+        "@Volcano Cave Drifblim Capture"
+    ]
+    },
+{
+        "name": "Volcano Cave Island",
+        "access_rules": [
+        "@Volcano Cave Lava F1",
+        "@Volcano Cave Light F1",
+        "@Volcano Cave Island Capture"
+    ]
+    },
+{
+        "name": "Volcano Cave Light F1",
+        "access_rules": [
+        "@Volcano Cave Island,Elevate,Drifblim",
+        "@Volcano Cave F2,Elevate,Drifblim"
+    ]
+    },
+{
+        "name": "Volcano Cave F2",
+        "access_rules": [
+        "@Volcano Cave Island",
+        "@Volcano Cave Lava F2",
+        "@Volcano Cave F2 Capture"
+    ]
+    },
+{
+        "name": "Volcano Cave Lava F2",
+        "access_rules": [
+        "@Volcano Cave F2,Magma Flow,Torkoal",
+        "@Volcano Cave Island F2,Magma Flow,Torkoal"
+    ]
+    },
+{
+        "name": "Volcano Cave Island F2",
+        "access_rules": [
+        "@Volcano Cave Lava F2",
+        "@Volcano Cave Light F2",
+        "@Volcano Cave F2",
+        "@Volcano Cave Island F2 Capture"
+    ]
+    },
+{
+        "name": "Volcano Cave Light F2",
+        "access_rules": [
+        "@Volcano Cave Island F2,Elevate,Drifblim",
+        "@Volcano Cave F3,Elevate,Drifblim"
+    ]
+    },
+{
+        "name": "Volcano Cave F3",
+        "access_rules": [
+        "@Volcano Cave Island F2",
+        "@Volcano Cave",
+        "@Volcano Cave F3 Capture"
+    ]
+    },
+{
+        "name": "Boat to Haruba Village",
+        "access_rules": [
+        "@Haruba Village,Orange Boat Key"
+    ]
+    },
+{
+        "name": "Haruba Village",
+        "access_rules": [
+        "@Haruba Desert","@Haruba Village Fly Point",
+        "@Boat to Pueltown",
+        "@Boat to Boyleland",
+        "@Wailord to Capture Arena","@Sky",
+        "@Ranger Net",
+        "@Haruba Village Capture"
+    ]
+    },
+{
+        "name": "Haruba Village Fly Point",
+        "access_rules": [
+        "@Haruba Village,Fly,Staraptor,Haruba Village Fly Point",
+        "@Sky,Fly,Staraptor,Haruba Village Fly Point"
+    ]
+    },
+{
+        "name": "Haruba Desert",
+        "access_rules": [
+        "@Haruba Village",
+        "@Hippowdon Temple",
+        "@Sky",
+        "@Ranger Net",
+        "@Haruba Desert Capture"
+    ]
+    },
+{
+        "name": "Hippowdon Temple",
+        "access_rules": [
+        "@Haruba Desert",
+        "@Hippowdon Temple Light",
+        "@Hippowdon Temple Fly Point",
+        "@Sky",
+        "@Ranger Net",
+        "@Hippowdon Temple Capture"
+    ]
+    },
+{
+        "name": "Hippowdon Temple Light",
+        "access_rules": [
+        "@Hippowdon Temple,Elevate,Drifblim",
+        "@Hippowdon Temple Deep,Elevate,Drifblim"
+    ]
+    },
+{
+        "name": "Hippowdon Temple Deep",
+        "access_rules": [
+        "@Hippowdon Temple",
+        "@Sand Whirlpool",
+        "@Hippowdon Temple Deep Capture"
+    ]
+    },
+{
+        "name": "Sand Whirlpool",
+        "access_rules": [
+        "@Regigigas Room"
+    ]
+    },
+{
+        "name": "Regigigas Room",
+        "access_rules": [
+        "@Hippowdon Temple,Regirock,Regice,Regirock",
+        "@Regigigas Room Capture,Regirock,Regice,Regirock"
+    ]
+    },
+{
+        "name": "Hippowdon Temple Fly Point",
+        "access_rules": [
+        "@Hippowdon Temple,Fly,Staraptor,Hippowdon Temple Fly Point",
+        "@Sky,Fly,Staraptor,Hippowdon Temple Fly Point"
+    ]
+    },
+{
+        "name": "Wailord to Capture Arena",
+        "access_rules": [
+        "@Haruba Village,Wailord",
+        "@Capture Arena,Wailord"
+    ]
+    },
+{
+        "name": "Capture Arena",
+        "access_rules": [
+        "@Capture Arena Fly Point",
+        "@Wailord to Capture Arena",
+        "@Sky",
+        "@Ranger Net",
+        "@Capture Arena Capture 1",
+        "@Capture Arena Capture 2",
+        "@Capture Arena Capture 3"
+    ]
+    },
+{
+        "name": "Capture Arena Fly Point",
+        "access_rules": [
+        "@Capture Arena,Fly,Staraptor,Capture Arena Fly Point",
+        "@Sky,Fly,Staraptor,Capture Arena Fly Point"
+    ]
+    },
+{
+        "name": "Oil Field Hideout",
+        "access_rules": [
+        "@Oil Field Hideout Fly Point",
+        "@Sky",
+        "@Ranger Net",
+        "@Oil Field Hideout Capture"
+    ]
+    },
+{
+        "name": "Oil Field Hideout Fly Point",
+        "access_rules": [
+        "@Oil Field Hideout,Fly,Staraptor,Oil Field Hideout Fly Point",
+        "@Sky,Fly,Staraptor,Oil Field Hideout Fly Point"
+    ]
+    },
+{
+        "name": "Manaphy Mission",
+        "access_rules": [
+        "@Ranger Net,ManaphyM,Ranger Net",
+        "@Manaphy Mission Capture,ManaphyM,Ranger Net"
+    ]
+    },
+{
+        "name": "Riolu Mission",
+        "access_rules": [
+        "@Ranger Net,RioluM,Ranger Net",
+        "@Riolu Mission Capture,RioluM,Ranger Net"
+    ]
+    },
+{
+        "name": "Tower Mission",
+        "access_rules": [
+        "@Ranger Net,TowerM,Ranger Net",
+        "@Tower Mission Capture,TowerM,Ranger Net"
+    ]
+    },
+{
+        "name": "Dialga Mission",
+        "access_rules": [
+        "@Ranger Net,DialgaM,Ranger Net",
+        "@Dialga Mission Capture,DialgaM,Ranger Net"
+    ]
+    },
+{
+        "name": "Palkia Mission",
+        "access_rules": [
+        "@Ranger Net,PalkiaM,Ranger Net",
+        "@Palkia Mission Capture,PalkiaM,Ranger Net"
+    ]
+    },
+{
+        "name": "Shaymin Mission",
+        "access_rules": [
+        "@Ranger Net,ShayminM,Ranger Net",
+        "@Shaymin Mission Capture,ShayminM,Ranger Net"
+    ]
+    },
+{
+        "name": "Sky",
+        "access_rules": [
+        "@Chicole Village Fly Point,Fly,Staraptor",
+        "@Vientown Fly Point,Fly,Staraptor",
+        "@Ranger School Fly Point,Fly,Staraptor",
+        "@Pueltown Fly Point,Fly,Staraptor",
+        "@Altru Building Fly Point,Fly,Staraptor",
+        "@Altru Tower Fly Point,Fly,Staraptor",
+        "@Chroma Highlands Fly Point,Fly,Staraptor",
+        "@Chroma Ruins Fly Point,Fly,Staraptor",
+        "@Ranger Union Fly Point,Fly,Staraptor",
+        "@Shiver Camp Fly Point,Fly,Staraptor",
+        "@Almia Castle Fly Point,Fly,Staraptor",
+        "@Boyleland Fly Point,Fly,Staraptor",
+        "@Haruba Village Fly Point,Fly,Staraptor",
+        "@Hippowdon Temple Fly Point,Fly,Staraptor",
+        "@Capture Arena Fly Point,Fly,Staraptor",
+        "@Oil Field Hideout Fly Poin,Fly,Staraptort"
+    ]
+    },
+{
+        "name": "Ranger Net",
+        "access_rules": [
+        "@Manaphy Mission",
+        "@Riolu Mission",
+        "@Tower Mission",
+        "@Dialga Mission",
+        "@Palkia Mission",
+        "@Shaymin Mission"
+    ]
+    },
+
+{
+        "name": "Pichu",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Pikachu",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Raichu",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Bidoof",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Bibarel",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Taillow",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Swellow",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Budew",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Roselia",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Roserade",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Squirtle",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Wartortle",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Blastoise",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Zubat",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Golbat",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Crobat",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Gastly",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Haunter",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Gengar",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Buneary",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Lopunny",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Happiny",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Staravia",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Staraptor",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Makuhita",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Hariyama",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Bonsly",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Sudowoodo",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Slakoth",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Seedot",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Nuzleaf",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Shiftry",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Tangrowth",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Shellos",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Gastrodon",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Glameow",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Purugly",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Geodude",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Graveler",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Golem",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Nosepass",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Probopass",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Miltank",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Cherubi",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Cherrim",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Shinx",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Luxio",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Luxray",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Grotle",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Torterra",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Buizel",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Floatzel",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Weedle",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Beedrill",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Combee",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Vespiquen",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Tyrogue",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Magnemite",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Magneton",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Magnezone",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Growlithe",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Arcanine",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Rattata",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Raticate",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Chatot",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Elekid",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Electabuzz",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Electivire",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Magby",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Magmar",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Magmortar",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Voltorb",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Electrode",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Wingull",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Pelipper",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Toxicroak",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Kricketune",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Rampardos",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Finneon",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Lumineon",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Chinchou",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Lanturn",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Mantyke",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Mantine",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Qwilfish",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Corsola",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Staryu",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Starmie",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Sharpedo",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Eevee",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Vaporeon",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Jolteon",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Flareon",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Espeon",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Umbreon",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Leafeon",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Glaceon",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Mareep",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Flaaffy",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Ampharos",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Aipom",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Ambipom",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Pineco",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Forretress",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Spearow",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Fearow",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Oddish",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Gloom",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Vileplume",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Bellossom",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Yanma",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Yanmega",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Larvitar",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Pupitar",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Tyranitar",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Pinsir",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Numel",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Camerupt",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Mankey",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Primeape",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Gligar",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Gliscor",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Mawile",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Aron",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Lairon",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Aggron",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Doduo",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Dodrio",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Carnivine",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Charmander",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Charmeleon",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Charizard",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Slugma",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Magcargo",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Drifloon",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Drifblim",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Stunky",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Skuntank",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Kangaskhan",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Shuppet",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Banette",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Rhyhorn",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Rhydon",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Rhyperior",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Muk",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Houndour",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Houndoom",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Spinarak",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Ariados",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Ralts",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Kirlia",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Gardevoir",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Gallade",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Machoke",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Machamp",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Mr. Mime",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Drowzee",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Hypno",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Monferno",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Infernape",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Vulpix",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Ninetales",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Skorupi",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Drapion",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Lickilicky",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Ponyta",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Rapidash",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Girafarig",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Tauros",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Ninjask",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Bastiodon",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Abra",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Alakazam",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Murkrow",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Honchkrow",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Koffing",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Weezing",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Skarmory",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Duskull",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Dusclops",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Dusknoir",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Sableye",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Sandshrew",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Sandslash",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Spiritomb",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Spheal",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Sealeo",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Walrein",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Swinub",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Piloswine",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Mamoswine",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Jigglypuff",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Wigglytuff",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Chingling",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Prinplup",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Empoleon",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Delibird",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Jynx",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Abomasnow",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Snorunt",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Glalie",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Froslass",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Scyther",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Scizor",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Dratini",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Dragonair",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Mismagius",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Riolu",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Lucario",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Torkoal",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Bagon",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Shelgon",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Salamence",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Heatran",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Horsea",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Seadra",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Kingdra",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Huntail",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Gorebyss",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Tentacruel",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Omanyte",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Omastar",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Wailmer",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Cacnea",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Cacturne",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Mothim",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Victreebel",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Sceptile",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Weavile",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Hippowdon",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Bronzor",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Bronzong",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Claydol",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Gabite",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Garchomp",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Cresselia",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Blaziken",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Absol",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Aerodactyl",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Flygon",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Altaria",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Togekiss",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Porygon-Z",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Regirock",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Regice",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Registeel",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Regigigas",
+        "access_rules": [
+        "@Victory"
+    ]
+    },
+{
+        "name": "Manaphy",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Dialga",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Palkia",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Shaymin",
+        "access_rules": [
+        ""
+    ]
+    },
+{
+        "name": "Darkrai",
+        "access_rules": [
+        "@Victory"
+    ]
+    },
+
+{
+        "name": "Chicole Path Capture",
+        "access_rules": [
+        "@Budew,Chicole Path Permit",
+        "@Staraptor,Chicole Path Permit",
+        "@Seedot,Chicole Path Permit",
+        "@Doduo,Chicole Path Permit"
+    ]
+    },
+{
+        "name": "Vientown Capture",
+        "access_rules": [
+        "@Pichu,Vientown Permit",
+        "@Bidoof,Vientown Permit",
+        "@Taillow,Vientown Permit",
+        "@Shellos,Vientown Permit",
+        "@Glameow,Vientown Permit"
+    ]
+    },
+{
+        "name": "School Road Capture",
+        "access_rules": [
+        "@Taillow,School Road Permit",
+        "@Buneary,School Road Permit",
+        "@Staraptor,School Road Permit",
+        "@Doduo,School Road Permit"
+    ]
+    },
+{
+        "name": "Ranger School Capture",
+        "access_rules": [
+        "@Pichu,Ranger School Permit",
+        "@Bidoof,Ranger School Permit",
+        "@Taillow,Ranger School Permit",
+        "@Budew,Ranger School Permit",
+        "@Squirtle,Ranger School Permit",
+        "@Zubat,Ranger School Permit",
+        "@Gastly,Ranger School Permit",
+        "@Bonsly,Ranger School Permit",
+        "@Slakoth,Ranger School Permit",
+        "@Tangrowth,Ranger School Permit",
+        "@Doduo,Ranger School Permit",
+        "@Charmander,Ranger School Permit"
+    ]
+    },
+{
+        "name": "Cargo Ship Capture",
+        "access_rules": [
+        "@Pikachu,Cargo Ship Permit",
+        "@Makuhita,Cargo Ship Permit",
+        "@Purugly,Cargo Ship Permit",
+        "@Magnezone,Cargo Ship Permit",
+        "@Raticate,Cargo Ship Permit",
+        "@Electabuzz,Cargo Ship Permit",
+        "@Magmar,Cargo Ship Permit",
+        "@Voltorb,Cargo Ship Permit",
+        "@Houndour,Cargo Ship Permit",
+        "@Spinarak,Cargo Ship Permit",
+        "@Ralts,Cargo Ship Permit",
+        "@Machoke,Cargo Ship Permit",
+        "@Drowzee,Cargo Ship Permit",
+        "@Monferno,Cargo Ship Permit",
+        "@Vulpix,Cargo Ship Permit",
+        "@Lickilicky,Cargo Ship Permit"
+    ]
+    },
+{
+        "name": "Marine Cave Capture",
+        "access_rules": [
+        "@Pichu,Marine Cave Permit",
+        "@Squirtle,Marine Cave Permit",
+        "@Zubat,Marine Cave Permit",
+        "@Shellos,Marine Cave Permit",
+        "@Gastrodon,Marine Cave Permit",
+        "@Geodude,Marine Cave Permit",
+        "@Graveler,Marine Cave Permit",
+        "@Nosepass,Marine Cave Permit"
+    ]
+    },
+{
+        "name": "Vien Forest Capture",
+        "access_rules": [
+        "@Pichu,Vien Forest Permit",
+        "@Bibarel,Vien Forest Permit",
+        "@Taillow,Vien Forest Permit",
+        "@Roselia,Vien Forest Permit",
+        "@Wartortle,Vien Forest Permit",
+        "@Blastoise,Vien Forest Permit",
+        "@Buneary,Vien Forest Permit",
+        "@Happiny,Vien Forest Permit",
+        "@Staraptor,Vien Forest Permit",
+        "@Bonsly,Vien Forest Permit",
+        "@Cherubi,Vien Forest Permit",
+        "@Shinx,Vien Forest Permit",
+        "@Grotle,Vien Forest Permit",
+        "@Torterra,Vien Forest Permit",
+        "@Buizel,Vien Forest Permit",
+        "@Floatzel,Vien Forest Permit",
+        "@Weedle,Vien Forest Permit",
+        "@Beedril,Vien Forest Permitl",
+        "@Combee,Vien Forest Permit",
+        "@Ambipom,Vien Forest Permit",
+        "@Doduo,Vien Forest Permit",
+        "@Salamence,Vien Forest Permit"
+    ]
+    },
+{
+        "name": "Vien Forest North Island Capture",
+        "access_rules": [
+        "@Pikachu,Vien Forest Permit",
+        "@Roserade,Vien Forest Permit",
+        "@Lopunny,Vien Forest Permit",
+        "@Shiftry,Vien Forest Permit",
+        "@Luxio,Vien Forest Permit",
+        "@Torterra,Vien Forest Permit",
+        "@Floatzel,Vien Forest Permit",
+        "@Kricketune,Vien Forest Permit",
+        "@Forretress,Vien Forest Permit",
+        "@Regirock,Vien Forest Permit"
+    ]
+    },
+{
+        "name": "Vien Forest South Island Capture",
+        "access_rules": [
+        "@Pikachu",
+         "@Staraptor",
+        "@Luxio",
+        "@Floatzel",
+        "@Kricketune",
+        "@Leafeon"
+    ]
+    },
+{
+        "name": "Pueltown Capture",
+        "access_rules": [
+        "@Pichu,Vien Forest Permit",
+        "@Bibarel,Vien Forest Permit",
+        "@Tyrogue,Vien Forest Permit",
+        "@Magnemite,Vien Forest Permit",
+        "@Growlithe,Vien Forest Permit",
+        "@Rattata,Vien Forest Permit",
+        "@Raticate,Vien Forest Permit",
+        "@Chatot,Vien Forest Permit",
+        "@Elekid,Vien Forest Permit",
+        "@Magby,Vien Forest Permit",
+        "@Voltorb,Vien Forest Permit",
+        "@Wingull,Vien Forest Permit",
+        "@Eevee,Vien Forest Permit",
+        "@Doduo,Vien Forest Permit",
+        "@Murkrow,Vien Forest Permit"
+    ]
+    },
+{
+        "name": "Altru Park Capture",
+        "access_rules": [
+        "@Staraptor,Altru Park Permit"
+    ]
+    },
+{
+        "name": "Altru Building Capture",
+        "access_rules": [
+        "@Crobat,Altru Building Permit",
+        "@Gengar,Altru Building Permit",
+        "@Magneton,Altru Building Permit",
+        "@Electabuzz,Altru Building Permit",
+        "@Electrode,Altru Building Permit",
+        "@Ampharos,Altru Building Permit",
+        "@Primeape,Altru Building Permit",
+        "@Ariados,Altru Building Permit",
+        "@Gallade,Altru Building Permit",
+        "@Hypno,Altru Building Permit",
+        "@Scyther,Altru Building Permit",
+        "@Scizor,Altru Building Permit",
+        "@Gabite,Altru Building Permit",
+        "@Blaziken,Altru Building Permit",
+        "@Absol,Altru Building Permit"
+    ]
+    },
+{
+        "name": "Altru Tower Capture",
+        "access_rules": [
+        "@Gengar,Altru Tower Permit",
+        "@Golem,Altru Tower Permit",
+        "@Magneton,Altru Tower Permit",
+        "@Arcanine,Altru Tower Permit",
+        "@Vaporeon,Altru Tower Permit",
+        "@Ampharos,Altru Tower Permit",
+        "@Primeape,Altru Tower Permit",
+        "@Rhydon,Altru Tower Permit",
+        "@Gardevoir,Altru Tower Permit",
+        "@Alakazam,Altru Tower Permit",
+        "@Absol,Altru Tower Permit",
+        "@Togekiss,Altru Tower Permit",
+        "@Darkrai,Altru Tower Permit"
+    ]
+    },
+{
+        "name": "Chroma Road Capture",
+        "access_rules": [
+        "@Pikachu,Chroma Road Permit",
+        "@Staraptor,Chroma Road Permit",
+        "@Sudowoodo,Chroma Road Permit",
+        "@Nuzleaf,Chroma Road Permit",
+        "@Miltank,Chroma Road Permit",
+        "@Combee,Chroma Road Permit",
+        "@Vespiquen,Chroma Road Permit",
+        "@Flaaffy,Chroma Road Permit",
+        "@Doduo,Chroma Road Permit",
+        "@Dodrio,Chroma Road Permit",
+        "@Ponyta,Chroma Road Permit",
+        "@Girafarig,Chroma Road Permit",
+        "@Tauros,Chroma Road Permit",
+        "@Ninjask,Chroma Road Permit"
+    ]
+    },
+{
+        "name": "Chroma Highlands Capture",
+        "access_rules": [
+        "@Pikachu,Chroma Highlands Permit",
+        "@Staraptor,Chroma Highlands Permit",
+        "@Beedrill,Chroma Highlands Permit",
+        "@Gloom,Chroma Highlands Permit",
+        "@Vileplume,Chroma Highlands Permit",
+        "@Carnivine,Chroma Highlands Permit",
+        "@Rapidash,Chroma Highlands Permit",
+        "@Bastiodon,Chroma Highlands Permit",
+        "@Abra,Chroma Highlands Permit",
+        "@Skarmory,Chroma Highlands Permit",
+        "@Altaria,Chroma Highlands Permit"
+    ]
+    },
+{
+        "name": "Chroma Ruins Capture",
+        "access_rules": [
+        "@Pikachu,Chroma Ruins Permit",
+        "@Electabuzz,Chroma Ruins Permit",
+        "@Pupitar,Chroma Ruins Permit",
+        "@Drifblim,Chroma Ruins Permit",
+        "@Kirlia,Chroma Ruins Permit",
+        "@Hypno,Chroma Ruins Permit",
+        "@Bastiodon,Chroma Ruins Permit",
+        "@Koffing,Chroma Ruins Permit",
+        "@Duskull,Chroma Ruins Permit",
+        "@Sableye,Chroma Ruins Permit",
+        "@Sandshrew,Chroma Ruins Permit",
+        "@Registeel,Chroma Ruins Permit"
+    ]
+    },
+{
+        "name": "Chroma Ruins Probopass Capture",
+        "access_rules": [
+        "@Probopass,Chroma Ruins Permit",
+        "@Umbreon,Chroma Ruins Permit"
+    ]
+    },
+{
+        "name": "Union Road Capture",
+        "access_rules": [
+        "@Bibarel,Union Road Permit",
+        "@Swellow,Union Road Permit",
+        "@Floatzel,Union Road Permit",
+        "@Magnemite,Union Road Permit",
+        "@Growlithe,Union Road Permit",
+        "@Mareep,Union Road Permit",
+        "@Aipom,Union Road Permit",
+        "@Pineco,Union Road Permit",
+        "@Oddish,Union Road Permit",
+        "@Yanma,Union Road Permit",
+        "@Doduo,Union Road Permit"
+    ]
+    },
+{
+        "name": "Peril Cliffs Capture",
+        "access_rules": [
+        "@Staravia,Peril Cliffs Permit",
+        "@Geodude,Peril Cliffs Permit",
+        "@Graveler,Peril Cliffs Permit",
+        "@Cherrim,Peril Cliffs Permit",
+        "@Magnemite,Peril Cliffs Permit",
+        "@Rampardos,Peril Cliffs Permit",
+        "@Pineco,Peril Cliffs Permit",
+        "@Spearow,Peril Cliffs Permit",
+        "@Larvitar,Peril Cliffs Permit",
+        "@Pinsir,Peril Cliffs Permit",
+        "@Numel,Peril Cliffs Permit",
+        "@Mankey,Peril Cliffs Permit",
+        "@Gligar,Peril Cliffs Permit",
+        "@Mawile,Peril Cliffs Permit",
+        "@Aron,Peril Cliffs Permit",
+        "@Aerodactyl,Peril Cliffs Permit"
+    ]
+    },
+{
+        "name": "Ranger Union Capture",
+        "access_rules": [
+        "@Staraptor,Ranger Union Permit",
+        "@Doduo,Ranger Union Permit"
+    ]
+    },
+{
+        "name": "Crysta Cave Island Capture",
+        "access_rules": [
+        "@Golbat,Crysta Cave Permit",
+        "@Floatzel,Crysta Cave Permit",
+        "@Jigglypuff,Crysta Cave Permit",
+        "@Salamence,Crysta Cave Permit"
+    ]
+    },
+{
+        "name": "Crysta Cave Capture",
+        "access_rules": [
+        "@Pikachu,Crysta Cave Permit",
+        "@Golbat,Crysta Cave Permit",
+        "@Floatzel,Crysta Cave Permit",
+        "@Camerupt,Crysta Cave Permit",
+        "@Spheal,Crysta Cave Permit",
+        "@Sealeo,Crysta Cave Permit",
+        "@Swinub,Crysta Cave Permit",
+        "@Piloswine,Crysta Cave Permit"
+    ]
+    },
+{
+        "name": "Crysta Cave Chingling Island Capture",
+        "access_rules": [
+        "@Floatzel,Crysta Cave Permit",
+        "@Chingling,Crysta Cave Permit"
+    ]
+    },
+{
+        "name": "Hia Valley Capture",
+        "access_rules": [
+        "@Vulpix,Hia Valley Permit",
+        "@Spheal,Hia Valley Permit",
+        "@Sealeo,Hia Valley Permit",
+        "@Piloswine,Hia Valley Permit",
+        "@Prinplup,Hia Valley Permit",
+        "@Delibird,Hia Valley Permit"
+    ]
+    },
+{
+        "name": "Shiver Camp Capture",
+        "access_rules": [
+        "@Staraptor,Shiver Camp Permit"
+    ]
+    },
+{
+        "name": "Ice Lake South Capture",
+        "access_rules": [
+        "@Staraptor,Ice Lake Permit",
+        "@Empoleon,Ice Lake Permit"
+    ]
+    },
+{
+        "name": "Ice Lake Abomasnow Island Capture",
+        "access_rules": [
+        "@Empoleon,Ice Lake Permit",
+        "@Abomasnow,Ice Lake Permit"
+    ]
+    },
+{
+        "name": "Ice Lake North Capture",
+        "access_rules": [
+        "@Raichu,Ice Lake Permit",
+        "@Staraptor,Ice Lake Permit",
+        "@Vulpix,Ice Lake Permit",
+        "@Empoleon,Ice Lake Permit",
+        "@Jynx,Ice Lake Permit"
+    ]
+    },
+{
+        "name": "Ice Lake Glaceon Island Capture",
+        "access_rules": [
+        "@Glaceon,Ice Lake Permit",
+        "@Empoleon,Ice Lake Permit"
+    ]
+    },
+{
+        "name": "Almia Castle Capture",
+        "access_rules": [
+        "@Raichu,Almia Castle Permit",
+        "@Haunter,Almia Castle Permit",
+        "@Vaporeon,Almia Castle Permit",
+        "@Vulpix,Almia Castle Permit",
+        "@Ninetales,Almia Castle Permit",
+        "@Weezing,Almia Castle Permit",
+        "@Walrein,Almia Castle Permit",
+        "@Wigglytuff,Almia Castle Permit",
+        "@Jynx,Almia Castle Permit",
+        "@Snorunt,Almia Castle Permit",
+        "@Glalie,Almia Castle Permit",
+        "@Froslass,Almia Castle Permit",
+        "@Scyther,Almia Castle Permit",
+        "@Dratini,Almia Castle Permit",
+        "@Dragonair,Almia Castle Permit",
+        "@Mismagius,Almia Castle Permit",
+        "@Riolu,Almia Castle Permit",
+        "@Weavile,Almia Castle Permit",
+        "@Regice,Almia Castle Permit"
+    ]
+    },
+{
+        "name": "Puel Sea Capture",
+        "access_rules": [
+        "@Finneon,Puel Sea Permit",
+        "@Chinchou,Puel Sea Permit",
+        "@Mantyke,Puel Sea Permit",
+        "@Mantine,Puel Sea Permit",
+        "@Qwilfish,Puel Sea Permit",
+        "@Corsola,Puel Sea Permit",
+        "@Staryu,Puel Sea Permit"
+    ]
+    },
+{
+        "name": "Puel Sea Island Capture",
+        "access_rules": [
+        "@Finneon,Puel Sea Permit",
+        "@Lumineon,Puel Sea Permit",
+        "@Chinchou,Puel Sea Permit",
+        "@Mantine,Puel Sea Permit",
+        "@Corsola,Puel Sea Permit",
+        "@Staryu,Puel Sea Permit",
+        "@Sharpedo,Puel Sea Permit"
+    ]
+    },
+{
+        "name": "Sea of Wailord Capture",
+        "access_rules": [
+        "@Lanturn,Sea of Wailord Permit",
+        "@Mantine,Sea of Wailord Permit",
+        "@Starmie,Sea of Wailord Permit",
+        "@Sharpedo,Sea of Wailord Permit",
+        "@Horsea,Sea of Wailord Permit",
+        "@Seadra,Sea of Wailord Permit",
+        "@Kingdra,Sea of Wailord Permit",
+        "@Huntail,Sea of Wailord Permit",
+        "@Gorebyss,Sea of Wailord Permit",
+        "@Tentacruel,Sea of Wailord Permit",
+        "@Omanyte,Sea of Wailord Permit",
+        "@Wailmer,Sea of Wailord Permit"
+    ]
+    },
+{
+        "name": "Sea of Wailord Island Capture",
+        "access_rules": [
+        "@Omastar,Sea of Wailord Permit"
+    ]
+    },
+{
+        "name": "Boyleland Capture",
+        "access_rules": [
+        "@Staraptor,Boyleland Permit",
+        "@Wingull,Boyleland Permit"
+    ]
+    },
+{
+        "name": "Volcano Cave Capture",
+        "access_rules": [
+        "@Gastrodon,Volcano Cave Permit",
+        "@Magnemite,Volcano Cave Permit",
+        "@Charmander,Volcano Cave Permit",
+        "@Slugma,Volcano Cave Permit",
+        "@Drifloon,Volcano Cave Permit",
+        "@Torkoal,Volcano Cave Permit"
+    ]
+    },
+{
+        "name": "Volcano Cave Deep Capture",
+        "access_rules": [
+        "@Pikachu,Volcano Cave Permit",
+        "@Magmar,Volcano Cave Permit",
+        "@Magmortar,Volcano Cave Permit",
+        "@Lairon,Volcano Cave Permit",
+        "@Charmander,Volcano Cave Permit",
+        "@Slugma,Volcano Cave Permit",
+        "@Drifloon,Volcano Cave Permit",
+        "@Stunky,Volcano Cave Permit",
+        "@Shuppet,Volcano Cave Permit",
+        "@Rhyhorn,Volcano Cave Permit",
+        "@Muk,Volcano Cave Permit"
+    ]
+    },
+{
+        "name": "Volcano Cave Flareon Capture",
+        "access_rules": [
+        "@Flareon,Volcano Cave Permit",
+        "@Torkoal,Volcano Cave Permit"
+    ]
+    },
+{
+        "name": "Volcano Cave Drifblim Capture",
+        "access_rules": [
+        "@Charmeleon,Volcano Cave Permit",
+        "@Drifblim,Volcano Cave Permit",
+        "@Torkoal,Volcano Cave Permit"
+    ]
+    },
+{
+        "name": "Volcano Cave Island Capture",
+        "access_rules": [
+        "@Raichu,Volcano Cave Permit",
+        "@Hariyama,Volcano Cave Permit",
+        "@Gastrodon,Volcano Cave Permit",
+        "@Torkoal,Volcano Cave Permit",
+        "@Bagon,Volcano Cave Permit",
+        "@Shelgon,Volcano Cave Permit"
+    ]
+    },
+{
+        "name": "Volcano Cave F2 Capture",
+        "access_rules": [
+        "@Raichu,Volcano Cave Permit",
+        "@Hariyama,Volcano Cave Permit",
+        "@Graveler,Volcano Cave Permit",
+        "@Pelipper,Volcano Cave Permit",
+        "@Aggron,Volcano Cave Permit",
+        "@Magcargo,Volcano Cave Permit",
+        "@Rhydon,Volcano Cave Permit",
+        "@Infernape,Volcano Cave Permit",
+        "@Torkoal,Volcano Cave Permit",
+        "@Bagon,Volcano Cave Permit",
+        "@Shelgon,Volcano Cave Permit"
+    ]
+    },
+{
+        "name": "Volcano Cave Island F2 Capture",
+        "access_rules": [
+        "@Raichu,Volcano Cave Permit",
+        "@Drifblim,Volcano Cave Permit",
+        "@Rhydon,Volcano Cave Permit",
+        "@Torkoal,Volcano Cave Permit"
+    ]
+    },
+{
+        "name": "Volcano Cave F3 Capture",
+        "access_rules": [
+        "@Raichu,Volcano Cave Permit",
+        "@Charizard,Volcano Cave Permit"
+    ]
+    },
+{
+        "name": "Haruba Village Capture",
+        "access_rules": [
+        "@Sudowoodo,Haruba Village Permit",
+        "@Pelipper,Haruba Village Permit"
+    ]
+    },
+{
+        "name": "Haruba Desert Capture",
+        "access_rules": [
+        "@Staraptor,Haruba Desert Permit",
+        "@Magneton,Haruba Desert Permit",
+        "@Jolteon,Haruba Desert Permit",
+        "@Fearow,Haruba Desert Permit",
+        "@Doduo,Haruba Desert Permit",
+        "@Rhydon,Haruba Desert Permit",
+        "@Skorupi,Haruba Desert Permit",
+        "@Cacnea,Haruba Desert Permit",
+        "@Cacturne,Haruba Desert Permit",
+        "@Hippowdon,Haruba Desert Permit",
+        "@Flygon,Haruba Desert Permit"
+    ]
+    },
+{
+        "name": "Hippowdon Temple Capture",
+        "access_rules": [
+        "@Golem,Hippowdon Temple Permit",
+        "@Magneton,Hippowdon Temple Permit",
+        "@Drifblim,Hippowdon Temple Permit",
+        "@Ariados,Hippowdon Temple Permit",
+        "@Skorupi,Hippowdon Temple Permit",
+        "@Bronzor,Hippowdon Temple Permit",
+        "@Bronzong,Hippowdon Temple Permit"
+    ]
+    },
+{
+        "name": "Hippowdon Temple Deep Capture",
+        "access_rules": [
+        "@Gengar,Hippowdon Temple Permit",
+        "@Magneton,Hippowdon Temple Permit",
+        "@Espeon,Hippowdon Temple Permit",
+        "@Bellossom,Hippowdon Temple Permit",
+        "@Tyranitar,Hippowdon Temple Permit",
+        "@Drifblim,Hippowdon Temple Permit",
+        "@Banette,Hippowdon Temple Permit",
+        "@Ariados,Hippowdon Temple Permit",
+        "@Dusknoir,Hippowdon Temple Permit",
+        "@Sableye,Hippowdon Temple Permit",
+        "@Sandslash,Hippowdon Temple Permit",
+        "@Victreebel,Hippowdon Temple Permit",
+        "@Claydol,Hippowdon Temple Permit",
+        "@Gabite,Hippowdon Temple Permit",
+        "@Garchomp,Hippowdon Temple Permit"
+    ]
+    },
+{
+        "name": "Regigigas Room Capture",
+        "access_rules": [
+        "@Regigigas,Hippowdon Temple Permit"
+    ]
+    },
+{
+        "name": "Capture Arena Capture 1",
+        "access_rules": [
+        "@Crobat,Capture Arena Permit 1",
+        "@Gengar,Capture Arena Permit 1",
+        "@Staraptor,Capture Arena Permit 1",
+        "@Shiftry,Capture Arena Permit 1",
+        "@Toxicroak,Capture Arena Permit 1",
+        "@Bellossom,Capture Arena Permit 1",
+        "@Gardevoir,Capture Arena Permit 1",
+        "@Alakazam,Capture Arena Permit 1",
+        "@Spiritomb,Capture Arena Permit 1",
+        "@Lucario,Capture Arena Permit 1",
+        "@Heatran,Capture Arena Permit 1",
+        "@Gabite,Capture Arena Permit 1",
+        "@Cresselia,Capture Arena Permit 1",
+        "@Blaziken,Capture Arena Permit 1",
+        "@Absol,Capture Arena Permit 1"
+    ]
+    },
+{
+        "name": "Capture Arena Capture 2",
+        "access_rules": [
+        "@Swellow,Capture Arena Permit 2",
+        "@Tangrowth,Capture Arena Permit 2",
+        "@Eevee,Capture Arena Permit 2",
+        "@Vaporeon,Capture Arena Permit 2",
+        "@Jolteon,Capture Arena Permit 2",
+        "@Flareon,Capture Arena Permit 2",
+        "@Espeon,Capture Arena Permit 2",
+        "@Umbreon,Capture Arena Permit 2",
+        "@Leafeon,Capture Arena Permit 2",
+        "@Glaceon,Capture Arena Permit 2",
+        "@Fearow,Capture Arena Permit 2",
+        "@Tyranitar,Capture Arena Permit 2",
+        "@Yanmega,Capture Arena Permit 2",
+        "@Gliscor,Capture Arena Permit 2",
+        "@Aggron,Capture Arena Permit 2",
+        "@Drifblim,Capture Arena Permit 2",
+        "@Kangaskhan,Capture Arena Permit 2",
+        "@Banette,Capture Arena Permit 2",
+        "@Rhyperior,Capture Arena Permit 2",
+        "@Houndoom,Capture Arena Permit 2",
+        "@Ariados,Capture Arena Permit 2",
+        "@Drapion,Capture Arena Permit 2",
+        "@Honchkrow,Capture Arena Permit 2",
+        "@Mamoswine,Capture Arena Permit 2",
+        "@Abomasnow,Capture Arena Permit 2",
+        "@Cacturne,Capture Arena Permit 2",
+        "@Weavile,Capture Arena Permit 2",
+        "@Garchomp,Capture Arena Permit 2"
+    ]
+    },
+{
+        "name": "Capture Arena Capture 3",
+        "access_rules": [
+        "@Torterra,Capture Arena Permit 3",
+        "@Electivire,Capture Arena Permit 3",
+        "@Magmortar,Capture Arena Permit 3",
+        "@Charizard,Capture Arena Permit 3",
+        "@Infernape,Capture Arena Permit 3",
+        "@Empoleon,Capture Arena Permit 3",
+        "@Salamence,Capture Arena Permit 3",
+        "@Flygon,Capture Arena Permit 3"
+    ]
+    },
+{
+        "name": "Oil Field Hideout Capture",
+        "access_rules": [
+        "@Haunter,Oil Field Hideout Permit",
+        "@Staraptor,Oil Field Hideout Permit",
+        "@Luxio,Oil Field Hideout Permit",
+        "@Luxray,Oil Field Hideout Permit",
+        "@Magneton,Oil Field Hideout Permit",
+        "@Arcanine,Oil Field Hideout Permit",
+        "@Electivire,Oil Field Hideout Permit",
+        "@Skuntank,Oil Field Hideout Permit",
+        "@Houndour,Oil Field Hideout Permit",
+        "@Houndoom,Oil Field Hideout Permit",
+        "@Machamp,Oil Field Hideout Permit",
+        "@Mr. Mime,Oil Field Hideout Permit",
+        "@Honchkrow,Oil Field Hideout Permit",
+        "@Dusclops,Oil Field Hideout Permit",
+        "@Sceptile,Oil Field Hideout Permit",
+        "@Mothim,Oil Field Hideout Permit",
+        "@Porygon-Z,Oil Field Hideout Permit"
+    ]
+    },
+{
+        "name": "Manaphy Mission Capture",
+        "access_rules": [
+        "@Pichu,ManaphyM",
+        "@Buneary,ManaphyM",
+        "@Glameow,ManaphyM",
+        "@Manaphy,ManaphyM"
+    ]
+    },
+{
+        "name": "Riolu Mission Capture",
+        "access_rules": [
+        "@Haunter,RioluM",
+        "@Tangrowth,RioluM",
+        "@Golem,RioluM",
+        "@Luxray,RioluM",
+        "@Magneton,RioluM",
+        "@Arcanine,RioluM",
+        "@Jolteon,RioluM",
+        "@Houndour,RioluM",
+        "@Houndoom,RioluM",
+        "@Honchkrow,RioluM",
+        "@Dusclops,RioluM",
+        "@Riolu,RioluM",
+        "@Sceptile,RioluM"
+    ]
+    },
+{
+        "name": "Tower Mission Capture",
+        "access_rules": [
+        "@Swellow,TowerM",
+        "@Haunter,TowerM",
+        "@Gengar,TowerM",
+        "@Golem,TowerM",
+        "@Luxray,TowerM",
+        "@Magneton,TowerM",
+        "@Growlithe,TowerM",
+        "@Arcanine,TowerM",
+        "@Electrode,TowerM",
+        "@Vaporeon,TowerM",
+        "@Ampharos,TowerM",
+        "@Primeape,TowerM",
+        "@Gliscor,TowerM",
+        "@Rhydon,TowerM",
+        "@Ariados,TowerM",
+        "@Gardevoir,TowerM",
+        "@Drapion,TowerM",
+        "@Glalie,TowerM",
+        "@Scizor,TowerM",
+        "@Gabite,TowerM",
+        "@Blaziken,TowerM",
+        "@Absol,TowerM"
+    ]
+    },
+{
+        "name": "Dialga Mission Capture",
+        "access_rules": [
+        "@Raichu,DialgaM",
+        "@Haunter,DialgaM",
+        "@Houndoom,DialgaM",
+        "@Vulpix,DialgaM",
+        "@Ninetales,DialgaM",
+        "@Walrein,DialgaM",
+        "@Swinub,DialgaM",
+        "@Piloswine,DialgaM",
+        "@Wigglytuff,DialgaM",
+        "@Glalie,DialgaM",
+        "@Mismagius,DialgaM",
+        "@Riolu,DialgaM",
+        "@Weavile,DialgaM",
+        "@Dialga,DialgaM"
+    ]
+    },
+{
+        "name": "Palkia Mission Capture",
+        "access_rules": [
+        "@Raichu,PalkiaM",
+        "@Haunter,PalkiaM",
+        "@Lopunny,PalkiaM",
+        "@Torterra,PalkiaM",
+        "@Floatzel,PalkiaM",
+        "@Magneton,PalkiaM",
+        "@Arcanine,PalkiaM",
+        "@Fearow,PalkiaM",
+        "@Vileplume,PalkiaM",
+        "@Bellossom,PalkiaM",
+        "@Primeape,PalkiaM",
+        "@Aggron,PalkiaM",
+        "@Carnivine,PalkiaM",
+        "@Hypno,PalkiaM",
+        "@Rapidash,PalkiaM",
+        "@Sableye,PalkiaM",
+        "@Sandshrew,PalkiaM",
+        "@Walrein,PalkiaM",
+        "@Swinub,PalkiaM",
+        "@Piloswine,PalkiaM",
+        "@Jigglypuff,PalkiaM",
+        "@Scizor,PalkiaM",
+        "@Cacturne,PalkiaM",
+        "@Sceptile,PalkiaM",
+        "@Altaria,PalkiaM",
+        "@Palkia,PalkiaM"
+    ]
+    },
+{
+        "name": "Shaymin Mission Capture",
+        "access_rules": [
+        "@Pichu,ShayminM",
+        "@Bibarel,ShayminM",
+        "@Roserade,ShayminM",
+        "@Tyrogue,ShayminM",
+        "@Magnemite,ShayminM",
+        "@Growlithe,ShayminM",
+        "@Rattata,ShayminM",
+        "@Chatot,ShayminM",
+        "@Elekid,ShayminM",
+        "@Magby,ShayminM",
+        "@Voltorb,ShayminM",
+        "@Umbreon,ShayminM",
+        "@Bellossom,ShayminM",
+        "@Absol,ShayminM",
+        "@Shaymin,ShayminM"
+    ]
+    },
+
+{
+        "name": "Victory",
+        "access_rules": [
+        ""
+    ]
+    },
+
+{
+        "name": "Start",
+        "access_rules": [
+        "@Chicole Path Start",
+        "@Ranger School Start",
+        "@Pueltown Start",
+        "@Chroma Highlands Start",
+        "@Union Road Start",
+        "@Hia Valley Start",
+        "@Puel Sea Start",
+        "@Sea of Wailord Start",
+        "@Volcano Cave Start",
+        "@Haruba Desert Start",
+        "@Oil Field Hideout Start"
+    ]
+    },
+{
+        "name": "Chicole Path Start",
+        "access_rules": [
+        "@Chicole Path,Chicole Path Start"
+    ]
+    },
+{
+        "name": "Ranger School Start",
+        "access_rules": [
+        "@Ranger School,Ranger School Start"
+    ]
+    },
+{
+        "name": "Pueltown Start",
+        "access_rules": [
+        "@Pueltown,Pueltown Start"
+    ]
+    },
+{
+        "name": "Chroma Highlands Start",
+        "access_rules": [
+        "@Chroma Highlands,Chroma Highlands Start"
+    ]
+    },
+{
+        "name": "Union Road Start",
+        "access_rules": [
+        "@Union Road,Union Road Start"
+    ]
+    },
+{
+        "name": "Hia Valley Start",
+        "access_rules": [
+        "@Hia Valley,Hia Valley Start"
+    ]
+    },
+{
+        "name": "Puel Sea Start",
+        "access_rules": [
+        "@Puel Sea,Puel Sea Start"
+    ]
+    },
+{
+        "name": "Sea of Wailord Start",
+        "access_rules": [
+        "@Sea of Wailord,Sea of Wailord Start"
+    ]
+    },
+{
+        "name": "Volcano Cave Start",
+        "access_rules": [
+        "@Volcano Cave,Volcano Cave Start"
+    ]
+    },
+{
+        "name": "Haruba Desert Start",
+        "access_rules": [
+        "@Haruba Desert,Haruba Desert Start"
+    ]
+    },
+{
+        "name": "Oil Field Hideout Start",
+        "access_rules": [
+        "@Oil Field Hideout,Oil Field Hideout Start"
+    ]
+    }
+]
+    

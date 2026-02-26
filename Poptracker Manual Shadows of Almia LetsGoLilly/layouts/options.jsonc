@@ -1,14 +1,14 @@
 {
     "settings_popup": {
         "type": "itemgrid",
-        "item_margin": "2,2,2,2",
+        "item_margin": "8,8,8,8",
         "h_alignment": "left",
         "item_size": "96,96",
         "background": "#000000",
         "rows": [
             [
                 "victory_condition",
-                "GemsLocal"
+                "starting_location"
             ],
             [
                 "mission_toggle",

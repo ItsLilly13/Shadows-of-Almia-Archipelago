@@ -12,13 +12,9 @@ ScriptHost:LoadScript("scripts/utils.lua")
 Tracker:AddItems("items/items.json")
 Tracker:AddItems("items/options.jsonc")
 
-if not IS_ITEMS_ONLY then -- <--- use variant info to optimize loading
-    Tracker:AddMaps("maps/maps.json")
-    ScriptHost:LoadScript("scripts/locations_import.lua")
-    ScriptHost:LoadScript("scripts/logic/base_logic.lua")
-    ScriptHost:LoadScript("scripts/logic/more_logic.lua")
-    ScriptHost:LoadScript("scripts/logic/even_more_logic.lua")
-end
+-- Locations
+Tracker:AddMaps("maps/maps.json")
+ScriptHost:LoadScript("scripts/locations_import.lua")
 
 -- Layout
 Tracker:AddLayouts("layouts/broadcast.json")

@@ -46,6 +46,82 @@
     "codes": "victory_condition"
   },
   {
+    "name": "Starting Location",
+    "type": "progressive",
+    "loop": true,
+    "allow_disabled": false,
+    "initial_stage_idx": 0,
+    "stages": [
+      {
+        "img": "images/Start/Chicole Path Start.png",
+        "codes": "Chicole Path Start_Option",
+        "name": "Chicole Path Start",
+        "inherit_codes": false
+      },
+      {
+        "img": "images/Start/Ranger School Start.png",
+        "codes": "Ranger School Start_Option",
+        "name": "Ranger School Start",
+        "inherit_codes": false
+      },
+      {
+        "img": "images/Start/Pueltown Start.png",
+        "codes": "Pueltown Start_Option",
+        "name": "Pueltown Start",
+        "inherit_codes": false
+      },
+      {
+        "img": "images/Start/Chroma Highlands Start.png",
+        "codes": "Chroma Highlands Start_Option",
+        "name": "Chroma Highlands Start",
+        "inherit_codes": false
+      },
+      {
+        "img": "images/Start/Union Road Start.png",
+        "codes": "Union Road Start_Option",
+        "name": "Union Road Start",
+        "inherit_codes": false
+      },
+      {
+        "img": "images/Start/Hia Valley Start.png",
+        "codes": "Hia Valley Start_Option",
+        "name": "Hia Valley Start",
+        "inherit_codes": false
+      },
+      {
+        "img": "images/Start/Puel Sea Start.png",
+        "codes": "Puel Sea Start_Option",
+        "name": "Puel Sea Start",
+        "inherit_codes": false
+      },
+      {
+        "img": "images/Start/Sea of Wailord Start.png",
+        "codes": "Sea of Wailord Start_Option",
+        "name": "Sea of Wailord Start",
+        "inherit_codes": false
+      },
+      {
+        "img": "images/Start/Volcano Cave Start.png",
+        "codes": "Volcano Cave Start_Option",
+        "name": "Volcano Cave Start",
+        "inherit_codes": false
+      },
+      {
+        "img": "images/Start/Haruba Desert Start.png",
+        "codes": "Haruba Desert Start_Option",
+        "name": "Haruba Desert Start",
+        "inherit_codes": false
+      },
+      {
+        "img": "images/Start/Oil Field Hideout Start.png",
+        "codes": "Oil Field Hideout Start_Option",
+        "name": "Oil Field Hideout Start",
+        "inherit_codes": false
+      }
+    ],
+    "codes": "starting_location"
+  },
+  {
     "name": "Goal",
     "type": "progressive",
     "loop": true,
