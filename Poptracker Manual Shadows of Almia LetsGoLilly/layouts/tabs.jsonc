@@ -85,7 +85,7 @@
                                     },
                                     {
                                         "title": "Upper Vien Forest",
-                                        "icon": "images/pokemon/227 Salamence.png",
+                                        "icon": "images/pokemon/022 Happiny.png",
                                         "content": {
                                             "type": "map",
                                             "maps": [
@@ -198,67 +198,8 @@
                 }
             },
             {
-                "title": "Ranger Area",
-                "icon": "images/options/red.png",
-                "content": {
-                    "type": "tabbed",
-                    "tabs": [
-                        {
-                            "title": "Union Road",
-                            "icon": "images/pokemon/108 Aipom.png",
-                            "content": {
-                                "type": "map",
-                                "maps": [
-                                    "Union Road"
-                                ]
-                            }
-                        },
-                        {
-                            "title": "Peril Cliffs",
-                            "icon": "images/pokemon/085 Rampardos.png",
-                            "content": {
-                                "type": "tabbed",
-                                "tabs": [
-                        
-                                    {
-                                        "title": "Lower Peril Cliffs",
-                                        "icon": "images/pokemon/085 Rampardos.png",
-                                        "content": {
-                                            "type": "map",
-                                            "maps": [
-                                                "Lower Peril Cliffs"
-                                            ]
-                                        }
-                                    },
-                                    {
-                                        "title": "Upper Peril Cliffs",
-                                        "icon": "images/pokemon/048 Cherrim.png",
-                                        "content": {
-                                            "type": "map",
-                                            "maps": [
-                                                "Upper Peril Cliffs"
-                                            ]
-                                        }
-                                    }
-                                ]
-                            }
-                        },
-                        {
-                            "title": "Ranger Union",
-                            "icon": "images/pokemon/134 Doduo.png",
-                            "content": {
-                                "type": "map",
-                                "maps": [
-                                    "Ranger Union"
-                                ]
-                            }
-                        }
-                    ]
-                }
-            },
-            {
                 "title": "Chroma Area",
-                "icon": "images/options/blue.png",
+                "icon": "images/options/red.png",
                 "content": {
                     "type": "tabbed",
                     "tabs": [
@@ -319,6 +260,65 @@
                                             ]
                                         }
                                     }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "title": "Ranger Area",
+                "icon": "images/options/blue.png",
+                "content": {
+                    "type": "tabbed",
+                    "tabs": [
+                        {
+                            "title": "Union Road",
+                            "icon": "images/pokemon/108 Aipom.png",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Union Road"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Peril Cliffs",
+                            "icon": "images/pokemon/085 Rampardos.png",
+                            "content": {
+                                "type": "tabbed",
+                                "tabs": [
+                        
+                                    {
+                                        "title": "Lower Peril Cliffs",
+                                        "icon": "images/pokemon/085 Rampardos.png",
+                                        "content": {
+                                            "type": "map",
+                                            "maps": [
+                                                "Lower Peril Cliffs"
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "title": "Upper Peril Cliffs",
+                                        "icon": "images/pokemon/048 Cherrim.png",
+                                        "content": {
+                                            "type": "map",
+                                            "maps": [
+                                                "Upper Peril Cliffs"
+                                            ]
+                                        }
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Ranger Union",
+                            "icon": "images/pokemon/134 Doduo.png",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Ranger Union"
                                 ]
                             }
                         }
@@ -615,6 +615,7 @@
             {
                 "title": "Missions",
                 "icon": "images/options/blue.png",
+                "visibility_rules":[],
                 "content": {
                     "type": "tabbed",
                     "tabs": [

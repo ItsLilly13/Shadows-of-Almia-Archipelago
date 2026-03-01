@@ -1,50 +1,72 @@
 [
     {
         "name": "Victory",
-        "chest_unopened_img": "/images/items/close.png",
-        "chest_opened_img": "/images/items/open.png",
         "overlay_background": "#000000",
         "access_rules": [
-            " "
+            "@Victory!"
         ],
         "sections": [
             {
                 "name": "Caught Darkrai",
-                "access_rules": [],
+                "access_rules": ["Darkrai"],
                 "visibility_rules": [],
+                "chest_unopened_img": "/images/Options/Darkrai Victory.png",
+                "chest_opened_img": "/images/Options/checked.png",
                 "item_count": 1
             },
             {
                 "name": "Caught Regigigas",
-                "access_rules": [],
+                "access_rules": ["Regigigas"],
                 "visibility_rules": [],
+                "chest_unopened_img": "/images/Options/Regigigas Victory.png",
+                "chest_opened_img": "/images/Options/checked.png",
                 "item_count": 1
             },
             {
                 "name": "Caught Darkrai & Regigigas",
-                "access_rules": [],
+                "access_rules": ["Darkrai,Regigigas"],
                 "visibility_rules": [],
+                "chest_unopened_img": "/images/Options/Darkrai And Regigigas Victory.png",
+                "chest_opened_img": "/images/Options/checked.png",
                 "item_count": 1
             },
             {
                 "name": "Caught All Legendary Pokemon",
-                "access_rules": [],
+                "access_rules": [
+                                "Darkrai,Regirock,Regice,Regigigas,Heatran,Cresselia",
+                                "Darkrai,Regirock,Regice,Regigigas,Heatran,Cresselia,Manaphy Egg,Dialga,Palkia,Shaymin,^$Missions_On",
+                                "Darkrai,Regirock,Regice,Regigigas,Heatran,Cresselia,Manaphy Egg,Dialga,Palkia,Shaymin,Celebi,^$Missions_On,^$Celebi_On",
+                                "Darkrai,Regirock,Regice,Regigigas,Heatran,Cresselia,Celebi,^$Celebi_On"
+                                ],
                 "visibility_rules": [],
+                "chest_unopened_img": "/images/Options/Legendary Victory.png",
+                "chest_opened_img": "/images/Options/checked.png",
                 "item_count": 1
             },
             {
-                "name": "Caught em All",
-                "access_rules": [],
+                "name": "Caught 'em All",
+                "access_rules": [
+                                "Wailord,Munchlax,Starly,Pachirisu,Turtwig,Chimchar,Piplup,Sneasel,Cranidos,Shieldon,Machop,Mime Jr.,Hippopotas,Gible,Misdreavus,Croagunk,Kricketot,Snover,Pichu,Pikachu,Raichu,Bidoof,Bibarel,Taillow,Swellow,Budew,Roselia,Roserade,Squirtle,Wartortle,Blastoise,Zubat,Golbat,Crobat,Gastly,Haunter,Gengar,Buneary,Lopunny,Happiny,Staravia,Staraptor,Makuhita,Hariyama,Bonsly,Sudowoodo,Slakoth,Seedot,Nuzleaf,Shiftry,Tangrowth,Shellos,Gastrodon,Glameow,Purugly,Geodude,Graveler,Golem,Nosepass,Probopass,Miltank,Cherubi,Cherrim,Shinx,Luxio,Luxray,Grotle,Torterra,Buizel,Floatzel,Weedle,Beedrill,Combee,Vespiquen,Tyrogue,Magnemite,Magneton,Magnezone,Growlithe,Arcanine,Rattata,Raticate,Chatot,Elekid,Electabuzz,Electivire,Magby,Magmar,Magmortar,Voltorb,Electrode,Wingull,Pelipper,Toxicroak,Kricketune,Rampardos,Finneon,Lumineon,Chinchou,Lanturn,Mantyke,Mantine,Qwilfish,Corsola,Staryu,Starmie,Sharpedo,Eevee,Vaporeon,Jolteon,Flareon,Espeon,Umbreon,Leafeon,Glaceon,Mareep,Flaaffy,Ampharos,Aipom,Ambipom,Pineco,Forretress,Spearow,Fearow,Oddish,Gloom,Vileplume,Bellossom,Yanma,Yanmega,Larvitar,Pupitar,Tyranitar,Pinsir,Numel,Camerupt,Mankey,Primeape,Gligar,Gliscor,Mawile,Aron,Lairon,Aggron,Doduo,Dodrio,Carnivine,Charmander,Charmeleon,Charizard,Slugma,Magcargo,Drifloon,Drifblim,Stunky,Skuntank,Kangaskhan,Shuppet,Banette,Rhyhorn,Rhydon,Rhyperior,Muk,Houndour,Houndoom,Spinarak,Ariados,Ralts,Kirlia,Gardevoir,Gallade,Machoke,Machamp,Mr. Mime,Drowzee,Hypno,Monferno,Infernape,Vulpix,Ninetales,Skorupi,Drapion,Lickilicky,Ponyta,Rapidash,Girafarig,Tauros,Ninjask,Bastiodon,Abra,Alakazam,Murkrow,Honchkrow,Koffing,Weezing,Skarmory,Duskull,Dusclops,Dusknoir,Sableye,Sandshrew,Sandslash,Spiritomb,Spheal,Sealeo,Walrein,Swinub,Piloswine,Mamoswine,Jigglypuff,Wigglytuff,Chingling,Prinplup,Empoleon,Delibird,Jynx,Abomasnow,Snorunt,Glalie,Froslass,Scyther,Scizor,Dratini,Dragonair,Mismagius,Riolu,Lucario,Torkoal,Bagon,Shelgon,Salamence,Heatran,Horsea,Seadra,Kingdra,Huntail,Gorebyss,Tentacruel,Omanyte,Omastar,Wailmer,Cacnea,Cacturne,Mothim,Victreebel,Sceptile,Weavile,Hippowdon,Bronzor,Bronzong,Claydol,Gabite,Garchomp,Cresselia,Blaziken,Absol,Aerodactyl,Flygon,Altaria,Togekiss,Porygon-Z,Regirock,Regice,Registeel,Regigigas,Darkrai",
+                                "Wailord,Munchlax,Starly,Pachirisu,Turtwig,Chimchar,Piplup,Sneasel,Cranidos,Shieldon,Machop,Mime Jr.,Hippopotas,Gible,Misdreavus,Croagunk,Kricketot,Snover,Pichu,Pikachu,Raichu,Bidoof,Bibarel,Taillow,Swellow,Budew,Roselia,Roserade,Squirtle,Wartortle,Blastoise,Zubat,Golbat,Crobat,Gastly,Haunter,Gengar,Buneary,Lopunny,Happiny,Staravia,Staraptor,Makuhita,Hariyama,Bonsly,Sudowoodo,Slakoth,Seedot,Nuzleaf,Shiftry,Tangrowth,Shellos,Gastrodon,Glameow,Purugly,Geodude,Graveler,Golem,Nosepass,Probopass,Miltank,Cherubi,Cherrim,Shinx,Luxio,Luxray,Grotle,Torterra,Buizel,Floatzel,Weedle,Beedrill,Combee,Vespiquen,Tyrogue,Magnemite,Magneton,Magnezone,Growlithe,Arcanine,Rattata,Raticate,Chatot,Elekid,Electabuzz,Electivire,Magby,Magmar,Magmortar,Voltorb,Electrode,Wingull,Pelipper,Toxicroak,Kricketune,Rampardos,Finneon,Lumineon,Chinchou,Lanturn,Mantyke,Mantine,Qwilfish,Corsola,Staryu,Starmie,Sharpedo,Eevee,Vaporeon,Jolteon,Flareon,Espeon,Umbreon,Leafeon,Glaceon,Mareep,Flaaffy,Ampharos,Aipom,Ambipom,Pineco,Forretress,Spearow,Fearow,Oddish,Gloom,Vileplume,Bellossom,Yanma,Yanmega,Larvitar,Pupitar,Tyranitar,Pinsir,Numel,Camerupt,Mankey,Primeape,Gligar,Gliscor,Mawile,Aron,Lairon,Aggron,Doduo,Dodrio,Carnivine,Charmander,Charmeleon,Charizard,Slugma,Magcargo,Drifloon,Drifblim,Stunky,Skuntank,Kangaskhan,Shuppet,Banette,Rhyhorn,Rhydon,Rhyperior,Muk,Houndour,Houndoom,Spinarak,Ariados,Ralts,Kirlia,Gardevoir,Gallade,Machoke,Machamp,Mr. Mime,Drowzee,Hypno,Monferno,Infernape,Vulpix,Ninetales,Skorupi,Drapion,Lickilicky,Ponyta,Rapidash,Girafarig,Tauros,Ninjask,Bastiodon,Abra,Alakazam,Murkrow,Honchkrow,Koffing,Weezing,Skarmory,Duskull,Dusclops,Dusknoir,Sableye,Sandshrew,Sandslash,Spiritomb,Spheal,Sealeo,Walrein,Swinub,Piloswine,Mamoswine,Jigglypuff,Wigglytuff,Chingling,Prinplup,Empoleon,Delibird,Jynx,Abomasnow,Snorunt,Glalie,Froslass,Scyther,Scizor,Dratini,Dragonair,Mismagius,Riolu,Lucario,Torkoal,Bagon,Shelgon,Salamence,Heatran,Horsea,Seadra,Kingdra,Huntail,Gorebyss,Tentacruel,Omanyte,Omastar,Wailmer,Cacnea,Cacturne,Mothim,Victreebel,Sceptile,Weavile,Hippowdon,Bronzor,Bronzong,Claydol,Gabite,Garchomp,Cresselia,Blaziken,Absol,Aerodactyl,Flygon,Altaria,Togekiss,Porygon-Z,Regirock,Regice,Registeel,Regigigas,Manaphy Egg,Dialga,Palkia,Shaymin,Darkrai,^$Missions_On",
+                                "Wailord,Munchlax,Starly,Pachirisu,Turtwig,Chimchar,Piplup,Sneasel,Cranidos,Shieldon,Machop,Mime Jr.,Hippopotas,Gible,Misdreavus,Croagunk,Kricketot,Snover,Pichu,Pikachu,Raichu,Bidoof,Bibarel,Taillow,Swellow,Budew,Roselia,Roserade,Squirtle,Wartortle,Blastoise,Zubat,Golbat,Crobat,Gastly,Haunter,Gengar,Buneary,Lopunny,Happiny,Staravia,Staraptor,Makuhita,Hariyama,Bonsly,Sudowoodo,Slakoth,Seedot,Nuzleaf,Shiftry,Tangrowth,Shellos,Gastrodon,Glameow,Purugly,Geodude,Graveler,Golem,Nosepass,Probopass,Miltank,Cherubi,Cherrim,Shinx,Luxio,Luxray,Grotle,Torterra,Buizel,Floatzel,Weedle,Beedrill,Combee,Vespiquen,Tyrogue,Magnemite,Magneton,Magnezone,Growlithe,Arcanine,Rattata,Raticate,Chatot,Elekid,Electabuzz,Electivire,Magby,Magmar,Magmortar,Voltorb,Electrode,Wingull,Pelipper,Toxicroak,Kricketune,Rampardos,Finneon,Lumineon,Chinchou,Lanturn,Mantyke,Mantine,Qwilfish,Corsola,Staryu,Starmie,Sharpedo,Eevee,Vaporeon,Jolteon,Flareon,Espeon,Umbreon,Leafeon,Glaceon,Mareep,Flaaffy,Ampharos,Aipom,Ambipom,Pineco,Forretress,Spearow,Fearow,Oddish,Gloom,Vileplume,Bellossom,Yanma,Yanmega,Larvitar,Pupitar,Tyranitar,Pinsir,Numel,Camerupt,Mankey,Primeape,Gligar,Gliscor,Mawile,Aron,Lairon,Aggron,Doduo,Dodrio,Carnivine,Charmander,Charmeleon,Charizard,Slugma,Magcargo,Drifloon,Drifblim,Stunky,Skuntank,Kangaskhan,Shuppet,Banette,Rhyhorn,Rhydon,Rhyperior,Muk,Houndour,Houndoom,Spinarak,Ariados,Ralts,Kirlia,Gardevoir,Gallade,Machoke,Machamp,Mr. Mime,Drowzee,Hypno,Monferno,Infernape,Vulpix,Ninetales,Skorupi,Drapion,Lickilicky,Ponyta,Rapidash,Girafarig,Tauros,Ninjask,Bastiodon,Abra,Alakazam,Murkrow,Honchkrow,Koffing,Weezing,Skarmory,Duskull,Dusclops,Dusknoir,Sableye,Sandshrew,Sandslash,Spiritomb,Spheal,Sealeo,Walrein,Swinub,Piloswine,Mamoswine,Jigglypuff,Wigglytuff,Chingling,Prinplup,Empoleon,Delibird,Jynx,Abomasnow,Snorunt,Glalie,Froslass,Scyther,Scizor,Dratini,Dragonair,Mismagius,Riolu,Lucario,Torkoal,Bagon,Shelgon,Salamence,Heatran,Horsea,Seadra,Kingdra,Huntail,Gorebyss,Tentacruel,Omanyte,Omastar,Wailmer,Cacnea,Cacturne,Mothim,Victreebel,Sceptile,Weavile,Hippowdon,Bronzor,Bronzong,Claydol,Gabite,Garchomp,Cresselia,Blaziken,Absol,Aerodactyl,Flygon,Altaria,Togekiss,Porygon-Z,Regirock,Regice,Registeel,Regigigas,Manaphy Egg,Dialga,Palkia,Shaymin,Darkrai,Celebi,^$Missions_On,^$Celebi_On",
+                                "Wailord,Munchlax,Starly,Pachirisu,Turtwig,Chimchar,Piplup,Sneasel,Cranidos,Shieldon,Machop,Mime Jr.,Hippopotas,Gible,Misdreavus,Croagunk,Kricketot,Snover,Pichu,Pikachu,Raichu,Bidoof,Bibarel,Taillow,Swellow,Budew,Roselia,Roserade,Squirtle,Wartortle,Blastoise,Zubat,Golbat,Crobat,Gastly,Haunter,Gengar,Buneary,Lopunny,Happiny,Staravia,Staraptor,Makuhita,Hariyama,Bonsly,Sudowoodo,Slakoth,Seedot,Nuzleaf,Shiftry,Tangrowth,Shellos,Gastrodon,Glameow,Purugly,Geodude,Graveler,Golem,Nosepass,Probopass,Miltank,Cherubi,Cherrim,Shinx,Luxio,Luxray,Grotle,Torterra,Buizel,Floatzel,Weedle,Beedrill,Combee,Vespiquen,Tyrogue,Magnemite,Magneton,Magnezone,Growlithe,Arcanine,Rattata,Raticate,Chatot,Elekid,Electabuzz,Electivire,Magby,Magmar,Magmortar,Voltorb,Electrode,Wingull,Pelipper,Toxicroak,Kricketune,Rampardos,Finneon,Lumineon,Chinchou,Lanturn,Mantyke,Mantine,Qwilfish,Corsola,Staryu,Starmie,Sharpedo,Eevee,Vaporeon,Jolteon,Flareon,Espeon,Umbreon,Leafeon,Glaceon,Mareep,Flaaffy,Ampharos,Aipom,Ambipom,Pineco,Forretress,Spearow,Fearow,Oddish,Gloom,Vileplume,Bellossom,Yanma,Yanmega,Larvitar,Pupitar,Tyranitar,Pinsir,Numel,Camerupt,Mankey,Primeape,Gligar,Gliscor,Mawile,Aron,Lairon,Aggron,Doduo,Dodrio,Carnivine,Charmander,Charmeleon,Charizard,Slugma,Magcargo,Drifloon,Drifblim,Stunky,Skuntank,Kangaskhan,Shuppet,Banette,Rhyhorn,Rhydon,Rhyperior,Muk,Houndour,Houndoom,Spinarak,Ariados,Ralts,Kirlia,Gardevoir,Gallade,Machoke,Machamp,Mr. Mime,Drowzee,Hypno,Monferno,Infernape,Vulpix,Ninetales,Skorupi,Drapion,Lickilicky,Ponyta,Rapidash,Girafarig,Tauros,Ninjask,Bastiodon,Abra,Alakazam,Murkrow,Honchkrow,Koffing,Weezing,Skarmory,Duskull,Dusclops,Dusknoir,Sableye,Sandshrew,Sandslash,Spiritomb,Spheal,Sealeo,Walrein,Swinub,Piloswine,Mamoswine,Jigglypuff,Wigglytuff,Chingling,Prinplup,Empoleon,Delibird,Jynx,Abomasnow,Snorunt,Glalie,Froslass,Scyther,Scizor,Dratini,Dragonair,Mismagius,Riolu,Lucario,Torkoal,Bagon,Shelgon,Salamence,Heatran,Horsea,Seadra,Kingdra,Huntail,Gorebyss,Tentacruel,Omanyte,Omastar,Wailmer,Cacnea,Cacturne,Mothim,Victreebel,Sceptile,Weavile,Hippowdon,Bronzor,Bronzong,Claydol,Gabite,Garchomp,Cresselia,Blaziken,Absol,Aerodactyl,Flygon,Altaria,Togekiss,Porygon-Z,Regirock,Regice,Registeel,Regigigas,Darkrai,Celebi,^$Celebi_On"
+                                ],
                 "visibility_rules": [],
+                "chest_unopened_img": "/images/Options/Catch em All Victory.png",
+                "chest_opened_img": "/images/Options/checked.png",
                 "item_count": 1
             }
         ],
         "map_locations": [
             {
-                "map": "Victory",
-                "x": 1994,
-                "y": 2470,
-                "size": 6
+                "map": "Altru Tower",
+                "x": 1596,
+                "y": 128
+            },
+            {
+                "map": "Almia",
+                "x": 60,
+                "y": 542
             }
         ]
     }

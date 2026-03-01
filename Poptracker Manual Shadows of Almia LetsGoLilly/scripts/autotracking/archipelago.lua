@@ -320,6 +320,14 @@ function onLocation(location_id, location_name)
     MANUAL_CHECKED = true
 end
 
+---Get Settings
+function apply_slot_data(slot_data)
+	Tracker:FindObjectForCode("victory_condition").CurrentStage = slot_data["goal"]
+    Tracker:FindObjectForCode("mission_toggle").CurrentStage = slot_data["add_missions"]
+    Tracker:FindObjectForCode("celebi_toggle").CurrentStage = slot_data["add_celebi"]
+end
+
+
 -- this Autofill function is meant as an example on how to do the reading from slotdata and mapping the values to 
 -- your own settings
 -- function autoFill()

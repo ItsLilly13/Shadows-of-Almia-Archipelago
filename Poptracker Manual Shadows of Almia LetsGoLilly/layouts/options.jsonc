@@ -7,11 +7,12 @@
         "background": "#000000",
         "rows": [
             [
-                "victory_condition",
-                "starting_location"
+                "victory_condition"
             ],
             [
-                "mission_toggle",
+                "mission_toggle"
+            ],
+            [
                 "celebi_toggle"
             ]
         ]

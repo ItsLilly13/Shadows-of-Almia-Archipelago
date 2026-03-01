@@ -7,18 +7,26 @@
             " "
         ],
         "children": [
-            {
+             {
                 "name": "Chicole Path - Can I Capture Here?",
-                "chest_opened_img": "/images/Permit/Chicole Path Permit.png",
-                "chest_unopened_img": "/images/Permit/Chicole Path Permit.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     "@Chicole Path"
                 ],
                 "sections": [
                     {
+                        "name": "Reachable?",
+                        "access_rules": ["@Chicole Path"],
+                        "chest_opened_img": "/images/Start/Start.png",
+                        "chest_unopened_img": "/images/Start/Start.png",
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
                         "name": "Permit?",
                         "access_rules": ["Chicole Path Permit"],
+                        "chest_opened_img": "/images/Permit/Chicole Path Permit.png",
+                        "chest_unopened_img": "/images/Permit/Chicole Path Permit.png",
                         "visibility_rules": [],
                         "item_count": 1
                     },
@@ -50,6 +58,14 @@
                 ],
                 "sections": [
                     {
+                        "name": "Reachable?",
+                        "access_rules": ["@Vientown"],
+                        "chest_opened_img": "/images/Start/Start.png",
+                        "chest_unopened_img": "/images/Start/Start.png",
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
                         "name": "Permit?",
                         "access_rules": ["Vientown Permit"],
                         "visibility_rules": [],
@@ -74,6 +90,14 @@
                     "@Marine Cave"
                 ],
                 "sections": [
+                    {
+                        "name": "Reachable?",
+                        "access_rules": ["@Marine Cave"],
+                        "chest_opened_img": "/images/Start/Start.png",
+                        "chest_unopened_img": "/images/Start/Start.png",
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
                     {
                         "name": "Permit?",
                         "access_rules": ["Marine Cave Permit"],
@@ -108,6 +132,14 @@
                 ],
                 "sections": [
                     {
+                        "name": "Reachable?",
+                        "access_rules": ["@Vien Forest"],
+                        "chest_opened_img": "/images/Start/Start.png",
+                        "chest_unopened_img": "/images/Start/Start.png",
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
                         "name": "Permit?",
                         "access_rules": ["Vien Forest Permit"],
                         "visibility_rules": [],
@@ -125,6 +157,7 @@
                 "map_locations": [
                     {
                         "map": "Lower Vien Forest",
+                        "size": 40,
                         "x": 20,
                         "y": 20,
                         "shape": "diamond"
@@ -140,6 +173,14 @@
                     "@Vien Forest"
                 ],
                 "sections": [
+                    {
+                        "name": "Reachable?",
+                        "access_rules": ["@Vien Forest"],
+                        "chest_opened_img": "/images/Start/Start.png",
+                        "chest_unopened_img": "/images/Start/Start.png",
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
                     {
                         "name": "Permit?",
                         "access_rules": ["Vien Forest Permit"],
@@ -178,9 +219,17 @@
                 "chest_unopened_img": "/images/Permit/Vien Forest Permit.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "@Vien Forest"
+                    "@Vien Forest North Island"
                 ],
                 "sections": [
+                    {
+                        "name": "Reachable?",
+                        "access_rules": ["@Vien Forest North Island"],
+                        "chest_opened_img": "/images/Start/Start.png",
+                        "chest_unopened_img": "/images/Start/Start.png",
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
                     {
                         "name": "Permit?",
                         "access_rules": ["Vien Forest Permit"],
@@ -231,6 +280,14 @@
                 ],
                 "sections": [
                     {
+                        "name": "Reachable?",
+                        "access_rules": ["@School Road"],
+                        "chest_opened_img": "/images/Start/Start.png",
+                        "chest_unopened_img": "/images/Start/Start.png",
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
                         "name": "Permit?",
                         "access_rules": ["School Road Permit"],
                         "visibility_rules": [],
@@ -255,6 +312,14 @@
                     "@Ranger School"
                 ],
                 "sections": [
+                    {
+                        "name": "Reachable?",
+                        "access_rules": ["@Ranger School"],
+                        "chest_opened_img": "/images/Start/Start.png",
+                        "chest_unopened_img": "/images/Start/Start.png",
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
                     {
                         "name": "Permit?",
                         "access_rules": ["Ranger School Permit"],
@@ -297,6 +362,14 @@
                 ],
                 "sections": [
                     {
+                        "name": "Reachable?",
+                        "access_rules": ["@Cargo Ship"],
+                        "chest_opened_img": "/images/Start/Start.png",
+                        "chest_unopened_img": "/images/Start/Start.png",
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
                         "name": "Permit?",
                         "access_rules": ["Cargo Ship Permit"],
                         "visibility_rules": [],
@@ -321,6 +394,14 @@
                     "@Pueltown"
                 ],
                 "sections": [
+                    {
+                        "name": "Reachable?",
+                        "access_rules": ["@Pueltown"],
+                        "chest_opened_img": "/images/Start/Start.png",
+                        "chest_unopened_img": "/images/Start/Start.png",
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
                     {
                         "name": "Permit?",
                         "access_rules": ["Pueltown Permit"],
@@ -347,6 +428,14 @@
                 ],
                 "sections": [
                     {
+                        "name": "Reachable?",
+                        "access_rules": ["@Altru Park"],
+                        "chest_opened_img": "/images/Start/Start.png",
+                        "chest_unopened_img": "/images/Start/Start.png",
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
                         "name": "Permit?",
                         "access_rules": ["Altru Park Permit"],
                         "visibility_rules": [],
@@ -372,6 +461,14 @@
                 ],
                 "sections": [
                     {
+                        "name": "Reachable?",
+                        "access_rules": ["@Altru Building"],
+                        "chest_opened_img": "/images/Start/Start.png",
+                        "chest_unopened_img": "/images/Start/Start.png",
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
                         "name": "Permit?",
                         "access_rules": ["Altru Building Permit"],
                         "visibility_rules": [],
@@ -396,6 +493,14 @@
                     "@Altru Tower"
                 ],
                 "sections": [
+                    {
+                        "name": "Reachable?",
+                        "access_rules": ["@Altru Tower"],
+                        "chest_opened_img": "/images/Start/Start.png",
+                        "chest_unopened_img": "/images/Start/Start.png",
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
                     {
                         "name": "Permit?",
                         "access_rules": ["Altru Tower Permit"],
@@ -430,6 +535,14 @@
                 ],
                 "sections": [
                     {
+                        "name": "Reachable?",
+                        "access_rules": ["@Union Road"],
+                        "chest_opened_img": "/images/Start/Start.png",
+                        "chest_unopened_img": "/images/Start/Start.png",
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
                         "name": "Permit?",
                         "access_rules": ["Union Road Permit"],
                         "visibility_rules": [],
@@ -462,6 +575,14 @@
                     "@Peril Cliffs"
                 ],
                 "sections": [
+                    {
+                        "name": "Reachable?",
+                        "access_rules": ["@Peril Cliffs"],
+                        "chest_opened_img": "/images/Start/Start.png",
+                        "chest_unopened_img": "/images/Start/Start.png",
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
                     {
                         "name": "Permit?",
                         "access_rules": ["Peril Cliffs Permit"],
@@ -496,6 +617,14 @@
                 ],
                 "sections": [
                     {
+                        "name": "Reachable?",
+                        "access_rules": ["@Peril Cliffs"],
+                        "chest_opened_img": "/images/Start/Start.png",
+                        "chest_unopened_img": "/images/Start/Start.png",
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
                         "name": "Permit?",
                         "access_rules": ["Peril Cliffs Permit"],
                         "visibility_rules": [],
@@ -520,6 +649,14 @@
                     "@Ranger Union"
                 ],
                 "sections": [
+                    {
+                        "name": "Reachable?",
+                        "access_rules": ["@Ranger Union"],
+                        "chest_opened_img": "/images/Start/Start.png",
+                        "chest_unopened_img": "/images/Start/Start.png",
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
                     {
                         "name": "Permit?",
                         "access_rules": ["Ranger Union Permit"],
@@ -546,6 +683,14 @@
                 ],
                 "sections": [
                     {
+                        "name": "Reachable?",
+                        "access_rules": ["@Chroma Road"],
+                        "chest_opened_img": "/images/Start/Start.png",
+                        "chest_unopened_img": "/images/Start/Start.png",
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
                         "name": "Permit?",
                         "access_rules": ["Chroma Road Permit"],
                         "visibility_rules": [],
@@ -556,6 +701,14 @@
                         "access_rules": ["Chroma Road Permit,Tackle"],
                         "chest_opened_img": "/images/Field Move/Tackle.png",
                         "chest_unopened_img": "/images/Field Move/Tackle.png",
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Soak?",
+                        "access_rules": ["Chroma Road Permit,Soak"],
+                        "chest_opened_img": "/images/Field Move/Soak.png",
+                        "chest_unopened_img": "/images/Field Move/Soak.png",
                         "visibility_rules": [],
                         "item_count": 1
                     }
@@ -578,6 +731,14 @@
                     "@Chroma Highlands"
                 ],
                 "sections": [
+                    {
+                        "name": "Reachable?",
+                        "access_rules": ["@Chroma Highlands"],
+                        "chest_opened_img": "/images/Start/Start.png",
+                        "chest_unopened_img": "/images/Start/Start.png",
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
                     {
                         "name": "Permit?",
                         "access_rules": ["Chroma Highlands Permit"],
@@ -611,6 +772,14 @@
                     "@Chroma Ruins"
                 ],
                 "sections": [
+                    {
+                        "name": "Reachable?",
+                        "access_rules": ["@Chroma Ruins"],
+                        "chest_opened_img": "/images/Start/Start.png",
+                        "chest_unopened_img": "/images/Start/Start.png",
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
                     {
                         "name": "Permit?",
                         "access_rules": ["Chroma Ruins Permit"],
@@ -651,6 +820,14 @@
                 ],
                 "sections": [
                     {
+                        "name": "Reachable?",
+                        "access_rules": ["@Chroma Ruins"],
+                        "chest_opened_img": "/images/Start/Start.png",
+                        "chest_unopened_img": "/images/Start/Start.png",
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
                         "name": "Permit?",
                         "access_rules": ["Chroma Ruins Permit"],
                         "visibility_rules": [],
@@ -683,6 +860,14 @@
                     "@Crysta Cave"
                 ],
                 "sections": [
+                    {
+                        "name": "Reachable?",
+                        "access_rules": ["@Crysta Cave"],
+                        "chest_opened_img": "/images/Start/Start.png",
+                        "chest_unopened_img": "/images/Start/Start.png",
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
                     {
                         "name": "Permit?",
                         "access_rules": ["Crysta Cave Permit"],
@@ -717,6 +902,14 @@
                 ],
                 "sections": [
                     {
+                        "name": "Reachable?",
+                        "access_rules": ["@Hia Valley"],
+                        "chest_opened_img": "/images/Start/Start.png",
+                        "chest_unopened_img": "/images/Start/Start.png",
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
                         "name": "Permit?",
                         "access_rules": ["Hia Valley Permit"],
                         "visibility_rules": [],
@@ -750,6 +943,14 @@
                 ],
                 "sections": [
                     {
+                        "name": "Reachable?",
+                        "access_rules": ["@Shiver Camp"],
+                        "chest_opened_img": "/images/Start/Start.png",
+                        "chest_unopened_img": "/images/Start/Start.png",
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
                         "name": "Permit?",
                         "access_rules": ["Shiver Camp Permit"],
                         "visibility_rules": [],
@@ -771,9 +972,18 @@
                 "chest_unopened_img": "/images/Permit/Ice Lake Permit.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "@Ice Lake"
+                    "@Ice Lake North",
+                    "@Ice Lake South"
                 ],
                 "sections": [
+                    {
+                        "name": "Reachable?",
+                        "access_rules": ["@Ice Lake North", "@Ice Lake South"],
+                        "chest_opened_img": "/images/Start/Start.png",
+                        "chest_unopened_img": "/images/Start/Start.png",
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
                     {
                         "name": "Permit?",
                         "access_rules": ["Ice Lake Permit"],
@@ -816,6 +1026,14 @@
                 ],
                 "sections": [
                     {
+                        "name": "Reachable?",
+                        "access_rules": ["@Almia Castle"],
+                        "chest_opened_img": "/images/Start/Start.png",
+                        "chest_unopened_img": "/images/Start/Start.png",
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
                         "name": "Permit?",
                         "access_rules": ["Almia Castle Permit"],
                         "visibility_rules": [],
@@ -847,6 +1065,14 @@
                     "@Almia Castle"
                 ],
                 "sections": [
+                    {
+                        "name": "Reachable?",
+                        "access_rules": ["@Almia Castle"],
+                        "chest_opened_img": "/images/Start/Start.png",
+                        "chest_unopened_img": "/images/Start/Start.png",
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
                     {
                         "name": "Permit?",
                         "access_rules": ["Almia Castle Permit"],
@@ -882,6 +1108,14 @@
                 ],
                 "sections": [
                     {
+                        "name": "Reachable?",
+                        "access_rules": ["@Puel Sea"],
+                        "chest_opened_img": "/images/Start/Start.png",
+                        "chest_unopened_img": "/images/Start/Start.png",
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
                         "name": "Permit?",
                         "access_rules": ["Puel Sea Permit"],
                         "visibility_rules": [],
@@ -904,9 +1138,17 @@
                 "overlay_background": "#000000",
                 "access_rules": [
 
-                    "@Puel Seaa"
+                    "@Puel Sea"
                 ],
                 "sections": [
+                    {
+                        "name": "Reachable?",
+                        "access_rules": ["@Puel Sea"],
+                        "chest_opened_img": "/images/Start/Start.png",
+                        "chest_unopened_img": "/images/Start/Start.png",
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
                     {
                         "name": "Permit?",
                         "access_rules": ["Puel Sea Permit"],
@@ -942,6 +1184,14 @@
                 ],
                 "sections": [
                     {
+                        "name": "Reachable?",
+                        "access_rules": ["@Sea of Wailord"],
+                        "chest_opened_img": "/images/Start/Start.png",
+                        "chest_unopened_img": "/images/Start/Start.png",
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
                         "name": "Permit?",
                         "access_rules": ["Sea of Wailord Permit"],
                         "visibility_rules": [],
@@ -967,6 +1217,14 @@
                     "@Sea of Wailord"
                 ],
                 "sections": [
+                    {
+                        "name": "Reachable?",
+                        "access_rules": ["@Sea of Wailord"],
+                        "chest_opened_img": "/images/Start/Start.png",
+                        "chest_unopened_img": "/images/Start/Start.png",
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
                     {
                         "name": "Permit?",
                         "access_rules": ["Sea of Wailord Permit"],
@@ -1002,6 +1260,14 @@
                 ],
                 "sections": [
                     {
+                        "name": "Reachable?",
+                        "access_rules": ["@Oil Field Hideout"],
+                        "chest_opened_img": "/images/Start/Start.png",
+                        "chest_unopened_img": "/images/Start/Start.png",
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
                         "name": "Permit?",
                         "access_rules": ["Oil Field Hideout Permit"],
                         "visibility_rules": [],
@@ -1033,6 +1299,14 @@
                     "@Capture Arena"
                 ],
                 "sections": [
+                    {
+                        "name": "Reachable?",
+                        "access_rules": ["@Capture Arena"],
+                        "chest_opened_img": "/images/Start/Start.png",
+                        "chest_unopened_img": "/images/Start/Start.png",
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
                     {
                         "name": "F1 Permit?",
                         "access_rules": ["Capture Arena Permit 1"],
@@ -1076,6 +1350,14 @@
                 ],
                 "sections": [
                     {
+                        "name": "Reachable?",
+                        "access_rules": ["@Boyleland"],
+                        "chest_opened_img": "/images/Start/Start.png",
+                        "chest_unopened_img": "/images/Start/Start.png",
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
                         "name": "Permit?",
                         "access_rules": ["Boyleland Permit"],
                         "visibility_rules": [],
@@ -1101,6 +1383,14 @@
                     "@Volcano Cave"
                 ],
                 "sections": [
+                    {
+                        "name": "Reachable?",
+                        "access_rules": ["@Volcano Cave"],
+                        "chest_opened_img": "/images/Start/Start.png",
+                        "chest_unopened_img": "/images/Start/Start.png",
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
                     {
                         "name": "Permit?",
                         "access_rules": ["Volcano Cave Permit"],
@@ -1140,9 +1430,17 @@
                 "overlay_background": "#000000",
                 "access_rules": [
 
-                    "@Volcano Cave"
+                    "@Volcano Cave F2"
                 ],
                 "sections": [
+                    {
+                        "name": "Reachable?",
+                        "access_rules": ["@Volcano Cave F2"],
+                        "chest_opened_img": "/images/Start/Start.png",
+                        "chest_unopened_img": "/images/Start/Start.png",
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
                     {
                         "name": "Permit?",
                         "access_rules": ["Volcano Cave Permit"],
@@ -1190,9 +1488,17 @@
                 "overlay_background": "#000000",
                 "access_rules": [
 
-                    "@Volcano Cave"
+                    "@Volcano Cave F3"
                 ],
                 "sections": [
+                    {
+                        "name": "Reachable?",
+                        "access_rules": ["@Volcano Cave F3"],
+                        "chest_opened_img": "/images/Start/Start.png",
+                        "chest_unopened_img": "/images/Start/Start.png",
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
                     {
                         "name": "Permit?",
                         "access_rules": ["Volcano Cave Permit"],
@@ -1236,6 +1542,14 @@
                 ],
                 "sections": [
                     {
+                        "name": "Reachable?",
+                        "access_rules": ["@Haruba Village"],
+                        "chest_opened_img": "/images/Start/Start.png",
+                        "chest_unopened_img": "/images/Start/Start.png",
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
                         "name": "Permit?",
                         "access_rules": ["Haruba Village Permit"],
                         "visibility_rules": [],
@@ -1270,6 +1584,14 @@
                 ],
                 "sections": [
                     {
+                        "name": "Reachable?",
+                        "access_rules": ["@Haruba Desert"],
+                        "chest_opened_img": "/images/Start/Start.png",
+                        "chest_unopened_img": "/images/Start/Start.png",
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
                         "name": "Permit?",
                         "access_rules": ["Haruba Desert Permit"],
                         "visibility_rules": [],
@@ -1303,6 +1625,14 @@
                     "@Hippowdon Temple"
                 ],
                 "sections": [
+                    {
+                        "name": "Reachable?",
+                        "access_rules": ["@Hippowdon Temple"],
+                        "chest_opened_img": "/images/Start/Start.png",
+                        "chest_unopened_img": "/images/Start/Start.png",
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
                     {
                         "name": "Permit?",
                         "access_rules": ["Hippowdon Temple Permit"],
@@ -1346,6 +1676,14 @@
                 ],
                 "sections": [
                     {
+                        "name": "Reachable?",
+                        "access_rules": ["@Manaphy Mission"],
+                        "chest_opened_img": "/images/Start/Start.png",
+                        "chest_unopened_img": "/images/Start/Start.png",
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
                         "name": "Mission?",
                         "access_rules": ["ManaphyM"],
                         "visibility_rules": [],
@@ -1380,6 +1718,14 @@
                 ],
                 "sections": [
                     {
+                        "name": "Reachable?",
+                        "access_rules": ["@Riolu Mission"],
+                        "chest_opened_img": "/images/Start/Start.png",
+                        "chest_unopened_img": "/images/Start/Start.png",
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
                         "name": "Mission?",
                         "access_rules": ["RioluM"],
                         "visibility_rules": [],
@@ -1405,6 +1751,14 @@
                     "@Tower Mission"
                 ],
                 "sections": [
+                    {
+                        "name": "Reachable?",
+                        "access_rules": ["@Tower Mission"],
+                        "chest_opened_img": "/images/Start/Start.png",
+                        "chest_unopened_img": "/images/Start/Start.png",
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
                     {
                         "name": "Mission?",
                         "access_rules": ["TowerM"],
@@ -1448,6 +1802,14 @@
                 ],
                 "sections": [
                     {
+                        "name": "Reachable?",
+                        "access_rules": ["@Dialga Mission"],
+                        "chest_opened_img": "/images/Start/Start.png",
+                        "chest_unopened_img": "/images/Start/Start.png",
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
                         "name": "Mission?",
                         "access_rules": ["DialgaM"],
                         "visibility_rules": [],
@@ -1490,6 +1852,14 @@
                 ],
                 "sections": [
                     {
+                        "name": "Reachable?",
+                        "access_rules": ["@Palkia Mission"],
+                        "chest_opened_img": "/images/Start/Start.png",
+                        "chest_unopened_img": "/images/Start/Start.png",
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
                         "name": "Mission?",
                         "access_rules": ["PalkiaM"],
                         "visibility_rules": [],
@@ -1524,6 +1894,14 @@
                 ],
                 "sections": [
                     {
+                        "name": "Reachable?",
+                        "access_rules": ["@Shaymin Mission"],
+                        "chest_opened_img": "/images/Start/Start.png",
+                        "chest_unopened_img": "/images/Start/Start.png",
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
                         "name": "Mission?",
                         "access_rules": ["ShayminM"],
                         "visibility_rules": [],
@@ -1539,13 +1917,13 @@
                     }
                 ]
             },
+            
             {
                 "name": "Capture Pichu",
                 "chest_unopened_img": "/images/Pokemon/001 Pichu.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "@Pichu,Vientown Permit",
-                    "@Pichu,Marine Cave Permit"
+                    "@Pichu"
                 ],
                 "sections": [
                     {
@@ -1576,6 +1954,56 @@
                         "map": "Marine Cave",
                         "x": 1185,
                         "y": 870
+                    },
+                    {
+                        "map": "Lower Vien Forest",
+                        "x": 1580,
+                        "y": 1730
+                    },
+                    {
+                        "map": "Lower Vien Forest",
+                        "x": 1230,
+                        "y": 1400
+                    },
+                    {
+                        "map": "Lower Vien Forest",
+                        "x": 630,
+                        "y": 445
+                    },
+                    {
+                        "map": "Lower Vien Forest",
+                        "x": 595,
+                        "y": 1295
+                    },
+                    {
+                        "map": "Ranger School",
+                        "x": 240,
+                        "y": 1215
+                    },
+                    {
+                        "map": "Ranger School",
+                        "x": 686,
+                        "y": 560
+                    },
+                    {
+                        "map": "Ranger School",
+                        "x": 812,
+                        "y": 235
+                    },
+                    {
+                        "map": "Upper Vien Forest",
+                        "x": 145,
+                        "y": 845
+                    },
+                    {
+                        "map": "Upper Vien Forest",
+                        "x": 1468,
+                        "y": 395
+                    },
+                    {
+                        "map": "Pueltown",
+                        "x": 545,
+                        "y": 830
                     }
                 ]
             },
@@ -1602,9 +2030,64 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 344,
-                        "y": 2075
+                        "map": "Cargo Ship",
+                        "x": 1540,
+                        "y": 750
+                    },
+                    {
+                        "map": "Cargo Ship",
+                        "x": 282,
+                        "y": 460
+                    },
+                    {
+                        "map": "Vien Forest River",
+                        "x": 915,
+                        "y": 1235
+                    },
+                    {
+                        "map": "Vien Forest River",
+                        "x": 605,
+                        "y": 1505
+                    },
+                    {
+                        "map": "Vien Forest River",
+                        "x": 990,
+                        "y": 700
+                    },
+                    {
+                        "map": "Vien Forest River",
+                        "x": 400,
+                        "y": 320
+                    },
+                    {
+                        "map": "Crysta Cave",
+                        "x": 323,
+                        "y": 1115
+                    },
+                    {
+                        "map": "Crysta Cave",
+                        "x": 602,
+                        "y": 805
+                    },
+                    {
+                        "map": "Crysta Cave",
+                        "x": 450,
+                        "y": 300
+                    },
+                    {
+                        "map": "Crysta Cave",
+                        "x": 1073,
+                        "y": 520
+                    },
+                    {
+                        "map": "Chroma Road",
+                        "x": 497,
+                        "y": 1065
+                    },
+                    {
+                        "map": "Chroma Road",
+                        "x": 1183,
+                        "y": 480
                     }
                 ]
             },
@@ -1631,9 +2114,34 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 1604,
-                        "y": 771
+                        "map": "Ice Lake",
+                        "x": 1815,
+                        "y": 405
+                    },
+                    {
+                        "map": "Almia Castle F1",
+                        "x": 1365,
+                        "y": 955
+                    },
+                    {
+                        "map": "Almia Castle F1",
+                        "x": 1490,
+                        "y": 700
+                    },
+                    {
+                        "map": "Almia Castle F3",
+                        "x": 1195,
+                        "y": 1460
+                    },
+                    {
+                        "map": "Almia Castle F3",
+                        "x": 710,
+                        "y": 868
+                    },
+                    {
+                        "map": "Almia Castle F3",
+                        "x": 193,
+                        "y": 1490
                     }
                 ]
             },
@@ -1642,7 +2150,7 @@
                 "chest_unopened_img": "/images/Pokemon/004 Bidoof.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "@Bidoof,Vientown Permit"
+                    "@Bidoof"
                 ],
                 "sections": [
                     {
@@ -1663,6 +2171,36 @@
                         "map": "Vientown",
                         "x": 570,
                         "y": 275
+                    },
+                    {
+                        "map": "Ranger School",
+                        "x": 250,
+                        "y": 285
+                    },
+                    {
+                        "map": "Ranger School",
+                        "x": 255,
+                        "y": 220
+                    },
+                    {
+                        "map": "Ranger School",
+                        "x": 315,
+                        "y": 250
+                    },
+                    {
+                        "map": "Ranger School",
+                        "x": 960,
+                        "y": 1210
+                    },
+                    {
+                        "map": "Ranger School",
+                        "x": 1025,
+                        "y": 1115
+                    },
+                    {
+                        "map": "Ranger School",
+                        "x": 1510,
+                        "y": 400
                     }
                 ]
             },
@@ -1689,9 +2227,34 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 530,
-                        "y": 885
+                        "map": "Upper Vien Forest",
+                        "x": 150,
+                        "y": 975
+                    },
+                    {
+                        "map": "Pueltown",
+                        "x": 260,
+                        "y": 645
+                    },
+                    {
+                        "map": "Pueltown",
+                        "x": 1845,
+                        "y": 405
+                    },
+                    {
+                        "map": "Pueltown",
+                        "x": 1940,
+                        "y": 925
+                    },
+                    {
+                        "map": "Pueltown",
+                        "x": 2190,
+                        "y": 325
+                    },
+                    {
+                        "map": "Union Road",
+                        "x": 215,
+                        "y": 370
                     }
                 ]
             },
@@ -1700,8 +2263,7 @@
                 "chest_unopened_img": "/images/Pokemon/006 Taillow.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "@Taillow,Vientown Permit",
-                    "@Taillow,School Road Permit"
+                    "@Taillow"
                 ],
                 "sections": [
                     {
@@ -1727,6 +2289,36 @@
                         "map": "School Road",
                         "x": 540,
                         "y": 235
+                    },
+                    {
+                        "map": "Lower Vien Forest",
+                        "x": 1745,
+                        "y": 1235
+                    },
+                    {
+                        "map": "Lower Vien Forest",
+                        "x": 865,
+                        "y": 1305
+                    },
+                    {
+                        "map": "Ranger School",
+                        "x": 720,
+                        "y": 1095
+                    },
+                    {
+                        "map": "Ranger School",
+                        "x": 395,
+                        "y": 740
+                    },
+                    {
+                        "map": "Ranger School",
+                        "x": 300,
+                        "y": 610
+                    },
+                    {
+                        "map": "Ranger School",
+                        "x": 912,
+                        "y": 160
                     }
                 ]
             },
@@ -1753,9 +2345,14 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 1275,
-                        "y": 65
+                        "map": "Union Road",
+                        "x": 393,
+                        "y": 255
+                    },
+                    {
+                        "map": "Union Road",
+                        "x": 1693,
+                        "y": 390
                     }
                 ]
             },
@@ -1764,8 +2361,7 @@
                 "chest_unopened_img": "/images/Pokemon/008 Budew.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "@Budew,Chicole Path Permit",
-                    "@Budew,Ranger School Permit"
+                    "@Budew"
                 ],
                 "sections": [
                     {
@@ -1791,6 +2387,26 @@
                         "map": "Chicole Path",
                         "x": 235,
                         "y": 505
+                    },
+                    {
+                        "map": "Ranger School",
+                        "x": 605,
+                        "y": 1250
+                    },
+                    {
+                        "map": "Ranger School",
+                        "x": 285,
+                        "y": 1015
+                    },
+                    {
+                        "map": "Ranger School",
+                        "x": 835,
+                        "y": 690
+                    },
+                    {
+                        "map": "Ranger School",
+                        "x": 687,
+                        "y": 305
                     }
                 ]
             },
@@ -1817,9 +2433,24 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 257,
-                        "y": 1070
+                        "map": "Lower Vien Forest",
+                        "x": 1065,
+                        "y": 520
+                    },
+                    {
+                        "map": "Lower Vien Forest",
+                        "x": 465,
+                        "y": 515
+                    },
+                    {
+                        "map": "Upper Vien Forest",
+                        "x": 775,
+                        "y": 795
+                    },
+                    {
+                        "map": "Upper Vien Forest",
+                        "x": 665,
+                        "y": 510
                     }
                 ]
             },
@@ -1846,9 +2477,9 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 65,
-                        "y": 2494
+                        "map": "Vien Forest River",
+                        "x": 510,
+                        "y": 1640
                     }
                 ]
             },
@@ -1857,7 +2488,7 @@
                 "chest_unopened_img": "/images/Pokemon/011 Squirtle.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "@Squirtle,Marine Cave Permit"
+                    "@Squirtle"
                 ],
                 "sections": [
                     {
@@ -1878,6 +2509,11 @@
                         "map": "Marine Cave",
                         "x": 1025,
                         "y": 460
+                    },
+                    {
+                        "map": "Ranger School",
+                        "x": 1255,
+                        "y": 1185
                     }
                 ]
             },
@@ -1904,9 +2540,24 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 1685,
-                        "y": 1215
+                        "map": "Lower Vien Forest",
+                        "x": 1585,
+                        "y": 745
+                    },
+                    {
+                        "map": "Lower Vien Forest",
+                        "x": 1185,
+                        "y": 1035
+                    },
+                    {
+                        "map": "Lower Vien Forest",
+                        "x": 755,
+                        "y": 1545
+                    },
+                    {
+                        "map": "Lower Vien Forest",
+                        "x": 745,
+                        "y": 1795
                     }
                 ]
             },
@@ -1933,9 +2584,9 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 262,
-                        "y": 461
+                        "map": "Lower Vien Forest",
+                        "x": 630,
+                        "y": 1000
                     }
                 ]
             },
@@ -1944,7 +2595,7 @@
                 "chest_unopened_img": "/images/Pokemon/014 Zubat.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "@Zubat,Marine Cave Permit"
+                    "@Zubat"
                 ],
                 "sections": [
                     {
@@ -1985,6 +2636,11 @@
                         "map": "Marine Cave",
                         "x": 1095,
                         "y": 460
+                    },
+                    {
+                        "map": "Ranger School",
+                        "x": 1900,
+                        "y": 680
                     }
                 ]
             },
@@ -2011,9 +2667,34 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 2403,
-                        "y": 1423
+                        "map": "Crysta Cave",
+                        "x": 197,
+                        "y": 965
+                    },
+                    {
+                        "map": "Crysta Cave",
+                        "x": 267,
+                        "y": 780
+                    },
+                    {
+                        "map": "Crysta Cave",
+                        "x": 1105,
+                        "y": 170
+                    },
+                    {
+                        "map": "Crysta Cave",
+                        "x": 1525,
+                        "y": 425
+                    },
+                    {
+                        "map": "Crysta Cave",
+                        "x": 1845,
+                        "y": 420
+                    },
+                    {
+                        "map": "Crysta Cave",
+                        "x": 1642,
+                        "y": 910
                     }
                 ]
             },
@@ -2040,9 +2721,14 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 1540,
-                        "y": 1884
+                        "map": "Altru Building",
+                        "x": 150,
+                        "y": 900
+                    },
+                    {
+                        "map": "Altru Building",
+                        "x": 685,
+                        "y": 600
                     }
                 ]
             },
@@ -2069,9 +2755,9 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 1587,
-                        "y": 2029
+                        "map": "Ranger School",
+                        "x": 1690,
+                        "y": 820
                     }
                 ]
             },
@@ -2098,9 +2784,29 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 2440,
-                        "y": 2115
+                        "map": "Almia Castle F1",
+                        "x": 710,
+                        "y": 1310
+                    },
+                    {
+                        "map": "Almia Castle F1",
+                        "x": 890,
+                        "y": 1320
+                    },
+                    {
+                        "map": "Almia Castle F1",
+                        "x": 690,
+                        "y": 785
+                    },
+                    {
+                        "map": "Almia Castle F1",
+                        "x": 930,
+                        "y": 468
+                    },
+                    {
+                        "map": "Almia Castle F2",
+                        "x": 1860,
+                        "y": 1440
                     }
                 ]
             },
@@ -2127,9 +2833,19 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 2420,
-                        "y": 2239
+                        "map": "Altru Building",
+                        "x": 88,
+                        "y": 350
+                    },
+                    {
+                        "map": "Altru Tower",
+                        "x": 285,
+                        "y": 510
+                    },
+                    {
+                        "map": "Altru Tower",
+                        "x": 475,
+                        "y": 330
                     }
                 ]
             },
@@ -2138,7 +2854,7 @@
                 "chest_unopened_img": "/images/Pokemon/020 Buneary.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "@Buneary,School Road Permit"
+                    "@Buneary"
                 ],
                 "sections": [
                     {
@@ -2164,6 +2880,11 @@
                         "map": "School Road",
                         "x": 330,
                         "y": 190
+                    },
+                    {
+                        "map": "Upper Vien Forest",
+                        "x": 1563,
+                        "y": 1085
                     }
                 ]
             },
@@ -2190,9 +2911,14 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 1328,
-                        "y": 1457
+                        "map": "Vien Forest River",
+                        "x": 635,
+                        "y": 1345
+                    },
+                    {
+                        "map": "Vien Forest River",
+                        "x": 1070,
+                        "y": 440
                     }
                 ]
             },
@@ -2219,9 +2945,14 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 1908,
-                        "y": 555
+                        "map": "Upper Vien Forest",
+                        "x": 1557,
+                        "y": 315
+                    },
+                    {
+                        "map": "Upper Vien Forest",
+                        "x": 1283,
+                        "y": 862
                     }
                 ]
             },
@@ -2248,9 +2979,34 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 350,
-                        "y": 1812
+                        "map": "Lower Peril Cliffs",
+                        "x": 200,
+                        "y": 1180
+                    },
+                    {
+                        "map": "Lower Peril Cliffs",
+                        "x": 513,
+                        "y": 640
+                    },
+                    {
+                        "map": "Lower Peril Cliffs",
+                        "x": 2130,
+                        "y": 590
+                    },
+                    {
+                        "map": "Lower Peril Cliffs",
+                        "x": 2300,
+                        "y": 675
+                    },
+                    {
+                        "map": "Upper Peril Cliffs",
+                        "x": 530,
+                        "y": 890
+                    },
+                    {
+                        "map": "Upper Peril Cliffs",
+                        "x": 730,
+                        "y": 530
                     }
                 ]
             },
@@ -2259,8 +3015,7 @@
                 "chest_unopened_img": "/images/Pokemon/025 Staraptor.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "@Staraptor,Chicole Path Permit",
-                    "@Staraptor,School Road Permit"
+                    "@Staraptor"
                 ],
                 "sections": [
                     {
@@ -2286,6 +3041,51 @@
                         "map": "School Road",
                         "x": 270,
                         "y": 85
+                    },
+                    {
+                        "map": "Upper Vien Forest",
+                        "x": 305,
+                        "y": 1010
+                    },
+                    {
+                        "map": "Vien Forest River",
+                        "x": 1015,
+                        "y": 1125
+                    },
+                    {
+                        "map": "Altru Park",
+                        "x": 805,
+                        "y": 775
+                    },
+                    {
+                        "map": "Ranger Union",
+                        "x": 188,
+                        "y": 260
+                    },
+                    {
+                        "map": "Shiver Camp",
+                        "x": 160,
+                        "y": 245
+                    },
+                    {
+                        "map": "Ice Lake",
+                        "x": 625,
+                        "y": 940
+                    },
+                    {
+                        "map": "Ice Lake",
+                        "x": 1460,
+                        "y": 375
+                    },
+                    {
+                        "map": "Chroma Road",
+                        "x": 1030,
+                        "y": 490
+                    },
+                    {
+                        "map": "Chroma Road",
+                        "x": 330,
+                        "y": 1070
                     }
                 ]
             },
@@ -2312,9 +3112,9 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 1906,
-                        "y": 2194
+                        "map": "Cargo Ship",
+                        "x": 750,
+                        "y": 570
                     }
                 ]
             },
@@ -2370,9 +3170,14 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 2262,
-                        "y": 272
+                        "map": "Ranger School",
+                        "x": 1012,
+                        "y": 385
+                    },
+                    {
+                        "map": "Upper Vien Forest",
+                        "x": 1620,
+                        "y": 680
                     }
                 ]
             },
@@ -2399,9 +3204,9 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 38,
-                        "y": 1716
+                        "map": "Chroma Road",
+                        "x": 575,
+                        "y": 410
                     }
                 ]
             },
@@ -2428,9 +3233,9 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 204,
-                        "y": 1295
+                        "map": "Ranger School",
+                        "x": 655,
+                        "y": 1050
                     }
                 ]
             },
@@ -2439,7 +3244,7 @@
                 "chest_unopened_img": "/images/Pokemon/033 Seedot.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "@Seedot,Chicole Path Permit,Tackle"
+                    "@Seedot"
                 ],
                 "sections": [
                     {
@@ -2486,9 +3291,19 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 374,
-                        "y": 1417
+                        "map": "Chroma Road",
+                        "x": 270,
+                        "y": 210
+                    },
+                    {
+                        "map": "Chroma Road",
+                        "x": 190,
+                        "y": 275
+                    },
+                    {
+                        "map": "Chroma Road",
+                        "x": 145,
+                        "y": 265
                     }
                 ]
             },
@@ -2515,9 +3330,9 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 671,
-                        "y": 1723
+                        "map": "Vien Forest River",
+                        "x": 320,
+                        "y": 760
                     }
                 ]
             },
@@ -2544,9 +3359,9 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 2148,
-                        "y": 1012
+                        "map": "Ranger School",
+                        "x": 1265,
+                        "y": 800
                     }
                 ]
             },
@@ -2555,8 +3370,7 @@
                 "chest_unopened_img": "/images/Pokemon/037 Shellos.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "@Shellos,Vientown Permit",
-                    "@Shellos,Marine Cave Permit"
+                    "@Shellos"
                 ],
                 "sections": [
                     {
@@ -2610,7 +3424,7 @@
                 "chest_unopened_img": "/images/Pokemon/038 Gastrodon.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "@Gastrodon,Marine Cave Permit"
+                    "@Gastrodon"
                 ],
                 "sections": [
                     {
@@ -2639,7 +3453,7 @@
                 "chest_unopened_img": "/images/Pokemon/039 Glameow.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "@Glameow,Vientown Permit"
+                    "@Glameow"
                 ],
                 "sections": [
                     {
@@ -2686,9 +3500,9 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 947,
-                        "y": 1375
+                        "map": "Cargo Ship",
+                        "x": 500,
+                        "y": 695
                     }
                 ]
             },
@@ -2697,7 +3511,7 @@
                 "chest_unopened_img": "/images/Pokemon/041 Geodude.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "@Geodude,Marine Cave Permit,Soak"
+                    "@Geodude"
                 ],
                 "sections": [
                     {
@@ -2723,6 +3537,16 @@
                         "map": "Marine Cave",
                         "x": 912,
                         "y": 728
+                    },
+                    {
+                        "map": "Lower Peril Cliffs",
+                        "x": 1130,
+                        "y": 845
+                    },
+                    {
+                        "map": "Lower Peril Cliffs",
+                        "x": 1600,
+                        "y": 585
                     }
                 ]
             },
@@ -2731,7 +3555,7 @@
                 "chest_unopened_img": "/images/Pokemon/042 Graveler.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "@Graveler,Marine Cave Permit,Soak"
+                    "@Graveler"
                 ],
                 "sections": [
                     {
@@ -2752,6 +3576,16 @@
                         "map": "Marine Cave",
                         "x": 655,
                         "y": 185
+                    },
+                    {
+                        "map": "Lower Peril Cliffs",
+                        "x": 1290,
+                        "y": 750
+                    },
+                    {
+                        "map": "Lower Peril Cliffs",
+                        "x": 1498,
+                        "y": 885
                     }
                 ]
             },
@@ -2778,9 +3612,9 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 1545,
-                        "y": 1972
+                        "map": "Altru Tower",
+                        "x": 775,
+                        "y": 1095
                     }
                 ]
             },
@@ -2789,7 +3623,7 @@
                 "chest_unopened_img": "/images/Pokemon/044 Nosepass.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "@Nosepass,Marine Cave Permit"
+                    "@Nosepass"
                 ],
                 "sections": [
                     {
@@ -2865,9 +3699,9 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 1117,
-                        "y": 2494
+                        "map": "Chroma Road",
+                        "x": 1173,
+                        "y": 660
                     }
                 ]
             },
@@ -2894,9 +3728,44 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 2021,
-                        "y": 132
+                        "map": "Lower Vien Forest",
+                        "x": 1770,
+                        "y": 1390
+                    },
+                    {
+                        "map": "Lower Vien Forest",
+                        "x": 1605,
+                        "y": 1000
+                    },
+                    {
+                        "map": "Lower Vien Forest",
+                        "x": 1000,
+                        "y": 1345
+                    },
+                    {
+                        "map": "Lower Vien Forest",
+                        "x": 620,
+                        "y": 1390
+                    },
+                    {
+                        "map": "Lower Vien Forest",
+                        "x": 1275,
+                        "y": 535
+                    },
+                    {
+                        "map": "Lower Vien Forest",
+                        "x": 1305,
+                        "y": 230
+                    },
+                    {
+                        "map": "Upper Vien Forest",
+                        "x": 745,
+                        "y": 605
+                    },
+                    {
+                        "map": "Upper Vien Forest",
+                        "x": 590,
+                        "y": 720
                     }
                 ]
             },
@@ -2923,9 +3792,9 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 2473,
-                        "y": 1342
+                        "map": "Upper Peril Cliffs",
+                        "x": 1145,
+                        "y": 215
                     }
                 ]
             },
@@ -2952,9 +3821,34 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 631,
-                        "y": 383
+                        "map": "Lower Vien Forest",
+                        "x": 1380,
+                        "y": 1710
+                    },
+                    {
+                        "map": "Lower Vien Forest",
+                        "x": 1340,
+                        "y": 1210
+                    },
+                    {
+                        "map": "Lower Vien Forest",
+                        "x": 1005,
+                        "y": 1180
+                    },
+                    {
+                        "map": "Lower Vien Forest",
+                        "x": 1170,
+                        "y": 200
+                    },
+                    {
+                        "map": "Upper Vien Forest",
+                        "x": 1315,
+                        "y": 980
+                    },
+                    {
+                        "map": "Upper Vien Forest",
+                        "x": 1135,
+                        "y": 820
                     }
                 ]
             },
@@ -2981,9 +3875,14 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 504,
-                        "y": 560
+                        "map": "Vien Forest River",
+                        "x": 865,
+                        "y": 1350
+                    },
+                    {
+                        "map": "Vien Forest River",
+                        "x": 595,
+                        "y": 1200
                     }
                 ]
             },
@@ -3039,9 +3938,14 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 565,
-                        "y": 402
+                        "map": "Lower Vien Forest",
+                        "x": 70,
+                        "y": 1030
+                    },
+                    {
+                        "map": "Vien Forest River",
+                        "x": 1130,
+                        "y": 1455
                     }
                 ]
             },
@@ -3068,9 +3972,14 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 941,
-                        "y": 2047
+                        "map": "Upper Vien Forest",
+                        "x": 1380,
+                        "y": 665
+                    },
+                    {
+                        "map": "Vien Forest River",
+                        "x": 550,
+                        "y": 850
                     }
                 ]
             },
@@ -3097,9 +4006,14 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 577,
-                        "y": 640
+                        "map": "Lower Vien Forest",
+                        "x": 1160,
+                        "y": 650
+                    },
+                    {
+                        "map": "Upper Vien Forest",
+                        "x": 645,
+                        "y": 955
                     }
                 ]
             },
@@ -3126,9 +4040,49 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 938,
-                        "y": 307
+                        "map": "Lower Vien Forest",
+                        "x": 535,
+                        "y": 715
+                    },
+                    {
+                        "map": "Vien Forest River",
+                        "x": 1015,
+                        "y": 355
+                    },
+                    {
+                        "map": "Vien Forest River",
+                        "x": 460,
+                        "y": 1265
+                    },
+                    {
+                        "map": "Vien Forest River",
+                        "x": 820,
+                        "y": 1440
+                    },
+                    {
+                        "map": "Union Road",
+                        "x": 130,
+                        "y": 315
+                    },
+                    {
+                        "map": "Crysta Cave",
+                        "x": 2007,
+                        "y": 495
+                    },
+                    {
+                        "map": "Crysta Cave",
+                        "x": 1517,
+                        "y": 995
+                    },
+                    {
+                        "map": "Crysta Cave",
+                        "x": 1045,
+                        "y": 1020
+                    },
+                    {
+                        "map": "Crysta Cave",
+                        "x": 572,
+                        "y": 1135
                     }
                 ]
             },
@@ -3155,9 +4109,19 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 2014,
-                        "y": 954
+                        "map": "Lower Vien Forest",
+                        "x": 1265,
+                        "y": 1470
+                    },
+                    {
+                        "map": "Lower Vien Forest",
+                        "x": 1765,
+                        "y": 1010
+                    },
+                    {
+                        "map": "Upper Vien Forest",
+                        "x": 1170,
+                        "y": 635
                     }
                 ]
             },
@@ -3184,9 +4148,24 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 655,
-                        "y": 1821
+                        "map": "Lower Vien Forest",
+                        "x": 930,
+                        "y": 990
+                    },
+                    {
+                        "map": "Upper Vien Forest",
+                        "x": 1480,
+                        "y": 840
+                    },
+                    {
+                        "map": "Upper Vien Forest",
+                        "x": 1200,
+                        "y": 365
+                    },
+                    {
+                        "map": "Upper Vien Forest",
+                        "x": 1135,
+                        "y": 450
                     }
                 ]
             },
@@ -3213,9 +4192,34 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 1515,
-                        "y": 2318
+                        "map": "Lower Vien Forest",
+                        "x": 1225,
+                        "y": 350
+                    },
+                    {
+                        "map": "Lower Vien Forest",
+                        "x": 1630,
+                        "y": 190
+                    },
+                    {
+                        "map": "Lower Vien Forest",
+                        "x": 1565,
+                        "y": 430
+                    },
+                    {
+                        "map": "Upper Vien Forest",
+                        "x": 1183,
+                        "y": 1065
+                    },
+                    {
+                        "map": "Upper Vien Forest",
+                        "x": 1350,
+                        "y": 1090
+                    },
+                    {
+                        "map": "Chroma Road",
+                        "x": 575,
+                        "y": 495
                     }
                 ]
             },
@@ -3242,9 +4246,9 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 431,
-                        "y": 1580
+                        "map": "Chroma Road",
+                        "x": 575,
+                        "y": 585
                     }
                 ]
             },
@@ -3271,9 +4275,14 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 2365,
-                        "y": 972
+                        "map": "Pueltown",
+                        "x": 915,
+                        "y": 670
+                    },
+                    {
+                        "map": "Pueltown",
+                        "x": 417,
+                        "y": 745
                     }
                 ]
             },
@@ -3300,9 +4309,64 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 593,
-                        "y": 44
+                        "map": "Pueltown",
+                        "x": 2660,
+                        "y": 1120
+                    },
+                    {
+                        "map": "Pueltown",
+                        "x": 945,
+                        "y": 1145
+                    },
+                    {
+                        "map": "Pueltown",
+                        "x": 2540,
+                        "y": 510
+                    },
+                    {
+                        "map": "Union Road",
+                        "x": 370,
+                        "y": 350
+                    },
+                    {
+                        "map": "Union Road",
+                        "x": 555,
+                        "y": 315
+                    },
+                    {
+                        "map": "Lower Peril Cliffs",
+                        "x": 545,
+                        "y": 940
+                    },
+                    {
+                        "map": "Lower Peril Cliffs",
+                        "x": 115,
+                        "y": 460
+                    },
+                    {
+                        "map": "Lower Peril Cliffs",
+                        "x": 2035,
+                        "y": 335
+                    },
+                    {
+                        "map": "Lower Peril Cliffs",
+                        "x": 2225,
+                        "y": 510
+                    },
+                    {
+                        "map": "Upper Peril Cliffs",
+                        "x": 315,
+                        "y": 635
+                    },
+                    {
+                        "map": "Upper Peril Cliffs",
+                        "x": 615,
+                        "y": 420
+                    },
+                    {
+                        "map": "Upper Peril Cliffs",
+                        "x": 1145,
+                        "y": 755
                     }
                 ]
             },
@@ -3329,9 +4393,34 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 1413,
-                        "y": 1916
+                        "map": "Altru Building",
+                        "x": 775,
+                        "y": 750
+                    },
+                    {
+                        "map": "Altru Building",
+                        "x": 910,
+                        "y": 775
+                    },
+                    {
+                        "map": "Altru Building",
+                        "x": 1515,
+                        "y": 635
+                    },
+                    {
+                        "map": "Altru Tower",
+                        "x": 143,
+                        "y": 935
+                    },
+                    {
+                        "map": "Altru Tower",
+                        "x": 347,
+                        "y": 1085
+                    },
+                    {
+                        "map": "Altru Tower",
+                        "x": 845,
+                        "y": 360
                     }
                 ]
             },
@@ -3358,9 +4447,9 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 2252,
-                        "y": 609
+                        "map": "Cargo Ship",
+                        "x": 1570,
+                        "y": 460
                     }
                 ]
             },
@@ -3387,9 +4476,19 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 1197,
-                        "y": 1442
+                        "map": "Pueltown",
+                        "x": 2650,
+                        "y": 675
+                    },
+                    {
+                        "map": "Pueltown",
+                        "x": 1180,
+                        "y": 1075
+                    },
+                    {
+                        "map": "Union Road",
+                        "x": 497,
+                        "y": 240
                     }
                 ]
             },
@@ -3416,9 +4515,9 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 122,
-                        "y": 400
+                        "map": "Altru Tower",
+                        "x": 1120,
+                        "y": 865
                     }
                 ]
             },
@@ -3445,9 +4544,29 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 133,
-                        "y": 2370
+                        "map": "Pueltown",
+                        "x": 905,
+                        "y": 945
+                    },
+                    {
+                        "map": "Pueltown",
+                        "x": 2715,
+                        "y": 995
+                    },
+                    {
+                        "map": "Pueltown",
+                        "x": 2700,
+                        "y": 455
+                    },
+                    {
+                        "map": "Pueltown",
+                        "x": 2530,
+                        "y": 740
+                    },
+                    {
+                        "map": "Pueltown",
+                        "x": 1210,
+                        "y": 910
                     }
                 ]
             },
@@ -3474,9 +4593,24 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 2329,
-                        "y": 1425
+                        "map": "Cargo Ship",
+                        "x": 520,
+                        "y": 290
+                    },
+                    {
+                        "map": "Cargo Ship",
+                        "x": 580,
+                        "y": 210
+                    },
+                    {
+                        "map": "Pueltown",
+                        "x": 2790,
+                        "y": 820
+                    },
+                    {
+                        "map": "Pueltown",
+                        "x": 2865,
+                        "y": 450
                     }
                 ]
             },
@@ -3503,9 +4637,34 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 2186,
-                        "y": 769
+                        "map": "Pueltown",
+                        "x": 2517,
+                        "y": 415
+                    },
+                    {
+                        "map": "Pueltown",
+                        "x": 2960,
+                        "y": 390
+                    },
+                    {
+                        "map": "Pueltown",
+                        "x": 3055,
+                        "y": 1120
+                    },
+                    {
+                        "map": "Pueltown",
+                        "x": 1105,
+                        "y": 665
+                    },
+                    {
+                        "map": "Pueltown",
+                        "x": 525,
+                        "y": 450
+                    },
+                    {
+                        "map": "Pueltown",
+                        "x": 265,
+                        "y": 750
                     }
                 ]
             },
@@ -3532,9 +4691,24 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 286,
-                        "y": 1788
+                        "map": "Pueltown",
+                        "x": 1668,
+                        "y": 720
+                    },
+                    {
+                        "map": "Pueltown",
+                        "x": 2110,
+                        "y": 645
+                    },
+                    {
+                        "map": "Pueltown",
+                        "x": 1558,
+                        "y": 1120
+                    },
+                    {
+                        "map": "Pueltown",
+                        "x": 1335,
+                        "y": 735
                     }
                 ]
             },
@@ -3561,9 +4735,19 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 1604,
-                        "y": 149
+                        "map": "Cargo Ship",
+                        "x": 1005,
+                        "y": 190
+                    },
+                    {
+                        "map": "Altru Building",
+                        "x": 115,
+                        "y": 235
+                    },
+                    {
+                        "map": "Altru Building",
+                        "x": 1350,
+                        "y": 235
                     }
                 ]
             },
@@ -3619,9 +4803,29 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 175,
-                        "y": 1714
+                        "map": "Pueltown",
+                        "x": 1970,
+                        "y": 780
+                    },
+                    {
+                        "map": "Pueltown",
+                        "x": 2045,
+                        "y": 330
+                    },
+                    {
+                        "map": "Pueltown",
+                        "x": 1595,
+                        "y": 305
+                    },
+                    {
+                        "map": "Pueltown",
+                        "x": 415,
+                        "y": 570
+                    },
+                    {
+                        "map": "Pueltown",
+                        "x": 508,
+                        "y": 965
                     }
                 ]
             },
@@ -3648,9 +4852,9 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 118,
-                        "y": 124
+                        "map": "Cargo Ship",
+                        "x": 1005,
+                        "y": 115
                     }
                 ]
             },
@@ -3685,7 +4889,7 @@
             },
             {
                 "name": "Capture Voltorb",
-                "chest_unopened_img": "/images/Pokemon/.png",
+                "chest_unopened_img": "/images/Pokemon/076 Voltorb.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     "@Voltorb"
@@ -3706,15 +4910,25 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 2462,
-                        "y": 1765
+                        "map": "Cargo Ship",
+                        "x": 1282,
+                        "y": 855
+                    },
+                    {
+                        "map": "Cargo Ship",
+                        "x": 1005,
+                        "y": 865
+                    },
+                    {
+                        "map": "Pueltown",
+                        "x": 190,
+                        "y": 1050
                     }
                 ]
             },
             {
                 "name": "Capture Electrode",
-                "chest_unopened_img": "/images/Pokemon/.png",
+                "chest_unopened_img": "/images/Pokemon/077 Electrode.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     "@Electrode"
@@ -3735,15 +4949,20 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 395,
-                        "y": 2331
+                        "map": "Altru Building",
+                        "x": 1285,
+                        "y": 295
+                    },
+                    {
+                        "map": "Altru Building",
+                        "x": 1307,
+                        "y": 355
                     }
                 ]
             },
             {
                 "name": "Capture Wingull",
-                "chest_unopened_img": "/images/Pokemon/.png",
+                "chest_unopened_img": "/images/Pokemon/078 Wingull.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     "@Wingull"
@@ -3764,15 +4983,15 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 1615,
-                        "y": 1765
+                        "map": "Pueltown",
+                        "x": 2495,
+                        "y": 1125
                     }
                 ]
             },
             {
                 "name": "Capture Pelipper",
-                "chest_unopened_img": "/images/Pokemon/.png",
+                "chest_unopened_img": "/images/Pokemon/079 Pelipper.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     "@Pelipper"
@@ -3801,7 +5020,7 @@
             },
             {
                 "name": "Capture Toxicroak",
-                "chest_unopened_img": "/images/Pokemon/.png",
+                "chest_unopened_img": "/images/Pokemon/081 Toxicroak.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     "@Toxicroak"
@@ -3830,7 +5049,7 @@
             },
             {
                 "name": "Capture Kricketune",
-                "chest_unopened_img": "/images/Pokemon/.png",
+                "chest_unopened_img": "/images/Pokemon/083 Kricketune.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     "@Kricketune"
@@ -3851,15 +5070,30 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 529,
-                        "y": 2265
+                        "map": "Vien Forest River",
+                        "x": 225,
+                        "y": 375
+                    },
+                    {
+                        "map": "Vien Forest River",
+                        "x": 880,
+                        "y": 800
+                    },
+                    {
+                        "map": "Vien Forest River",
+                        "x": 445,
+                        "y": 1140
+                    },
+                    {
+                        "map": "Vien Forest River",
+                        "x": 960,
+                        "y": 1370
                     }
                 ]
             },
             {
                 "name": "Capture Rampardos",
-                "chest_unopened_img": "/images/Pokemon/.png",
+                "chest_unopened_img": "/images/Pokemon/085 Rampardos.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     "@Rampardos"
@@ -3880,15 +5114,15 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 1001,
-                        "y": 1726
+                        "map": "Lower Peril Cliffs",
+                        "x": 1450,
+                        "y": 765
                     }
                 ]
             },
             {
                 "name": "Capture Finneon",
-                "chest_unopened_img": "/images/Pokemon/.png",
+                "chest_unopened_img": "/images/Pokemon/086 Finneon.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     "@Finneon"
@@ -3917,7 +5151,7 @@
             },
             {
                 "name": "Capture Lumineon",
-                "chest_unopened_img": "/images/Pokemon/.png",
+                "chest_unopened_img": "/images/Pokemon/087 Lumineon.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     "@Lumineon"
@@ -3946,7 +5180,7 @@
             },
             {
                 "name": "Capture Chinchou",
-                "chest_unopened_img": "/images/Pokemon/.png",
+                "chest_unopened_img": "/images/Pokemon/088 Chinchou.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     "@Chinchou"
@@ -3975,7 +5209,7 @@
             },
             {
                 "name": "Capture Lanturn",
-                "chest_unopened_img": "/images/Pokemon/.png",
+                "chest_unopened_img": "/images/Pokemon/089 Lanturn.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     "@Lanturn"
@@ -4004,7 +5238,7 @@
             },
             {
                 "name": "Capture Mantyke",
-                "chest_unopened_img": "/images/Pokemon/.png",
+                "chest_unopened_img": "/images/Pokemon/090 Mantyke.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     "@Mantyke"
@@ -4033,7 +5267,7 @@
             },
             {
                 "name": "Capture Mantine",
-                "chest_unopened_img": "/images/Pokemon/.png",
+                "chest_unopened_img": "/images/Pokemon/091 Mantine.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     "@Mantine"
@@ -4062,7 +5296,7 @@
             },
             {
                 "name": "Capture Qwilfish",
-                "chest_unopened_img": "/images/Pokemon/.png",
+                "chest_unopened_img": "/images/Pokemon/092 Qwilfish.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     "@Qwilfish"
@@ -4091,7 +5325,7 @@
             },
             {
                 "name": "Capture Corsola",
-                "chest_unopened_img": "/images/Pokemon/.png",
+                "chest_unopened_img": "/images/Pokemon/093 Corsola.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     "@Corsola"
@@ -4120,7 +5354,7 @@
             },
             {
                 "name": "Capture Staryu",
-                "chest_unopened_img": "/images/Pokemon/.png",
+                "chest_unopened_img": "/images/Pokemon/094 Staryu.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     "@Staryu"
@@ -4149,7 +5383,7 @@
             },
             {
                 "name": "Capture Starmie",
-                "chest_unopened_img": "/images/Pokemon/.png",
+                "chest_unopened_img": "/images/Pokemon/095 Starmie.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     "@Starmie"
@@ -4178,7 +5412,7 @@
             },
             {
                 "name": "Capture Sharpedo",
-                "chest_unopened_img": "/images/Pokemon/.png",
+                "chest_unopened_img": "/images/Pokemon/096 Sharpedo.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     "@Sharpedo"
@@ -4207,7 +5441,7 @@
             },
             {
                 "name": "Capture Eevee",
-                "chest_unopened_img": "/images/Pokemon/.png",
+                "chest_unopened_img": "/images/Pokemon/097 Eevee.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     "@Eevee"
@@ -4228,15 +5462,15 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 1722,
-                        "y": 392
+                        "map": "Pueltown",
+                        "x": 2535,
+                        "y": 965
                     }
                 ]
             },
             {
                 "name": "Capture Vaporeon",
-                "chest_unopened_img": "/images/Pokemon/.png",
+                "chest_unopened_img": "/images/Pokemon/098 Vaporeon.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     "@Vaporeon"
@@ -4257,15 +5491,25 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 1233,
-                        "y": 376
+                        "map": "Altru Tower",
+                        "x": 150,
+                        "y": 1080
+                    },
+                    {
+                        "map": "Altru Tower",
+                        "x": 1875,
+                        "y": 855
+                    },
+                    {
+                        "map": "Almia Castle F2",
+                        "x": 195,
+                        "y": 740
                     }
                 ]
             },
             {
                 "name": "Capture Jolteon",
-                "chest_unopened_img": "/images/Pokemon/.png",
+                "chest_unopened_img": "/images/Pokemon/099 Jolteon.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     "@Jolteon"
@@ -4294,7 +5538,7 @@
             },
             {
                 "name": "Capture Flareon",
-                "chest_unopened_img": "/images/Pokemon/.png",
+                "chest_unopened_img": "/images/Pokemon/100 Flareon.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     "@Flareon"
@@ -4323,7 +5567,7 @@
             },
             {
                 "name": "Capture Espeon",
-                "chest_unopened_img": "/images/Pokemon/.png",
+                "chest_unopened_img": "/images/Pokemon/101 Espeon.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     "@Espeon"
@@ -4352,7 +5596,7 @@
             },
             {
                 "name": "Capture Umbreon",
-                "chest_unopened_img": "/images/Pokemon/.png",
+                "chest_unopened_img": "/images/Pokemon/102 Umbreon.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     "@Umbreon"
@@ -4381,7 +5625,7 @@
             },
             {
                 "name": "Capture Leafeon",
-                "chest_unopened_img": "/images/Pokemon/.png",
+                "chest_unopened_img": "/images/Pokemon/103 Leafeon.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     "@Leafeon"
@@ -4402,15 +5646,15 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 2305,
-                        "y": 1029
+                        "map": "Vien Forest River",
+                        "x": 865,
+                        "y": 1580
                     }
                 ]
             },
             {
                 "name": "Capture Glaceon",
-                "chest_unopened_img": "/images/Pokemon/.png",
+                "chest_unopened_img": "/images/Pokemon/104 Glaceon.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     "@Glaceon"
@@ -4431,15 +5675,15 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 792,
-                        "y": 266
+                        "map": "Ice Lake",
+                        "x": 1830,
+                        "y": 530
                     }
                 ]
             },
             {
                 "name": "Capture Mareep",
-                "chest_unopened_img": "/images/Pokemon/.png",
+                "chest_unopened_img": "/images/Pokemon/105 Mareep.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     "@Mareep"
@@ -4460,15 +5704,20 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 1435,
-                        "y": 643
+                        "map": "Union Road",
+                        "x": 1255,
+                        "y": 360
+                    },
+                    {
+                        "map": "Union Road",
+                        "x": 1673,
+                        "y": 300
                     }
                 ]
             },
             {
                 "name": "Capture Flaaffy",
-                "chest_unopened_img": "/images/Pokemon/.png",
+                "chest_unopened_img": "/images/Pokemon/106 Flaaffy.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     "@Flaaffy"
@@ -4489,15 +5738,25 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 258,
-                        "y": 1463
+                        "map": "Chroma Road",
+                        "x": 153,
+                        "y": 1090
+                    },
+                    {
+                        "map": "Chroma Road",
+                        "x": 513,
+                        "y": 940
+                    },
+                    {
+                        "map": "Chroma Road",
+                        "x": 568,
+                        "y": 185
                     }
                 ]
             },
             {
                 "name": "Capture Ampharos",
-                "chest_unopened_img": "/images/Pokemon/.png",
+                "chest_unopened_img": "/images/Pokemon/107 Ampharos.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     "@Ampharos"
@@ -4518,15 +5777,20 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 2363,
-                        "y": 1276
+                        "map": "Altru Building",
+                        "x": 1593,
+                        "y": 225
+                    },
+                    {
+                        "map": "Altru Tower",
+                        "x": 625,
+                        "y": 865
                     }
                 ]
             },
             {
                 "name": "Capture Aipom",
-                "chest_unopened_img": "/images/Pokemon/.png",
+                "chest_unopened_img": "/images/Pokemon/108 Aipom.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     "@Aipom"
@@ -4547,15 +5811,15 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 453,
-                        "y": 579
+                        "map": "Union Road",
+                        "x": 1455,
+                        "y": 370
                     }
                 ]
             },
             {
                 "name": "Capture Ambipom",
-                "chest_unopened_img": "/images/Pokemon/.png",
+                "chest_unopened_img": "/images/Pokemon/109 Ambipom.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     "@Ambipom"
@@ -4576,15 +5840,15 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 226,
-                        "y": 1773
+                        "map": "Lower Vien Forest",
+                        "x": 615,
+                        "y": 545
                     }
                 ]
             },
             {
                 "name": "Capture Pineco",
-                "chest_unopened_img": "/images/Pokemon/.png",
+                "chest_unopened_img": "/images/Pokemon/110 Pineco.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     "@Pineco"
@@ -4605,15 +5869,35 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 921,
-                        "y": 973
+                        "map": "Union Road",
+                        "x": 840,
+                        "y": 205
+                    },
+                    {
+                        "map": "Union Road",
+                        "x": 212,
+                        "y": 150
+                    },
+                    {
+                        "map": "Lower Peril Cliffs",
+                        "x": 415,
+                        "y": 1120
+                    },
+                    {
+                        "map": "Lower Peril Cliffs",
+                        "x": 405,
+                        "y": 695
+                    },
+                    {
+                        "map": "Lower Peril Cliffs",
+                        "x": 1947,
+                        "y": 185
                     }
                 ]
             },
             {
                 "name": "Capture Forretress",
-                "chest_unopened_img": "/images/Pokemon/.png",
+                "chest_unopened_img": "/images/Pokemon/111 Forretress.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     "@Forretress"
@@ -4634,15 +5918,25 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 1277,
-                        "y": 1625
+                        "map": "Vien Forest River",
+                        "x": 300,
+                        "y": 560
+                    },
+                    {
+                        "map": "Vien Forest River",
+                        "x": 710,
+                        "y": 370
+                    },
+                    {
+                        "map": "Vien Forest River",
+                        "x": 990,
+                        "y": 530
                     }
                 ]
             },
             {
                 "name": "Capture Spearow",
-                "chest_unopened_img": "/images/Pokemon/.png",
+                "chest_unopened_img": "/images/Pokemon/112 Spearow.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     "@Spearow"
@@ -4663,15 +5957,20 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 455,
-                        "y": 1891
+                        "map": "Lower Peril Cliffs",
+                        "x": 155,
+                        "y": 525
+                    },
+                    {
+                        "map": "Lower Peril Cliffs",
+                        "x": 785,
+                        "y": 510
                     }
                 ]
             },
             {
                 "name": "Capture Fearow",
-                "chest_unopened_img": "/images/Pokemon/.png",
+                "chest_unopened_img": "/images/Pokemon/113 Fearow.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     "@Fearow"
@@ -4700,7 +5999,7 @@
             },
             {
                 "name": "Capture Oddish",
-                "chest_unopened_img": "/images/Pokemon/.png",
+                "chest_unopened_img": "/images/Pokemon/114 Oddish.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     "@Oddish"
@@ -4721,15 +6020,20 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 2252,
-                        "y": 336
+                        "map": "Union Road",
+                        "x": 567,
+                        "y": 210
+                    },
+                    {
+                        "map": "Union Road",
+                        "x": 325,
+                        "y": 165
                     }
                 ]
             },
             {
                 "name": "Capture Gloom",
-                "chest_unopened_img": "/images/Pokemon/.png",
+                "chest_unopened_img": "/images/Pokemon/115 Gloom.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     "@Gloom"
@@ -4758,7 +6062,7 @@
             },
             {
                 "name": "Capture Vileplume",
-                "chest_unopened_img": "/images/Pokemon/.png",
+                "chest_unopened_img": "/images/Pokemon/116 Vileplume.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     "@Vileplume"
@@ -4787,7 +6091,7 @@
             },
             {
                 "name": "Capture Bellossom",
-                "chest_unopened_img": "/images/Pokemon/.png",
+                "chest_unopened_img": "/images/Pokemon/117 Bellossom.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     "@Bellossom"
@@ -4816,7 +6120,7 @@
             },
             {
                 "name": "Capture Yanma",
-                "chest_unopened_img": "/images/Pokemon/.png",
+                "chest_unopened_img": "/images/Pokemon/118 Yanma.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     "@Yanma"
@@ -4837,15 +6141,15 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 1816,
-                        "y": 1137
+                        "map": "Union Road",
+                        "x": 287,
+                        "y": 130
                     }
                 ]
             },
             {
                 "name": "Capture Yanmega",
-                "chest_unopened_img": "/images/Pokemon/.png",
+                "chest_unopened_img": "/images/Pokemon/119 Yanmega.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     "@Yanmega"
@@ -4874,7 +6178,7 @@
             },
             {
                 "name": "Capture Larvitar",
-                "chest_unopened_img": "/images/Pokemon/.png",
+                "chest_unopened_img": "/images/Pokemon/120 Larvitar.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     "@Larvitar"
@@ -4895,15 +6199,30 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 2079,
-                        "y": 2480
+                        "map": "Lower Peril Cliffs",
+                        "x": 192,
+                        "y": 845
+                    },
+                    {
+                        "map": "Lower Peril Cliffs",
+                        "x": 628,
+                        "y": 715
+                    },
+                    {
+                        "map": "Lower Peril Cliffs",
+                        "x": 2115,
+                        "y": 145
+                    },
+                    {
+                        "map": "Lower Peril Cliffs",
+                        "x": 2498,
+                        "y": 545
                     }
                 ]
             },
             {
                 "name": "Capture Pupitar",
-                "chest_unopened_img": "/images/Pokemon/.png",
+                "chest_unopened_img": "/images/Pokemon/121 Pupitar.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     "@Pupitar"
@@ -4932,7 +6251,7 @@
             },
             {
                 "name": "Capture Tyranitar",
-                "chest_unopened_img": "/images/Pokemon/.png",
+                "chest_unopened_img": "/images/Pokemon/122 Tyranitar.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     "@Tyranitar"
@@ -4961,7 +6280,7 @@
             },
             {
                 "name": "Capture Pinsir",
-                "chest_unopened_img": "/images/Pokemon/.png",
+                "chest_unopened_img": "/images/Pokemon/123 Pinsir.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     "@Pinsir"
@@ -4982,15 +6301,20 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 1161,
-                        "y": 1162
+                        "map": "Lower Peril Cliffs",
+                        "x": 2165,
+                        "y": 810
+                    },
+                    {
+                        "map": "Upper Peril Cliffs",
+                        "x": 395,
+                        "y": 870
                     }
                 ]
             },
             {
                 "name": "Capture Numel",
-                "chest_unopened_img": "/images/Pokemon/.png",
+                "chest_unopened_img": "/images/Pokemon/124 Numel.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     "@Numel"
@@ -5011,15 +6335,25 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 1631,
-                        "y": 2224
+                        "map": "Lower Peril Cliffs",
+                        "x": 2285,
+                        "y": 160
+                    },
+                    {
+                        "map": "Upper Peril Cliffs",
+                        "x": 810,
+                        "y": 735
+                    },
+                    {
+                        "map": "Upper Peril Cliffs",
+                        "x": 1080,
+                        "y": 360
                     }
                 ]
             },
             {
                 "name": "Capture Camerupt",
-                "chest_unopened_img": "/images/Pokemon/.png",
+                "chest_unopened_img": "/images/Pokemon/125 Camerupt.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     "@Camerupt"
@@ -5040,15 +6374,15 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 707,
-                        "y": 1352
+                        "map": "Crysta Cave",
+                        "x": 2095,
+                        "y": 210
                     }
                 ]
             },
             {
                 "name": "Capture Mankey",
-                "chest_unopened_img": "/images/Pokemon/.png",
+                "chest_unopened_img": "/images/Pokemon/126 Mankey.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     "@Mankey"
@@ -5069,15 +6403,20 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 1747,
-                        "y": 743
+                        "map": "Lower Peril Cliffs",
+                        "x": 2653,
+                        "y": 700
+                    },
+                    {
+                        "map": "Upper Peril Cliffs",
+                        "x": 640,
+                        "y": 750
                     }
                 ]
             },
             {
                 "name": "Capture Primeape",
-                "chest_unopened_img": "/images/Pokemon/.png",
+                "chest_unopened_img": "/images/Pokemon/127 Primeape.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     "@Primeape"
@@ -5098,15 +6437,25 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 2482,
-                        "y": 2058
+                        "map": "Altru Building",
+                        "x": 180,
+                        "y": 620
+                    },
+                    {
+                        "map": "Altru Building",
+                        "x": 730,
+                        "y": 905
+                    },
+                    {
+                        "map": "Altru Tower",
+                        "x": 1340,
+                        "y": 850
                     }
                 ]
             },
             {
                 "name": "Capture Gligar",
-                "chest_unopened_img": "/images/Pokemon/.png",
+                "chest_unopened_img": "/images/Pokemon/128 Gligar.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     "@Gligar"
@@ -5127,15 +6476,20 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 1771,
-                        "y": 1969
+                        "map": "Upper Peril Cliffs",
+                        "x": 280,
+                        "y": 215
+                    },
+                    {
+                        "map": "Upper Peril Cliffs",
+                        "x": 800,
+                        "y": 155
                     }
                 ]
             },
             {
                 "name": "Capture Gliscor",
-                "chest_unopened_img": "/images/Pokemon/.png",
+                "chest_unopened_img": "/images/Pokemon/129 Gliscor.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     "@Gliscor"
@@ -5164,7 +6518,7 @@
             },
             {
                 "name": "Capture Mawile",
-                "chest_unopened_img": "/images/Pokemon/.png",
+                "chest_unopened_img": "/images/Pokemon/130 Mawile.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     "@Mawile"
@@ -5185,15 +6539,25 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 936,
-                        "y": 189
+                        "map": "Lower Peril Cliffs",
+                        "x": 2727,
+                        "y": 575
+                    },
+                    {
+                        "map": "Upper Peril Cliffs",
+                        "x": 255,
+                        "y": 340
+                    },
+                    {
+                        "map": "Upper Peril Cliffs",
+                        "x": 930,
+                        "y": 555
                     }
                 ]
             },
             {
                 "name": "Capture Aron",
-                "chest_unopened_img": "/images/Pokemon/.png",
+                "chest_unopened_img": "/images/Pokemon/131 Aron.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     "@Aron"
@@ -5214,15 +6578,20 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 1783,
-                        "y": 306
+                        "map": "Lower Peril Cliffs",
+                        "x": 2645,
+                        "y": 210
+                    },
+                    {
+                        "map": "Lower Peril Cliffs",
+                        "x": 2467,
+                        "y": 710
                     }
                 ]
             },
             {
                 "name": "Capture Lairon",
-                "chest_unopened_img": "/images/Pokemon/.png",
+                "chest_unopened_img": "/images/Pokemon/132 Lairon.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     "@Lairon"
@@ -5251,7 +6620,7 @@
             },
             {
                 "name": "Capture Aggron",
-                "chest_unopened_img": "/images/Pokemon/.png",
+                "chest_unopened_img": "/images/Pokemon/133 Aggron.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     "@Aggron"
@@ -5283,8 +6652,7 @@
                 "chest_unopened_img": "/images/Pokemon/134 Doduo.png",
                 "overlay_background": "#000000",
                 "access_rules": [
-                    "@Doduo,Chicole Path Permit",
-                    "@Doduo,School Road Permit"
+                    "@Doduo"
                 ],
                 "sections": [
                     {
@@ -5310,12 +6678,42 @@
                         "map": "School Road",
                         "x": 117,
                         "y": 285
+                    },
+                    {
+                        "map": "Ranger School",
+                        "x": 673,
+                        "y": 1215
+                    },
+                    {
+                        "map": "Upper Vien Forest",
+                        "x": 170,
+                        "y": 715
+                    },
+                    {
+                        "map": "Pueltown",
+                        "x": 2890,
+                        "y": 1130
+                    },
+                    {
+                        "map": "Union Road",
+                        "x": 1880,
+                        "y": 225
+                    },
+                    {
+                        "map": "Ranger Union",
+                        "x": 385,
+                        "y": 530
+                    },
+                    {
+                        "map": "Chroma Road",
+                        "x": 440,
+                        "y": 810
                     }
                 ]
             },
             {
                 "name": "Capture Dodrio",
-                "chest_unopened_img": "/images/Pokemon/.png",
+                "chest_unopened_img": "/images/Pokemon/135 Dodrio.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     "@Dodrio"
@@ -5336,15 +6734,15 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 736,
-                        "y": 513
+                        "map": "Chroma Road",
+                        "x": 1258,
+                        "y": 580
                     }
                 ]
             },
             {
                 "name": "Capture Carnivine",
-                "chest_unopened_img": "/images/Pokemon/.png",
+                "chest_unopened_img": "/images/Pokemon/136 Carnivine.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     "@Carnivine"
@@ -5373,7 +6771,7 @@
             },
             {
                 "name": "Capture Charmander",
-                "chest_unopened_img": "/images/Pokemon/.png",
+                "chest_unopened_img": "/images/Pokemon/137 Charmander.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     "@Charmander"
@@ -5394,15 +6792,20 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 556,
-                        "y": 1151
+                        "map": "Ranger School",
+                        "x": 590,
+                        "y": 750
+                    },
+                    {
+                        "map": "Ranger School",
+                        "x": 855,
+                        "y": 400
                     }
                 ]
             },
             {
                 "name": "Capture Charmeleon",
-                "chest_unopened_img": "/images/Pokemon/.png",
+                "chest_unopened_img": "/images/Pokemon/138 Charmeleon.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     "@Charmeleon"
@@ -5431,7 +6834,7 @@
             },
             {
                 "name": "Capture Charizard",
-                "chest_unopened_img": "/images/Pokemon/.png",
+                "chest_unopened_img": "/images/Pokemon/139 Charizard.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     "@Charizard"
@@ -5460,7 +6863,7 @@
             },
             {
                 "name": "Capture Slugma",
-                "chest_unopened_img": "/images/Pokemon/.png",
+                "chest_unopened_img": "/images/Pokemon/140 Slugma.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     "@Slugma"
@@ -5489,7 +6892,7 @@
             },
             {
                 "name": "Capture Magcargo",
-                "chest_unopened_img": "/images/Pokemon/.png",
+                "chest_unopened_img": "/images/Pokemon/141 Magcargo.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     "@Magcargo"
@@ -5518,7 +6921,7 @@
             },
             {
                 "name": "Capture Drifloon",
-                "chest_unopened_img": "/images/Pokemon/.png",
+                "chest_unopened_img": "/images/Pokemon/142 Drifloon.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     "@Drifloon"
@@ -5547,7 +6950,7 @@
             },
             {
                 "name": "Capture Drifblim",
-                "chest_unopened_img": "/images/Pokemon/.png",
+                "chest_unopened_img": "/images/Pokemon/143 Drifblim.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     "@Drifblim"
@@ -5576,7 +6979,7 @@
             },
             {
                 "name": "Capture Stunky",
-                "chest_unopened_img": "/images/Pokemon/.png",
+                "chest_unopened_img": "/images/Pokemon/144 Stunky.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     "@Stunky"
@@ -5605,7 +7008,7 @@
             },
             {
                 "name": "Capture Skuntank",
-                "chest_unopened_img": "/images/Pokemon/.png",
+                "chest_unopened_img": "/images/Pokemon/145 Skuntank.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     "@Skuntank"
@@ -5634,7 +7037,7 @@
             },
             {
                 "name": "Capture Kangaskhan",
-                "chest_unopened_img": "/images/Pokemon/.png",
+                "chest_unopened_img": "/images/Pokemon/146 Kangaskhan.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     "@Kangaskhan"
@@ -5663,7 +7066,7 @@
             },
             {
                 "name": "Capture Shuppet",
-                "chest_unopened_img": "/images/Pokemon/.png",
+                "chest_unopened_img": "/images/Pokemon/147 Shuppet.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     "@Shuppet"
@@ -5692,7 +7095,7 @@
             },
             {
                 "name": "Capture Banette",
-                "chest_unopened_img": "/images/Pokemon/.png",
+                "chest_unopened_img": "/images/Pokemon/148 Banette.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     "@Banette"
@@ -5721,7 +7124,7 @@
             },
             {
                 "name": "Capture Rhyhorn",
-                "chest_unopened_img": "/images/Pokemon/.png",
+                "chest_unopened_img": "/images/Pokemon/149 Rhyhorn.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     "@Rhyhorn"
@@ -5750,7 +7153,7 @@
             },
             {
                 "name": "Capture Rhydon",
-                "chest_unopened_img": "/images/Pokemon/.png",
+                "chest_unopened_img": "/images/Pokemon/150 Rhydon.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     "@Rhydon"
@@ -5771,15 +7174,15 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 427,
-                        "y": 321
+                        "map": "Altru Tower",
+                        "x": 825,
+                        "y": 855
                     }
                 ]
             },
             {
                 "name": "Capture Rhyperior",
-                "chest_unopened_img": "/images/Pokemon/.png",
+                "chest_unopened_img": "/images/Pokemon/151 Rhyperior.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     "@Rhyperior"
@@ -5808,7 +7211,7 @@
             },
             {
                 "name": "Capture Muk",
-                "chest_unopened_img": "/images/Pokemon/.png",
+                "chest_unopened_img": "/images/Pokemon/152 Muk.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     "@Muk"
@@ -5837,7 +7240,7 @@
             },
             {
                 "name": "Capture Houndour",
-                "chest_unopened_img": "/images/Pokemon/.png",
+                "chest_unopened_img": "/images/Pokemon/153 Houndour.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     "@Houndour"
@@ -5858,15 +7261,20 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 2437,
-                        "y": 1757
+                        "map": "Cargo Ship",
+                        "x": 650,
+                        "y": 850
+                    },
+                    {
+                        "map": "Cargo Ship",
+                        "x": 500,
+                        "y": 465
                     }
                 ]
             },
             {
                 "name": "Capture Houndoom",
-                "chest_unopened_img": "/images/Pokemon/.png",
+                "chest_unopened_img": "/images/Pokemon/154 Houndoom.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     "@Houndoom"
@@ -5895,7 +7303,7 @@
             },
             {
                 "name": "Capture Spinarak",
-                "chest_unopened_img": "/images/Pokemon/.png",
+                "chest_unopened_img": "/images/Pokemon/155 Spinarak.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     "@Spinarak"
@@ -5916,15 +7324,25 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 223,
-                        "y": 289
+                        "map": "Cargo Ship",
+                        "x": 940,
+                        "y": 700
+                    },
+                    {
+                        "map": "Cargo Ship",
+                        "x": 1082,
+                        "y": 565
+                    },
+                    {
+                        "map": "Cargo Ship",
+                        "x": 1128,
+                        "y": 850
                     }
                 ]
             },
             {
                 "name": "Capture Ariados",
-                "chest_unopened_img": "/images/Pokemon/.png",
+                "chest_unopened_img": "/images/Pokemon/156 Ariados.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     "@Ariados"
@@ -5945,15 +7363,20 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 121,
-                        "y": 1262
+                        "map": "Altru Building",
+                        "x": 595,
+                        "y": 1140
+                    },
+                    {
+                        "map": "Altru Building",
+                        "x": 570,
+                        "y": 1295
                     }
                 ]
             },
             {
                 "name": "Capture Ralts",
-                "chest_unopened_img": "/images/Pokemon/.png",
+                "chest_unopened_img": "/images/Pokemon/157 Ralts.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     "@Ralts"
@@ -5974,15 +7397,20 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 851,
-                        "y": 1120
+                        "map": "Cargo Ship",
+                        "x": 1273,
+                        "y": 1205
+                    },
+                    {
+                        "map": "Cargo Ship",
+                        "x": 1207,
+                        "y": 1270
                     }
                 ]
             },
             {
                 "name": "Capture Kirlia",
-                "chest_unopened_img": "/images/Pokemon/.png",
+                "chest_unopened_img": "/images/Pokemon/158 Kirlia.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     "@Kirlia"
@@ -6011,7 +7439,7 @@
             },
             {
                 "name": "Capture Gardevoir",
-                "chest_unopened_img": "/images/Pokemon/.png",
+                "chest_unopened_img": "/images/Pokemon/159 Gardevoir.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     "@Gardevoir"
@@ -6032,15 +7460,20 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 2489,
-                        "y": 954
+                        "map": "Altru Tower",
+                        "x": 1645,
+                        "y": 870
+                    },
+                    {
+                        "map": "Altru Tower",
+                        "x": 1808,
+                        "y": 1115
                     }
                 ]
             },
             {
                 "name": "Capture Gallade",
-                "chest_unopened_img": "/images/Pokemon/.png",
+                "chest_unopened_img": "/images/Pokemon/160 Gallade.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     "@Gallade"
@@ -6061,15 +7494,20 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 116,
-                        "y": 2234
+                        "map": "Altru Building",
+                        "x": 325,
+                        "y": 260
+                    },
+                    {
+                        "map": "Altru Building",
+                        "x": 572,
+                        "y": 260
                     }
                 ]
             },
             {
                 "name": "Capture Machoke",
-                "chest_unopened_img": "/images/Pokemon/.png",
+                "chest_unopened_img": "/images/Pokemon/162 Machoke.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     "@Machoke"
@@ -6090,15 +7528,20 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 1544,
-                        "y": 1622
+                        "map": "Cargo Ship",
+                        "x": 1535,
+                        "y": 635
+                    },
+                    {
+                        "map": "Cargo Ship",
+                        "x": 1155,
+                        "y": 785
                     }
                 ]
             },
             {
                 "name": "Capture Machamp",
-                "chest_unopened_img": "/images/Pokemon/.png",
+                "chest_unopened_img": "/images/Pokemon/163 Machamp.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     "@Machamp"
@@ -6127,7 +7570,7 @@
             },
             {
                 "name": "Capture Mr. Mime",
-                "chest_unopened_img": "/images/Pokemon/.png",
+                "chest_unopened_img": "/images/Pokemon/165 Mr. Mime.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     "@Mr. Mime"
@@ -6156,7 +7599,7 @@
             },
             {
                 "name": "Capture Drowzee",
-                "chest_unopened_img": "/images/Pokemon/.png",
+                "chest_unopened_img": "/images/Pokemon/166 Drowzee.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     "@Drowzee"
@@ -6177,15 +7620,30 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 1158,
-                        "y": 117
+                        "map": "Cargo Ship",
+                        "x": 1600,
+                        "y": 965
+                    },
+                    {
+                        "map": "Cargo Ship",
+                        "x": 1295,
+                        "y": 540
+                    },
+                    {
+                        "map": "Cargo Ship",
+                        "x": 1295,
+                        "y": 795
+                    },
+                    {
+                        "map": "Cargo Ship",
+                        "x": 160,
+                        "y": 855
                     }
                 ]
             },
             {
                 "name": "Capture Hypno",
-                "chest_unopened_img": "/images/Pokemon/.png",
+                "chest_unopened_img": "/images/Pokemon/167 Hypno.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     "@Hypno"
@@ -6206,15 +7664,15 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 2054,
-                        "y": 1861
+                        "map": "Altru Building",
+                        "x": 155,
+                        "y": 750
                     }
                 ]
             },
             {
                 "name": "Capture Monferno",
-                "chest_unopened_img": "/images/Pokemon/.png",
+                "chest_unopened_img": "/images/Pokemon/169 Monferno.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     "@Monferno"
@@ -6235,15 +7693,15 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 251,
-                        "y": 2059
+                        "map": "Cargo Ship",
+                        "x": 905,
+                        "y": 945
                     }
                 ]
             },
             {
                 "name": "Capture Infernape",
-                "chest_unopened_img": "/images/Pokemon/.png",
+                "chest_unopened_img": "/images/Pokemon/170 Infernape.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     "@Infernape"
@@ -6272,7 +7730,7 @@
             },
             {
                 "name": "Capture Vulpix",
-                "chest_unopened_img": "/images/Pokemon/.png",
+                "chest_unopened_img": "/images/Pokemon/171 Vulpix.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     "@Vulpix"
@@ -6293,15 +7751,70 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 2193,
-                        "y": 844
+                        "map": "Cargo Ship",
+                        "x": 650,
+                        "y": 625
+                    },
+                    {
+                        "map": "Cargo Ship",
+                        "x": 650,
+                        "y": 675
+                    },
+                    {
+                        "map": "Hia Valley",
+                        "x": 280,
+                        "y": 850
+                    },
+                    {
+                        "map": "Hia Valley",
+                        "x": 265,
+                        "y": 430
+                    },
+                    {
+                        "map": "Hia Valley",
+                        "x": 845,
+                        "y": 200
+                    },
+                    {
+                        "map": "Ice Lake",
+                        "x": 1650,
+                        "y": 400
+                    },
+                    {
+                        "map": "Almia Castle F1",
+                        "x": 1615,
+                        "y": 980
+                    },
+                    {
+                        "map": "Almia Castle F1",
+                        "x": 1440,
+                        "y": 1125
+                    },
+                    {
+                        "map": "Almia Castle F2",
+                        "x": 70,
+                        "y": 975
+                    },
+                    {
+                        "map": "Almia Castle F3",
+                        "x": 690,
+                        "y": 1210
+                    },
+                    {
+                        "map": "Almia Castle F3",
+                        "x": 2110,
+                        "y": 1470
+                    },
+                    {
+                        "map": "Almia Castle F3",
+                        "x": 1735,
+                        "y": 685
                     }
                 ]
             },
             {
                 "name": "Capture Ninetales",
-                "chest_unopened_img": "/images/Pokemon/.png",
+                "chest_unopened_img": "/images/Pokemon/172 Ninetales.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     "@Ninetales"
@@ -6322,15 +7835,15 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 1528,
-                        "y": 1629
+                        "map": "Almia Castle F2",
+                        "x": 180,
+                        "y": 1120
                     }
                 ]
             },
             {
                 "name": "Capture Skorupi",
-                "chest_unopened_img": "/images/Pokemon/.png",
+                "chest_unopened_img": "/images/Pokemon/173 Skorupi.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     "@Skorupi"
@@ -6359,7 +7872,7 @@
             },
             {
                 "name": "Capture Drapion",
-                "chest_unopened_img": "/images/Pokemon/.png",
+                "chest_unopened_img": "/images/Pokemon/174 Drapion.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     "@Drapion"
@@ -6388,7 +7901,7 @@
             },
             {
                 "name": "Capture Lickilicky",
-                "chest_unopened_img": "/images/Pokemon/.png",
+                "chest_unopened_img": "/images/Pokemon/175 Lickilicky.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     "@Lickilicky"
@@ -6409,15 +7922,15 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 1818,
-                        "y": 1010
+                        "map": "Cargo Ship",
+                        "x": 210,
+                        "y": 250
                     }
                 ]
             },
             {
                 "name": "Capture Ponyta",
-                "chest_unopened_img": "/images/Pokemon/.png",
+                "chest_unopened_img": "/images/Pokemon/176 Ponyta.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     "@Ponyta"
@@ -6438,15 +7951,25 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 1015,
-                        "y": 66
+                        "map": "Chroma Road",
+                        "x": 433,
+                        "y": 1115
+                    },
+                    {
+                        "map": "Chroma Road",
+                        "x": 383,
+                        "y": 695
+                    },
+                    {
+                        "map": "Chroma Road",
+                        "x": 410,
+                        "y": 195
                     }
                 ]
             },
             {
                 "name": "Capture Rapidash",
-                "chest_unopened_img": "/images/Pokemon/.png",
+                "chest_unopened_img": "/images/Pokemon/177 Rapidash.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     "@Rapidash"
@@ -6475,7 +7998,7 @@
             },
             {
                 "name": "Capture Girafarig",
-                "chest_unopened_img": "/images/Pokemon/.png",
+                "chest_unopened_img": "/images/Pokemon/178 Girafarig.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     "@Girafarig"
@@ -6496,15 +8019,20 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 1519,
-                        "y": 74
+                        "map": "Chroma Road",
+                        "x": 905,
+                        "y": 855
+                    },
+                    {
+                        "map": "Chroma Road",
+                        "x": 273,
+                        "y": 525
                     }
                 ]
             },
             {
                 "name": "Capture Tauros",
-                "chest_unopened_img": "/images/Pokemon/.png",
+                "chest_unopened_img": "/images/Pokemon/179 Tauros.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     "@Tauros"
@@ -6525,15 +8053,25 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 553,
-                        "y": 2266
+                        "map": "Chroma Road",
+                        "x": 1020,
+                        "y": 620
+                    },
+                    {
+                        "map": "Chroma Road",
+                        "x": 950,
+                        "y": 715
+                    },
+                    {
+                        "map": "Chroma Road",
+                        "x": 1110,
+                        "y": 780
                     }
                 ]
             },
             {
                 "name": "Capture Ninjask",
-                "chest_unopened_img": "/images/Pokemon/.png",
+                "chest_unopened_img": "/images/Pokemon/180 Ninjask.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     "@Ninjask"
@@ -6554,15 +8092,15 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 1569,
-                        "y": 1575
+                        "map": "Chroma Road",
+                        "x": 580,
+                        "y": 890
                     }
                 ]
             },
             {
                 "name": "Capture Bastiodon",
-                "chest_unopened_img": "/images/Pokemon/.png",
+                "chest_unopened_img": "/images/Pokemon/182 Bastiodon.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     "@Bastiodon"
@@ -6591,7 +8129,7 @@
             },
             {
                 "name": "Capture Abra",
-                "chest_unopened_img": "/images/Pokemon/.png",
+                "chest_unopened_img": "/images/Pokemon/183 Abra.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     "@Abra"
@@ -6620,7 +8158,7 @@
             },
             {
                 "name": "Capture Alakazam",
-                "chest_unopened_img": "/images/Pokemon/.png",
+                "chest_unopened_img": "/images/Pokemon/184 Alakazam.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     "@Alakazam"
@@ -6641,15 +8179,15 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 552,
-                        "y": 696
+                        "map": "Altru Tower",
+                        "x": 340,
+                        "y": 945
                     }
                 ]
             },
             {
                 "name": "Capture Murkrow",
-                "chest_unopened_img": "/images/Pokemon/.png",
+                "chest_unopened_img": "/images/Pokemon/185 Murkrow.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     "@Murkrow"
@@ -6670,15 +8208,20 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 1754,
-                        "y": 1502
+                        "map": "Pueltown",
+                        "x": 2125,
+                        "y": 420
+                    },
+                    {
+                        "map": "Pueltown",
+                        "x": 195,
+                        "y": 820
                     }
                 ]
             },
             {
                 "name": "Capture Honchkrow",
-                "chest_unopened_img": "/images/Pokemon/.png",
+                "chest_unopened_img": "/images/Pokemon/186 Honchkrow.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     "@Honchkrow"
@@ -6707,7 +8250,7 @@
             },
             {
                 "name": "Capture Koffing",
-                "chest_unopened_img": "/images/Pokemon/.png",
+                "chest_unopened_img": "/images/Pokemon/187 Koffing.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     "@Koffing"
@@ -6736,7 +8279,7 @@
             },
             {
                 "name": "Capture Weezing",
-                "chest_unopened_img": "/images/Pokemon/.png",
+                "chest_unopened_img": "/images/Pokemon/188 Weezing.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     "@Weezing"
@@ -6757,15 +8300,15 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 339,
-                        "y": 1388
+                        "map": "Almia Castle F2",
+                        "x": 1650,
+                        "y": 1350
                     }
                 ]
             },
             {
                 "name": "Capture Skarmory",
-                "chest_unopened_img": "/images/Pokemon/.png",
+                "chest_unopened_img": "/images/Pokemon/189 Skarmory.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     "@Skarmory"
@@ -6794,7 +8337,7 @@
             },
             {
                 "name": "Capture Duskull",
-                "chest_unopened_img": "/images/Pokemon/.png",
+                "chest_unopened_img": "/images/Pokemon/190 Duskull.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     "@Duskull"
@@ -6823,7 +8366,7 @@
             },
             {
                 "name": "Capture Dusclops",
-                "chest_unopened_img": "/images/Pokemon/.png",
+                "chest_unopened_img": "/images/Pokemon/191 Dusclops.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     "@Dusclops"
@@ -6852,7 +8395,7 @@
             },
             {
                 "name": "Capture Dusknoir",
-                "chest_unopened_img": "/images/Pokemon/.png",
+                "chest_unopened_img": "/images/Pokemon/192 Dusknoir.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     "@Dusknoir"
@@ -6881,7 +8424,7 @@
             },
             {
                 "name": "Capture Sableye",
-                "chest_unopened_img": "/images/Pokemon/.png",
+                "chest_unopened_img": "/images/Pokemon/193 Sableye.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     "@Sableye"
@@ -6910,7 +8453,7 @@
             },
             {
                 "name": "Capture Sandshrew",
-                "chest_unopened_img": "/images/Pokemon/.png",
+                "chest_unopened_img": "/images/Pokemon/194 Sandshrew.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     "@Sandshrew"
@@ -6939,7 +8482,7 @@
             },
             {
                 "name": "Capture Sandslash",
-                "chest_unopened_img": "/images/Pokemon/.png",
+                "chest_unopened_img": "/images/Pokemon/195 Sandslash.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     "@Sandslash"
@@ -6968,7 +8511,7 @@
             },
             {
                 "name": "Capture Spiritomb",
-                "chest_unopened_img": "/images/Pokemon/.png",
+                "chest_unopened_img": "/images/Pokemon/196 Spiritomb.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     "@Spiritomb"
@@ -6997,7 +8540,7 @@
             },
             {
                 "name": "Capture Spheal",
-                "chest_unopened_img": "/images/Pokemon/.png",
+                "chest_unopened_img": "/images/Pokemon/197 Spheal.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     "@Spheal"
@@ -7018,15 +8561,25 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 2179,
-                        "y": 292
+                        "map": "Crysta Cave",
+                        "x": 183,
+                        "y": 1070
+                    },
+                    {
+                        "map": "Hia Valley",
+                        "x": 555,
+                        "y": 410
+                    },
+                    {
+                        "map": "Hia Valley",
+                        "x": 750,
+                        "y": 785
                     }
                 ]
             },
             {
                 "name": "Capture Sealeo",
-                "chest_unopened_img": "/images/Pokemon/.png",
+                "chest_unopened_img": "/images/Pokemon/198 Sealeo.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     "@Sealeo"
@@ -7047,15 +8600,25 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 1922,
-                        "y": 1251
+                        "map": "Crysta Cave",
+                        "x": 510,
+                        "y": 715
+                    },
+                    {
+                        "map": "Hia Valley",
+                        "x": 400,
+                        "y": 560
+                    },
+                    {
+                        "map": "Hia Valley",
+                        "x": 503,
+                        "y": 280
                     }
                 ]
             },
             {
                 "name": "Capture Walrein",
-                "chest_unopened_img": "/images/Pokemon/.png",
+                "chest_unopened_img": "/images/Pokemon/199 Walrein.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     "@Walrein"
@@ -7076,15 +8639,20 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 837,
-                        "y": 1153
+                        "map": "Almia Castle F3",
+                        "x": 2105,
+                        "y": 1355
+                    },
+                    {
+                        "map": "Almia Castle F3",
+                        "x": 2280,
+                        "y": 1465
                     }
                 ]
             },
             {
                 "name": "Capture Swinub",
-                "chest_unopened_img": "/images/Pokemon/.png",
+                "chest_unopened_img": "/images/Pokemon/200 Swinub.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     "@Swinub"
@@ -7105,15 +8673,30 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 733,
-                        "y": 1490
+                        "map": "Crysta Cave",
+                        "x": 333,
+                        "y": 595
+                    },
+                    {
+                        "map": "Crysta Cave",
+                        "x": 515,
+                        "y": 595
+                    },
+                    {
+                        "map": "Crysta Cave",
+                        "x": 288,
+                        "y": 310
+                    },
+                    {
+                        "map": "Crysta Cave",
+                        "x": 222,
+                        "y": 220
                     }
                 ]
             },
             {
                 "name": "Capture Piloswine",
-                "chest_unopened_img": "/images/Pokemon/.png",
+                "chest_unopened_img": "/images/Pokemon/201 Piloswine.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     "@Piloswine"
@@ -7134,15 +8717,25 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 474,
-                        "y": 2029
+                        "map": "Crysta Cave",
+                        "x": 205,
+                        "y": 290
+                    },
+                    {
+                        "map": "Hia Valley",
+                        "x": 260,
+                        "y": 655
+                    },
+                    {
+                        "map": "Hia Valley",
+                        "x": 545,
+                        "y": 645
                     }
                 ]
             },
             {
                 "name": "Capture Mamoswine",
-                "chest_unopened_img": "/images/Pokemon/.png",
+                "chest_unopened_img": "/images/Pokemon/202 Mamoswine.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     "@Mamoswine"
@@ -7171,7 +8764,7 @@
             },
             {
                 "name": "Capture Jigglypuff",
-                "chest_unopened_img": "/images/Pokemon/.png",
+                "chest_unopened_img": "/images/Pokemon/203 Jigglypuff.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     "@Jigglypuff"
@@ -7192,15 +8785,15 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 2389,
-                        "y": 2015
+                        "map": "Crysta Cave",
+                        "x": 1690,
+                        "y": 1015
                     }
                 ]
             },
             {
                 "name": "Capture Wigglytuff",
-                "chest_unopened_img": "/images/Pokemon/.png",
+                "chest_unopened_img": "/images/Pokemon/204 Wigglytuff.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     "@Wigglytuff"
@@ -7221,15 +8814,20 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 278,
-                        "y": 1066
+                        "map": "Almia Castle F2",
+                        "x": 1675,
+                        "y": 700
+                    },
+                    {
+                        "map": "Almia Castle F3",
+                        "x": 115,
+                        "y": 1340
                     }
                 ]
             },
             {
                 "name": "Capture Chingling",
-                "chest_unopened_img": "/images/Pokemon/.png",
+                "chest_unopened_img": "/images/Pokemon/205 Chingling.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     "@Chingling"
@@ -7250,15 +8848,15 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 1601,
-                        "y": 1820
+                        "map": "Crysta Cave",
+                        "x": 1043,
+                        "y": 795
                     }
                 ]
             },
             {
                 "name": "Capture Prinplup",
-                "chest_unopened_img": "/images/Pokemon/.png",
+                "chest_unopened_img": "/images/Pokemon/207 Prinplup.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     "@Prinplup"
@@ -7279,15 +8877,20 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 1846,
-                        "y": 127
+                        "map": "Hia Valley",
+                        "x": 762,
+                        "y": 675
+                    },
+                    {
+                        "map": "Hia Valley",
+                        "x": 698,
+                        "y": 242
                     }
                 ]
             },
             {
                 "name": "Capture Empoleon",
-                "chest_unopened_img": "/images/Pokemon/.png",
+                "chest_unopened_img": "/images/Pokemon/208 Empoleon.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     "@Empoleon"
@@ -7308,15 +8911,30 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 1545,
-                        "y": 1975
+                        "map": "Ice Lake",
+                        "x": 435,
+                        "y": 880
+                    },
+                    {
+                        "map": "Ice Lake",
+                        "x": 1247,
+                        "y": 550
+                    },
+                    {
+                        "map": "Ice Lake",
+                        "x": 1625,
+                        "y": 500
+                    },
+                    {
+                        "map": "Ice Lake",
+                        "x": 1800,
+                        "y": 630
                     }
                 ]
             },
             {
                 "name": "Capture Delibird",
-                "chest_unopened_img": "/images/Pokemon/.png",
+                "chest_unopened_img": "/images/Pokemon/209 Delibird.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     "@Delibird"
@@ -7337,15 +8955,20 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 322,
-                        "y": 1981
+                        "map": "Hia Valley",
+                        "x": 816,
+                        "y": 515
+                    },
+                    {
+                        "map": "Hia Valley",
+                        "x": 500,
+                        "y": 855
                     }
                 ]
             },
             {
                 "name": "Capture Jynx",
-                "chest_unopened_img": "/images/Pokemon/.png",
+                "chest_unopened_img": "/images/Pokemon/210 Jynx.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     "@Jynx"
@@ -7366,15 +8989,40 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 2178,
-                        "y": 2063
+                        "map": "Ice Lake",
+                        "x": 1930,
+                        "y": 365
+                    },
+                    {
+                        "map": "Ice Lake",
+                        "x": 1770,
+                        "y": 275
+                    },
+                    {
+                        "map": "Almia Castle F1",
+                        "x": 1315,
+                        "y": 585
+                    },
+                    {
+                        "map": "Almia Castle F1",
+                        "x": 85,
+                        "y": 560
+                    },
+                    {
+                        "map": "Almia Castle F2",
+                        "x": 1810,
+                        "y": 705
+                    },
+                    {
+                        "map": "Almia Castle F3",
+                        "x": 2285,
+                        "y": 1390
                     }
                 ]
             },
             {
                 "name": "Capture Abomasnow",
-                "chest_unopened_img": "/images/Pokemon/.png",
+                "chest_unopened_img": "/images/Pokemon/212 Abomasnow.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     "@Abomasnow"
@@ -7395,15 +9043,15 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 406,
-                        "y": 1523
+                        "map": "Ice Lake",
+                        "x": 1215,
+                        "y": 430
                     }
                 ]
             },
             {
                 "name": "Capture Snorunt",
-                "chest_unopened_img": "/images/Pokemon/.png",
+                "chest_unopened_img": "/images/Pokemon/213 Snorunt.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     "@Snorunt"
@@ -7424,15 +9072,30 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 2239,
-                        "y": 1381
+                        "map": "Almia Castle F1",
+                        "x": 895,
+                        "y": 780
+                    },
+                    {
+                        "map": "Almia Castle F1",
+                        "x": 700,
+                        "y": 470
+                    },
+                    {
+                        "map": "Almia Castle F2",
+                        "x": 170,
+                        "y": 575
+                    },
+                    {
+                        "map": "Almia Castle F2",
+                        "x": 383,
+                        "y": 695
                     }
                 ]
             },
             {
                 "name": "Capture Glalie",
-                "chest_unopened_img": "/images/Pokemon/.png",
+                "chest_unopened_img": "/images/Pokemon/214 Glalie.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     "@Glalie"
@@ -7453,15 +9116,20 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 897,
-                        "y": 2148
+                        "map": "Almia Castle F2",
+                        "x": 1570,
+                        "y": 650
+                    },
+                    {
+                        "map": "Almia Castle F3",
+                        "x": 665,
+                        "y": 660
                     }
                 ]
             },
             {
                 "name": "Capture Froslass",
-                "chest_unopened_img": "/images/Pokemon/.png",
+                "chest_unopened_img": "/images/Pokemon/215 Froslass.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     "@Froslass"
@@ -7482,15 +9150,15 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 1142,
-                        "y": 680
+                        "map": "Almia Castle F3",
+                        "x": 728,
+                        "y": 1435
                     }
                 ]
             },
             {
                 "name": "Capture Scyther",
-                "chest_unopened_img": "/images/Pokemon/.png",
+                "chest_unopened_img": "/images/Pokemon/216 Scyther.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     "@Scyther"
@@ -7511,15 +9179,25 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 798,
-                        "y": 1614
+                        "map": "Altru Building",
+                        "x": 365,
+                        "y": 1270
+                    },
+                    {
+                        "map": "Almia Castle F1",
+                        "x": 190,
+                        "y": 710
+                    },
+                    {
+                        "map": "Almia Castle F3",
+                        "x": 2193,
+                        "y": 1055
                     }
                 ]
             },
             {
                 "name": "Capture Scizor",
-                "chest_unopened_img": "/images/Pokemon/.png",
+                "chest_unopened_img": "/images/Pokemon/217 Scizor.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     "@Scizor"
@@ -7540,15 +9218,20 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 787,
-                        "y": 643
+                        "map": "Altru Building",
+                        "x": 745,
+                        "y": 350
+                    },
+                    {
+                        "map": "Altru Building",
+                        "x": 1222,
+                        "y": 940
                     }
                 ]
             },
             {
                 "name": "Capture Dratini",
-                "chest_unopened_img": "/images/Pokemon/.png",
+                "chest_unopened_img": "/images/Pokemon/218 Dratini.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     "@Dratini"
@@ -7569,15 +9252,20 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 960,
-                        "y": 2373
+                        "map": "Almia Castle F2",
+                        "x": 870,
+                        "y": 1425
+                    },
+                    {
+                        "map": "Almia Castle F3",
+                        "x": 635,
+                        "y": 960
                     }
                 ]
             },
             {
                 "name": "Capture Dragonair",
-                "chest_unopened_img": "/images/Pokemon/.png",
+                "chest_unopened_img": "/images/Pokemon/219 Dragonair.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     "@Dragonair"
@@ -7598,15 +9286,15 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 1983,
-                        "y": 1688
+                        "map": "Almia Castle F3",
+                        "x": 728,
+                        "y": 1045
                     }
                 ]
             },
             {
                 "name": "Capture Mismagius",
-                "chest_unopened_img": "/images/Pokemon/.png",
+                "chest_unopened_img": "/images/Pokemon/221 Mismagius.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     "@Mismagius"
@@ -7627,15 +9315,15 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 417,
-                        "y": 1015
+                        "map": "Almia Castle F3",
+                        "x": 208,
+                        "y": 1085
                     }
                 ]
             },
             {
                 "name": "Capture Riolu",
-                "chest_unopened_img": "/images/Pokemon/.png",
+                "chest_unopened_img": "/images/Pokemon/222 Riolu.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     "@Riolu"
@@ -7656,15 +9344,20 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 405,
-                        "y": 2367
+                        "map": "Almia Castle F3",
+                        "x": 475,
+                        "y": 560
+                    },
+                    {
+                        "map": "Almia Castle F3",
+                        "x": 1740,
+                        "y": 805
                     }
                 ]
             },
             {
                 "name": "Capture Lucario",
-                "chest_unopened_img": "/images/Pokemon/.png",
+                "chest_unopened_img": "/images/Pokemon/223 Lucario.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     "@Lucario"
@@ -7693,7 +9386,7 @@
             },
             {
                 "name": "Capture Torkoal",
-                "chest_unopened_img": "/images/Pokemon/.png",
+                "chest_unopened_img": "/images/Pokemon/224 Torkoal.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     "@Torkoal"
@@ -7722,7 +9415,7 @@
             },
             {
                 "name": "Capture Bagon",
-                "chest_unopened_img": "/images/Pokemon/.png",
+                "chest_unopened_img": "/images/Pokemon/225 Bagon.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     "@Bagon"
@@ -7751,7 +9444,7 @@
             },
             {
                 "name": "Capture Shelgon",
-                "chest_unopened_img": "/images/Pokemon/.png",
+                "chest_unopened_img": "/images/Pokemon/226 Shelgon.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     "@Shelgon"
@@ -7780,7 +9473,7 @@
             },
             {
                 "name": "Capture Salamence",
-                "chest_unopened_img": "/images/Pokemon/.png",
+                "chest_unopened_img": "/images/Pokemon/227 Salamence.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     "@Salamence"
@@ -7801,15 +9494,20 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 214,
-                        "y": 1263
+                        "map": "Upper Vien Forest",
+                        "x": 870,
+                        "y": 205
+                    },
+                    {
+                        "map": "Crysta Cave",
+                        "x": 1620,
+                        "y": 1060
                     }
                 ]
             },
             {
                 "name": "Capture Heatran",
-                "chest_unopened_img": "/images/Pokemon/.png",
+                "chest_unopened_img": "/images/Pokemon/228 Heatran.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     "@Heatran"
@@ -7838,7 +9536,7 @@
             },
             {
                 "name": "Capture Horsea",
-                "chest_unopened_img": "/images/Pokemon/.png",
+                "chest_unopened_img": "/images/Pokemon/229 Horsea.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     "@Horsea"
@@ -7867,7 +9565,7 @@
             },
             {
                 "name": "Capture Seadra",
-                "chest_unopened_img": "/images/Pokemon/.png",
+                "chest_unopened_img": "/images/Pokemon/230 Seadra.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     "@Seadra"
@@ -7896,7 +9594,7 @@
             },
             {
                 "name": "Capture Kingdra",
-                "chest_unopened_img": "/images/Pokemon/.png",
+                "chest_unopened_img": "/images/Pokemon/231 Kingdra.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     "@Kingdra"
@@ -7925,7 +9623,7 @@
             },
             {
                 "name": "Capture Huntail",
-                "chest_unopened_img": "/images/Pokemon/.png",
+                "chest_unopened_img": "/images/Pokemon/232 Huntail.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     "@Huntail"
@@ -7954,7 +9652,7 @@
             },
             {
                 "name": "Capture Gorebyss",
-                "chest_unopened_img": "/images/Pokemon/.png",
+                "chest_unopened_img": "/images/Pokemon/233 Gorebyss.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     "@Gorebyss"
@@ -7983,7 +9681,7 @@
             },
             {
                 "name": "Capture Tentacruel",
-                "chest_unopened_img": "/images/Pokemon/.png",
+                "chest_unopened_img": "/images/Pokemon/234 Tentacruel.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     "@Tentacruel"
@@ -8012,7 +9710,7 @@
             },
             {
                 "name": "Capture Omanyte",
-                "chest_unopened_img": "/images/Pokemon/.png",
+                "chest_unopened_img": "/images/Pokemon/235 Omanyte.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     "@Omanyte"
@@ -8041,7 +9739,7 @@
             },
             {
                 "name": "Capture Omastar",
-                "chest_unopened_img": "/images/Pokemon/.png",
+                "chest_unopened_img": "/images/Pokemon/236 Omastar.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     "@Omastar"
@@ -8070,7 +9768,7 @@
             },
             {
                 "name": "Capture Wailmer",
-                "chest_unopened_img": "/images/Pokemon/.png",
+                "chest_unopened_img": "/images/Pokemon/237 Wailmer.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     "@Wailmer"
@@ -8099,7 +9797,7 @@
             },
             {
                 "name": "Capture Cacnea",
-                "chest_unopened_img": "/images/Pokemon/.png",
+                "chest_unopened_img": "/images/Pokemon/239 Cacnea.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     "@Cacnea"
@@ -8128,7 +9826,7 @@
             },
             {
                 "name": "Capture Cacturne",
-                "chest_unopened_img": "/images/Pokemon/.png",
+                "chest_unopened_img": "/images/Pokemon/240 Cacturne.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     "@Cacturne"
@@ -8157,7 +9855,7 @@
             },
             {
                 "name": "Capture Mothim",
-                "chest_unopened_img": "/images/Pokemon/.png",
+                "chest_unopened_img": "/images/Pokemon/241 Mothim.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     "@Mothim"
@@ -8186,7 +9884,7 @@
             },
             {
                 "name": "Capture Victreebel",
-                "chest_unopened_img": "/images/Pokemon/.png",
+                "chest_unopened_img": "/images/Pokemon/242 Victreebel.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     "@Victreebel"
@@ -8215,7 +9913,7 @@
             },
             {
                 "name": "Capture Sceptile",
-                "chest_unopened_img": "/images/Pokemon/.png",
+                "chest_unopened_img": "/images/Pokemon/243 Sceptile.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     "@Sceptile"
@@ -8244,7 +9942,7 @@
             },
             {
                 "name": "Capture Weavile",
-                "chest_unopened_img": "/images/Pokemon/.png",
+                "chest_unopened_img": "/images/Pokemon/245 Weavile.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     "@Weavile"
@@ -8265,15 +9963,20 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 250,
-                        "y": 2242
+                        "map": "Almia Castle F3",
+                        "x": 1072,
+                        "y": 370
+                    },
+                    {
+                        "map": "Almia Castle F3",
+                        "x": 1320,
+                        "y": 370
                     }
                 ]
             },
             {
                 "name": "Capture Hippowdon",
-                "chest_unopened_img": "/images/Pokemon/.png",
+                "chest_unopened_img": "/images/Pokemon/247 Hippowdon.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     "@Hippowdon"
@@ -8302,7 +10005,7 @@
             },
             {
                 "name": "Capture Bronzor",
-                "chest_unopened_img": "/images/Pokemon/.png",
+                "chest_unopened_img": "/images/Pokemon/248 Bronzor.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     "@Bronzor"
@@ -8331,7 +10034,7 @@
             },
             {
                 "name": "Capture Bronzong",
-                "chest_unopened_img": "/images/Pokemon/.png",
+                "chest_unopened_img": "/images/Pokemon/249 Bronzong.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     "@Bronzong"
@@ -8360,7 +10063,7 @@
             },
             {
                 "name": "Capture Claydol",
-                "chest_unopened_img": "/images/Pokemon/.png",
+                "chest_unopened_img": "/images/Pokemon/250 Claydol.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     "@Claydol"
@@ -8389,7 +10092,7 @@
             },
             {
                 "name": "Capture Gabite",
-                "chest_unopened_img": "/images/Pokemon/.png",
+                "chest_unopened_img": "/images/Pokemon/252 Gabite.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     "@Gabite"
@@ -8410,15 +10113,20 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 934,
-                        "y": 825
+                        "map": "Altru Building",
+                        "x": 1595,
+                        "y": 320
+                    },
+                    {
+                        "map": "Altru Building",
+                        "x": 1670,
+                        "y": 285
                     }
                 ]
             },
             {
                 "name": "Capture Garchomp",
-                "chest_unopened_img": "/images/Pokemon/.png",
+                "chest_unopened_img": "/images/Pokemon/253 Garchomp.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     "@Garchomp"
@@ -8447,7 +10155,7 @@
             },
             {
                 "name": "Capture Cresselia",
-                "chest_unopened_img": "/images/Pokemon/.png",
+                "chest_unopened_img": "/images/Pokemon/254 Cresselia.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     "@Cresselia"
@@ -8476,7 +10184,7 @@
             },
             {
                 "name": "Capture Blaziken",
-                "chest_unopened_img": "/images/Pokemon/.png",
+                "chest_unopened_img": "/images/Pokemon/255 Blaziken.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     "@Blaziken"
@@ -8497,15 +10205,15 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 1479,
-                        "y": 825
+                        "map": "Altru Building",
+                        "x": 830,
+                        "y": 270
                     }
                 ]
             },
             {
                 "name": "Capture Absol",
-                "chest_unopened_img": "/images/Pokemon/.png",
+                "chest_unopened_img": "/images/Pokemon/256 Absol.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     "@Absol"
@@ -8526,15 +10234,25 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 1509,
-                        "y": 1436
+                        "map": "Altru Building",
+                        "x": 255,
+                        "y": 1275
+                    },
+                    {
+                        "map": "Altru Building",
+                        "x": 1710,
+                        "y": 945
+                    },
+                    {
+                        "map": "Altru Tower",
+                        "x": 1203,
+                        "y": 1115
                     }
                 ]
             },
             {
                 "name": "Capture Darkrai",
-                "chest_unopened_img": "/images/Pokemon/.png",
+                "chest_unopened_img": "/images/Pokemon/257 Darkrai.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     "@Darkrai"
@@ -8555,15 +10273,15 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 1536,
-                        "y": 2045
+                        "map": "Altru Tower",
+                        "x": 1595,
+                        "y": 360
                     }
                 ]
             },
             {
                 "name": "Capture Aerodactyl",
-                "chest_unopened_img": "/images/Pokemon/.png",
+                "chest_unopened_img": "/images/Pokemon/258 Aerodactyl.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     "@Aerodactyl"
@@ -8584,15 +10302,15 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 999,
-                        "y": 207
+                        "map": "Upper Peril Cliffs",
+                        "x": 520,
+                        "y": 165
                     }
                 ]
             },
             {
                 "name": "Capture Flygon",
-                "chest_unopened_img": "/images/Pokemon/.png",
+                "chest_unopened_img": "/images/Pokemon/259 Flygon.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     "@Flygon"
@@ -8621,7 +10339,7 @@
             },
             {
                 "name": "Capture Altaria",
-                "chest_unopened_img": "/images/Pokemon/.png",
+                "chest_unopened_img": "/images/Pokemon/260 Altaria.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     "@Altaria"
@@ -8643,14 +10361,14 @@
                 "map_locations": [
                     {
                         "map": "Capture",
-                        "x": 1842,
+                        "x": 1600,
                         "y": 328
                     }
                 ]
             },
             {
                 "name": "Capture Togekiss",
-                "chest_unopened_img": "/images/Pokemon/.png",
+                "chest_unopened_img": "/images/Pokemon/261 Togekiss.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     "@Togekiss"
@@ -8671,15 +10389,15 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 1388,
-                        "y": 1163
+                        "map": "Altru Tower",
+                        "x": 1600,
+                        "y": 520
                     }
                 ]
             },
             {
                 "name": "Capture Porygon-Z",
-                "chest_unopened_img": "/images/Pokemon/.png",
+                "chest_unopened_img": "/images/Pokemon/262 Porygon-Z.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     "@Porygon-Z"
@@ -8708,7 +10426,7 @@
             },
             {
                 "name": "Capture Regirock",
-                "chest_unopened_img": "/images/Pokemon/.png",
+                "chest_unopened_img": "/images/Pokemon/264 Regirock.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     "@Regirock"
@@ -8729,15 +10447,15 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 768,
-                        "y": 863
+                        "map": "Vien Forest River",
+                        "x": 90,
+                        "y": 1525
                     }
                 ]
             },
             {
                 "name": "Capture Regice",
-                "chest_unopened_img": "/images/Pokemon/.png",
+                "chest_unopened_img": "/images/Pokemon/265 Regice.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     "@Regice"
@@ -8758,15 +10476,15 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 1764,
-                        "y": 2164
+                        "map": "Almia Castle F3",
+                        "x": 275,
+                        "y": 1010
                     }
                 ]
             },
             {
                 "name": "Capture Registeel",
-                "chest_unopened_img": "/images/Pokemon/.png",
+                "chest_unopened_img": "/images/Pokemon/266 Registeel.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     "@Registeel"
@@ -8795,7 +10513,7 @@
             },
             {
                 "name": "Capture Regigigas",
-                "chest_unopened_img": "/images/Pokemon/.png",
+                "chest_unopened_img": "/images/Pokemon/267 Regigigas.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     "@Regigigas"
@@ -8824,7 +10542,7 @@
             },
             {
                 "name": "Obtain a Manaphy Egg",
-                "chest_unopened_img": "/images/Pokemon/.png",
+                "chest_unopened_img": "/images/Pokemon/268 Manaphy.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     "@Manaphy"
@@ -8853,7 +10571,7 @@
             },
             {
                 "name": "Capture Dialga",
-                "chest_unopened_img": "/images/Pokemon/.png",
+                "chest_unopened_img": "/images/Pokemon/269 Dialga.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     "@Dialga"
@@ -8882,7 +10600,7 @@
             },
             {
                 "name": "Capture Palkia",
-                "chest_unopened_img": "/images/Pokemon/.png",
+                "chest_unopened_img": "/images/Pokemon/270 Palkia.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     "@Palkia"
@@ -8911,7 +10629,7 @@
             },
             {
                 "name": "Capture Shaymin",
-                "chest_unopened_img": "/images/Pokemon/.png",
+                "chest_unopened_img": "/images/Pokemon/271 Shaymin.png",
                 "overlay_background": "#000000",
                 "access_rules": [
                     "@Shaymin"

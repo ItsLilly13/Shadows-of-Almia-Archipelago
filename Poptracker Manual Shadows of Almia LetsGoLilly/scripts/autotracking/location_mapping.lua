@@ -507,5 +507,5 @@ LOCATION_MAPPING = {
 	[506] = {"@Victory/Caught Regigigas"},
 	[507] = {"@Victory/Caught Darkrai & Regigigas"},
 	[508] = {"@Victory/Caught All Legendary Pokemon"},
-	[509] = {"@Victory/Caught em All"},
+	[509] = {"@Victory/Caught 'em All"},
 }
