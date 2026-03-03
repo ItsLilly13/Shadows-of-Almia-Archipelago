@@ -2056,6 +2056,1030 @@
                 ]
             },
             {
+                "name": "Chroma Highlands",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "@Chroma Highlands,Chroma Highlands Permit"
+                ],
+                "sections": [   
+                    {
+                        "name": "Capture Pikachu",
+                        "ref": "Capture/Capture Pikachu/Pikachu"
+                    },
+                    {
+                        "name": "Capture Pikachu (Pokemon)",
+                        "ref": "Capture/Capture Pikachu/Pikachu (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Staraptor",
+                        "ref": "Capture/Capture Staraptor/Staraptor"
+                    },
+                    {
+                        "name": "Capture Staraptor (Pokemon)",
+                        "ref": "Capture/Capture Staraptor/Staraptor (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Beedrill",
+                        "ref": "Capture/Capture Beedrill/Beedrill"
+                    },
+                    {
+                        "name": "Capture Beedrill (Pokemon)",
+                        "ref": "Capture/Capture Beedrill/Beedrill (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Gloom",
+                        "ref": "Capture/Capture Gloom/Gloom"
+                    },
+                    {
+                        "name": "Capture Gloom (Pokemon)",
+                        "ref": "Capture/Capture Gloom/Gloom (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Vileplume",
+                        "ref": "Capture/Capture Vileplume/Vileplume"
+                    },
+                    {
+                        "name": "Capture Vileplume (Pokemon)",
+                        "ref": "Capture/Capture Vileplume/Vileplume (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Carnivine",
+                        "ref": "Capture/Capture Carnivine/Carnivine"
+                    },
+                    {
+                        "name": "Capture Carnivine (Pokemon)",
+                        "ref": "Capture/Capture Carnivine/Carnivine (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Rapidash",
+                        "ref": "Capture/Capture Rapidash/Rapidash"
+                    },
+                    {
+                        "name": "Capture Rapidash (Pokemon)",
+                        "ref": "Capture/Capture Rapidash/Rapidash (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Bastiodon",
+                        "ref": "Capture/Capture Bastiodon/Bastiodon"
+                    },
+                    {
+                        "name": "Capture Bastiodon (Pokemon)",
+                        "ref": "Capture/Capture Bastiodon/Bastiodon (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Abra",
+                        "ref": "Capture/Capture Abra/Abra"
+                    },
+                    {
+                        "name": "Capture Abra (Pokemon)",
+                        "ref": "Capture/Capture Abra/Abra (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Skarmory",
+                        "ref": "Capture/Capture Skarmory/Skarmory"
+                    },
+                    {
+                        "name": "Capture Skarmory (Pokemon)",
+                        "ref": "Capture/Capture Skarmory/Skarmory (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Altaria",
+                        "ref": "Capture/Capture Altaria/Altaria"
+                    },
+                    {
+                        "name": "Capture Altaria (Pokemon)",
+                        "ref": "Capture/Capture Altaria/Altaria (Pokemon)"
+                    }
+            ],
+                "map_locations": [
+                    {
+                        "map": "Almia",
+                        "x": 528,
+                        "y": 144
+                    }
+                ]
+            },
+            {
+                "name": "Chroma Ruins",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "@Chroma Ruins,Chroma Ruins Permit"
+                ],
+                "sections": [   
+                    {
+                        "name": "Capture Pikachu",
+                        "ref": "Capture/Capture Pikachu/Pikachu"
+                    },
+                    {
+                        "name": "Capture Pikachu (Pokemon)",
+                        "ref": "Capture/Capture Pikachu/Pikachu (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Nosepass",
+                        "ref": "Capture/Capture Nosepass/Nosepass"
+                    },
+                    {
+                        "name": "Capture Nosepass (Pokemon)",
+                        "ref": "Capture/Capture Nosepass/Nosepass (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Electabuzz",
+                        "ref": "Capture/Capture Electabuzz/Electabuzz"
+                    },
+                    {
+                        "name": "Capture Electabuzz (Pokemon)",
+                        "ref": "Capture/Capture Electabuzz/Electabuzz (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Umbreon",
+                        "ref": "Capture/Capture Umbreon/Umbreon"
+                    },
+                    {
+                        "name": "Capture Umbreon (Pokemon)",
+                        "ref": "Capture/Capture Umbreon/Umbreon (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Pupitar",
+                        "ref": "Capture/Capture Pupitar/Pupitar"
+                    },
+                    {
+                        "name": "Capture Pupitar (Pokemon)",
+                        "ref": "Capture/Capture Pupitar/Pupitar (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Drifblim",
+                        "ref": "Capture/Capture Drifblim/Drifblim"
+                    },
+                    {
+                        "name": "Capture Drifblim (Pokemon)",
+                        "ref": "Capture/Capture Drifblim/Drifblim (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Kirlia",
+                        "ref": "Capture/Capture Kirlia/Kirlia"
+                    },
+                    {
+                        "name": "Capture Kirlia (Pokemon)",
+                        "ref": "Capture/Capture Kirlia/Kirlia (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Hypno",
+                        "ref": "Capture/Capture Hypno/Hypno"
+                    },
+                    {
+                        "name": "Capture Hypno (Pokemon)",
+                        "ref": "Capture/Capture Hypno/Hypno (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Bastiodon",
+                        "ref": "Capture/Capture Bastiodon/Bastiodon"
+                    },
+                    {
+                        "name": "Capture Bastiodon (Pokemon)",
+                        "ref": "Capture/Capture Bastiodon/Bastiodon (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Koffing",
+                        "ref": "Capture/Capture Koffing/Koffing"
+                    },
+                    {
+                        "name": "Capture Koffing (Pokemon)",
+                        "ref": "Capture/Capture Koffing/Koffing (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Duskull",
+                        "ref": "Capture/Capture Duskull/Duskull"
+                    },
+                    {
+                        "name": "Capture Duskull (Pokemon)",
+                        "ref": "Capture/Capture Duskull/Duskull (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Sableye",
+                        "ref": "Capture/Capture Sableye/Sableye"
+                    },
+                    {
+                        "name": "Capture Sableye (Pokemon)",
+                        "ref": "Capture/Capture Sableye/Sableye (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Sandshrew",
+                        "ref": "Capture/Capture Sandshrew/Sandshrew"
+                    },
+                    {
+                        "name": "Capture Sandshrew (Pokemon)",
+                        "ref": "Capture/Capture Sandshrew/Sandshrew (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Registeel",
+                        "ref": "Capture/Capture Registeel/Registeel"
+                    },
+                    {
+                        "name": "Capture Registeel (Pokemon)",
+                        "ref": "Capture/Capture Registeel/Registeel (Pokemon)"
+                    }
+            ],
+                "map_locations": [
+                    {
+                        "map": "Almia",
+                        "x": 528,
+                        "y": 96
+                    }
+                ]
+            },
+            {
+                "name": "Puel Sea",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "@Puel Sea,Puel Sea Permit"
+                ],
+                "sections": [   
+                    {
+                        "name": "Capture Finneon",
+                        "ref": "Capture/Capture Finneon/Finneon"
+                    },
+                    {
+                        "name": "Capture Finneon (Pokemon)",
+                        "ref": "Capture/Capture Finneon/Finneon (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Lumineon",
+                        "ref": "Capture/Capture Lumineon/Lumineon"
+                    },
+                    {
+                        "name": "Capture Lumineon (Pokemon)",
+                        "ref": "Capture/Capture Lumineon/Lumineon (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Chinchou",
+                        "ref": "Capture/Capture Chinchou/Chinchou"
+                    },
+                    {
+                        "name": "Capture Chinchou (Pokemon)",
+                        "ref": "Capture/Capture Chinchou/Chinchou (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Mantyke",
+                        "ref": "Capture/Capture Mantyke/Mantyke"
+                    },
+                    {
+                        "name": "Capture Mantyke (Pokemon)",
+                        "ref": "Capture/Capture Mantyke/Mantyke (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Mantine",
+                        "ref": "Capture/Capture Mantine/Mantine"
+                    },
+                    {
+                        "name": "Capture Mantine (Pokemon)",
+                        "ref": "Capture/Capture Mantine/Mantine (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Qwilfish",
+                        "ref": "Capture/Capture Qwilfish/Qwilfish"
+                    },
+                    {
+                        "name": "Capture Qwilfish (Pokemon)",
+                        "ref": "Capture/Capture Qwilfish/Qwilfish (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Corsola",
+                        "ref": "Capture/Capture Corsola/Corsola"
+                    },
+                    {
+                        "name": "Capture Corsola (Pokemon)",
+                        "ref": "Capture/Capture Corsola/Corsola (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Staryu",
+                        "ref": "Capture/Capture Staryu/Staryu"
+                    },
+                    {
+                        "name": "Capture Staryu (Pokemon)",
+                        "ref": "Capture/Capture Staryu/Staryu (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Sharpedo",
+                        "ref": "Capture/Capture Sharpedo/Sharpedo"
+                    },
+                    {
+                        "name": "Capture Sharpedo (Pokemon)",
+                        "ref": "Capture/Capture Sharpedo/Sharpedo (Pokemon)"
+                    }
+            ],
+                "map_locations": [
+                    {
+                        "map": "Almia",
+                        "x": 528,
+                        "y": 336
+                    }
+                ]
+            },
+            {
+                "name": "Sea of Wailord",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "@Sea of Wailord,Sea of Wailord Permit"
+                ],
+                "sections": [   
+                    {
+                        "name": "Capture Lanturn",
+                        "ref": "Capture/Capture Lanturn/Lanturn"
+                    },
+                    {
+                        "name": "Capture Lanturn (Pokemon)",
+                        "ref": "Capture/Capture Lanturn/Lanturn (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Mantine",
+                        "ref": "Capture/Capture Mantine/Mantine"
+                    },
+                    {
+                        "name": "Capture Mantine (Pokemon)",
+                        "ref": "Capture/Capture Mantine/Mantine (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Starmie",
+                        "ref": "Capture/Capture Starmie/Starmie"
+                    },
+                    {
+                        "name": "Capture Starmie (Pokemon)",
+                        "ref": "Capture/Capture Starmie/Starmie (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Sharpedo",
+                        "ref": "Capture/Capture Sharpedo/Sharpedo"
+                    },
+                    {
+                        "name": "Capture Sharpedo (Pokemon)",
+                        "ref": "Capture/Capture Sharpedo/Sharpedo (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Horsea",
+                        "ref": "Capture/Capture Horsea/Horsea"
+                    },
+                    {
+                        "name": "Capture Horsea (Pokemon)",
+                        "ref": "Capture/Capture Horsea/Horsea (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Seadra",
+                        "ref": "Capture/Capture Seadra/Seadra"
+                    },
+                    {
+                        "name": "Capture Seadra (Pokemon)",
+                        "ref": "Capture/Capture Seadra/Seadra (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Kingdra",
+                        "ref": "Capture/Capture Kingdra/Kingdra"
+                    },
+                    {
+                        "name": "Capture Kingdra (Pokemon)",
+                        "ref": "Capture/Capture Kingdra/Kingdra (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Huntail",
+                        "ref": "Capture/Capture Huntail/Huntail"
+                    },
+                    {
+                        "name": "Capture Huntail (Pokemon)",
+                        "ref": "Capture/Capture Huntail/Huntail (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Gorebyss",
+                        "ref": "Capture/Capture Gorebyss/Gorebyss"
+                    },
+                    {
+                        "name": "Capture Gorebyss (Pokemon)",
+                        "ref": "Capture/Capture Gorebyss/Gorebyss (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Tentacruel",
+                        "ref": "Capture/Capture Tentacruel/Tentacruel"
+                    },
+                    {
+                        "name": "Capture Tentacruel (Pokemon)",
+                        "ref": "Capture/Capture Tentacruel/Tentacruel (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Omanyte",
+                        "ref": "Capture/Capture Omanyte/Omanyte"
+                    },
+                    {
+                        "name": "Capture Omanyte (Pokemon)",
+                        "ref": "Capture/Capture Omanyte/Omanyte (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Omastar",
+                        "ref": "Capture/Capture Omastar/Omastar"
+                    },
+                    {
+                        "name": "Capture Omastar (Pokemon)",
+                        "ref": "Capture/Capture Omastar/Omastar (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Wailmer",
+                        "ref": "Capture/Capture Wailmer/Wailmer"
+                    },
+                    {
+                        "name": "Capture Wailmer (Pokemon)",
+                        "ref": "Capture/Capture Wailmer/Wailmer (Pokemon)"
+                    }
+            ],
+                "map_locations": [
+                    {
+                        "map": "Almia",
+                        "x": 576,
+                        "y": 385
+                    }
+                ]
+            },
+            {
+                "name": "Boyleland",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "@Boyleland,Boyleland Permit"
+                ],
+                "sections": [   
+                    {
+                        "name": "Capture Wingull",
+                        "ref": "Capture/Capture Wingull/Wingull"
+                    },
+                    {
+                        "name": "Capture Wingull (Pokemon)",
+                        "ref": "Capture/Capture Wingull/Wingull (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Staraptor",
+                        "ref": "Capture/Capture Staraptor/Staraptor"
+                    },
+                    {
+                        "name": "Capture Staraptor (Pokemon)",
+                        "ref": "Capture/Capture Staraptor/Staraptor (Pokemon)"
+                    }
+            ],
+                "map_locations": [
+                    {
+                        "map": "Almia",
+                        "x": 672,
+                        "y": 264
+                    }
+                ]
+            },
+            {
+                "name": "Volcano Cave",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "@Volcano Cave,Volcano Cave Permit"
+                ],
+                "sections": [   
+                    {
+                        "name": "Capture Pikachu",
+                        "ref": "Capture/Capture Pikachu/Pikachu"
+                    },
+                    {
+                        "name": "Capture Pikachu (Pokemon)",
+                        "ref": "Capture/Capture Pikachu/Pikachu (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Raichu",
+                        "ref": "Capture/Capture Raichu/Raichu"
+                    },
+                    {
+                        "name": "Capture Raichu (Pokemon)",
+                        "ref": "Capture/Capture Raichu/Raichu (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Hariyama",
+                        "ref": "Capture/Capture Hariyama/Hariyama"
+                    },
+                    {
+                        "name": "Capture Hariyama (Pokemon)",
+                        "ref": "Capture/Capture Hariyama/Hariyama (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Gastrodon",
+                        "ref": "Capture/Capture Gastrodon/Gastrodon"
+                    },
+                    {
+                        "name": "Capture Gastrodon (Pokemon)",
+                        "ref": "Capture/Capture Gastrodon/Gastrodon (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Graveler",
+                        "ref": "Capture/Capture Graveler/Graveler"
+                    },
+                    {
+                        "name": "Capture Graveler (Pokemon)",
+                        "ref": "Capture/Capture Graveler/Graveler (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Magnemite",
+                        "ref": "Capture/Capture Magnemite/Magnemite"
+                    },
+                    {
+                        "name": "Capture Magnemite (Pokemon)",
+                        "ref": "Capture/Capture Magnemite/Magnemite (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Magmar",
+                        "ref": "Capture/Capture Magmar/Magmar"
+                    },
+                    {
+                        "name": "Capture Magmar (Pokemon)",
+                        "ref": "Capture/Capture Magmar/Magmar (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Magmortar",
+                        "ref": "Capture/Capture Magmortar/Magmortar"
+                    },
+                    {
+                        "name": "Capture Magmortar (Pokemon)",
+                        "ref": "Capture/Capture Magmortar/Magmortar (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Pelipper",
+                        "ref": "Capture/Capture Pelipper/Pelipper"
+                    },
+                    {
+                        "name": "Capture Pelipper (Pokemon)",
+                        "ref": "Capture/Capture Pelipper/Pelipper (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Flareon",
+                        "ref": "Capture/Capture Flareon/Flareon"
+                    },
+                    {
+                        "name": "Capture Flareon (Pokemon)",
+                        "ref": "Capture/Capture Flareon/Flareon (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Lairon",
+                        "ref": "Capture/Capture Lairon/Lairon"
+                    },
+                    {
+                        "name": "Capture Lairon (Pokemon)",
+                        "ref": "Capture/Capture Lairon/Lairon (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Aggron",
+                        "ref": "Capture/Capture Aggron/Aggron"
+                    },
+                    {
+                        "name": "Capture Aggron (Pokemon)",
+                        "ref": "Capture/Capture Aggron/Aggron (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Charmander",
+                        "ref": "Capture/Capture Charmander/Charmander"
+                    },
+                    {
+                        "name": "Capture Charmander (Pokemon)",
+                        "ref": "Capture/Capture Charmander/Charmander (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Charmeleon",
+                        "ref": "Capture/Capture Charmeleon/Charmeleon"
+                    },
+                    {
+                        "name": "Capture Charmeleon (Pokemon)",
+                        "ref": "Capture/Capture Charmeleon/Charmeleon (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Charizard",
+                        "ref": "Capture/Capture Charizard/Charizard"
+                    },
+                    {
+                        "name": "Capture Charizard (Pokemon)",
+                        "ref": "Capture/Capture Charizard/Charizard (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Slugma",
+                        "ref": "Capture/Capture Slugma/Slugma"
+                    },
+                    {
+                        "name": "Capture Slugma (Pokemon)",
+                        "ref": "Capture/Capture Slugma/Slugma (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Magcargo",
+                        "ref": "Capture/Capture Magcargo/Magcargo"
+                    },
+                    {
+                        "name": "Capture Magcargo (Pokemon)",
+                        "ref": "Capture/Capture Magcargo/Magcargo (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Drifloon",
+                        "ref": "Capture/Capture Drifloon/Drifloon"
+                    },
+                    {
+                        "name": "Capture Drifloon (Pokemon)",
+                        "ref": "Capture/Capture Drifloon/Drifloon (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Drifblim",
+                        "ref": "Capture/Capture Drifblim/Drifblim"
+                    },
+                    {
+                        "name": "Capture Drifblim (Pokemon)",
+                        "ref": "Capture/Capture Drifblim/Drifblim (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Stunky",
+                        "ref": "Capture/Capture Stunky/Stunky"
+                    },
+                    {
+                        "name": "Capture Stunky (Pokemon)",
+                        "ref": "Capture/Capture Stunky/Stunky (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Shuppet",
+                        "ref": "Capture/Capture Shuppet/Shuppet"
+                    },
+                    {
+                        "name": "Capture Shuppet (Pokemon)",
+                        "ref": "Capture/Capture Shuppet/Shuppet (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Rhyhorn",
+                        "ref": "Capture/Capture Rhyhorn/Rhyhorn"
+                    },
+                    {
+                        "name": "Capture Rhyhorn (Pokemon)",
+                        "ref": "Capture/Capture Rhyhorn/Rhyhorn (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Rhydon",
+                        "ref": "Capture/Capture Rhydon/Rhydon"
+                    },
+                    {
+                        "name": "Capture Rhydon (Pokemon)",
+                        "ref": "Capture/Capture Rhydon/Rhydon (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Muk",
+                        "ref": "Capture/Capture Muk/Muk"
+                    },
+                    {
+                        "name": "Capture Muk (Pokemon)",
+                        "ref": "Capture/Capture Muk/Muk (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Infernape",
+                        "ref": "Capture/Capture Infernape/Infernape"
+                    },
+                    {
+                        "name": "Capture Infernape (Pokemon)",
+                        "ref": "Capture/Capture Infernape/Infernape (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Torkoal",
+                        "ref": "Capture/Capture Torkoal/Torkoal"
+                    },
+                    {
+                        "name": "Capture Torkoal (Pokemon)",
+                        "ref": "Capture/Capture Torkoal/Torkoal (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Bagon",
+                        "ref": "Capture/Capture Bagon/Bagon"
+                    },
+                    {
+                        "name": "Capture Bagon (Pokemon)",
+                        "ref": "Capture/Capture Bagon/Bagon (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Shelgon",
+                        "ref": "Capture/Capture Shelgon/Shelgon"
+                    },
+                    {
+                        "name": "Capture Shelgon (Pokemon)",
+                        "ref": "Capture/Capture Shelgon/Shelgon (Pokemon)"
+                    }
+            ],
+                "map_locations": [
+                    {
+                        "map": "Almia",
+                        "x": 672,
+                        "y": 216
+                    }
+                ]
+            },
+            {
+                "name": "Haruba Village",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "@Haruba Village,Haruba Village Permit"
+                ],
+                "sections": [   
+                    {
+                        "name": "Capture Sudowoodo",
+                        "ref": "Capture/Capture Sudowoodo/Sudowoodo"
+                    },
+                    {
+                        "name": "Capture Sudowoodo (Pokemon)",
+                        "ref": "Capture/Capture Sudowoodo/Sudowoodo (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Pelipper",
+                        "ref": "Capture/Capture Pelipper/Pelipper"
+                    },
+                    {
+                        "name": "Capture Pelipper (Pokemon)",
+                        "ref": "Capture/Capture Pelipper/Pelipper (Pokemon)"
+                    }
+            ],
+                "map_locations": [
+                    {
+                        "map": "Almia",
+                        "x": 696,
+                        "y": 528
+                    }
+                ]
+            },
+            {
+                "name": "Haruba Desert",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "@Haruba Desert,Haruba Desert Permit"
+                ],
+                "sections": [   
+                    {
+                        "name": "Capture Staraptor",
+                        "ref": "Capture/Capture Staraptor/Staraptor"
+                    },
+                    {
+                        "name": "Capture Staraptor (Pokemon)",
+                        "ref": "Capture/Capture Staraptor/Staraptor (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Magneton",
+                        "ref": "Capture/Capture Magneton/Magneton"
+                    },
+                    {
+                        "name": "Capture Magneton (Pokemon)",
+                        "ref": "Capture/Capture Magneton/Magneton (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Jolteon",
+                        "ref": "Capture/Capture Jolteon/Jolteon"
+                    },
+                    {
+                        "name": "Capture Jolteon (Pokemon)",
+                        "ref": "Capture/Capture Jolteon/Jolteon (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Fearow",
+                        "ref": "Capture/Capture Fearow/Fearow"
+                    },
+                    {
+                        "name": "Capture Fearow (Pokemon)",
+                        "ref": "Capture/Capture Fearow/Fearow (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Doduo",
+                        "ref": "Capture/Capture Doduo/Doduo"
+                    },
+                    {
+                        "name": "Capture Doduo (Pokemon)",
+                        "ref": "Capture/Capture Doduo/Doduo (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Rhydon",
+                        "ref": "Capture/Capture Rhydon/Rhydon"
+                    },
+                    {
+                        "name": "Capture Rhydon (Pokemon)",
+                        "ref": "Capture/Capture Rhydon/Rhydon (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Skorupi",
+                        "ref": "Capture/Capture Skorupi/Skorupi"
+                    },
+                    {
+                        "name": "Capture Skorupi (Pokemon)",
+                        "ref": "Capture/Capture Skorupi/Skorupi (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Cacnea",
+                        "ref": "Capture/Capture Cacnea/Cacnea"
+                    },
+                    {
+                        "name": "Capture Cacnea (Pokemon)",
+                        "ref": "Capture/Capture Cacnea/Cacnea (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Cacturne",
+                        "ref": "Capture/Capture Cacturne/Cacturne"
+                    },
+                    {
+                        "name": "Capture Cacturne (Pokemon)",
+                        "ref": "Capture/Capture Cacturne/Cacturne (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Hippowdon",
+                        "ref": "Capture/Capture Hippowdon/Hippowdon"
+                    },
+                    {
+                        "name": "Capture Hippowdon (Pokemon)",
+                        "ref": "Capture/Capture Hippowdon/Hippowdon (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Flygon",
+                        "ref": "Capture/Capture Flygon/Flygon"
+                    },
+                    {
+                        "name": "Capture Flygon (Pokemon)",
+                        "ref": "Capture/Capture Flygon/Flygon (Pokemon)"
+                    }
+            ],
+                "map_locations": [
+                    {
+                        "map": "Almia",
+                        "x": 696,
+                        "y": 480
+                    }
+                ]
+            },
+            {
+                "name": "Hippowdon Temple",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "@Hippowdon Temple,Hippowdon Temple Permit"
+                ],
+                "sections": [   
+                    {
+                        "name": "Capture Gengar",
+                        "ref": "Capture/Capture Gengar/Gengar"
+                    },
+                    {
+                        "name": "Capture Gengar (Pokemon)",
+                        "ref": "Capture/Capture Gengar/Gengar (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Golem",
+                        "ref": "Capture/Capture Golem/Golem"
+                    },
+                    {
+                        "name": "Capture Golem (Pokemon)",
+                        "ref": "Capture/Capture Golem/Golem (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Magneton",
+                        "ref": "Capture/Capture Magneton/Magneton"
+                    },
+                    {
+                        "name": "Capture Magneton (Pokemon)",
+                        "ref": "Capture/Capture Magneton/Magneton (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Espeon",
+                        "ref": "Capture/Capture Espeon/Espeon"
+                    },
+                    {
+                        "name": "Capture Espeon (Pokemon)",
+                        "ref": "Capture/Capture Espeon/Espeon (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Bellossom",
+                        "ref": "Capture/Capture Bellossom/Bellossom"
+                    },
+                    {
+                        "name": "Capture Bellossom (Pokemon)",
+                        "ref": "Capture/Capture Bellossom/Bellossom (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Tyranitar",
+                        "ref": "Capture/Capture Tyranitar/Tyranitar"
+                    },
+                    {
+                        "name": "Capture Tyranitar (Pokemon)",
+                        "ref": "Capture/Capture Tyranitar/Tyranitar (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Drifblim",
+                        "ref": "Capture/Capture Drifblim/Drifblim"
+                    },
+                    {
+                        "name": "Capture Drifblim (Pokemon)",
+                        "ref": "Capture/Capture Drifblim/Drifblim (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Banette",
+                        "ref": "Capture/Capture Banette/Banette"
+                    },
+                    {
+                        "name": "Capture Banette (Pokemon)",
+                        "ref": "Capture/Capture Banette/Banette (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Ariados",
+                        "ref": "Capture/Capture Ariados/Ariados"
+                    },
+                    {
+                        "name": "Capture Ariados (Pokemon)",
+                        "ref": "Capture/Capture Ariados/Ariados (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Skorupi",
+                        "ref": "Capture/Capture Skorupi/Skorupi"
+                    },
+                    {
+                        "name": "Capture Skorupi (Pokemon)",
+                        "ref": "Capture/Capture Skorupi/Skorupi (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Dusknoir",
+                        "ref": "Capture/Capture Dusknoir/Dusknoir"
+                    },
+                    {
+                        "name": "Capture Dusknoir (Pokemon)",
+                        "ref": "Capture/Capture Dusknoir/Dusknoir (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Sableye",
+                        "ref": "Capture/Capture Sableye/Sableye"
+                    },
+                    {
+                        "name": "Capture Sableye (Pokemon)",
+                        "ref": "Capture/Capture Sableye/Sableye (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Sandslash",
+                        "ref": "Capture/Capture Sandslash/Sandslash"
+                    },
+                    {
+                        "name": "Capture Sandslash (Pokemon)",
+                        "ref": "Capture/Capture Sandslash/Sandslash (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Victreebel",
+                        "ref": "Capture/Capture Victreebel/Victreebel"
+                    },
+                    {
+                        "name": "Capture Victreebel (Pokemon)",
+                        "ref": "Capture/Capture Victreebel/Victreebel (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Bronzor",
+                        "ref": "Capture/Capture Bronzor/Bronzor"
+                    },
+                    {
+                        "name": "Capture Bronzor (Pokemon)",
+                        "ref": "Capture/Capture Bronzor/Bronzor (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Bronzong",
+                        "ref": "Capture/Capture Bronzong/Bronzong"
+                    },
+                    {
+                        "name": "Capture Bronzong (Pokemon)",
+                        "ref": "Capture/Capture Bronzong/Bronzong (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Claydol",
+                        "ref": "Capture/Capture Claydol/Claydol"
+                    },
+                    {
+                        "name": "Capture Claydol (Pokemon)",
+                        "ref": "Capture/Capture Claydol/Claydol (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Gabite",
+                        "ref": "Capture/Capture Gabite/Gabite"
+                    },
+                    {
+                        "name": "Capture Gabite (Pokemon)",
+                        "ref": "Capture/Capture Gabite/Gabite (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Garchomp",
+                        "ref": "Capture/Capture Garchomp/Garchomp"
+                    },
+                    {
+                        "name": "Capture Garchomp (Pokemon)",
+                        "ref": "Capture/Capture Garchomp/Garchomp (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Regigigas",
+                        "ref": "Capture/Capture Regigigas/Regigigas"
+                    },
+                    {
+                        "name": "Capture Regigigas (Pokemon)",
+                        "ref": "Capture/Capture Regigigas/Regigigas (Pokemon)"
+                    }
+            ],
+                "map_locations": [
+                    {
+                        "map": "Almia",
+                        "x": 696,
+                        "y": 432
+                    }
+                ]
+            },
+            {
                 "name": "Oil Field Hideout",
                 "overlay_background": "#000000",
                 "access_rules": [
@@ -2063,12 +3087,140 @@
                 ],
                 "sections": [   
                     {
+                        "name": "Capture Haunter",
+                        "ref": "Capture/Capture Haunter/Haunter"
+                    },
+                    {
+                        "name": "Capture Haunter (Pokemon)",
+                        "ref": "Capture/Capture Haunter/Haunter (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Staraptor",
+                        "ref": "Capture/Capture Staraptor/Staraptor"
+                    },
+                    {
+                        "name": "Capture Staraptor (Pokemon)",
+                        "ref": "Capture/Capture Staraptor/Staraptor (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Luxio",
+                        "ref": "Capture/Capture Luxio/Luxio"
+                    },
+                    {
+                        "name": "Capture Luxio (Pokemon)",
+                        "ref": "Capture/Capture Luxio/Luxio (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Luxray",
+                        "ref": "Capture/Capture Luxray/Luxray"
+                    },
+                    {
+                        "name": "Capture Luxray (Pokemon)",
+                        "ref": "Capture/Capture Luxray/Luxray (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Magneton",
+                        "ref": "Capture/Capture Magneton/Magneton"
+                    },
+                    {
+                        "name": "Capture Magneton (Pokemon)",
+                        "ref": "Capture/Capture Magneton/Magneton (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Arcanine",
+                        "ref": "Capture/Capture Arcanine/Arcanine"
+                    },
+                    {
+                        "name": "Capture Arcanine (Pokemon)",
+                        "ref": "Capture/Capture Arcanine/Arcanine (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Electivire",
+                        "ref": "Capture/Capture Electivire/Electivire"
+                    },
+                    {
+                        "name": "Capture Electivire (Pokemon)",
+                        "ref": "Capture/Capture Electivire/Electivire (Pokemon)"
+                    },
+                    {
                         "name": "Capture Skuntank",
                         "ref": "Capture/Capture Skuntank/Skuntank"
                     },
                     {
                         "name": "Capture Skuntank (Pokemon)",
                         "ref": "Capture/Capture Skuntank/Skuntank (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Houndour",
+                        "ref": "Capture/Capture Houndour/Houndour"
+                    },
+                    {
+                        "name": "Capture Houndour (Pokemon)",
+                        "ref": "Capture/Capture Houndour/Houndour (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Houndoom",
+                        "ref": "Capture/Capture Houndoom/Houndoom"
+                    },
+                    {
+                        "name": "Capture Houndoom (Pokemon)",
+                        "ref": "Capture/Capture Houndoom/Houndoom (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Machamp",
+                        "ref": "Capture/Capture Machamp/Machamp"
+                    },
+                    {
+                        "name": "Capture Machamp (Pokemon)",
+                        "ref": "Capture/Capture Machamp/Machamp (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Mr. Mime",
+                        "ref": "Capture/Capture Mr. Mime/Mr. Mime"
+                    },
+                    {
+                        "name": "Capture Mr. Mime (Pokemon)",
+                        "ref": "Capture/Capture Mr. Mime/Mr. Mime (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Honchkrow",
+                        "ref": "Capture/Capture Honchkrow/Honchkrow"
+                    },
+                    {
+                        "name": "Capture Honchkrow (Pokemon)",
+                        "ref": "Capture/Capture Honchkrow/Honchkrow (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Dusclops",
+                        "ref": "Capture/Capture Dusclops/Dusclops"
+                    },
+                    {
+                        "name": "Capture Dusclops (Pokemon)",
+                        "ref": "Capture/Capture Dusclops/Dusclops (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Mothim",
+                        "ref": "Capture/Capture Mothim/Mothim"
+                    },
+                    {
+                        "name": "Capture Mothim (Pokemon)",
+                        "ref": "Capture/Capture Mothim/Mothim (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Sceptile",
+                        "ref": "Capture/Capture Sceptile/Sceptile"
+                    },
+                    {
+                        "name": "Capture Sceptile (Pokemon)",
+                        "ref": "Capture/Capture Sceptile/Sceptile (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Porygon-Z",
+                        "ref": "Capture/Capture Porygon-Z/Porygon-Z"
+                    },
+                    {
+                        "name": "Capture Porygon-Z (Pokemon)",
+                        "ref": "Capture/Capture Porygon-Z/Porygon-Z (Pokemon)"
                     }
             ],
                 "map_locations": [
@@ -2076,6 +3228,1284 @@
                         "map": "Almia",
                         "x": 504,
                         "y": 480
+                    }
+                ]
+            },
+            {
+                "name": "Capture Arena",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "@Capture Arena,Capture Arena Permit 1"
+                ],
+                "sections": [   
+                    {
+                        "name": "Capture Swellow",
+                        "ref": "Capture/Capture Swellow/Swellow"
+                    },
+                    {
+                        "name": "Capture Swellow (Pokemon)",
+                        "ref": "Capture/Capture Swellow/Swellow (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Crobat",
+                        "ref": "Capture/Capture Crobat/Crobat"
+                    },
+                    {
+                        "name": "Capture Crobat (Pokemon)",
+                        "ref": "Capture/Capture Crobat/Crobat (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Gengar",
+                        "ref": "Capture/Capture Gengar/Gengar"
+                    },
+                    {
+                        "name": "Capture Gengar (Pokemon)",
+                        "ref": "Capture/Capture Gengar/Gengar (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Staraptor",
+                        "ref": "Capture/Capture Staraptor/Staraptor"
+                    },
+                    {
+                        "name": "Capture Staraptor (Pokemon)",
+                        "ref": "Capture/Capture Staraptor/Staraptor (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Shiftry",
+                        "ref": "Capture/Capture Shiftry/Shiftry"
+                    },
+                    {
+                        "name": "Capture Shiftry (Pokemon)",
+                        "ref": "Capture/Capture Shiftry/Shiftry (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Tangrowth",
+                        "ref": "Capture/Capture Tangrowth/Tangrowth"
+                    },
+                    {
+                        "name": "Capture Tangrowth (Pokemon)",
+                        "ref": "Capture/Capture Tangrowth/Tangrowth (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Torterra",
+                        "ref": "Capture/Capture Torterra/Torterra"
+                    },
+                    {
+                        "name": "Capture Torterra (Pokemon)",
+                        "ref": "Capture/Capture Torterra/Torterra (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Electivire",
+                        "ref": "Capture/Capture Electivire/Electivire"
+                    },
+                    {
+                        "name": "Capture Electivire (Pokemon)",
+                        "ref": "Capture/Capture Electivire/Electivire (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Magmortar",
+                        "ref": "Capture/Capture Magmortar/Magmortar"
+                    },
+                    {
+                        "name": "Capture Magmortar (Pokemon)",
+                        "ref": "Capture/Capture Magmortar/Magmortar (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Toxicroak",
+                        "ref": "Capture/Capture Toxicroak/Toxicroak"
+                    },
+                    {
+                        "name": "Capture Toxicroak (Pokemon)",
+                        "ref": "Capture/Capture Toxicroak/Toxicroak (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Eevee",
+                        "ref": "Capture/Capture Eevee/Eevee"
+                    },
+                    {
+                        "name": "Capture Eevee (Pokemon)",
+                        "ref": "Capture/Capture Eevee/Eevee (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Vaporeon",
+                        "ref": "Capture/Capture Vaporeon/Vaporeon"
+                    },
+                    {
+                        "name": "Capture Vaporeon (Pokemon)",
+                        "ref": "Capture/Capture Vaporeon/Vaporeon (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Jolteon",
+                        "ref": "Capture/Capture Jolteon/Jolteon"
+                    },
+                    {
+                        "name": "Capture Jolteon (Pokemon)",
+                        "ref": "Capture/Capture Jolteon/Jolteon (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Flareon",
+                        "ref": "Capture/Capture Flareon/Flareon"
+                    },
+                    {
+                        "name": "Capture Flareon (Pokemon)",
+                        "ref": "Capture/Capture Flareon/Flareon (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Espeon",
+                        "ref": "Capture/Capture Espeon/Espeon"
+                    },
+                    {
+                        "name": "Capture Espeon (Pokemon)",
+                        "ref": "Capture/Capture Espeon/Espeon (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Umbreon",
+                        "ref": "Capture/Capture Umbreon/Umbreon"
+                    },
+                    {
+                        "name": "Capture Umbreon (Pokemon)",
+                        "ref": "Capture/Capture Umbreon/Umbreon (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Leafeon",
+                        "ref": "Capture/Capture Leafeon/Leafeon"
+                    },
+                    {
+                        "name": "Capture Leafeon (Pokemon)",
+                        "ref": "Capture/Capture Leafeon/Leafeon (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Glaceon",
+                        "ref": "Capture/Capture Glaceon/Glaceon"
+                    },
+                    {
+                        "name": "Capture Glaceon (Pokemon)",
+                        "ref": "Capture/Capture Glaceon/Glaceon (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Fearow",
+                        "ref": "Capture/Capture Fearow/Fearow"
+                    },
+                    {
+                        "name": "Capture Fearow (Pokemon)",
+                        "ref": "Capture/Capture Fearow/Fearow (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Bellossom",
+                        "ref": "Capture/Capture Bellossom/Bellossom"
+                    },
+                    {
+                        "name": "Capture Bellossom (Pokemon)",
+                        "ref": "Capture/Capture Bellossom/Bellossom (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Yanmega",
+                        "ref": "Capture/Capture Yanmega/Yanmega"
+                    },
+                    {
+                        "name": "Capture Yanmega (Pokemon)",
+                        "ref": "Capture/Capture Yanmega/Yanmega (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Tyranitar",
+                        "ref": "Capture/Capture Tyranitar/Tyranitar"
+                    },
+                    {
+                        "name": "Capture Tyranitar (Pokemon)",
+                        "ref": "Capture/Capture Tyranitar/Tyranitar (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Gliscor",
+                        "ref": "Capture/Capture Gliscor/Gliscor"
+                    },
+                    {
+                        "name": "Capture Gliscor (Pokemon)",
+                        "ref": "Capture/Capture Gliscor/Gliscor (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Aggron",
+                        "ref": "Capture/Capture Aggron/Aggron"
+                    },
+                    {
+                        "name": "Capture Aggron (Pokemon)",
+                        "ref": "Capture/Capture Aggron/Aggron (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Charizard",
+                        "ref": "Capture/Capture Charizard/Charizard"
+                    },
+                    {
+                        "name": "Capture Charizard (Pokemon)",
+                        "ref": "Capture/Capture Charizard/Charizard (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Drifblim",
+                        "ref": "Capture/Capture Drifblim/Drifblim"
+                    },
+                    {
+                        "name": "Capture Drifblim (Pokemon)",
+                        "ref": "Capture/Capture Drifblim/Drifblim (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Kangaskhan",
+                        "ref": "Capture/Capture Kangaskhan/Kangaskhan"
+                    },
+                    {
+                        "name": "Capture Kangaskhan (Pokemon)",
+                        "ref": "Capture/Capture Kangaskhan/Kangaskhan (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Banette",
+                        "ref": "Capture/Capture Banette/Banette"
+                    },
+                    {
+                        "name": "Capture Banette (Pokemon)",
+                        "ref": "Capture/Capture Banette/Banette (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Rhyperior",
+                        "ref": "Capture/Capture Rhyperior/Rhyperior"
+                    },
+                    {
+                        "name": "Capture Rhyperior (Pokemon)",
+                        "ref": "Capture/Capture Rhyperior/Rhyperior (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Houndoom",
+                        "ref": "Capture/Capture Houndoom/Houndoom"
+                    },
+                    {
+                        "name": "Capture Houndoom (Pokemon)",
+                        "ref": "Capture/Capture Houndoom/Houndoom (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Ariados",
+                        "ref": "Capture/Capture Ariados/Ariados"
+                    },
+                    {
+                        "name": "Capture Ariados (Pokemon)",
+                        "ref": "Capture/Capture Ariados/Ariados (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Gardevoir",
+                        "ref": "Capture/Capture Gardevoir/Gardevoir"
+                    },
+                    {
+                        "name": "Capture Gardevoir (Pokemon)",
+                        "ref": "Capture/Capture Gardevoir/Gardevoir (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Infernape",
+                        "ref": "Capture/Capture Infernape/Infernape"
+                    },
+                    {
+                        "name": "Capture Infernape (Pokemon)",
+                        "ref": "Capture/Capture Infernape/Infernape (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Drapion",
+                        "ref": "Capture/Capture Drapion/Drapion"
+                    },
+                    {
+                        "name": "Capture Drapion (Pokemon)",
+                        "ref": "Capture/Capture Drapion/Drapion (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Alakazam",
+                        "ref": "Capture/Capture Alakazam/Alakazam"
+                    },
+                    {
+                        "name": "Capture Alakazam (Pokemon)",
+                        "ref": "Capture/Capture Alakazam/Alakazam (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Honchkrow",
+                        "ref": "Capture/Capture Honchkrow/Honchkrow"
+                    },
+                    {
+                        "name": "Capture Honchkrow (Pokemon)",
+                        "ref": "Capture/Capture Honchkrow/Honchkrow (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Spiritomb",
+                        "ref": "Capture/Capture Spiritomb/Spiritomb"
+                    },
+                    {
+                        "name": "Capture Spiritomb (Pokemon)",
+                        "ref": "Capture/Capture Spiritomb/Spiritomb (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Mamoswine",
+                        "ref": "Capture/Capture Mamoswine/Mamoswine"
+                    },
+                    {
+                        "name": "Capture Mamoswine (Pokemon)",
+                        "ref": "Capture/Capture Mamoswine/Mamoswine (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Empoleon",
+                        "ref": "Capture/Capture Empoleon/Empoleon"
+                    },
+                    {
+                        "name": "Capture Empoleon (Pokemon)",
+                        "ref": "Capture/Capture Empoleon/Empoleon (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Abomasnow",
+                        "ref": "Capture/Capture Abomasnow/Abomasnow"
+                    },
+                    {
+                        "name": "Capture Abomasnow (Pokemon)",
+                        "ref": "Capture/Capture Abomasnow/Abomasnow (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Lucario",
+                        "ref": "Capture/Capture Lucario/Lucario"
+                    },
+                    {
+                        "name": "Capture Lucario (Pokemon)",
+                        "ref": "Capture/Capture Lucario/Lucario (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Salamence",
+                        "ref": "Capture/Capture Salamence/Salamence"
+                    },
+                    {
+                        "name": "Capture Salamence (Pokemon)",
+                        "ref": "Capture/Capture Salamence/Salamence (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Heatran",
+                        "ref": "Capture/Capture Heatran/Heatran"
+                    },
+                    {
+                        "name": "Capture Heatran (Pokemon)",
+                        "ref": "Capture/Capture Heatran/Heatran (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Cacturne",
+                        "ref": "Capture/Capture Cacturne/Cacturne"
+                    },
+                    {
+                        "name": "Capture Cacturne (Pokemon)",
+                        "ref": "Capture/Capture Cacturne/Cacturne (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Weavile",
+                        "ref": "Capture/Capture Weavile/Weavile"
+                    },
+                    {
+                        "name": "Capture Weavile (Pokemon)",
+                        "ref": "Capture/Capture Weavile/Weavile (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Gabite",
+                        "ref": "Capture/Capture Gabite/Gabite"
+                    },
+                    {
+                        "name": "Capture Gabite (Pokemon)",
+                        "ref": "Capture/Capture Gabite/Gabite (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Garchomp",
+                        "ref": "Capture/Capture Garchomp/Garchomp"
+                    },
+                    {
+                        "name": "Capture Garchomp (Pokemon)",
+                        "ref": "Capture/Capture Garchomp/Garchomp (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Cresselia",
+                        "ref": "Capture/Capture Cresselia/Cresselia"
+                    },
+                    {
+                        "name": "Capture Cresselia (Pokemon)",
+                        "ref": "Capture/Capture Cresselia/Cresselia (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Blaziken",
+                        "ref": "Capture/Capture Blaziken/Blaziken"
+                    },
+                    {
+                        "name": "Capture Blaziken (Pokemon)",
+                        "ref": "Capture/Capture Blaziken/Blaziken (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Absol",
+                        "ref": "Capture/Capture Absol/Absol"
+                    },
+                    {
+                        "name": "Capture Absol (Pokemon)",
+                        "ref": "Capture/Capture Absol/Absol (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Flygon",
+                        "ref": "Capture/Capture Flygon/Flygon"
+                    },
+                    {
+                        "name": "Capture Flygon (Pokemon)",
+                        "ref": "Capture/Capture Flygon/Flygon (Pokemon)"
+                    }
+            ],
+                "map_locations": [
+                    {
+                        "map": "Almia",
+                        "x": 144,
+                        "y": 504
+                    }
+                ]
+            },
+            {
+                "name": "Recover the Manaphy Egg!",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "Ranger Net,ManaphyM"
+                ],
+                "visibility_rules": [],
+                "sections": [   
+                    {
+                        "name": "Capture Pichu",
+                        "ref": "Capture/Capture Pichu/Pichu"
+                    },
+                    {
+                        "name": "Capture Pichu (Pokemon)",
+                        "ref": "Capture/Capture Pichu/Pichu (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Buneary",
+                        "ref": "Capture/Capture Buneary/Buneary"
+                    },
+                    {
+                        "name": "Capture Buneary (Pokemon)",
+                        "ref": "Capture/Capture Buneary/Buneary (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Glameow",
+                        "ref": "Capture/Capture Glameow/Glameow"
+                    },
+                    {
+                        "name": "Capture Glameow (Pokemon)",
+                        "ref": "Capture/Capture Glameow/Glameow (Pokemon)"
+                    },
+                    {
+                        "name": "Obtain a Manaphy Egg",
+                        "ref": "Capture/Obtain a Manaphy Egg/Manaphy Egg"
+                    },
+                    {
+                        "name": "Obtain a Manaphy Egg (Pokemon)",
+                        "ref": "Capture/Obtain a Manaphy Egg/Manaphy Egg (Pokemon)"
+                    }
+            ],
+                "map_locations": [
+                    {
+                        "map": "Almia",
+                        "x": 504,
+                        "y": 20
+                    }
+                ]
+            },
+            {
+                "name": "Rescue Kidnapped Riolu!",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "Ranger Net,RioluM"
+                ],
+                "visibility_rules": [],
+                "sections": [   
+                    {
+                        "name": "Capture Haunter",
+                        "ref": "Capture/Capture Haunter/Haunter"
+                    },
+                    {
+                        "name": "Capture Haunter (Pokemon)",
+                        "ref": "Capture/Capture Haunter/Haunter (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Tangrowth",
+                        "ref": "Capture/Capture Tangrowth/Tangrowth"
+                    },
+                    {
+                        "name": "Capture Tangrowth (Pokemon)",
+                        "ref": "Capture/Capture Tangrowth/Tangrowth (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Golem",
+                        "ref": "Capture/Capture Golem/Golem"
+                    },
+                    {
+                        "name": "Capture Golem (Pokemon)",
+                        "ref": "Capture/Capture Golem/Golem (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Luxray",
+                        "ref": "Capture/Capture Luxray/Luxray"
+                    },
+                    {
+                        "name": "Capture Luxray (Pokemon)",
+                        "ref": "Capture/Capture Luxray/Luxray (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Magneton",
+                        "ref": "Capture/Capture Magneton/Magneton"
+                    },
+                    {
+                        "name": "Capture Magneton (Pokemon)",
+                        "ref": "Capture/Capture Magneton/Magneton (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Arcanine",
+                        "ref": "Capture/Capture Arcanine/Arcanine"
+                    },
+                    {
+                        "name": "Capture Arcanine (Pokemon)",
+                        "ref": "Capture/Capture Arcanine/Arcanine (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Jolteon",
+                        "ref": "Capture/Capture Jolteon/Jolteon"
+                    },
+                    {
+                        "name": "Capture Jolteon (Pokemon)",
+                        "ref": "Capture/Capture Jolteon/Jolteon (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Houndour",
+                        "ref": "Capture/Capture Houndour/Houndour"
+                    },
+                    {
+                        "name": "Capture Houndour (Pokemon)",
+                        "ref": "Capture/Capture Houndour/Houndour (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Houndoom",
+                        "ref": "Capture/Capture Houndoom/Houndoom"
+                    },
+                    {
+                        "name": "Capture Houndoom (Pokemon)",
+                        "ref": "Capture/Capture Houndoom/Houndoom (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Honchkrow",
+                        "ref": "Capture/Capture Honchkrow/Honchkrow"
+                    },
+                    {
+                        "name": "Capture Honchkrow (Pokemon)",
+                        "ref": "Capture/Capture Honchkrow/Honchkrow (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Dusclops",
+                        "ref": "Capture/Capture Dusclops/Dusclops"
+                    },
+                    {
+                        "name": "Capture Dusclops (Pokemon)",
+                        "ref": "Capture/Capture Dusclops/Dusclops (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Riolu",
+                        "ref": "Capture/Capture Riolu/Riolu"
+                    },
+                    {
+                        "name": "Capture Riolu (Pokemon)",
+                        "ref": "Capture/Capture Riolu/Riolu (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Sceptile",
+                        "ref": "Capture/Capture Sceptile/Sceptile"
+                    },
+                    {
+                        "name": "Capture Sceptile (Pokemon)",
+                        "ref": "Capture/Capture Sceptile/Sceptile (Pokemon)"
+                    }
+            ],
+                "map_locations": [
+                    {
+                        "map": "Almia",
+                        "x": 552,
+                        "y": 20
+                    }
+                ]
+            },
+            {
+                "name": "Liberate the Tower!",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "Ranger Net,TowerM"
+                ],
+                "visibility_rules": [],
+                "sections": [   
+                    {
+                        "name": "Capture Swellow",
+                        "ref": "Capture/Capture Swellow/Swellow"
+                    },
+                    {
+                        "name": "Capture Swellow (Pokemon)",
+                        "ref": "Capture/Capture Swellow/Swellow (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Haunter",
+                        "ref": "Capture/Capture Haunter/Haunter"
+                    },
+                    {
+                        "name": "Capture Haunter (Pokemon)",
+                        "ref": "Capture/Capture Haunter/Haunter (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Gengar",
+                        "ref": "Capture/Capture Gengar/Gengar"
+                    },
+                    {
+                        "name": "Capture Gengar (Pokemon)",
+                        "ref": "Capture/Capture Gengar/Gengar (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Golem",
+                        "ref": "Capture/Capture Golem/Golem"
+                    },
+                    {
+                        "name": "Capture Golem (Pokemon)",
+                        "ref": "Capture/Capture Golem/Golem (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Luxray",
+                        "ref": "Capture/Capture Luxray/Luxray"
+                    },
+                    {
+                        "name": "Capture Luxray (Pokemon)",
+                        "ref": "Capture/Capture Luxray/Luxray (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Magneton",
+                        "ref": "Capture/Capture Magneton/Magneton"
+                    },
+                    {
+                        "name": "Capture Magneton (Pokemon)",
+                        "ref": "Capture/Capture Magneton/Magneton (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Growlithe",
+                        "ref": "Capture/Capture Growlithe/Growlithe"
+                    },
+                    {
+                        "name": "Capture Growlithe (Pokemon)",
+                        "ref": "Capture/Capture Growlithe/Growlithe (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Arcanine",
+                        "ref": "Capture/Capture Arcanine/Arcanine"
+                    },
+                    {
+                        "name": "Capture Arcanine (Pokemon)",
+                        "ref": "Capture/Capture Arcanine/Arcanine (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Electrode",
+                        "ref": "Capture/Capture Electrode/Electrode"
+                    },
+                    {
+                        "name": "Capture Electrode (Pokemon)",
+                        "ref": "Capture/Capture Electrode/Electrode (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Vaporeon",
+                        "ref": "Capture/Capture Vaporeon/Vaporeon"
+                    },
+                    {
+                        "name": "Capture Vaporeon (Pokemon)",
+                        "ref": "Capture/Capture Vaporeon/Vaporeon (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Ampharos",
+                        "ref": "Capture/Capture Ampharos/Ampharos"
+                    },
+                    {
+                        "name": "Capture Ampharos (Pokemon)",
+                        "ref": "Capture/Capture Ampharos/Ampharos (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Primeape",
+                        "ref": "Capture/Capture Primeape/Primeape"
+                    },
+                    {
+                        "name": "Capture Primeape (Pokemon)",
+                        "ref": "Capture/Capture Primeape/Primeape (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Gliscor",
+                        "ref": "Capture/Capture Gliscor/Gliscor"
+                    },
+                    {
+                        "name": "Capture Gliscor (Pokemon)",
+                        "ref": "Capture/Capture Gliscor/Gliscor (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Rhydon",
+                        "ref": "Capture/Capture Rhydon/Rhydon"
+                    },
+                    {
+                        "name": "Capture Rhydon (Pokemon)",
+                        "ref": "Capture/Capture Rhydon/Rhydon (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Ariados",
+                        "ref": "Capture/Capture Ariados/Ariados"
+                    },
+                    {
+                        "name": "Capture Ariados (Pokemon)",
+                        "ref": "Capture/Capture Ariados/Ariados (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Gardevoir",
+                        "ref": "Capture/Capture Gardevoir/Gardevoir"
+                    },
+                    {
+                        "name": "Capture Gardevoir (Pokemon)",
+                        "ref": "Capture/Capture Gardevoir/Gardevoir (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Drapion",
+                        "ref": "Capture/Capture Drapion/Drapion"
+                    },
+                    {
+                        "name": "Capture Drapion (Pokemon)",
+                        "ref": "Capture/Capture Drapion/Drapion (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Glalie",
+                        "ref": "Capture/Capture Glalie/Glalie"
+                    },
+                    {
+                        "name": "Capture Glalie (Pokemon)",
+                        "ref": "Capture/Capture Glalie/Glalie (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Scizor",
+                        "ref": "Capture/Capture Scizor/Scizor"
+                    },
+                    {
+                        "name": "Capture Scizor (Pokemon)",
+                        "ref": "Capture/Capture Scizor/Scizor (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Gabite",
+                        "ref": "Capture/Capture Gabite/Gabite"
+                    },
+                    {
+                        "name": "Capture Gabite (Pokemon)",
+                        "ref": "Capture/Capture Gabite/Gabite (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Blaziken",
+                        "ref": "Capture/Capture Blaziken/Blaziken"
+                    },
+                    {
+                        "name": "Capture Blaziken (Pokemon)",
+                        "ref": "Capture/Capture Blaziken/Blaziken (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Absol",
+                        "ref": "Capture/Capture Absol/Absol"
+                    },
+                    {
+                        "name": "Capture Absol (Pokemon)",
+                        "ref": "Capture/Capture Absol/Absol (Pokemon)"
+                    }
+            ],
+                "map_locations": [
+                    {
+                        "map": "Almia",
+                        "x": 600,
+                        "y": 20
+                    }
+                ]
+            },
+            {
+                "name": "Dialga in Hia Valley!?",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "Ranger Net,DialgaM"
+                ],
+                "visibility_rules": [],
+                "sections": [   
+                    {
+                        "name": "Capture Raichu",
+                        "ref": "Capture/Capture Raichu/Raichu"
+                    },
+                    {
+                        "name": "Capture Raichu (Pokemon)",
+                        "ref": "Capture/Capture Raichu/Raichu (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Haunter",
+                        "ref": "Capture/Capture Haunter/Haunter"
+                    },
+                    {
+                        "name": "Capture Haunter (Pokemon)",
+                        "ref": "Capture/Capture Haunter/Haunter (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Houndoom",
+                        "ref": "Capture/Capture Houndoom/Houndoom"
+                    },
+                    {
+                        "name": "Capture Houndoom (Pokemon)",
+                        "ref": "Capture/Capture Houndoom/Houndoom (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Vulpix",
+                        "ref": "Capture/Capture Vulpix/Vulpix"
+                    },
+                    {
+                        "name": "Capture Vulpix (Pokemon)",
+                        "ref": "Capture/Capture Vulpix/Vulpix (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Ninetales",
+                        "ref": "Capture/Capture Ninetales/Ninetales"
+                    },
+                    {
+                        "name": "Capture Ninetales (Pokemon)",
+                        "ref": "Capture/Capture Ninetales/Ninetales (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Walrein",
+                        "ref": "Capture/Capture Walrein/Walrein"
+                    },
+                    {
+                        "name": "Capture Walrein (Pokemon)",
+                        "ref": "Capture/Capture Walrein/Walrein (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Swinub",
+                        "ref": "Capture/Capture Swinub/Swinub"
+                    },
+                    {
+                        "name": "Capture Swinub (Pokemon)",
+                        "ref": "Capture/Capture Swinub/Swinub (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Piloswine",
+                        "ref": "Capture/Capture Piloswine/Piloswine"
+                    },
+                    {
+                        "name": "Capture Piloswine (Pokemon)",
+                        "ref": "Capture/Capture Piloswine/Piloswine (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Wigglytuff",
+                        "ref": "Capture/Capture Wigglytuff/Wigglytuff"
+                    },
+                    {
+                        "name": "Capture Wigglytuff (Pokemon)",
+                        "ref": "Capture/Capture Wigglytuff/Wigglytuff (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Glalie",
+                        "ref": "Capture/Capture Glalie/Glalie"
+                    },
+                    {
+                        "name": "Capture Glalie (Pokemon)",
+                        "ref": "Capture/Capture Glalie/Glalie (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Mismagius",
+                        "ref": "Capture/Capture Mismagius/Mismagius"
+                    },
+                    {
+                        "name": "Capture Mismagius (Pokemon)",
+                        "ref": "Capture/Capture Mismagius/Mismagius (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Riolu",
+                        "ref": "Capture/Capture Riolu/Riolu"
+                    },
+                    {
+                        "name": "Capture Riolu (Pokemon)",
+                        "ref": "Capture/Capture Riolu/Riolu (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Weavile",
+                        "ref": "Capture/Capture Weavile/Weavile"
+                    },
+                    {
+                        "name": "Capture Weavile (Pokemon)",
+                        "ref": "Capture/Capture Weavile/Weavile (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Dialga",
+                        "ref": "Capture/Capture Dialga/Dialga"
+                    },
+                    {
+                        "name": "Capture Dialga (Pokemon)",
+                        "ref": "Capture/Capture Dialga/Dialga (Pokemon)"
+                    }
+            ],
+                "map_locations": [
+                    {
+                        "map": "Almia",
+                        "x": 648,
+                        "y": 20
+                    }
+                ]
+            },
+            {
+                "name": "Palkia in Haruba Desert!?",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "Ranger Net,PalkiaM"
+                ],
+                "visibility_rules": [],
+                "sections": [   
+                    {
+                        "name": "Capture Raichu",
+                        "ref": "Capture/Capture Raichu/Raichu"
+                    },
+                    {
+                        "name": "Capture Raichu (Pokemon)",
+                        "ref": "Capture/Capture Raichu/Raichu (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Haunter",
+                        "ref": "Capture/Capture Haunter/Haunter"
+                    },
+                    {
+                        "name": "Capture Haunter (Pokemon)",
+                        "ref": "Capture/Capture Haunter/Haunter (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Lopunny",
+                        "ref": "Capture/Capture Lopunny/Lopunny"
+                    },
+                    {
+                        "name": "Capture Lopunny (Pokemon)",
+                        "ref": "Capture/Capture Lopunny/Lopunny (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Torterra",
+                        "ref": "Capture/Capture Torterra/Torterra"
+                    },
+                    {
+                        "name": "Capture Torterra (Pokemon)",
+                        "ref": "Capture/Capture Torterra/Torterra (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Floatzel",
+                        "ref": "Capture/Capture Floatzel/Floatzel"
+                    },
+                    {
+                        "name": "Capture Floatzel (Pokemon)",
+                        "ref": "Capture/Capture Floatzel/Floatzel (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Magneton",
+                        "ref": "Capture/Capture Magneton/Magneton"
+                    },
+                    {
+                        "name": "Capture Magneton (Pokemon)",
+                        "ref": "Capture/Capture Magneton/Magneton (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Arcanine",
+                        "ref": "Capture/Capture Arcanine/Arcanine"
+                    },
+                    {
+                        "name": "Capture Arcanine (Pokemon)",
+                        "ref": "Capture/Capture Arcanine/Arcanine (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Fearow",
+                        "ref": "Capture/Capture Fearow/Fearow"
+                    },
+                    {
+                        "name": "Capture Fearow (Pokemon)",
+                        "ref": "Capture/Capture Fearow/Fearow (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Vileplume",
+                        "ref": "Capture/Capture Vileplume/Vileplume"
+                    },
+                    {
+                        "name": "Capture Vileplume (Pokemon)",
+                        "ref": "Capture/Capture Vileplume/Vileplume (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Bellossom",
+                        "ref": "Capture/Capture Bellossom/Bellossom"
+                    },
+                    {
+                        "name": "Capture Bellossom (Pokemon)",
+                        "ref": "Capture/Capture Bellossom/Bellossom (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Primeape",
+                        "ref": "Capture/Capture Primeape/Primeape"
+                    },
+                    {
+                        "name": "Capture Primeape (Pokemon)",
+                        "ref": "Capture/Capture Primeape/Primeape (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Aggron",
+                        "ref": "Capture/Capture Aggron/Aggron"
+                    },
+                    {
+                        "name": "Capture Aggron (Pokemon)",
+                        "ref": "Capture/Capture Aggron/Aggron (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Carnivine",
+                        "ref": "Capture/Capture Carnivine/Carnivine"
+                    },
+                    {
+                        "name": "Capture Carnivine (Pokemon)",
+                        "ref": "Capture/Capture Carnivine/Carnivine (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Hypno",
+                        "ref": "Capture/Capture Hypno/Hypno"
+                    },
+                    {
+                        "name": "Capture Hypno (Pokemon)",
+                        "ref": "Capture/Capture Hypno/Hypno (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Rapidash",
+                        "ref": "Capture/Capture Rapidash/Rapidash"
+                    },
+                    {
+                        "name": "Capture Rapidash (Pokemon)",
+                        "ref": "Capture/Capture Rapidash/Rapidash (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Sableye",
+                        "ref": "Capture/Capture Sableye/Sableye"
+                    },
+                    {
+                        "name": "Capture Sableye (Pokemon)",
+                        "ref": "Capture/Capture Sableye/Sableye (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Sandshrew",
+                        "ref": "Capture/Capture Sandshrew/Sandshrew"
+                    },
+                    {
+                        "name": "Capture Sandshrew (Pokemon)",
+                        "ref": "Capture/Capture Sandshrew/Sandshrew (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Walrein",
+                        "ref": "Capture/Capture Walrein/Walrein"
+                    },
+                    {
+                        "name": "Capture Walrein (Pokemon)",
+                        "ref": "Capture/Capture Walrein/Walrein (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Swinub",
+                        "ref": "Capture/Capture Swinub/Swinub"
+                    },
+                    {
+                        "name": "Capture Swinub (Pokemon)",
+                        "ref": "Capture/Capture Swinub/Swinub (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Piloswine",
+                        "ref": "Capture/Capture Piloswine/Piloswine"
+                    },
+                    {
+                        "name": "Capture Piloswine (Pokemon)",
+                        "ref": "Capture/Capture Piloswine/Piloswine (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Jigglypuff",
+                        "ref": "Capture/Capture Jigglypuff/Jigglypuff"
+                    },
+                    {
+                        "name": "Capture Jigglypuff (Pokemon)",
+                        "ref": "Capture/Capture Jigglypuff/Jigglypuff (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Scizor",
+                        "ref": "Capture/Capture Scizor/Scizor"
+                    },
+                    {
+                        "name": "Capture Scizor (Pokemon)",
+                        "ref": "Capture/Capture Scizor/Scizor (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Cacturne",
+                        "ref": "Capture/Capture Cacturne/Cacturne"
+                    },
+                    {
+                        "name": "Capture Cacturne (Pokemon)",
+                        "ref": "Capture/Capture Cacturne/Cacturne (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Sceptile",
+                        "ref": "Capture/Capture Sceptile/Sceptile"
+                    },
+                    {
+                        "name": "Capture Sceptile (Pokemon)",
+                        "ref": "Capture/Capture Sceptile/Sceptile (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Altaria",
+                        "ref": "Capture/Capture Altaria/Altaria"
+                    },
+                    {
+                        "name": "Capture Altaria (Pokemon)",
+                        "ref": "Capture/Capture Altaria/Altaria (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Palkia",
+                        "ref": "Capture/Capture Palkia/Palkia"
+                    },
+                    {
+                        "name": "Capture Palkia (Pokemon)",
+                        "ref": "Capture/Capture Palkia/Palkia (Pokemon)"
+                    }
+            ],
+                "map_locations": [
+                    {
+                        "map": "Almia",
+                        "x": 696,
+                        "y": 20
+                    }
+                ]
+            },
+            {
+                "name": "For the Bride and Shaymin!",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "Ranger Net,ShayminM"
+                ],
+                "visibility_rules": [],
+                "sections": [   
+                    {
+                        "name": "Capture Pichu",
+                        "ref": "Capture/Capture Pichu/Pichu"
+                    },
+                    {
+                        "name": "Capture Pichu (Pokemon)",
+                        "ref": "Capture/Capture Pichu/Pichu (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Bibarel",
+                        "ref": "Capture/Capture Bibarel/Bibarel"
+                    },
+                    {
+                        "name": "Capture Bibarel (Pokemon)",
+                        "ref": "Capture/Capture Bibarel/Bibarel (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Roserade",
+                        "ref": "Capture/Capture Roserade/Roserade"
+                    },
+                    {
+                        "name": "Capture Roserade (Pokemon)",
+                        "ref": "Capture/Capture Roserade/Roserade (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Tyrogue",
+                        "ref": "Capture/Capture Tyrogue/Tyrogue"
+                    },
+                    {
+                        "name": "Capture Tyrogue (Pokemon)",
+                        "ref": "Capture/Capture Tyrogue/Tyrogue (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Magnemite",
+                        "ref": "Capture/Capture Magnemite/Magnemite"
+                    },
+                    {
+                        "name": "Capture Magnemite (Pokemon)",
+                        "ref": "Capture/Capture Magnemite/Magnemite (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Growlithe",
+                        "ref": "Capture/Capture Growlithe/Growlithe"
+                    },
+                    {
+                        "name": "Capture Growlithe (Pokemon)",
+                        "ref": "Capture/Capture Growlithe/Growlithe (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Rattata",
+                        "ref": "Capture/Capture Rattata/Rattata"
+                    },
+                    {
+                        "name": "Capture Rattata (Pokemon)",
+                        "ref": "Capture/Capture Rattata/Rattata (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Chatot",
+                        "ref": "Capture/Capture Chatot/Chatot"
+                    },
+                    {
+                        "name": "Capture Chatot (Pokemon)",
+                        "ref": "Capture/Capture Chatot/Chatot (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Elekid",
+                        "ref": "Capture/Capture Elekid/Elekid"
+                    },
+                    {
+                        "name": "Capture Elekid (Pokemon)",
+                        "ref": "Capture/Capture Elekid/Elekid (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Magby",
+                        "ref": "Capture/Capture Magby/Magby"
+                    },
+                    {
+                        "name": "Capture Magby (Pokemon)",
+                        "ref": "Capture/Capture Magby/Magby (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Voltorb",
+                        "ref": "Capture/Capture Voltorb/Voltorb"
+                    },
+                    {
+                        "name": "Capture Voltorb (Pokemon)",
+                        "ref": "Capture/Capture Voltorb/Voltorb (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Umbreon",
+                        "ref": "Capture/Capture Umbreon/Umbreon"
+                    },
+                    {
+                        "name": "Capture Umbreon (Pokemon)",
+                        "ref": "Capture/Capture Umbreon/Umbreon (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Bellossom",
+                        "ref": "Capture/Capture Bellossom/Bellossom"
+                    },
+                    {
+                        "name": "Capture Bellossom (Pokemon)",
+                        "ref": "Capture/Capture Bellossom/Bellossom (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Absol",
+                        "ref": "Capture/Capture Absol/Absol"
+                    },
+                    {
+                        "name": "Capture Absol (Pokemon)",
+                        "ref": "Capture/Capture Absol/Absol (Pokemon)"
+                    },
+                    {
+                        "name": "Capture Shaymin",
+                        "ref": "Capture/Capture Shaymin/Shaymin"
+                    },
+                    {
+                        "name": "Capture Shaymin (Pokemon)",
+                        "ref": "Capture/Capture Shaymin/Shaymin (Pokemon)"
+                    }
+            ],
+                "map_locations": [
+                    {
+                        "map": "Almia",
+                        "x": 744,
+                        "y": 20
                     }
                 ]
             }

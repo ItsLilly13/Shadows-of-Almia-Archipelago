@@ -1,6 +1,8 @@
 
 local variant = Tracker.ActiveVariantUID
 
+IS_ITEMS_ONLY = Tracker.ActiveVariantUID == "z_item_only"
+
 -- Logic
 ScriptHost:LoadScript("scripts/logic.lua")
 
@@ -10,17 +12,20 @@ ScriptHost:LoadScript("scripts/utils.lua")
 
 -- Items
 Tracker:AddItems("items/items.json")
-Tracker:AddItems("items/options.jsonc")
 
--- Locations
-Tracker:AddMaps("maps/maps.json")
-ScriptHost:LoadScript("scripts/locations_import.lua")
+
+
+if not IS_ITEMS_ONLY then
+    Tracker:AddMaps("maps/maps.json")
+    ScriptHost:LoadScript("scripts/locations_import.lua")
+    Tracker:AddLayouts("layouts/options.jsonc")
+    Tracker:AddItems("items/options.jsonc")
+    Tracker:AddLayouts("layouts/tabs.jsonc")
+end
 
 -- Layout
 Tracker:AddLayouts("layouts/broadcast.json")
 Tracker:AddLayouts("layouts/items.json")
-Tracker:AddLayouts("layouts/options.jsonc")
-Tracker:AddLayouts("layouts/tabs.jsonc")
 Tracker:AddLayouts("layouts/tracker.json")
 
 -- AutoTracking for Poptracker

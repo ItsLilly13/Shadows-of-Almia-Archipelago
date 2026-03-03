@@ -802,7 +802,7 @@
         "name": "Sudowoodo",
         "access_rules": [
             "@Chroma Road Capture,Chroma Road Permit,Soak", 
-            "@Haruba Village Capture,Haruba Village Permit"
+            "@Haruba Village Capture,Haruba Village Permit,Soak"
         ]
     },
 {
@@ -1151,7 +1151,8 @@
         "name": "Pelipper",
         "access_rules": [
             "@Volcano Cave F2 Capture,Volcano Cave Permit", 
-            "@Volcano Cave F3 Capture,Volcano Cave Permit"
+            "@Volcano Cave F3 Capture,Volcano Cave Permit",
+            "@Haruba Village Capture,Haruba Village Permit"
         ]
     },
 {

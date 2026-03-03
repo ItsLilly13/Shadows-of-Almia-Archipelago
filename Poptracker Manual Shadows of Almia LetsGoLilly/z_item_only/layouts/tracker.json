@@ -95,15 +95,11 @@
                             }
                         }
                     ]
-                },
-                {
-                    "type": "dock",
-                    "content": {
-                        "type": "layout",
-                        "key": "tabbed_maps_horizontal"
-                    }
                 }
             ]
         }
     }
 }
+
+        
+    

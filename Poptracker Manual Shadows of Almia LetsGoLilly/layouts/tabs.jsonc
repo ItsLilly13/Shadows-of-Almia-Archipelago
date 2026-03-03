@@ -13,26 +13,8 @@
                 }
             },
             {
-                "title": "Almia Browser",
-                "icon": "images/options/red.png",
-                "content": {
-                    "type": "dock",
-                    "content": [
-                        {
-                            "type": "tabbed",
-                            "dock": "top",
-                                "content": {
-                                    "type": "layout",
-                                    "key": "almia_browser"
-                                }
-                            
-                        }
-                    ]
-                }
-            },
-            {
                 "title": "Vien Area",
-                "icon": "images/options/blue.png",
+                "icon": "images/options/red.png",
                 "content": {
                     "type": "tabbed",
                     "tabs": [
@@ -111,7 +93,7 @@
             },
             {
                 "title": "School Area",
-                "icon": "images/options/red.png",
+                "icon": "images/options/blue.png",
                 "content": {
                     "type": "tabbed",
                     "tabs": [
@@ -150,7 +132,7 @@
             },
             {
                 "title": "Altru Area",
-                "icon": "images/options/blue.png",
+                "icon": "images/options/red.png",
                 "content": {
                     "type": "tabbed",
                     "tabs": [
@@ -199,7 +181,7 @@
             },
             {
                 "title": "Chroma Area",
-                "icon": "images/options/red.png",
+                "icon": "images/options/blue.png",
                 "content": {
                     "type": "tabbed",
                     "tabs": [
@@ -268,7 +250,7 @@
             },
             {
                 "title": "Ranger Area",
-                "icon": "images/options/blue.png",
+                "icon": "images/options/red.png",
                 "content": {
                     "type": "tabbed",
                     "tabs": [
@@ -327,7 +309,7 @@
             },
             {
                 "title": "Hia Area",
-                "icon": "images/options/red.png",
+                "icon": "images/options/blue.png",
                 "content": {
                     "type": "tabbed",
                     "tabs": [
@@ -408,6 +390,95 @@
                                             ]
                                         }
                                     }
+                                ]
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "title": "Boyle & Haruba Area",
+                "icon": "images/options/red.png",
+                "content": {
+                    "type": "tabbed",
+                    "tabs": [
+                        {
+                            "title": "Boyleland",
+                            "icon": "images/pokemon/078 Wingull.png",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Boyleland"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Volcano Cave",
+                            "icon": "images/pokemon/142 Drifloon.png",
+                            "content": {
+                                "type": "tabbed",
+                                "tabs": [
+                        
+                                    {
+                                        "title": "Volcano Cave F1",
+                                        "icon": "images/pokemon/142 Drifloon.png",
+                                        "content": {
+                                            "type": "map",
+                                            "maps": [
+                                                "Volcano Cave F1"
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "title": "Volcano Cave F2",
+                                        "icon": "images/pokemon/170 Infernape.png",
+                                        "content": {
+                                            "type": "map",
+                                            "maps": [
+                                                "Volcano Cave F2"
+                                            ]
+                                        }
+                                    },
+                                    {
+                                        "title": "Volcano Cave F3",
+                                        "icon": "images/pokemon/139 Charizard.png",
+                                        "content": {
+                                            "type": "map",
+                                            "maps": [
+                                                "Volcano Cave F3"
+                                            ]
+                                        }
+                                    }
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Haruba Village",
+                            "icon": "images/pokemon/031 Sudowoodo.png",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Haruba Village"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Haruba Desert",
+                            "icon": "images/pokemon/247 Hippowdon.png",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Haruba Desert"
+                                ]
+                            }
+                        },
+                        {
+                            "title": "Hippowdon Temple",
+                            "icon": "images/pokemon/192 Dusknoir.png",
+                            "content": {
+                                "type": "map",
+                                "maps": [
+                                    "Hippowdon Temple"
                                 ]
                             }
                         }
@@ -524,97 +595,8 @@
                 }
             },
             {
-                "title": "Boyle & Haruba Area",
-                "icon": "images/options/red.png",
-                "content": {
-                    "type": "tabbed",
-                    "tabs": [
-                        {
-                            "title": "Boyleland",
-                            "icon": "images/pokemon/078 Wingull.png",
-                            "content": {
-                                "type": "map",
-                                "maps": [
-                                    "Boyleland"
-                                ]
-                            }
-                        },
-                        {
-                            "title": "Volcano Cave",
-                            "icon": "images/pokemon/142 Drifloon.png",
-                            "content": {
-                                "type": "tabbed",
-                                "tabs": [
-                        
-                                    {
-                                        "title": "Volcano Cave F1",
-                                        "icon": "images/pokemon/142 Drifloon.png",
-                                        "content": {
-                                            "type": "map",
-                                            "maps": [
-                                                "Volcano Cave F1"
-                                            ]
-                                        }
-                                    },
-                                    {
-                                        "title": "Volcano Cave F2",
-                                        "icon": "images/pokemon/170 Infernape.png",
-                                        "content": {
-                                            "type": "map",
-                                            "maps": [
-                                                "Volcano Cave F2"
-                                            ]
-                                        }
-                                    },
-                                    {
-                                        "title": "Volcano Cave F3",
-                                        "icon": "images/pokemon/139 Charizard.png",
-                                        "content": {
-                                            "type": "map",
-                                            "maps": [
-                                                "Volcano Cave F3"
-                                            ]
-                                        }
-                                    }
-                                ]
-                            }
-                        },
-                        {
-                            "title": "Haruba Village",
-                            "icon": "images/pokemon/031 Sudowoodo.png",
-                            "content": {
-                                "type": "map",
-                                "maps": [
-                                    "Haruba Village"
-                                ]
-                            }
-                        },
-                        {
-                            "title": "Haruba Desert",
-                            "icon": "images/pokemon/247 Hippowdon.png",
-                            "content": {
-                                "type": "map",
-                                "maps": [
-                                    "Haruba Desert"
-                                ]
-                            }
-                        },
-                        {
-                            "title": "Hippowdon Temple",
-                            "icon": "images/pokemon/192 Dusknoir.png",
-                            "content": {
-                                "type": "map",
-                                "maps": [
-                                    "Hippowdon Temple"
-                                ]
-                            }
-                        }
-                    ]
-                }
-            },
-            {
                 "title": "Missions",
-                "icon": "images/options/blue.png",
+                "icon": "images/options/red.png",
                 "visibility_rules":[],
                 "content": {
                     "type": "tabbed",
@@ -678,6 +660,25 @@
                                     "Shaymin Mission"
                                 ]
                             }
+                        }
+                    ]
+                }
+            },
+            {
+                "title": "Almia Browser",
+                "icon": "images/options/Almia Browser.png",
+                "visibility_rules":[],
+                "content": {
+                    "type": "dock",
+                    "content": [
+                        {
+                            "type": "tabbed",
+                            "dock": "top",
+                                "content": {
+                                    "type": "layout",
+                                    "key": "almia_browser"
+                                }
+                            
                         }
                     ]
                 }

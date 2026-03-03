@@ -2004,6 +2004,16 @@
                         "map": "Pueltown",
                         "x": 545,
                         "y": 830
+                    },
+                    {
+                        "map": "Manaphy Mission",
+                        "x": 270,
+                        "y": 175
+                    },
+                    {
+                        "map": "Shaymin Mission",
+                        "x": 545,
+                        "y": 830
                     }
                 ]
             },
@@ -2088,6 +2098,71 @@
                         "map": "Chroma Road",
                         "x": 1183,
                         "y": 480
+                    },
+                    {
+                        "map": "Chroma Highlands",
+                        "x": 790,
+                        "y": 1310
+                    },
+                    {
+                        "map": "Chroma Highlands",
+                        "x": 1245,
+                        "y": 1395
+                    },
+                    {
+                        "map": "Upper Chroma Ruins",
+                        "x": 300,
+                        "y": 810
+                    },
+                    {
+                        "map": "Upper Chroma Ruins",
+                        "x": 1510,
+                        "y": 1035
+                    },
+                    {
+                        "map": "Middle Chroma Ruins",
+                        "x": 180,
+                        "y": 485
+                    },
+                    {
+                        "map": "Middle Chroma Ruins",
+                        "x": 540,
+                        "y": 1565
+                    },
+                    {
+                        "map": "Lower Chroma Ruins",
+                        "x": 230,
+                        "y": 945
+                    },
+                    {
+                        "map": "Lower Chroma Ruins",
+                        "x": 405,
+                        "y": 1180
+                    },
+                    {
+                        "map": "Lower Chroma Ruins",
+                        "x": 1648,
+                        "y": 1310
+                    },
+                    {
+                        "map": "Volcano Cave F1",
+                        "x": 1177,
+                        "y": 1195
+                    },
+                    {
+                        "map": "Volcano Cave F1",
+                        "x": 425,
+                        "y": 1285
+                    },
+                    {
+                        "map": "Volcano Cave F1",
+                        "x": 462,
+                        "y": 400
+                    },
+                    {
+                        "map": "Volcano Cave F1",
+                        "x": 220,
+                        "y": 130
                     }
                 ]
             },
@@ -2142,6 +2217,46 @@
                         "map": "Almia Castle F3",
                         "x": 193,
                         "y": 1490
+                    },
+                    {
+                        "map": "Volcano Cave F1",
+                        "x": 2315,
+                        "y": 1770
+                    },
+                    {
+                        "map": "Volcano Cave F2",
+                        "x": 442,
+                        "y": 280
+                    },
+                    {
+                        "map": "Volcano Cave F2",
+                        "x": 2043,
+                        "y": 930
+                    },
+                    {
+                        "map": "Volcano Cave F3",
+                        "x": 260,
+                        "y": 1140
+                    },
+                    {
+                        "map": "Dialga Mission",
+                        "x": 235,
+                        "y": 1085
+                    },
+                    {
+                        "map": "Dialga Mission",
+                        "x": 1360,
+                        "y": 575
+                    },
+                    {
+                        "map": "Dialga Mission",
+                        "x": 1678,
+                        "y": 740
+                    },
+                    {
+                        "map": "Palkia Mission",
+                        "x": 1245,
+                        "y": 265
                     }
                 ]
             },
@@ -2255,6 +2370,26 @@
                         "map": "Union Road",
                         "x": 215,
                         "y": 370
+                    },
+                    {
+                        "map": "Shaymin Mission",
+                        "x": 355,
+                        "y": 415
+                    },
+                    {
+                        "map": "Shaymin Mission",
+                        "x": 1845,
+                        "y": 405
+                    },
+                    {
+                        "map": "Shaymin Mission",
+                        "x": 2190,
+                        "y": 325
+                    },
+                    {
+                        "map": "Shaymin Mission",
+                        "x": 1940,
+                        "y": 925
                     }
                 ]
             },
@@ -2353,6 +2488,16 @@
                         "map": "Union Road",
                         "x": 1693,
                         "y": 390
+                    },
+                    {
+                        "map": "Capture Arena",
+                        "x": 2775,
+                        "y": 1040
+                    },
+                    {
+                        "map": "Tower Mission",
+                        "x": 850,
+                        "y": 1010
                     }
                 ]
             },
@@ -2480,6 +2625,11 @@
                         "map": "Vien Forest River",
                         "x": 510,
                         "y": 1640
+                    },
+                    {
+                        "map": "Shaymin Mission",
+                        "x": 2123,
+                        "y": 460
                     }
                 ]
             },
@@ -2729,6 +2879,11 @@
                         "map": "Altru Building",
                         "x": 685,
                         "y": 600
+                    },
+                    {
+                        "map": "Capture Arena",
+                        "x": 80,
+                        "y": 480
                     }
                 ]
             },
@@ -2807,6 +2962,56 @@
                         "map": "Almia Castle F2",
                         "x": 1860,
                         "y": 1440
+                    },
+                    {
+                        "map": "Oil Field Hideout F1",
+                        "x": 2040,
+                        "y": 835
+                    },
+                    {
+                        "map": "Oil Field Hideout F1",
+                        "x": 1955,
+                        "y": 720
+                    },
+                    {
+                        "map": "Oil Field Hideout F1",
+                        "x": 618,
+                        "y": 1035
+                    },
+                    {
+                        "map": "Riolu Mission",
+                        "x": 493,
+                        "y": 195
+                    },
+                    {
+                        "map": "Riolu Mission",
+                        "x": 595,
+                        "y": 195
+                    },
+                    {
+                        "map": "Tower Mission",
+                        "x": 2590,
+                        "y": 1010
+                    },
+                    {
+                        "map": "Tower Mission",
+                        "x": 2660,
+                        "y": 1010
+                    },
+                    {
+                        "map": "Dialga Mission",
+                        "x": 78,
+                        "y": 1350
+                    },
+                    {
+                        "map": "Dialga Mission",
+                        "x": 1210,
+                        "y": 1370
+                    },
+                    {
+                        "map": "Palkia Mission",
+                        "x": 1440,
+                        "y": 1770
                     }
                 ]
             },
@@ -2846,6 +3051,26 @@
                         "map": "Altru Tower",
                         "x": 475,
                         "y": 330
+                    },
+                    {
+                        "map": "Capture Arena",
+                        "x": 790,
+                        "y": 565
+                    },
+                    {
+                        "map": "Hippowdon Temple",
+                        "x": 1700,
+                        "y": 1510
+                    },
+                    {
+                        "map": "Tower Mission",
+                        "x": 2625,
+                        "y": 1038
+                    },
+                    {
+                        "map": "Tower Mission",
+                        "x": 1287,
+                        "y": 495
                     }
                 ]
             },
@@ -2885,6 +3110,16 @@
                         "map": "Upper Vien Forest",
                         "x": 1563,
                         "y": 1085
+                    },
+                    {
+                        "map": "Manaphy Mission",
+                        "x": 515,
+                        "y": 1075
+                    },
+                    {
+                        "map": "Manaphy Mission",
+                        "x": 460,
+                        "y": 925
                     }
                 ]
             },
@@ -2919,6 +3154,11 @@
                         "map": "Vien Forest River",
                         "x": 1070,
                         "y": 440
+                    },
+                    {
+                        "map": "Palkia Mission",
+                        "x": 1230,
+                        "y": 1070
                     }
                 ]
             },
@@ -3086,6 +3326,36 @@
                         "map": "Chroma Road",
                         "x": 330,
                         "y": 1070
+                    },
+                    {
+                        "map": "Chroma Highlands",
+                        "x": 290,
+                        "y": 305
+                    },
+                    {
+                        "map": "Oil Field Hideout F1",
+                        "x": 1980,
+                        "y": 250
+                    },
+                    {
+                        "map": "Capture Arena",
+                        "x": 470,
+                        "y": 1020
+                    },
+                    {
+                        "map": "Boyleland",
+                        "x": 765,
+                        "y": 870
+                    },
+                    {
+                        "map": "Haruba Desert",
+                        "x": 80,
+                        "y": 775
+                    },
+                    {
+                        "map": "Haruba Desert",
+                        "x": 1835,
+                        "y": 375
                     }
                 ]
             },
@@ -3141,9 +3411,14 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 2213,
-                        "y": 495
+                        "map": "Volcano Cave F1",
+                        "x": 2465,
+                        "y": 2250
+                    },
+                    {
+                        "map": "Volcano Cave F2",
+                        "x": 1900,
+                        "y": 425
                     }
                 ]
             },
@@ -3207,6 +3482,11 @@
                         "map": "Chroma Road",
                         "x": 575,
                         "y": 410
+                    },
+                    {
+                        "map": "Haruba Village",
+                        "x": 220,
+                        "y": 180
                     }
                 ]
             },
@@ -3333,6 +3613,11 @@
                         "map": "Vien Forest River",
                         "x": 320,
                         "y": 760
+                    },
+                    {
+                        "map": "Capture Arena",
+                        "x": 1095,
+                        "y": 565
                     }
                 ]
             },
@@ -3362,6 +3647,21 @@
                         "map": "Ranger School",
                         "x": 1265,
                         "y": 800
+                    },
+                    {
+                        "map": "Capture Arena",
+                        "x": 2325,
+                        "y": 750
+                    },
+                    {
+                        "map": "Riolu Mission",
+                        "x": 165,
+                        "y": 230
+                    },
+                    {
+                        "map": "Riolu Mission",
+                        "x": 265,
+                        "y": 230
                     }
                 ]
             },
@@ -3445,6 +3745,31 @@
                         "map": "Marine Cave",
                         "x": 1055,
                         "y": 200
+                    },
+                    {
+                        "map": "Volcano Cave F1",
+                        "x": 720,
+                        "y": 1990
+                    },
+                    {
+                        "map": "Volcano Cave F1",
+                        "x": 830,
+                        "y": 2010
+                    },
+                    {
+                        "map": "Volcano Cave F1",
+                        "x": 2340,
+                        "y": 1380
+                    },
+                    {
+                        "map": "Volcano Cave F1",
+                        "x": 2433,
+                        "y": 1380
+                    },
+                    {
+                        "map": "Volcano Cave F1",
+                        "x": 2380,
+                        "y": 1285
                     }
                 ]
             },
@@ -3474,6 +3799,11 @@
                         "map": "Vientown",
                         "x": 185,
                         "y": 250
+                    },
+                    {
+                        "map": "Manaphy Mission",
+                        "x": 327,
+                        "y": 175
                     }
                 ]
             },
@@ -3586,6 +3916,11 @@
                         "map": "Lower Peril Cliffs",
                         "x": 1498,
                         "y": 885
+                    },
+                    {
+                        "map": "Volcano Cave F2",
+                        "x": 2045,
+                        "y": 765
                     }
                 ]
             },
@@ -3615,6 +3950,36 @@
                         "map": "Altru Tower",
                         "x": 775,
                         "y": 1095
+                    },
+                    {
+                        "map": "Hippowdon Temple",
+                        "x": 290,
+                        "y": 1750
+                    },
+                    {
+                        "map": "Hippowdon Temple",
+                        "x": 175,
+                        "y": 1655
+                    },
+                    {
+                        "map": "Hippowdon Temple",
+                        "x": 170,
+                        "y": 1515
+                    },
+                    {
+                        "map": "Hippowdon Temple",
+                        "x": 222,
+                        "y": 1385
+                    },
+                    {
+                        "map": "Riolu Mission",
+                        "x": 435,
+                        "y": 1000
+                    },
+                    {
+                        "map": "Tower Mission",
+                        "x": 2025,
+                        "y": 1100
                     }
                 ]
             },
@@ -3644,6 +4009,11 @@
                         "map": "Marine Cave",
                         "x": 940,
                         "y": 485
+                    },
+                    {
+                        "map": "Middle Chroma Ruins",
+                        "x": 490,
+                        "y": 770
                     }
                 ]
             },
@@ -3883,6 +4253,11 @@
                         "map": "Vien Forest River",
                         "x": 595,
                         "y": 1200
+                    },
+                    {
+                        "map": "Oil Field Hideout F1",
+                        "x": 1500,
+                        "y": 700
                     }
                 ]
             },
@@ -3909,9 +4284,34 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 1311,
-                        "y": 1278
+                        "map": "Oil Field Hideout F1",
+                        "x": 1805,
+                        "y": 830
+                    },
+                    {
+                        "map": "Oil Field Hideout F2",
+                        "x": 113,
+                        "y": 1090
+                    },
+                    {
+                        "map": "Oil Field Hideout F2",
+                        "x": 985,
+                        "y": 1120
+                    },
+                    {
+                        "map": "Riolu Mission",
+                        "x": 910,
+                        "y": 445
+                    },
+                    {
+                        "map": "Riolu Mission",
+                        "x": 435,
+                        "y": 1475
+                    },
+                    {
+                        "map": "Tower Mission",
+                        "x": 1045,
+                        "y": 295
                     }
                 ]
             },
@@ -3980,6 +4380,16 @@
                         "map": "Vien Forest River",
                         "x": 550,
                         "y": 850
+                    },
+                    {
+                        "map": "Capture Arena",
+                        "x": 2605,
+                        "y": 250
+                    },
+                    {
+                        "map": "Palkia Mission",
+                        "x": 1165,
+                        "y": 440
                     }
                 ]
             },
@@ -4083,6 +4493,11 @@
                         "map": "Crysta Cave",
                         "x": 572,
                         "y": 1135
+                    },
+                    {
+                        "map": "Palkia Mission",
+                        "x": 325,
+                        "y": 1540
                     }
                 ]
             },
@@ -4166,6 +4581,11 @@
                         "map": "Upper Vien Forest",
                         "x": 1135,
                         "y": 450
+                    },
+                    {
+                        "map": "Chroma Highlands",
+                        "x": 213,
+                        "y": 720
                     }
                 ]
             },
@@ -4283,6 +4703,16 @@
                         "map": "Pueltown",
                         "x": 417,
                         "y": 745
+                    },
+                    {
+                        "map": "Shaymin Mission",
+                        "x": 915,
+                        "y": 670
+                    },
+                    {
+                        "map": "Shaymin Mission",
+                        "x": 417,
+                        "y": 745
                     }
                 ]
             },
@@ -4367,6 +4797,16 @@
                         "map": "Upper Peril Cliffs",
                         "x": 1145,
                         "y": 755
+                    },
+                    {
+                        "map": "Volcano Cave F1",
+                        "x": 1555,
+                        "y": 2280
+                    },
+                    {
+                        "map": "Shaymin Mission",
+                        "x": 945,
+                        "y": 1145
                     }
                 ]
             },
@@ -4421,6 +4861,126 @@
                         "map": "Altru Tower",
                         "x": 845,
                         "y": 360
+                    },
+                    {
+                        "map": "Oil Field Hideout F1",
+                        "x": 2222,
+                        "y": 1075
+                    },
+                    {
+                        "map": "Oil Field Hideout F1",
+                        "x": 1625,
+                        "y": 1278
+                    },
+                    {
+                        "map": "Oil Field Hideout F1",
+                        "x": 770,
+                        "y": 1375
+                    },
+                    {
+                        "map": "Oil Field Hideout F1",
+                        "x": 65,
+                        "y": 1177
+                    },
+                    {
+                        "map": "Oil Field Hideout F2",
+                        "x": 933,
+                        "y": 830
+                    },
+                    {
+                        "map": "Oil Field Hideout F2",
+                        "x": 425,
+                        "y": 845
+                    },
+                    {
+                        "map": "Haruba Desert",
+                        "x": 1695,
+                        "y": 350
+                    },
+                    {
+                        "map": "Hippowdon Temple",
+                        "x": 910,
+                        "y": 1025
+                    },
+                    {
+                        "map": "Hippowdon Temple",
+                        "x": 1580,
+                        "y": 1780
+                    },
+                    {
+                        "map": "Hippowdon Temple",
+                        "x": 2320,
+                        "y": 475
+                    },
+                    {
+                        "map": "Riolu Mission",
+                        "x": 1415,
+                        "y": 225
+                    },
+                    {
+                        "map": "Riolu Mission",
+                        "x": 810,
+                        "y": 455
+                    },
+                    {
+                        "map": "Riolu Mission",
+                        "x": 205,
+                        "y": 1255
+                    },
+                    {
+                        "map": "Riolu Mission",
+                        "x": 735,
+                        "y": 1225
+                    },
+                    {
+                        "map": "Riolu Mission",
+                        "x": 835,
+                        "y": 1460
+                    },
+                    {
+                        "map": "Riolu Mission",
+                        "x": 1255,
+                        "y": 1230
+                    },
+                    {
+                        "map": "Tower Mission",
+                        "x": 532,
+                        "y": 780
+                    },
+                    {
+                        "map": "Tower Mission",
+                        "x": 1385,
+                        "y": 930
+                    },
+                    {
+                        "map": "Tower Mission",
+                        "x": 2365,
+                        "y": 915
+                    },
+                    {
+                        "map": "Tower Mission",
+                        "x": 1800,
+                        "y": 400
+                    },
+                    {
+                        "map": "Tower Mission",
+                        "x": 1933,
+                        "y": 345
+                    },
+                    {
+                        "map": "Palkia Mission",
+                        "x": 272,
+                        "y": 900
+                    },
+                    {
+                        "map": "Palkia Mission",
+                        "x": 1893,
+                        "y": 2050
+                    },
+                    {
+                        "map": "Palkia Mission",
+                        "x": 2265,
+                        "y": 430
                     }
                 ]
             },
@@ -4489,6 +5049,21 @@
                         "map": "Union Road",
                         "x": 497,
                         "y": 240
+                    },
+                    {
+                        "map": "Tower Mission",
+                        "x": 2495,
+                        "y": 800
+                    },
+                    {
+                        "map": "Tower Mission",
+                        "x": 2518,
+                        "y": 840
+                    },
+                    {
+                        "map": "Shaymin Mission",
+                        "x": 1180,
+                        "y": 1075
                     }
                 ]
             },
@@ -4518,6 +5093,26 @@
                         "map": "Altru Tower",
                         "x": 1120,
                         "y": 865
+                    },
+                    {
+                        "map": "Oil Field Hideout F2",
+                        "x": 700,
+                        "y": 1095
+                    },
+                    {
+                        "map": "Riolu Mission",
+                        "x": 1000,
+                        "y": 1500
+                    },
+                    {
+                        "map": "Tower Mission",
+                        "x": 2560,
+                        "y": 815
+                    },
+                    {
+                        "map": "Palkia Mission",
+                        "x": 360,
+                        "y": 1660
                     }
                 ]
             },
@@ -4565,6 +5160,16 @@
                     },
                     {
                         "map": "Pueltown",
+                        "x": 1210,
+                        "y": 910
+                    },
+                    {
+                        "map": "Shaymin Mission",
+                        "x": 905,
+                        "y": 945
+                    },
+                    {
+                        "map": "Shaymin Mission",
                         "x": 1210,
                         "y": 910
                     }
@@ -4665,6 +5270,21 @@
                         "map": "Pueltown",
                         "x": 265,
                         "y": 750
+                    },
+                    {
+                        "map": "Shaymin Mission",
+                        "x": 525,
+                        "y": 450
+                    },
+                    {
+                        "map": "Shaymin Mission",
+                        "x": 1105,
+                        "y": 665
+                    },
+                    {
+                        "map": "Shaymin Mission",
+                        "x": 265,
+                        "y": 750
                     }
                 ]
             },
@@ -4709,6 +5329,21 @@
                         "map": "Pueltown",
                         "x": 1335,
                         "y": 735
+                    },
+                    {
+                        "map": "Shaymin Mission",
+                        "x": 1668,
+                        "y": 720
+                    },
+                    {
+                        "map": "Shaymin Mission",
+                        "x": 2110,
+                        "y": 645
+                    },
+                    {
+                        "map": "Shaymin Mission",
+                        "x": 1558,
+                        "y": 1120
                     }
                 ]
             },
@@ -4748,6 +5383,11 @@
                         "map": "Altru Building",
                         "x": 1350,
                         "y": 235
+                    },
+                    {
+                        "map": "Upper Chroma Ruins",
+                        "x": 898,
+                        "y": 545
                     }
                 ]
             },
@@ -4774,9 +5414,14 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 402,
-                        "y": 2453
+                        "map": "Oil Field Hideout F2",
+                        "x": 930,
+                        "y": 240
+                    },
+                    {
+                        "map": "Capture Arena",
+                        "x": 1940,
+                        "y": 250
                     }
                 ]
             },
@@ -4826,6 +5471,31 @@
                         "map": "Pueltown",
                         "x": 508,
                         "y": 965
+                    },
+                    {
+                        "map": "Shaymin Mission",
+                        "x": 1970,
+                        "y": 780
+                    },
+                    {
+                        "map": "Shaymin Mission",
+                        "x": 2045,
+                        "y": 330
+                    },
+                    {
+                        "map": "Shaymin Mission",
+                        "x": 1595,
+                        "y": 305
+                    },
+                    {
+                        "map": "Shaymin Mission",
+                        "x": 415,
+                        "y": 570
+                    },
+                    {
+                        "map": "Shaymin Mission",
+                        "x": 508,
+                        "y": 965
                     }
                 ]
             },
@@ -4855,6 +5525,21 @@
                         "map": "Cargo Ship",
                         "x": 1005,
                         "y": 115
+                    },
+                    {
+                        "map": "Volcano Cave F1",
+                        "x": 775,
+                        "y": 1170
+                    },
+                    {
+                        "map": "Volcano Cave F1",
+                        "x": 1545,
+                        "y": 1325
+                    },
+                    {
+                        "map": "Volcano Cave F1",
+                        "x": 740,
+                        "y": 900
                     }
                 ]
             },
@@ -4881,9 +5566,14 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 2450,
-                        "y": 871
+                        "map": "Capture Arena",
+                        "x": 1880,
+                        "y": 250
+                    },
+                    {
+                        "map": "Volcano Cave F1",
+                        "x": 1235,
+                        "y": 1530
                     }
                 ]
             },
@@ -4923,6 +5613,11 @@
                         "map": "Pueltown",
                         "x": 190,
                         "y": 1050
+                    },
+                    {
+                        "map": "Shaymin Mission",
+                        "x": 190,
+                        "y": 1050
                     }
                 ]
             },
@@ -4957,6 +5652,21 @@
                         "map": "Altru Building",
                         "x": 1307,
                         "y": 355
+                    },
+                    {
+                        "map": "Tower Mission",
+                        "x": 335,
+                        "y": 1025
+                    },
+                    {
+                        "map": "Tower Mission",
+                        "x": 135,
+                        "y": 430
+                    },
+                    {
+                        "map": "Tower Mission",
+                        "x": 220,
+                        "y": 390
                     }
                 ]
             },
@@ -4986,6 +5696,16 @@
                         "map": "Pueltown",
                         "x": 2495,
                         "y": 1125
+                    },
+                    {
+                        "map": "Boyleland",
+                        "x": 395,
+                        "y": 820
+                    },
+                    {
+                        "map": "Boyleland",
+                        "x": 595,
+                        "y": 860
                     }
                 ]
             },
@@ -5012,9 +5732,24 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 1289,
-                        "y": 1218
+                        "map": "Volcano Cave F2",
+                        "x": 2545,
+                        "y": 1035
+                    },
+                    {
+                        "map": "Volcano Cave F2",
+                        "x": 2715,
+                        "y": 1020
+                    },
+                    {
+                        "map": "Haruba Village",
+                        "x": 210,
+                        "y": 300
+                    },
+                    {
+                        "map": "Haruba Village",
+                        "x": 315,
+                        "y": 540
                     }
                 ]
             },
@@ -5041,9 +5776,9 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 845,
-                        "y": 76
+                        "map": "Capture Arena",
+                        "x": 470,
+                        "y": 155
                     }
                 ]
             },
@@ -5143,9 +5878,64 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 512,
-                        "y": 1127
+                        "map": "Upper Puel Sea",
+                        "x": 422,
+                        "y": 205
+                    },
+                    {
+                        "map": "Upper Puel Sea",
+                        "x": 630,
+                        "y": 235
+                    },
+                    {
+                        "map": "Upper Puel Sea",
+                        "x": 470,
+                        "y": 370
+                    },
+                    {
+                        "map": "Upper Puel Sea",
+                        "x": 580,
+                        "y": 550
+                    },
+                    {
+                        "map": "Upper Puel Sea",
+                        "x": 332,
+                        "y": 765
+                    },
+                    {
+                        "map": "Upper Puel Sea",
+                        "x": 607,
+                        "y": 865
+                    },
+                    {
+                        "map": "Upper Puel Sea",
+                        "x": 1445,
+                        "y": 620
+                    },
+                    {
+                        "map": "Upper Puel Sea",
+                        "x": 1663,
+                        "y": 780
+                    },
+                    {
+                        "map": "Upper Puel Sea",
+                        "x": 1515,
+                        "y": 915
+                    },
+                    {
+                        "map": "Lower Puel Sea",
+                        "x": 2505,
+                        "y": 370
+                    },
+                    {
+                        "map": "Lower Puel Sea",
+                        "x": 680,
+                        "y": 200
+                    },
+                    {
+                        "map": "Lower Puel Sea",
+                        "x": 595,
+                        "y": 315
                     }
                 ]
             },
@@ -5172,9 +5962,9 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 2086,
-                        "y": 1686
+                        "map": "Lower Puel Sea",
+                        "x": 745,
+                        "y": 360
                     }
                 ]
             },
@@ -5201,9 +5991,34 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 540,
-                        "y": 540
+                        "map": "Upper Puel Sea",
+                        "x": 227,
+                        "y": 380
+                    },
+                    {
+                        "map": "Upper Puel Sea",
+                        "x": 670,
+                        "y": 405
+                    },
+                    {
+                        "map": "Upper Puel Sea",
+                        "x": 1125,
+                        "y": 645
+                    },
+                    {
+                        "map": "Lower Puel Sea",
+                        "x": 170,
+                        "y": 430
+                    },
+                    {
+                        "map": "Lower Puel Sea",
+                        "x": 1445,
+                        "y": 675
+                    },
+                    {
+                        "map": "Lower Puel Sea",
+                        "x": 2540,
+                        "y": 525
                     }
                 ]
             },
@@ -5230,9 +6045,29 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 1013,
-                        "y": 1127
+                        "map": "Lower Sea of Wailord",
+                        "x": 1560,
+                        "y": 835
+                    },
+                    {
+                        "map": "Lower Sea of Wailord",
+                        "x": 280,
+                        "y": 695
+                    },
+                    {
+                        "map": "Upper Sea of Wailord",
+                        "x": 270,
+                        "y": 1305
+                    },
+                    {
+                        "map": "Upper Sea of Wailord",
+                        "x": 842,
+                        "y": 1145
+                    },
+                    {
+                        "map": "Upper Sea of Wailord",
+                        "x": 328,
+                        "y": 660
                     }
                 ]
             },
@@ -5259,9 +6094,29 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 947,
-                        "y": 1223
+                        "map": "Upper Puel Sea",
+                        "x": 775,
+                        "y": 265
+                    },
+                    {
+                        "map": "Upper Puel Sea",
+                        "x": 405,
+                        "y": 640
+                    },
+                    {
+                        "map": "Upper Puel Sea",
+                        "x": 1430,
+                        "y": 860
+                    },
+                    {
+                        "map": "Upper Puel Sea",
+                        "x": 1795,
+                        "y": 1060
+                    },
+                    {
+                        "map": "Lower Puel Sea",
+                        "x": 2812,
+                        "y": 270
                     }
                 ]
             },
@@ -5288,9 +6143,29 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 1928,
-                        "y": 1155
+                        "map": "Upper Puel Sea",
+                        "x": 1250,
+                        "y": 1145
+                    },
+                    {
+                        "map": "Lower Puel Sea",
+                        "x": 2655,
+                        "y": 405
+                    },
+                    {
+                        "map": "Lower Puel Sea",
+                        "x": 1165,
+                        "y": 680
+                    },
+                    {
+                        "map": "Lower Puel Sea",
+                        "x": 1890,
+                        "y": 275
+                    },
+                    {
+                        "map": "Lower Sea of Wailord",
+                        "x": 433,
+                        "y": 675
                     }
                 ]
             },
@@ -5317,9 +6192,14 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 2464,
-                        "y": 1990
+                        "map": "Lower Puel Sea",
+                        "x": 2415,
+                        "y": 185
+                    },
+                    {
+                        "map": "Lower Puel Sea",
+                        "x": 2390,
+                        "y": 460
                     }
                 ]
             },
@@ -5346,9 +6226,44 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 2080,
-                        "y": 816
+                        "map": "Upper Puel Sea",
+                        "x": 1498,
+                        "y": 1200
+                    },
+                    {
+                        "map": "Upper Puel Sea",
+                        "x": 1760,
+                        "y": 750
+                    },
+                    {
+                        "map": "Upper Puel Sea",
+                        "x": 1307,
+                        "y": 710
+                    },
+                    {
+                        "map": "Upper Puel Sea",
+                        "x": 728,
+                        "y": 615
+                    },
+                    {
+                        "map": "Upper Puel Sea",
+                        "x": 545,
+                        "y": 700
+                    },
+                    {
+                        "map": "Lower Puel Sea",
+                        "x": 2552,
+                        "y": 260
+                    },
+                    {
+                        "map": "Lower Puel Sea",
+                        "x": 1487,
+                        "y": 755
+                    },
+                    {
+                        "map": "Lower Puel Sea",
+                        "x": 730,
+                        "y": 710
                     }
                 ]
             },
@@ -5375,9 +6290,29 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 1353,
-                        "y": 2141
+                        "map": "Upper Puel Sea",
+                        "x": 1260,
+                        "y": 870
+                    },
+                    {
+                        "map": "Upper Puel Sea",
+                        "x": 1520,
+                        "y": 705
+                    },
+                    {
+                        "map": "Lower Puel Sea",
+                        "x": 2705,
+                        "y": 550
+                    },
+                    {
+                        "map": "Lower Puel Sea",
+                        "x": 2300,
+                        "y": 618
+                    },
+                    {
+                        "map": "Lower Puel Sea",
+                        "x": 788,
+                        "y": 410
                     }
                 ]
             },
@@ -5404,9 +6339,24 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 621,
-                        "y": 2167
+                        "map": "Upper Sea of Wailord",
+                        "x": 690,
+                        "y": 1140
+                    },
+                    {
+                        "map": "Upper Sea of Wailord",
+                        "x": 552,
+                        "y": 1010
+                    },
+                    {
+                        "map": "Upper Sea of Wailord",
+                        "x": 472,
+                        "y": 710
+                    },
+                    {
+                        "map": "Upper Sea of Wailord",
+                        "x": 300,
+                        "y": 410
                     }
                 ]
             },
@@ -5433,9 +6383,14 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 530,
-                        "y": 1955
+                        "map": "Lower Puel Sea",
+                        "x": 785,
+                        "y": 495
+                    },
+                    {
+                        "map": "Lower Sea of Wailord",
+                        "x": 750,
+                        "y": 215
                     }
                 ]
             },
@@ -5465,6 +6420,11 @@
                         "map": "Pueltown",
                         "x": 2535,
                         "y": 965
+                    },
+                    {
+                        "map": "Capture Arena",
+                        "x": 2070,
+                        "y": 1130
                     }
                 ]
             },
@@ -5504,6 +6464,16 @@
                         "map": "Almia Castle F2",
                         "x": 195,
                         "y": 740
+                    },
+                    {
+                        "map": "Capture Arena",
+                        "x": 1985,
+                        "y": 1230
+                    },
+                    {
+                        "map": "Tower Mission",
+                        "x": 1395,
+                        "y": 1105
                     }
                 ]
             },
@@ -5530,9 +6500,19 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 417,
-                        "y": 1862
+                        "map": "Capture Arena",
+                        "x": 1985,
+                        "y": 1040
+                    },
+                    {
+                        "map": "Haruba Desert",
+                        "x": 100,
+                        "y": 395
+                    },
+                    {
+                        "map": "Riolu Mission",
+                        "x": 945,
+                        "y": 470
                     }
                 ]
             },
@@ -5559,9 +6539,14 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 2274,
-                        "y": 1486
+                        "map": "Capture Arena",
+                        "x": 2160,
+                        "y": 1230
+                    },
+                    {
+                        "map": "Volcano Cave F1",
+                        "x": 1645,
+                        "y": 960
                     }
                 ]
             },
@@ -5588,9 +6573,14 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 1024,
-                        "y": 1690
+                        "map": "Capture Arena",
+                        "x": 2160,
+                        "y": 1040
+                    },
+                    {
+                        "map": "Hippowdon Temple",
+                        "x": 3095,
+                        "y": 1350
                     }
                 ]
             },
@@ -5617,9 +6607,19 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 1623,
-                        "y": 503
+                        "map": "Middle Chroma Ruins",
+                        "x": 362,
+                        "y": 995
+                    },
+                    {
+                        "map": "Capture Arena",
+                        "x": 2065,
+                        "y": 710
+                    },
+                    {
+                        "map": "Shaymin Mission",
+                        "x": 242,
+                        "y": 655
                     }
                 ]
             },
@@ -5649,6 +6649,11 @@
                         "map": "Vien Forest River",
                         "x": 865,
                         "y": 1580
+                    },
+                    {
+                        "map": "Capture Arena",
+                        "x": 2110,
+                        "y": 730
                     }
                 ]
             },
@@ -5678,6 +6683,11 @@
                         "map": "Ice Lake",
                         "x": 1830,
                         "y": 530
+                    },
+                    {
+                        "map": "Capture Arena",
+                        "x": 2015,
+                        "y": 730
                     }
                 ]
             },
@@ -5785,6 +6795,21 @@
                         "map": "Altru Tower",
                         "x": 625,
                         "y": 865
+                    },
+                    {
+                        "map": "Tower Mission",
+                        "x": 290,
+                        "y": 1025
+                    },
+                    {
+                        "map": "Tower Mission",
+                        "x": 480,
+                        "y": 365
+                    },
+                    {
+                        "map": "Tower Mission",
+                        "x": 1880,
+                        "y": 1115
                     }
                 ]
             },
@@ -5991,9 +7016,29 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 619,
-                        "y": 200
+                        "map": "Capture Arena",
+                        "x": 2600,
+                        "y": 1040
+                    },
+                    {
+                        "map": "Haruba Desert",
+                        "x": 355,
+                        "y": 425
+                    },
+                    {
+                        "map": "Haruba Desert",
+                        "x": 765,
+                        "y": 340
+                    },
+                    {
+                        "map": "Haruba Desert",
+                        "x": 605,
+                        "y": 870
+                    },
+                    {
+                        "map": "Palkia Mission",
+                        "x": 365,
+                        "y": 1750
                     }
                 ]
             },
@@ -6054,9 +7099,19 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 1801,
-                        "y": 221
+                        "map": "Chroma Highlands",
+                        "x": 190,
+                        "y": 995
+                    },
+                    {
+                        "map": "Chroma Highlands",
+                        "x": 660,
+                        "y": 1020
+                    },
+                    {
+                        "map": "Chroma Highlands",
+                        "x": 1315,
+                        "y": 930
                     }
                 ]
             },
@@ -6083,9 +7138,34 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 856,
-                        "y": 1396
+                        "map": "Chroma Highlands",
+                        "x": 850,
+                        "y": 350
+                    },
+                    {
+                        "map": "Chroma Highlands",
+                        "x": 755,
+                        "y": 325
+                    },
+                    {
+                        "map": "Chroma Highlands",
+                        "x": 805,
+                        "y": 280
+                    },
+                    {
+                        "map": "Palkia Mission",
+                        "x": 1845,
+                        "y": 2040
+                    },
+                    {
+                        "map": "Palkia Mission",
+                        "x": 1940,
+                        "y": 2070
+                    },
+                    {
+                        "map": "Palkia Mission",
+                        "x": 1895,
+                        "y": 1995
                     }
                 ]
             },
@@ -6112,9 +7192,44 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 2422,
-                        "y": 799
+                        "map": "Capture Arena",
+                        "x": 705,
+                        "y": 480
+                    },
+                    {
+                        "map": "Hippowdon Temple",
+                        "x": 2290,
+                        "y": 345
+                    },
+                    {
+                        "map": "Hippowdon Temple",
+                        "x": 2765,
+                        "y": 465
+                    },
+                    {
+                        "map": "Hippowdon Temple",
+                        "x": 2673,
+                        "y": 905
+                    },
+                    {
+                        "map": "Hippowdon Temple",
+                        "x": 2790,
+                        "y": 905
+                    },
+                    {
+                        "map": "Palkia Mission",
+                        "x": 1230,
+                        "y": 815
+                    },
+                    {
+                        "map": "Shaymin Mission",
+                        "x": 2095,
+                        "y": 425
+                    },
+                    {
+                        "map": "Shaymin Mission",
+                        "x": 2150,
+                        "y": 425
                     }
                 ]
             },
@@ -6170,9 +7285,9 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 1856,
-                        "y": 2381
+                        "map": "Capture Arena",
+                        "x": 2635,
+                        "y": 710
                     }
                 ]
             },
@@ -6243,9 +7358,19 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 361,
-                        "y": 2221
+                        "map": "Upper Chroma Ruins",
+                        "x": 158,
+                        "y": 150
+                    },
+                    {
+                        "map": "Middle Chroma Ruins",
+                        "x": 705,
+                        "y": 1700
+                    },
+                    {
+                        "map": "Middle Chroma Ruins",
+                        "x": 1370,
+                        "y": 200
                     }
                 ]
             },
@@ -6272,9 +7397,14 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 1066,
-                        "y": 2177
+                        "map": "Capture Arena",
+                        "x": 2295,
+                        "y": 1230
+                    },
+                    {
+                        "map": "Hippowdon Temple",
+                        "x": 2387,
+                        "y": 950
                     }
                 ]
             },
@@ -6450,6 +7580,16 @@
                         "map": "Altru Tower",
                         "x": 1340,
                         "y": 850
+                    },
+                    {
+                        "map": "Tower Mission",
+                        "x": 2545,
+                        "y": 1140
+                    },
+                    {
+                        "map": "Palkia Mission",
+                        "x": 1550,
+                        "y": 1710
                     }
                 ]
             },
@@ -6510,9 +7650,14 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 791,
-                        "y": 227
+                        "map": "Capture Arena",
+                        "x": 2715,
+                        "y": 710
+                    },
+                    {
+                        "map": "Tower Mission",
+                        "x": 2390,
+                        "y": 340
                     }
                 ]
             },
@@ -6612,9 +7757,9 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 432,
-                        "y": 2039
+                        "map": "Volcano Cave F1",
+                        "x": 775,
+                        "y": 1075
                     }
                 ]
             },
@@ -6641,9 +7786,19 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 1680,
-                        "y": 2385
+                        "map": "Capture Arena",
+                        "x": 2470,
+                        "y": 1040
+                    },
+                    {
+                        "map": "Volcano Cave F2",
+                        "x": 598,
+                        "y": 510
+                    },
+                    {
+                        "map": "Palkia Mission",
+                        "x": 355,
+                        "y": 545
                     }
                 ]
             },
@@ -6708,6 +7863,11 @@
                         "map": "Chroma Road",
                         "x": 440,
                         "y": 810
+                    },
+                    {
+                        "map": "Haruba Desert",
+                        "x": 1355,
+                        "y": 815
                     }
                 ]
             },
@@ -6763,9 +7923,29 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 1940,
-                        "y": 2242
+                        "map": "Chroma Highlands",
+                        "x": 935,
+                        "y": 1120
+                    },
+                    {
+                        "map": "Chroma Highlands",
+                        "x": 1088,
+                        "y": 1148
+                    },
+                    {
+                        "map": "Chroma Highlands",
+                        "x": 348,
+                        "y": 1270
+                    },
+                    {
+                        "map": "Chroma Highlands",
+                        "x": 478,
+                        "y": 1195
+                    },
+                    {
+                        "map": "Palkia Mission",
+                        "x": 555,
+                        "y": 365
                     }
                 ]
             },
@@ -6800,6 +7980,26 @@
                         "map": "Ranger School",
                         "x": 855,
                         "y": 400
+                    },
+                    {
+                        "map": "Volcano Cave F1",
+                        "x": 1320,
+                        "y": 2295
+                    },
+                    {
+                        "map": "Volcano Cave F1",
+                        "x": 1465,
+                        "y": 1895
+                    },
+                    {
+                        "map": "Volcano Cave F1",
+                        "x": 1290,
+                        "y": 1340
+                    },
+                    {
+                        "map": "Volcano Cave F1",
+                        "x": 1185,
+                        "y": 1005
                     }
                 ]
             },
@@ -6826,9 +8026,9 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 1073,
-                        "y": 1261
+                        "map": "Volcano Cave F1",
+                        "x": 1723,
+                        "y": 2030
                     }
                 ]
             },
@@ -6855,9 +8055,14 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 1978,
-                        "y": 1249
+                        "map": "Capture Arena",
+                        "x": 2195,
+                        "y": 250
+                    },
+                    {
+                        "map": "Volcano Cave F3",
+                        "x": 350,
+                        "y": 610
                     }
                 ]
             },
@@ -6884,9 +8089,14 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 396,
-                        "y": 1448
+                        "map": "Volcano Cave F1",
+                        "x": 1350,
+                        "y": 2140
+                    },
+                    {
+                        "map": "Volcano Cave F1",
+                        "x": 1595,
+                        "y": 2120
                     }
                 ]
             },
@@ -6913,9 +8123,14 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 710,
-                        "y": 1351
+                        "map": "Volcano Cave F2",
+                        "x": 683,
+                        "y": 360
+                    },
+                    {
+                        "map": "Volcano Cave F2",
+                        "x": 50,
+                        "y": 408
                     }
                 ]
             },
@@ -6942,9 +8157,24 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 478,
-                        "y": 574
+                        "map": "Volcano Cave F1",
+                        "x": 1540,
+                        "y": 2030
+                    },
+                    {
+                        "map": "Volcano Cave F1",
+                        "x": 1235,
+                        "y": 1855
+                    },
+                    {
+                        "map": "Volcano Cave F1",
+                        "x": 370,
+                        "y": 1135
+                    },
+                    {
+                        "map": "Volcano Cave F1",
+                        "x": 483,
+                        "y": 1070
                     }
                 ]
             },
@@ -6971,9 +8201,64 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 2224,
-                        "y": 294
+                        "map": "Upper Chroma Ruins",
+                        "x": 140,
+                        "y": 855
+                    },
+                    {
+                        "map": "Middle Chroma Ruins",
+                        "x": 1397,
+                        "y": 450
+                    },
+                    {
+                        "map": "Middle Chroma Ruins",
+                        "x": 127,
+                        "y": 1260
+                    },
+                    {
+                        "map": "Middle Chroma Ruins",
+                        "x": 590,
+                        "y": 1455
+                    },
+                    {
+                        "map": "Lower Chroma Ruins",
+                        "x": 2022,
+                        "y": 1310
+                    },
+                    {
+                        "map": "Lower Chroma Ruins",
+                        "x": 280,
+                        "y": 1125
+                    },
+                    {
+                        "map": "Lower Chroma Ruins",
+                        "x": 550,
+                        "y": 800
+                    },
+                    {
+                        "map": "Capture Arena",
+                        "x": 2775,
+                        "y": 1230
+                    },
+                    {
+                        "map": "Volcano Cave F1",
+                        "x": 2165,
+                        "y": 2045
+                    },
+                    {
+                        "map": "Volcano Cave F2",
+                        "x": 135,
+                        "y": 485
+                    },
+                    {
+                        "map": "Hippowdon Temple",
+                        "x": 2692,
+                        "y": 540
+                    },
+                    {
+                        "map": "Hippowdon Temple",
+                        "x": 167,
+                        "y": 370
                     }
                 ]
             },
@@ -7000,9 +8285,24 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 2382,
-                        "y": 557
+                        "map": "Volcano Cave F1",
+                        "x": 1425,
+                        "y": 1230
+                    },
+                    {
+                        "map": "Volcano Cave F1",
+                        "x": 1485,
+                        "y": 1060
+                    },
+                    {
+                        "map": "Volcano Cave F1",
+                        "x": 710,
+                        "y": 455
+                    },
+                    {
+                        "map": "Volcano Cave F1",
+                        "x": 355,
+                        "y": 465
                     }
                 ]
             },
@@ -7029,9 +8329,9 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 1064,
-                        "y": 779
+                        "map": "Oil Field Hideout F1",
+                        "x": 243,
+                        "y": 1175
                     }
                 ]
             },
@@ -7058,9 +8358,9 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 49,
-                        "y": 970
+                        "map": "Capture Arena",
+                        "x": 2295,
+                        "y": 1040
                     }
                 ]
             },
@@ -7087,9 +8387,14 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 25,
-                        "y": 2226
+                        "map": "Volcano Cave F1",
+                        "x": 235,
+                        "y": 910
+                    },
+                    {
+                        "map": "Volcano Cave F1",
+                        "x": 138,
+                        "y": 840
                     }
                 ]
             },
@@ -7116,9 +8421,19 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 1947,
-                        "y": 17
+                        "map": "Capture Arena",
+                        "x": 1760,
+                        "y": 1130
+                    },
+                    {
+                        "map": "Hippowdon Temple",
+                        "x": 2525,
+                        "y": 1295
+                    },
+                    {
+                        "map": "Hippowdon Temple",
+                        "x": 2540,
+                        "y": 1585
                     }
                 ]
             },
@@ -7145,9 +8460,9 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 1459,
-                        "y": 2121
+                        "map": "Volcano Cave F1",
+                        "x": 705,
+                        "y": 655
                     }
                 ]
             },
@@ -7177,6 +8492,36 @@
                         "map": "Altru Tower",
                         "x": 825,
                         "y": 855
+                    },
+                    {
+                        "map": "Volcano Cave F2",
+                        "x": 2155,
+                        "y": 390
+                    },
+                    {
+                        "map": "Volcano Cave F2",
+                        "x": 330,
+                        "y": 300
+                    },
+                    {
+                        "map": "Haruba Desert",
+                        "x": 667,
+                        "y": 410
+                    },
+                    {
+                        "map": "Tower Mission",
+                        "x": 1965,
+                        "y": 925
+                    },
+                    {
+                        "map": "Tower Mission",
+                        "x": 1925,
+                        "y": 845
+                    },
+                    {
+                        "map": "Tower Mission",
+                        "x": 1890,
+                        "y": 825
                     }
                 ]
             },
@@ -7203,9 +8548,9 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 1838,
-                        "y": 372
+                        "map": "Capture Arena",
+                        "x": 2430,
+                        "y": 750
                     }
                 ]
             },
@@ -7232,9 +8577,9 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 1503,
-                        "y": 729
+                        "map": "Volcano Cave F1",
+                        "x": 945,
+                        "y": 465
                     }
                 ]
             },
@@ -7269,6 +8614,16 @@
                         "map": "Cargo Ship",
                         "x": 500,
                         "y": 465
+                    },
+                    {
+                        "map": "Oil Field Hideout F1",
+                        "x": 2095,
+                        "y": 1270
+                    },
+                    {
+                        "map": "Riolu Mission",
+                        "x": 1275,
+                        "y": 462
                     }
                 ]
             },
@@ -7295,9 +8650,54 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 72,
-                        "y": 1547
+                        "map": "Oil Field Hideout F1",
+                        "x": 2000,
+                        "y": 1270
+                    },
+                    {
+                        "map": "Oil Field Hideout F1",
+                        "x": 772,
+                        "y": 1282
+                    },
+                    {
+                        "map": "Oil Field Hideout F1",
+                        "x": 520,
+                        "y": 1380
+                    },
+                    {
+                        "map": "Oil Field Hideout F1",
+                        "x": 305,
+                        "y": 1045
+                    },
+                    {
+                        "map": "Oil Field Hideout F2",
+                        "x": 55,
+                        "y": 600
+                    },
+                    {
+                        "map": "Capture Arena",
+                        "x": 1675,
+                        "y": 1230
+                    },
+                    {
+                        "map": "Riolu Mission",
+                        "x": 1193,
+                        "y": 430
+                    },
+                    {
+                        "map": "Riolu Mission",
+                        "x": 567,
+                        "y": 645
+                    },
+                    {
+                        "map": "Riolu Mission",
+                        "x": 145,
+                        "y": 1480
+                    },
+                    {
+                        "map": "Dialga Mission",
+                        "x": 478,
+                        "y": 805
                     }
                 ]
             },
@@ -7371,6 +8771,36 @@
                         "map": "Altru Building",
                         "x": 570,
                         "y": 1295
+                    },
+                    {
+                        "map": "Capture Arena",
+                        "x": 1670,
+                        "y": 1040
+                    },
+                    {
+                        "map": "Hippowdon Temple",
+                        "x": 910,
+                        "y": 585
+                    },
+                    {
+                        "map": "Hippowdon Temple",
+                        "x": 1485,
+                        "y": 765
+                    },
+                    {
+                        "map": "Hippowdon Temple",
+                        "x": 1830,
+                        "y": 535
+                    },
+                    {
+                        "map": "Tower Mission",
+                        "x": 1452,
+                        "y": 985
+                    },
+                    {
+                        "map": "Tower Mission",
+                        "x": 1573,
+                        "y": 985
                     }
                 ]
             },
@@ -7431,9 +8861,14 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 1320,
-                        "y": 278
+                        "map": "Middle Chroma Ruins",
+                        "x": 577,
+                        "y": 1665
+                    },
+                    {
+                        "map": "Middle Chroma Ruins",
+                        "x": 133,
+                        "y": 1585
                     }
                 ]
             },
@@ -7468,6 +8903,21 @@
                         "map": "Altru Tower",
                         "x": 1808,
                         "y": 1115
+                    },
+                    {
+                        "map": "Capture Arena",
+                        "x": 480,
+                        "y": 565
+                    },
+                    {
+                        "map": "Tower Mission",
+                        "x": 838,
+                        "y": 275
+                    },
+                    {
+                        "map": "Tower Mission",
+                        "x": 1600,
+                        "y": 1080
                     }
                 ]
             },
@@ -7562,9 +9012,14 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 1323,
-                        "y": 706
+                        "map": "Oil Field Hideout F1",
+                        "x": 320,
+                        "y": 1380
+                    },
+                    {
+                        "map": "Oil Field Hideout F1",
+                        "x": 1585,
+                        "y": 765
                     }
                 ]
             },
@@ -7591,9 +9046,29 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 1236,
-                        "y": 319
+                        "map": "Oil Field Hideout F1",
+                        "x": 1870,
+                        "y": 1105
+                    },
+                    {
+                        "map": "Oil Field Hideout F1",
+                        "x": 1775,
+                        "y": 1070
+                    },
+                    {
+                        "map": "Oil Field Hideout F1",
+                        "x": 1590,
+                        "y": 680
+                    },
+                    {
+                        "map": "Oil Field Hideout F2",
+                        "x": 330,
+                        "y": 620
+                    },
+                    {
+                        "map": "Oil Field Hideout F2",
+                        "x": 452,
+                        "y": 615
                     }
                 ]
             },
@@ -7667,6 +9142,26 @@
                         "map": "Altru Building",
                         "x": 155,
                         "y": 750
+                    },
+                    {
+                        "map": "Upper Chroma Ruins",
+                        "x": 415,
+                        "y": 855
+                    },
+                    {
+                        "map": "Middle Chroma Ruins",
+                        "x": 1137,
+                        "y": 395
+                    },
+                    {
+                        "map": "Lower Chroma Ruins",
+                        "x": 193,
+                        "y": 1170
+                    },
+                    {
+                        "map": "Palkia Mission",
+                        "x": 1150,
+                        "y": 215
                     }
                 ]
             },
@@ -7722,9 +9217,14 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 1264,
-                        "y": 1731
+                        "map": "Capture Arena",
+                        "x": 2545,
+                        "y": 285
+                    },
+                    {
+                        "map": "Volcano Cave F2",
+                        "x": 1867,
+                        "y": 255
                     }
                 ]
             },
@@ -7809,6 +9309,16 @@
                         "map": "Almia Castle F3",
                         "x": 1735,
                         "y": 685
+                    },
+                    {
+                        "map": "Dialga Mission",
+                        "x": 1122,
+                        "y": 1265
+                    },
+                    {
+                        "map": "Dialga Mission",
+                        "x": 1645,
+                        "y": 1435
                     }
                 ]
             },
@@ -7838,6 +9348,11 @@
                         "map": "Almia Castle F2",
                         "x": 180,
                         "y": 1120
+                    },
+                    {
+                        "map": "Dialga Mission",
+                        "x": 1715,
+                        "y": 835
                     }
                 ]
             },
@@ -7864,9 +9379,39 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 295,
-                        "y": 1781
+                        "map": "Haruba Desert",
+                        "x": 250,
+                        "y": 915
+                    },
+                    {
+                        "map": "Haruba Desert",
+                        "x": 225,
+                        "y": 800
+                    },
+                    {
+                        "map": "Haruba Desert",
+                        "x": 715,
+                        "y": 770
+                    },
+                    {
+                        "map": "Haruba Desert",
+                        "x": 485,
+                        "y": 345
+                    },
+                    {
+                        "map": "Haruba Desert",
+                        "x": 260,
+                        "y": 330
+                    },
+                    {
+                        "map": "Hippowdon Temple",
+                        "x": 850,
+                        "y": 1270
+                    },
+                    {
+                        "map": "Hippowdon Temple",
+                        "x": 970,
+                        "y": 1345
                     }
                 ]
             },
@@ -7893,9 +9438,14 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 580,
-                        "y": 829
+                        "map": "Capture Arena",
+                        "x": 1750,
+                        "y": 710
+                    },
+                    {
+                        "map": "Tower Mission",
+                        "x": 2490,
+                        "y": 340
                     }
                 ]
             },
@@ -7990,9 +9540,24 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 1095,
-                        "y": 240
+                        "map": "Chroma Highlands",
+                        "x": 1305,
+                        "y": 1265
+                    },
+                    {
+                        "map": "Chroma Highlands",
+                        "x": 1198,
+                        "y": 960
+                    },
+                    {
+                        "map": "Chroma Highlands",
+                        "x": 485,
+                        "y": 965
+                    },
+                    {
+                        "map": "Palkia Mission",
+                        "x": 570,
+                        "y": 540
                     }
                 ]
             },
@@ -8121,9 +9686,14 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 2110,
-                        "y": 138
+                        "map": "Chroma Highlands",
+                        "x": 980,
+                        "y": 690
+                    },
+                    {
+                        "map": "Middle Chroma Ruins",
+                        "x": 310,
+                        "y": 1420
                     }
                 ]
             },
@@ -8150,9 +9720,19 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 2283,
-                        "y": 772
+                        "map": "Chroma Highlands",
+                        "x": 435,
+                        "y": 1365
+                    },
+                    {
+                        "map": "Chroma Highlands",
+                        "x": 930,
+                        "y": 1300
+                    },
+                    {
+                        "map": "Chroma Highlands",
+                        "x": 850,
+                        "y": 890
                     }
                 ]
             },
@@ -8182,6 +9762,11 @@
                         "map": "Altru Tower",
                         "x": 340,
                         "y": 945
+                    },
+                    {
+                        "map": "Capture Arena",
+                        "x": 255,
+                        "y": 480
                     }
                 ]
             },
@@ -8242,9 +9827,19 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 761,
-                        "y": 508
+                        "map": "Oil Field Hideout F2",
+                        "x": 663,
+                        "y": 595
+                    },
+                    {
+                        "map": "Capture Arena",
+                        "x": 2600,
+                        "y": 1230
+                    },
+                    {
+                        "map": "Riolu Mission",
+                        "x": 215,
+                        "y": 1480
                     }
                 ]
             },
@@ -8271,9 +9866,29 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 1322,
-                        "y": 1565
+                        "map": "Middle Chroma Ruins",
+                        "x": 120,
+                        "y": 625
+                    },
+                    {
+                        "map": "Middle Chroma Ruins",
+                        "x": 210,
+                        "y": 715
+                    },
+                    {
+                        "map": "Lower Chroma Ruins",
+                        "x": 985,
+                        "y": 715
+                    },
+                    {
+                        "map": "Lower Chroma Ruins",
+                        "x": 1215,
+                        "y": 795
+                    },
+                    {
+                        "map": "Lower Chroma Ruins",
+                        "x": 1305,
+                        "y": 695
                     }
                 ]
             },
@@ -8329,9 +9944,14 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 287,
-                        "y": 976
+                        "map": "Chroma Highlands",
+                        "x": 310,
+                        "y": 980
+                    },
+                    {
+                        "map": "Chroma Highlands",
+                        "x": 670,
+                        "y": 1220
                     }
                 ]
             },
@@ -8358,9 +9978,19 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 1684,
-                        "y": 1208
+                        "map": "Upper Chroma Ruins",
+                        "x": 527,
+                        "y": 880
+                    },
+                    {
+                        "map": "Upper Chroma Ruins",
+                        "x": 1472,
+                        "y": 915
+                    },
+                    {
+                        "map": "Middle Chroma Ruins",
+                        "x": 640,
+                        "y": 380
                     }
                 ]
             },
@@ -8387,9 +10017,19 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 210,
-                        "y": 2117
+                        "map": "Oil Field Hideout F1",
+                        "x": 75,
+                        "y": 1380
+                    },
+                    {
+                        "map": "Riolu Mission",
+                        "x": 543,
+                        "y": 250
+                    },
+                    {
+                        "map": "Riolu Mission",
+                        "x": 718,
+                        "y": 1520
                     }
                 ]
             },
@@ -8416,9 +10056,9 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 1075,
-                        "y": 2492
+                        "map": "Hippowdon Temple",
+                        "x": 1465,
+                        "y": 1520
                     }
                 ]
             },
@@ -8445,9 +10085,29 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 2377,
-                        "y": 1218
+                        "map": "Upper Chroma Ruins",
+                        "x": 903,
+                        "y": 815
+                    },
+                    {
+                        "map": "Upper Chroma Ruins",
+                        "x": 932,
+                        "y": 875
+                    },
+                    {
+                        "map": "Middle Chroma Ruins",
+                        "x": 645,
+                        "y": 480
+                    },
+                    {
+                        "map": "Hippowdon Temple",
+                        "x": 2773,
+                        "y": 340
+                    },
+                    {
+                        "map": "Palkia Mission",
+                        "x": 2147,
+                        "y": 1055
                     }
                 ]
             },
@@ -8474,9 +10134,24 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 628,
-                        "y": 97
+                        "map": "Upper Chroma Ruins",
+                        "x": 1530,
+                        "y": 720
+                    },
+                    {
+                        "map": "Middle Chroma Ruins",
+                        "x": 1245,
+                        "y": 470
+                    },
+                    {
+                        "map": "Middle Chroma Ruins",
+                        "x": 250,
+                        "y": 1690
+                    },
+                    {
+                        "map": "Palkia Mission",
+                        "x": 278,
+                        "y": 1975
                     }
                 ]
             },
@@ -8503,9 +10178,9 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 1751,
-                        "y": 1369
+                        "map": "Hippowdon Temple",
+                        "x": 1380,
+                        "y": 195
                     }
                 ]
             },
@@ -8532,9 +10207,9 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 17,
-                        "y": 2343
+                        "map": "Capture Arena",
+                        "x": 1095,
+                        "y": 155
                     }
                 ]
             },
@@ -8647,6 +10322,21 @@
                         "map": "Almia Castle F3",
                         "x": 2280,
                         "y": 1465
+                    },
+                    {
+                        "map": "Dialga Mission",
+                        "x": 1045,
+                        "y": 720
+                    },
+                    {
+                        "map": "Dialga Mission",
+                        "x": 1370,
+                        "y": 975
+                    },
+                    {
+                        "map": "Palkia Mission",
+                        "x": 1870,
+                        "y": 1035
                     }
                 ]
             },
@@ -8691,6 +10381,26 @@
                         "map": "Crysta Cave",
                         "x": 222,
                         "y": 220
+                    },
+                    {
+                        "map": "Dialga Mission",
+                        "x": 1210,
+                        "y": 1255
+                    },
+                    {
+                        "map": "Dialga Mission",
+                        "x": 1320,
+                        "y": 715
+                    },
+                    {
+                        "map": "Palkia Mission",
+                        "x": 380,
+                        "y": 1160
+                    },
+                    {
+                        "map": "Palkia Mission",
+                        "x": 390,
+                        "y": 1200
                     }
                 ]
             },
@@ -8730,6 +10440,16 @@
                         "map": "Hia Valley",
                         "x": 545,
                         "y": 645
+                    },
+                    {
+                        "map": "Dialga Mission",
+                        "x": 1240,
+                        "y": 885
+                    },
+                    {
+                        "map": "Palkia Mission",
+                        "x": 300,
+                        "y": 1190
                     }
                 ]
             },
@@ -8756,9 +10476,9 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 1849,
-                        "y": 1725
+                        "map": "Capture Arena",
+                        "x": 2385,
+                        "y": 710
                     }
                 ]
             },
@@ -8788,6 +10508,11 @@
                         "map": "Crysta Cave",
                         "x": 1690,
                         "y": 1015
+                    },
+                    {
+                        "map": "Palkia Mission",
+                        "x": 1470,
+                        "y": 2065
                     }
                 ]
             },
@@ -8822,6 +10547,11 @@
                         "map": "Almia Castle F3",
                         "x": 115,
                         "y": 1340
+                    },
+                    {
+                        "map": "Dialga Mission",
+                        "x": 1115,
+                        "y": 1450
                     }
                 ]
             },
@@ -8929,6 +10659,11 @@
                         "map": "Ice Lake",
                         "x": 1800,
                         "y": 630
+                    },
+                    {
+                        "map": "Capture Arena",
+                        "x": 2655,
+                        "y": 285
                     }
                 ]
             },
@@ -9046,6 +10781,11 @@
                         "map": "Ice Lake",
                         "x": 1215,
                         "y": 430
+                    },
+                    {
+                        "map": "Capture Arena",
+                        "x": 2470,
+                        "y": 1230
                     }
                 ]
             },
@@ -9124,6 +10864,21 @@
                         "map": "Almia Castle F3",
                         "x": 665,
                         "y": 660
+                    },
+                    {
+                        "map": "Tower Mission",
+                        "x": 950,
+                        "y": 560
+                    },
+                    {
+                        "map": "Dialga Mission",
+                        "x": 1100,
+                        "y": 920
+                    },
+                    {
+                        "map": "Dialga Mission",
+                        "x": 1210,
+                        "y": 600
                     }
                 ]
             },
@@ -9226,6 +10981,16 @@
                         "map": "Altru Building",
                         "x": 1222,
                         "y": 940
+                    },
+                    {
+                        "map": "Tower Mission",
+                        "x": 58,
+                        "y": 1080
+                    },
+                    {
+                        "map": "Palkia Mission",
+                        "x": 1320,
+                        "y": 400
                     }
                 ]
             },
@@ -9318,6 +11083,11 @@
                         "map": "Almia Castle F3",
                         "x": 208,
                         "y": 1085
+                    },
+                    {
+                        "map": "Dialga Mission",
+                        "x": 180,
+                        "y": 1155
                     }
                 ]
             },
@@ -9352,6 +11122,16 @@
                         "map": "Almia Castle F3",
                         "x": 1740,
                         "y": 805
+                    },
+                    {
+                        "map": "Riolu Mission",
+                        "x": 1260,
+                        "y": 740
+                    },
+                    {
+                        "map": "Dialga Mission",
+                        "x": 445,
+                        "y": 670
                     }
                 ]
             },
@@ -9378,9 +11158,9 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 1334,
-                        "y": 640
+                        "map": "Capture Arena",
+                        "x": 160,
+                        "y": 155
                     }
                 ]
             },
@@ -9407,9 +11187,34 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 981,
-                        "y": 34
+                        "map": "Volcano Cave F1",
+                        "x": 1585,
+                        "y": 705
+                    },
+                    {
+                        "map": "Volcano Cave F1",
+                        "x": 1705,
+                        "y": 1835
+                    },
+                    {
+                        "map": "Volcano Cave F1",
+                        "x": 2140,
+                        "y": 2245
+                    },
+                    {
+                        "map": "Volcano Cave F1",
+                        "x": 2520,
+                        "y": 2030
+                    },
+                    {
+                        "map": "Volcano Cave F2",
+                        "x": 300,
+                        "y": 475
+                    },
+                    {
+                        "map": "Volcano Cave F2",
+                        "x": 740,
+                        "y": 290
                     }
                 ]
             },
@@ -9436,9 +11241,24 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 1553,
-                        "y": 1622
+                        "map": "Volcano Cave F1",
+                        "x": 2413,
+                        "y": 2000
+                    },
+                    {
+                        "map": "Volcano Cave F1",
+                        "x": 2495,
+                        "y": 1850
+                    },
+                    {
+                        "map": "Volcano Cave F2",
+                        "x": 1815,
+                        "y": 615
+                    },
+                    {
+                        "map": "Volcano Cave F2",
+                        "x": 2153,
+                        "y": 500
                     }
                 ]
             },
@@ -9465,9 +11285,14 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 2089,
-                        "y": 1262
+                        "map": "Volcano Cave F1",
+                        "x": 2455,
+                        "y": 1685
+                    },
+                    {
+                        "map": "Volcano Cave F2",
+                        "x": 1835,
+                        "y": 905
                     }
                 ]
             },
@@ -9502,6 +11327,11 @@
                         "map": "Crysta Cave",
                         "x": 1620,
                         "y": 1060
+                    },
+                    {
+                        "map": "Capture Arena",
+                        "x": 2285,
+                        "y": 250
                     }
                 ]
             },
@@ -9522,15 +11352,16 @@
                     {
                         "name": "Heatran (Pokemon)",
                         "access_rules": [],
-                        "visibility_rules": ["^$Legendary_Goal"],
+                        "visibility_rules": ["^$Legendary_Goal",
+                                            "^$Catch_em_all_Goal"],
                         "item_count": 1
                     }
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 592,
-                        "y": 2292
+                        "map": "Capture Arena",
+                        "x": 1395,
+                        "y": 155
                     }
                 ]
             },
@@ -9557,9 +11388,19 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 877,
-                        "y": 1127
+                        "map": "Lower Sea of Wailord",
+                        "x": 1600,
+                        "y": 375
+                    },
+                    {
+                        "map": "Lower Sea of Wailord",
+                        "x": 745,
+                        "y": 885
+                    },
+                    {
+                        "map": "Lower Sea of Wailord",
+                        "x": 155,
+                        "y": 680
                     }
                 ]
             },
@@ -9586,9 +11427,24 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 863,
-                        "y": 1416
+                        "map": "Lower Sea of Wailord",
+                        "x": 640,
+                        "y": 640
+                    },
+                    {
+                        "map": "Lower Sea of Wailord",
+                        "x": 1235,
+                        "y": 503
+                    },
+                    {
+                        "map": "Upper Sea of Wailord",
+                        "x": 745,
+                        "y": 1030
+                    },
+                    {
+                        "map": "Upper Sea of Wailord",
+                        "x": 323,
+                        "y": 1630
                     }
                 ]
             },
@@ -9615,9 +11471,9 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 619,
-                        "y": 2225
+                        "map": "Lower Sea of Wailord",
+                        "x": 455,
+                        "y": 865
                     }
                 ]
             },
@@ -9644,9 +11500,29 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 1754,
-                        "y": 1139
+                        "map": "Lower Sea of Wailord",
+                        "x": 1785,
+                        "y": 785
+                    },
+                    {
+                        "map": "Lower Sea of Wailord",
+                        "x": 1320,
+                        "y": 770
+                    },
+                    {
+                        "map": "Lower Sea of Wailord",
+                        "x": 215,
+                        "y": 870
+                    },
+                    {
+                        "map": "Upper Sea of Wailord",
+                        "x": 245,
+                        "y": 1500
+                    },
+                    {
+                        "map": "Upper Sea of Wailord",
+                        "x": 870,
+                        "y": 1500
                     }
                 ]
             },
@@ -9673,9 +11549,14 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 2082,
-                        "y": 527
+                        "map": "Lower Sea of Wailord",
+                        "x": 178,
+                        "y": 1045
+                    },
+                    {
+                        "map": "Lower Sea of Wailord",
+                        "x": 1548,
+                        "y": 515
                     }
                 ]
             },
@@ -9702,9 +11583,24 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 1261,
-                        "y": 1611
+                        "map": "Lower Sea of Wailord",
+                        "x": 1660,
+                        "y": 605
+                    },
+                    {
+                        "map": "Lower Sea of Wailord",
+                        "x": 1230,
+                        "y": 355
+                    },
+                    {
+                        "map": "Upper Sea of Wailord",
+                        "x": 455,
+                        "y": 1600
+                    },
+                    {
+                        "map": "Upper Sea of Wailord",
+                        "x": 485,
+                        "y": 600
                     }
                 ]
             },
@@ -9731,9 +11627,14 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 618,
-                        "y": 49
+                        "map": "Upper Sea of Wailord",
+                        "x": 335,
+                        "y": 1060
+                    },
+                    {
+                        "map": "Upper Sea of Wailord",
+                        "x": 392,
+                        "y": 515
                     }
                 ]
             },
@@ -9760,9 +11661,9 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 183,
-                        "y": 422
+                        "map": "Upper Sea of Wailord",
+                        "x": 795,
+                        "y": 635
                     }
                 ]
             },
@@ -9789,9 +11690,9 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 2259,
-                        "y": 2294
+                        "map": "Upper Sea of Wailord",
+                        "x": 305,
+                        "y": 220
                     }
                 ]
             },
@@ -9818,9 +11719,39 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 696,
-                        "y": 2298
+                        "map": "Haruba Desert",
+                        "x": 95,
+                        "y": 520
+                    },
+                    {
+                        "map": "Haruba Desert",
+                        "x": 205,
+                        "y": 420
+                    },
+                    {
+                        "map": "Haruba Desert",
+                        "x": 440,
+                        "y": 640
+                    },
+                    {
+                        "map": "Haruba Desert",
+                        "x": 395,
+                        "y": 830
+                    },
+                    {
+                        "map": "Haruba Desert",
+                        "x": 340,
+                        "y": 710
+                    },
+                    {
+                        "map": "Haruba Desert",
+                        "x": 730,
+                        "y": 455
+                    },
+                    {
+                        "map": "Haruba Desert",
+                        "x": 605,
+                        "y": 455
                     }
                 ]
             },
@@ -9847,9 +11778,19 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 1347,
-                        "y": 1414
+                        "map": "Capture Arena",
+                        "x": 1848,
+                        "y": 1040
+                    },
+                    {
+                        "map": "Haruba Desert",
+                        "x": 425,
+                        "y": 715
+                    },
+                    {
+                        "map": "Palkia Mission",
+                        "x": 1220,
+                        "y": 1855
                     }
                 ]
             },
@@ -9876,9 +11817,9 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 937,
-                        "y": 1670
+                        "map": "Oil Field Hideout F1",
+                        "x": 1883,
+                        "y": 610
                     }
                 ]
             },
@@ -9905,9 +11846,9 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 1100,
-                        "y": 518
+                        "map": "Hippowdon Temple",
+                        "x": 1927,
+                        "y": 820
                     }
                 ]
             },
@@ -9934,9 +11875,19 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 1913,
-                        "y": 1694
+                        "map": "Oil Field Hideout F2",
+                        "x": 65,
+                        "y": 835
+                    },
+                    {
+                        "map": "Riolu Mission",
+                        "x": 445,
+                        "y": 1240
+                    },
+                    {
+                        "map": "Palkia Mission",
+                        "x": 1065,
+                        "y": 1715
                     }
                 ]
             },
@@ -9971,6 +11922,41 @@
                         "map": "Almia Castle F3",
                         "x": 1320,
                         "y": 370
+                    },
+                    {
+                        "map": "Capture Arena",
+                        "x": 1705,
+                        "y": 730
+                    },
+                    {
+                        "map": "Capture Arena",
+                        "x": 1800,
+                        "y": 730
+                    },
+                    {
+                        "map": "Capture Arena",
+                        "x": 1680,
+                        "y": 790
+                    },
+                    {
+                        "map": "Capture Arena",
+                        "x": 1825,
+                        "y": 790
+                    },
+                    {
+                        "map": "Dialga Mission",
+                        "x": 230,
+                        "y": 1510
+                    },
+                    {
+                        "map": "Dialga Mission",
+                        "x": 660,
+                        "y": 695
+                    },
+                    {
+                        "map": "Dialga Mission",
+                        "x": 655,
+                        "y": 805
                     }
                 ]
             },
@@ -9997,9 +11983,9 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 1574,
-                        "y": 352
+                        "map": "Haruba Desert",
+                        "x": 1780,
+                        "y": 725
                     }
                 ]
             },
@@ -10026,9 +12012,64 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 450,
-                        "y": 1716
+                        "map": "Hippowdon Temple",
+                        "x": 325,
+                        "y": 605
+                    },
+                    {
+                        "map": "Hippowdon Temple",
+                        "x": 392,
+                        "y": 605
+                    },
+                    {
+                        "map": "Hippowdon Temple",
+                        "x": 455,
+                        "y": 605
+                    },
+                    {
+                        "map": "Hippowdon Temple",
+                        "x": 520,
+                        "y": 605
+                    },
+                    {
+                        "map": "Hippowdon Temple",
+                        "x": 582,
+                        "y": 605
+                    },
+                    {
+                        "map": "Hippowdon Temple",
+                        "x": 647,
+                        "y": 605
+                    },
+                    {
+                        "map": "Hippowdon Temple",
+                        "x": 710,
+                        "y": 605
+                    },
+                    {
+                        "map": "Hippowdon Temple",
+                        "x": 777,
+                        "y": 605
+                    },
+                    {
+                        "map": "Hippowdon Temple",
+                        "x": 330,
+                        "y": 1045
+                    },
+                    {
+                        "map": "Hippowdon Temple",
+                        "x": 457,
+                        "y": 1045
+                    },
+                    {
+                        "map": "Hippowdon Temple",
+                        "x": 583,
+                        "y": 1045
+                    },
+                    {
+                        "map": "Hippowdon Temple",
+                        "x": 712,
+                        "y": 1045
                     }
                 ]
             },
@@ -10055,9 +12096,9 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 1550,
-                        "y": 2144
+                        "map": "Hippowdon Temple",
+                        "x": 237,
+                        "y": 585
                     }
                 ]
             },
@@ -10084,9 +12125,24 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 692,
-                        "y": 2157
+                        "map": "Hippowdon Temple",
+                        "x": 1525,
+                        "y": 1560
+                    },
+                    {
+                        "map": "Hippowdon Temple",
+                        "x": 1635,
+                        "y": 1560
+                    },
+                    {
+                        "map": "Hippowdon Temple",
+                        "x": 1525,
+                        "y": 1480
+                    },
+                    {
+                        "map": "Hippowdon Temple",
+                        "x": 1635,
+                        "y": 1480
                     }
                 ]
             },
@@ -10121,6 +12177,31 @@
                         "map": "Altru Building",
                         "x": 1670,
                         "y": 285
+                    },
+                    {
+                        "map": "Capture Arena",
+                        "x": 1315,
+                        "y": 480
+                    },
+                    {
+                        "map": "Hippowdon Temple",
+                        "x": 2245,
+                        "y": 1265
+                    },
+                    {
+                        "map": "Hippowdon Temple",
+                        "x": 2823,
+                        "y": 1250
+                    },
+                    {
+                        "map": "Tower Mission",
+                        "x": 425,
+                        "y": 430
+                    },
+                    {
+                        "map": "Tower Mission",
+                        "x": 545,
+                        "y": 430
                     }
                 ]
             },
@@ -10147,9 +12228,14 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 2034,
-                        "y": 811
+                        "map": "Capture Arena",
+                        "x": 1845,
+                        "y": 1230
+                    },
+                    {
+                        "map": "Hippowdon Temple",
+                        "x": 2733,
+                        "y": 860
                     }
                 ]
             },
@@ -10170,15 +12256,16 @@
                     {
                         "name": "Cresselia (Pokemon)",
                         "access_rules": [],
-                        "visibility_rules": ["^$Legendary_Goal"],
+                        "visibility_rules": ["^$Legendary_Goal",
+                                            "^$Catch_em_all_Goal"],
                         "item_count": 1
                     }
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 615,
-                        "y": 294
+                        "map": "Capture Arena",
+                        "x": 785,
+                        "y": 155
                     }
                 ]
             },
@@ -10208,6 +12295,16 @@
                         "map": "Altru Building",
                         "x": 830,
                         "y": 270
+                    },
+                    {
+                        "map": "Capture Arena",
+                        "x": 880,
+                        "y": 480
+                    },
+                    {
+                        "map": "Tower Mission",
+                        "x": 2467,
+                        "y": 930
                     }
                 ]
             },
@@ -10247,6 +12344,21 @@
                         "map": "Altru Tower",
                         "x": 1203,
                         "y": 1115
+                    },
+                    {
+                        "map": "Capture Arena",
+                        "x": 1490,
+                        "y": 480
+                    },
+                    {
+                        "map": "Tower Mission",
+                        "x": 2380,
+                        "y": 1105
+                    },
+                    {
+                        "map": "Shaymin Mission",
+                        "x": 285,
+                        "y": 655
                     }
                 ]
             },
@@ -10331,9 +12443,14 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 541,
-                        "y": 2125
+                        "map": "Capture Arena",
+                        "x": 2235,
+                        "y": 185
+                    },
+                    {
+                        "map": "Haruba Desert",
+                        "x": 520,
+                        "y": 570
                     }
                 ]
             },
@@ -10360,9 +12477,14 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 1600,
-                        "y": 328
+                        "map": "Chroma Highlands",
+                        "x": 410,
+                        "y": 160
+                    },
+                    {
+                        "map": "Palkia Mission",
+                        "x": 1925,
+                        "y": 1500
                     }
                 ]
             },
@@ -10418,9 +12540,9 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 946,
-                        "y": 1229
+                        "map": "Oil Field Hideout F1",
+                        "x": 402,
+                        "y": 760
                     }
                 ]
             },
@@ -10505,9 +12627,9 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 1261,
-                        "y": 746
+                        "map": "Lower Chroma Ruins",
+                        "x": 1995,
+                        "y": 470
                     }
                 ]
             },
@@ -10534,9 +12656,9 @@
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 480,
-                        "y": 2310
+                        "map": "Hippowdon Temple",
+                        "x": 3085,
+                        "y": 250
                     }
                 ]
             },
@@ -10551,21 +12673,22 @@
                     {
                         "name": "Manaphy Egg",
                         "access_rules": [],
-                        "visibility_rules": ["^$Missions_On"],
+                        "visibility_rules": [""],
                         "item_count": 1
                     },
                     {
                         "name": "Manaphy Egg (Pokemon)",
                         "access_rules": [],
-                        "visibility_rules": ["^$Missions_On,^$Legendary_Goal"],
+                        "visibility_rules": ["^$Legendary_Goal",
+                                            "^$Catch_em_all_Goal"],
                         "item_count": 1
                     }
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 120,
-                        "y": 1502
+                        "map": "Manaphy Mission",
+                        "x": 297,
+                        "y": 115
                     }
                 ]
             },
@@ -10580,21 +12703,22 @@
                     {
                         "name": "Dialga",
                         "access_rules": [],
-                        "visibility_rules": ["^$Missions_On"],
+                        "visibility_rules": [""],
                         "item_count": 1
                     },
                     {
                         "name": "Dialga (Pokemon)",
                         "access_rules": [],
-                        "visibility_rules": ["^$Missions_On,^$Legendary_Goal"],
+                        "visibility_rules": ["^$Legendary_Goal",
+                                            "^$Catch_em_all_Goal"],
                         "item_count": 1
                     }
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 1695,
-                        "y": 11
+                        "map": "Dialga Mission",
+                        "x": 1170,
+                        "y": 270
                     }
                 ]
             },
@@ -10609,21 +12733,22 @@
                     {
                         "name": "Palkia",
                         "access_rules": [],
-                        "visibility_rules": ["^$Missions_On"],
+                        "visibility_rules": [""],
                         "item_count": 1
                     },
                     {
                         "name": "Palkia (Pokemon)",
                         "access_rules": [],
-                        "visibility_rules": ["^$Missions_On,^$Legendary_Goal"],
+                        "visibility_rules": ["^$Legendary_Goal",
+                                            "^$Catch_em_all_Goal"],
                         "item_count": 1
                     }
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 2001,
-                        "y": 163
+                        "map": "Palkia Mission",
+                        "x": 2025,
+                        "y": 350
                     }
                 ]
             },
@@ -10638,21 +12763,22 @@
                     {
                         "name": "Shaymin",
                         "access_rules": [],
-                        "visibility_rules": ["^$Missions_On"],
+                        "visibility_rules": [""],
                         "item_count": 1
                     },
                     {
                         "name": "Shaymin (Pokemon)",
                         "access_rules": [],
-                        "visibility_rules": ["^$Missions_On,^$Legendary_Goal"],
+                        "visibility_rules": ["^$Legendary_Goal",
+                                            "^$Catch_em_all_Goal"],
                         "item_count": 1
                     }
                 ],
                 "map_locations": [
                     {
-                        "map": "Capture",
-                        "x": 534,
-                        "y": 943
+                        "map": "Shaymin Mission",
+                        "x": 1060,
+                        "y": 750
                     }
                 ]
             }
