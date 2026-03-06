@@ -3661,7 +3661,7 @@
                 "access_rules": [
                     "Ranger Net,ManaphyM"
                 ],
-                "visibility_rules": [],
+                "visibility_rules": ["MissionsYes"],
                 "sections": [   
                     {
                         "name": "Capture Pichu",
@@ -3710,7 +3710,7 @@
                 "access_rules": [
                     "Ranger Net,RioluM"
                 ],
-                "visibility_rules": [],
+                "visibility_rules": ["MissionsYes"],
                 "sections": [   
                     {
                         "name": "Capture Haunter",
@@ -3831,7 +3831,7 @@
                 "access_rules": [
                     "Ranger Net,TowerM"
                 ],
-                "visibility_rules": [],
+                "visibility_rules": ["MissionsYes"],
                 "sections": [   
                     {
                         "name": "Capture Swellow",
@@ -4024,7 +4024,7 @@
                 "access_rules": [
                     "Ranger Net,DialgaM"
                 ],
-                "visibility_rules": [],
+                "visibility_rules": ["MissionsYes"],
                 "sections": [   
                     {
                         "name": "Capture Raichu",
@@ -4153,7 +4153,7 @@
                 "access_rules": [
                     "Ranger Net,PalkiaM"
                 ],
-                "visibility_rules": [],
+                "visibility_rules": ["MissionsYes"],
                 "sections": [   
                     {
                         "name": "Capture Raichu",
@@ -4378,7 +4378,7 @@
                 "access_rules": [
                     "Ranger Net,ShayminM"
                 ],
-                "visibility_rules": [],
+                "visibility_rules": ["MissionsYes"],
                 "sections": [   
                     {
                         "name": "Capture Pichu",

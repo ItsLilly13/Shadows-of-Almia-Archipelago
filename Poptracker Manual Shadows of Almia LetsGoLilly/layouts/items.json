@@ -412,27 +412,16 @@
                         "rows": [
                             [
                                 "Chicole Path Start", 
-                                "Ranger School Start"
-                            ],
-                            [
+                                "Ranger School Start",
                                 "Pueltown Start", 
-                                "Chroma Highlands Start"
-                            ],
-                            [
+                                "Chroma Highlands Start",
                                 "Union Road Start", 
-                                "Hia Valley Start"
-                            ],
-                            [
+                                "Hia Valley Start",
                                 "Puel Sea Start", 
-                                "Sea of Wailord Start"
-                            ],
-                            [
+                                "Sea of Wailord Start",
                                 "Volcano Cave Start", 
-                                "Haruba Desert Start"
-                            ],
-                            [
-                                "Oil Field Hideout Start", 
-                                ""
+                                "Haruba Desert Start",
+                                "Oil Field Hideout Start"
                             ]
                         ]
                     }

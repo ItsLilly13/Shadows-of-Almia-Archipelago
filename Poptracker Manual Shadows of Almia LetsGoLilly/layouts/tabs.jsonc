@@ -597,13 +597,14 @@
             {
                 "title": "Missions",
                 "icon": "images/options/red.png",
-                "visibility_rules":[],
+                "visibility_rules":["MissionsYes"],
                 "content": {
                     "type": "tabbed",
                     "tabs": [
                         {
                             "title": "Recover the Manaphy Egg!",
                             "icon": "images/pokemon/268 Manaphy.png",
+                            "visibility_rules":["MissionsYes"],
                             "content": {
                                 "type": "map",
                                 "maps": [
@@ -614,6 +615,7 @@
                         {
                             "title": "Rescue Kidnapped Riolu!",
                             "icon": "images/pokemon/222 Riolu.png",
+                            "visibility_rules":["MissionsYes"],
                             "content": {
                                 "type": "map",
                                 "maps": [
@@ -624,6 +626,7 @@
                         {
                             "title": "Liberate the Tower!",
                             "icon": "images/pokemon/257 Darkrai.png",
+                            "visibility_rules":["MissionsYes"],
                             "content": {
                                 "type": "map",
                                 "maps": [
@@ -634,6 +637,7 @@
                         {
                             "title": "Dialga in Hia Valley!?",
                             "icon": "images/pokemon/269 Dialga.png",
+                            "visibility_rules":["MissionsYes"],
                             "content": {
                                 "type": "map",
                                 "maps": [
@@ -644,6 +648,7 @@
                         {
                             "title": "Palkia in Haruba Desert!?",
                             "icon": "images/pokemon/270 Palkia.png",
+                            "visibility_rules":["MissionsYes"],
                             "content": {
                                 "type": "map",
                                 "maps": [
@@ -654,6 +659,7 @@
                         {
                             "title": "For the Bride and Shaymin!",
                             "icon": "images/pokemon/271 Shaymin.png",
+                            "visibility_rules":["MissionsYes"],
                             "content": {
                                 "type": "map",
                                 "maps": [
@@ -667,16 +673,20 @@
             {
                 "title": "Almia Browser",
                 "icon": "images/options/Almia Browser.png",
-                "visibility_rules":[],
+                "visibility_rules":["CatchemVictory"],
                 "content": {
                     "type": "dock",
                     "content": [
                         {
                             "type": "tabbed",
                             "dock": "top",
+                            "orientation": "horizontal",
+                            "h_alignment": "center",
+                            "v_alignment": "center",
                                 "content": {
                                     "type": "layout",
-                                    "key": "almia_browser"
+                                    "key": "almia_browser",
+                                    "visibility_rules":["CatchemVictory"]
                                 }
                             
                         }
