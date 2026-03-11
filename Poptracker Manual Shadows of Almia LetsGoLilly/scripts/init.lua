@@ -1,32 +1,31 @@
 
 local variant = Tracker.ActiveVariantUID
 
-IS_ITEMS_ONLY = Tracker.ActiveVariantUID == "z_item_only"
-
--- Logic
-ScriptHost:LoadScript("scripts/logic.lua")
-
--- Utility Script for helper functions etc.
-ScriptHost:LoadScript("scripts/utils.lua")
-
 
 -- Items
-Tracker:AddItems("items/items.json")
+require("scripts/items_import")
 
+-- Logic
+require("scripts/logic/logic_helper")
+require("scripts/logic/base_logic")
+require("scripts/logic/graph_logic/logic_main")
 
+-- Maps
+if Tracker.ActiveVariantUID == "maps-u" then
+    Tracker:AddMaps("maps/maps-u.json")  
+else
+    Tracker:AddMaps("maps/maps.json")  
+end  
 
-if not IS_ITEMS_ONLY then
-    Tracker:AddMaps("maps/maps.json")
-    ScriptHost:LoadScript("scripts/locations_import.lua")
-    Tracker:AddLayouts("layouts/options.jsonc")
-    Tracker:AddItems("items/options.jsonc")
-    Tracker:AddLayouts("layouts/tabs.jsonc")
+if PopVersion and PopVersion >= "0.23.0" then
+    Tracker:AddLocations("locations/dungeons.json")
 end
 
 -- Layout
-Tracker:AddLayouts("layouts/broadcast.json")
-Tracker:AddLayouts("layouts/items.json")
-Tracker:AddLayouts("layouts/tracker.json")
+require("scripts/layouts_import")
+
+-- Locations
+require("scripts/locations_import")
 
 -- AutoTracking for Poptracker
 if PopVersion and PopVersion >= "0.26.0" then

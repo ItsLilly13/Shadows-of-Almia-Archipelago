@@ -327,9 +327,6 @@ function onLocation(location_id, location_name)
     MANUAL_CHECKED = true
 end
 
-
-
-
 -- this Autofill function is meant as an example on how to do the reading from slotdata and mapping the values to 
 -- your own settings
 -- function autoFill()
