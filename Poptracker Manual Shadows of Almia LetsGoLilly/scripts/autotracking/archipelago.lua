@@ -166,7 +166,16 @@ function preOnClear()
     end
 end
 
+---Get Settings
+function apply_slot_data(slot_data)
+    print("Running apply_slot_data")
+	Tracker:FindObjectForCode("victory_condition").CurrentStage = slot_data["goal"]
+    Tracker:FindObjectForCode("mission_toggle").CurrentStage = slot_data["add_missions"]
+    Tracker:FindObjectForCode("celebi_toggle").CurrentStage = slot_data["add_celebi"]
+end
+
 function onClear(slot_data)
+    print(dump_table(slot_data))
     MANUAL_CHECKED = false
     local custom_storage_item = Tracker:FindObjectForCode("manual_location_storage").ItemState
     if custom_storage_item == nil then
@@ -228,9 +237,7 @@ function onClear(slot_data)
     PLAYER_ID = Archipelago.PlayerNumber or -1
     TEAM_NUMBER = Archipelago.TeamNumber or 0
     SLOT_DATA = slot_data
-    -- if Tracker:FindObjectForCode("autofill_settings").Active == true then
-    --     autoFill(slot_data)
-    -- end
+    apply_slot_data(slot_data)
     -- print(PLAYER_ID, TEAM_NUMBER)
     if Archipelago.PlayerNumber > -1 then
         if #ALL_LOCATIONS > 0 then
@@ -320,12 +327,7 @@ function onLocation(location_id, location_name)
     MANUAL_CHECKED = true
 end
 
----Get Settings
-function apply_slot_data(slot_data)
-	Tracker:FindObjectForCode("victory_condition").CurrentStage = slot_data["goal"]
-    Tracker:FindObjectForCode("mission_toggle").CurrentStage = slot_data["add_missions"]
-    Tracker:FindObjectForCode("celebi_toggle").CurrentStage = slot_data["add_celebi"]
-end
+
 
 
 -- this Autofill function is meant as an example on how to do the reading from slotdata and mapping the values to 

@@ -123,7 +123,7 @@
                 ]
             },
             {
-                "name": "Vien Forest - Can I Capture Here?",
+                "name": "Lower Vien Forest - Can I Capture Here?",
                 "chest_opened_img": "/images/Permit/Vien Forest Permit.png",
                 "chest_unopened_img": "/images/Permit/Vien Forest Permit.png",
                 "overlay_background": "#000000",
@@ -165,7 +165,7 @@
                 ]
             },
             {
-                "name": "Vien Forest - Can I Capture Here?",
+                "name": "Upper Vien Forest - Can I Capture Here?",
                 "chest_opened_img": "/images/Permit/Vien Forest Permit.png",
                 "chest_unopened_img": "/images/Permit/Vien Forest Permit.png",
                 "overlay_background": "#000000",
@@ -214,7 +214,7 @@
                 ]
             },
             {
-                "name": "Vien Forest - Can I Capture Here?",
+                "name": "Vien Forest River - Can I Capture Here?",
                 "chest_opened_img": "/images/Permit/Vien Forest Permit.png",
                 "chest_unopened_img": "/images/Permit/Vien Forest Permit.png",
                 "overlay_background": "#000000",
@@ -567,7 +567,7 @@
                 ]
             },
             {
-                "name": "Peril Cliffs - Can I Capture Here?",
+                "name": "Lower Peril Cliffs - Can I Capture Here?",
                 "chest_opened_img": "/images/Permit/Peril Cliffs Permit.png",
                 "chest_unopened_img": "/images/Permit/Peril Cliffs Permit.png",
                 "overlay_background": "#000000",
@@ -608,7 +608,7 @@
                 ]
             },
             {
-                "name": "Peril Cliffs - Can I Capture Here?",
+                "name": "Upper Peril Cliffs - Can I Capture Here?",
                 "chest_opened_img": "/images/Permit/Peril Cliffs Permit.png",
                 "chest_unopened_img": "/images/Permit/Peril Cliffs Permit.png",
                 "overlay_background": "#000000",
@@ -764,7 +764,7 @@
                 ]
             },
             {
-                "name": "Chroma Ruins - Can I Capture Here?",
+                "name": "Upper Chroma Ruins - Can I Capture Here?",
                 "chest_opened_img": "/images/Permit/Chroma Ruins Permit.png",
                 "chest_unopened_img": "/images/Permit/Chroma Ruins Permit.png",
                 "overlay_background": "#000000",
@@ -801,7 +801,42 @@
                         "x": 20,
                         "y": 20,
                         "shape": "diamond"
+                    }
+                ]
+            },
+            {
+                "name": "Middle Chroma Ruins - Can I Capture Here?",
+                "chest_opened_img": "/images/Permit/Chroma Ruins Permit.png",
+                "chest_unopened_img": "/images/Permit/Chroma Ruins Permit.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "@Chroma Ruins"
+                ],
+                "sections": [
+                    {
+                        "name": "Reachable?",
+                        "access_rules": ["@Chroma Ruins"],
+                        "chest_opened_img": "/images/Start/Start.png",
+                        "chest_unopened_img": "/images/Start/Start.png",
+                        "visibility_rules": [],
+                        "item_count": 1
                     },
+                    {
+                        "name": "Permit?",
+                        "access_rules": ["Chroma Ruins Permit"],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    },
+                    {
+                        "name": "Elevate?",
+                        "access_rules": ["Chroma Ruins Permit,Elevate,Drifblim"],
+                        "chest_opened_img": "/images/Field Move/Elevate.png",
+                        "chest_unopened_img": "/images/Field Move/Elevate.png",
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
                     {
                         "map": "Middle Chroma Ruins",
                         "x": 20,
@@ -811,7 +846,7 @@
                 ]
             },
             {
-                "name": "Chroma Ruins - Can I Capture Here?",
+                "name": "Lower Chroma Ruins - Can I Capture Here?",
                 "chest_opened_img": "/images/Permit/Chroma Ruins Permit.png",
                 "chest_unopened_img": "/images/Permit/Chroma Ruins Permit.png",
                 "overlay_background": "#000000",
@@ -1017,7 +1052,7 @@
                 ]
             },
             {
-                "name": "Almia Castle - Can I Capture Here?",
+                "name": "Almia Castle F1 - Can I Capture Here?",
                 "chest_opened_img": "/images/Permit/Almia Castle Permit.png",
                 "chest_unopened_img": "/images/Permit/Almia Castle Permit.png",
                 "overlay_background": "#000000",
@@ -1046,7 +1081,34 @@
                         "x": 20,
                         "y": 20,
                         "shape": "diamond"
+                    }
+                ]
+            },
+                        {
+                "name": "Almia Castle F2 - Can I Capture Here?",
+                "chest_opened_img": "/images/Permit/Almia Castle Permit.png",
+                "chest_unopened_img": "/images/Permit/Almia Castle Permit.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "@Almia Castle"
+                ],
+                "sections": [
+                    {
+                        "name": "Reachable?",
+                        "access_rules": ["@Almia Castle"],
+                        "chest_opened_img": "/images/Start/Start.png",
+                        "chest_unopened_img": "/images/Start/Start.png",
+                        "visibility_rules": [],
+                        "item_count": 1
                     },
+                    {
+                        "name": "Permit?",
+                        "access_rules": ["Almia Castle Permit"],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
                     {
                         "map": "Almia Castle F2",
                         "x": 20,
@@ -1056,7 +1118,7 @@
                 ]
             },
             {
-                "name": "Almia Castle - Can I Capture Here?",
+                "name": "Almia Castle F3- Can I Capture Here?",
                 "chest_opened_img": "/images/Permit/Almia Castle Permit.png",
                 "chest_unopened_img": "/images/Permit/Almia Castle Permit.png",
                 "overlay_background": "#000000",
@@ -1098,7 +1160,7 @@
                 ]
             },
             {
-                "name": "Puel Sea - Can I Capture Here?",
+                "name": "Upper Puel Sea - Can I Capture Here?",
                 "chest_opened_img": "/images/Permit/Puel Sea Permit.png",
                 "chest_unopened_img": "/images/Permit/Puel Sea Permit.png",
                 "overlay_background": "#000000",
@@ -1132,7 +1194,7 @@
                 ]
             },
             {
-                "name": "Puel Sea - Can I Capture Here?",
+                "name": "Lower Puel Sea - Can I Capture Here?",
                 "chest_opened_img": "/images/Permit/Puel Sea Permit.png",
                 "chest_unopened_img": "/images/Permit/Puel Sea Permit.png",
                 "overlay_background": "#000000",
@@ -1174,7 +1236,7 @@
                 ]
             },
             {
-                "name": "Sea of Wailord - Can I Capture Here?",
+                "name": "Lower Sea of Wailord - Can I Capture Here?",
                 "chest_opened_img": "/images/Permit/Sea of Wailord Permit.png",
                 "chest_unopened_img": "/images/Permit/Sea of Wailord Permit.png",
                 "overlay_background": "#000000",
@@ -1208,7 +1270,7 @@
                 ]
             },
             {
-                "name": "Sea of Wailord - Can I Capture Here?",
+                "name": "Upper Sea of Wailord - Can I Capture Here?",
                 "chest_opened_img": "/images/Permit/Sea of Wailord Permit.png",
                 "chest_unopened_img": "/images/Permit/Sea of Wailord Permit.png",
                 "overlay_background": "#000000",
@@ -1374,7 +1436,7 @@
                 ]
             },
             {
-                "name": "Volcano Cave - Can I Capture Here?",
+                "name": "Volcano Cave F1 - Can I Capture Here?",
                 "chest_opened_img": "/images/Permit/Volcano Cave Permit.png",
                 "chest_unopened_img": "/images/Permit/Volcano Cave Permit.png",
                 "overlay_background": "#000000",
@@ -1424,7 +1486,7 @@
                 ]
             },
             {
-                "name": "Volcano Cave - Can I Capture Here?",
+                "name": "Volcano Cave F2 - Can I Capture Here?",
                 "chest_opened_img": "/images/Permit/Volcano Cave Permit.png",
                 "chest_unopened_img": "/images/Permit/Volcano Cave Permit.png",
                 "overlay_background": "#000000",
@@ -1482,7 +1544,7 @@
                 ]
             },
             {
-                "name": "Volcano Cave - Can I Capture Here?",
+                "name": "Volcano Cave F3 - Can I Capture Here?",
                 "chest_opened_img": "/images/Permit/Volcano Cave Permit.png",
                 "chest_unopened_img": "/images/Permit/Volcano Cave Permit.png",
                 "overlay_background": "#000000",
@@ -8799,7 +8861,7 @@
                     },
                     {
                         "map": "Tower Mission",
-                        "x": 1573,
+                        "x": 1563,
                         "y": 985
                     }
                 ]

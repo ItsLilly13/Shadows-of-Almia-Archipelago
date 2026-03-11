@@ -397,19 +397,19 @@
 {
         "name": "Volcano Cave Flareon",
         "access_rules": [
-            "@Volcano Cave Lava,Torkoal,Magma Flow"
+            "@Volcano Cave Lava F1,Torkoal,Magma Flow"
         ]
     },
 {
         "name": "Volcano Cave Drifblim",
         "access_rules": [
-            "@Volcano Cave Lava,Torkoal,Magma Flow"
+            "@Volcano Cave Lava F1,Torkoal,Magma Flow"
         ]
     },
 {
         "name": "Volcano Cave Island",
         "access_rules": [
-            "@Volcano Cave Lava,Torkoal,Magma Flow", 
+            "@Volcano Cave Lava F1,Torkoal,Magma Flow", 
             "@Volcano Cave Light F1"
         ]
     },
@@ -438,7 +438,7 @@
 {
         "name": "Volcano Cave Island F2",
         "access_rules": [
-            "@Volcano Cave Lave F2,Torkoal,Magma Flow", 
+            "@Volcano Cave Lava F2,Torkoal,Magma Flow", 
             "@Volcano Cave Light F2"
         ]
     },
